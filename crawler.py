@@ -54,16 +54,8 @@ course_details = {}  # 個別儲存至 `course/{sql_id}.json`
 # 確保 course 目錄存在
 if not os.path.exists("course"):
     os.makedirs("course")
-
-# 先抓取前 N 個學院的資料測試
-MAX_COLLEGES = 2
-college_count = 0
-
-for college_name, college_value in colleges.items():
-    if college_count >= MAX_COLLEGES:
-        break  # 達到限制後停止爬取
-    college_count += 1
     
+for college_name, college_value in colleges.items():    
     print(f"🔄 正在處理學院：{college_name}")
 
     # 選擇學院
