@@ -1,0 +1,59 @@
+name: fetch course list
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run-selenium:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager
+
+      - name: Install Chrome and ChromeDriver
+        run: |
+          sudo apt update
+          sudo apt install -y google-chrome-stable
+          CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d'.' -f1)
+          sudo apt install -y chromium-chromedriver
+          echo "Chrome version: $CHROME_VERSION"
+
+      - name: Run Selenium Crawler
+        run: python crawler.py # 替換成你的 Python 文件名稱
+
+      # - name: Upload main.json and course data
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: crawled-data
+      #     path: |
+      #       main.json
+      #       course/
+
+      - name: Prepare GitHub Pages Deployment
+        run: |
+          mkdir -p dist  # 建立 GitHub Pages 部署目錄
+          cp main.json dist/  # 複製 main.json
+          cp -r course dist/  # 複製 course/ 目錄
+          echo "<h1>NDHU Course Data</h1>" > dist/index.html  # 建立首頁
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          keep_files: true
