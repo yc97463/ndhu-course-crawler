@@ -12,10 +12,28 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 
 options = webdriver.ChromeOptions()
-options.add_argument("--headless")  # 隱藏瀏覽器
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")
 
+# 🟢 無頭模式（GitHub Actions 需要）
+options.add_argument("--headless")  # 運行在 GitHub Actions 需隱藏 UI
+options.add_argument("--no-sandbox")  # 避免 root 權限問題
+options.add_argument("--disable-dev-shm-usage")  # 避免 /dev/shm 空間不足
+options.add_argument("--disable-gpu")  # 無頭模式下不需要 GPU 渲染，避免錯誤
+
+# 🟢 避免 Selenium 被偵測為自動化工具
+options.add_argument("--disable-blink-features=AutomationControlled")  
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option("useAutomationExtension", False)
+
+# 🟢 視窗設定（避免特定網站 UI 錯誤）
+options.add_argument("--window-size=1280,720")  # 設定瀏覽器解析度
+options.add_argument("start-maximized")  # 最大化視窗，避免某些網站 UI 問題
+
+# 🟢 設定 User-Agent（模仿真實使用者）
+options.add_argument(
+    "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+)
+
+# 🟢 建立 WebDriver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 # 目標網站
