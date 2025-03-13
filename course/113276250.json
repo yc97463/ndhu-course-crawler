@@ -32,6 +32,10 @@
         {
             "college": "管理學院::COLLEGE OF MANAGEMENT",
             "department": "管理學院會計與資訊管理國際學士班::BACHELOR PROGRAM OF ACCOUNTING AND INFORMATION MANAGEMENT(INTERNATIONAL PROGRAM)"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
         }
     ]
 }

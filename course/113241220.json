@@ -22,6 +22,18 @@
         {
             "college": "管理學院::COLLEGE OF MANAGEMENT",
             "department": "管理學院數位行銷與服務創新國際學士班::BACHELOR PROGRAM OF DIGITAL MARKETING AND SERVICE INNOVATION"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
         }
     ]
 }

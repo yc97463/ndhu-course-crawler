@@ -32,6 +32,10 @@
         {
             "college": "管理學院::COLLEGE OF MANAGEMENT",
             "department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
         }
     ]
 }
