@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLS30060",
+    "sql_id": "113246591",
+    "course_name": "休閒哲學",
+    "english_course_name": "Philosophy of Leisure",
+    "credits": "3/3",
+    "teacher": [
+        "林濰榕"
+    ],
+    "classroom": [
+        "管理學院B111",
+        "管理學院B111",
+        "管理學院B111"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113246591",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113246591",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}
