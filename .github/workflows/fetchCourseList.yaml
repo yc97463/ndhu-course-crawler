@@ -33,6 +33,10 @@ jobs:
           sudo apt install -y chromium-chromedriver
           echo "Chrome version: $CHROME_VERSION"
 
+      - name: Test Connectivity
+        run: curl -I https://sys.ndhu.edu.tw/aa/class/course/Default.aspx
+
+
       - name: Run Selenium Crawler
         run: python crawler.py # 替換成你的 Python 文件名稱
 
