@@ -154,7 +154,7 @@ for college_name, college_value in colleges.items():
 
                 if courses:
                     print(f"    ✅ {department_name} 抓取 {len(courses)} 門課程")
-                    all_courses.update({course["sql_id"]: course["course_id"] for course in courses if course["sql_id"]})
+                    all_courses.update({course["course_id"] : course["sql_id"] for course in courses if course["sql_id"]})
                 else:
                     print(f"    ❌ {department_name} 無開課資料")
 
