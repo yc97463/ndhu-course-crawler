@@ -58,6 +58,11 @@ for semester_name, semester_value in semesters.items():
     semester_dir = semester_value.replace("/", "-")
     print(f"🔄 正在處理學期：{semester_name} ({semester_dir})")
     
+    # 跳過超過通常的學期
+    if semester_dir.split("-")[-1] > "2":
+        print(f"👋 {semester_name} 超過通常的學期，跳過")
+        continue
+    
     # 選擇學期
     semester_select = Select(driver.find_element(By.NAME, "ddlYEAR"))
     semester_select.select_by_value(semester_value)
