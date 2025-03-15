@@ -38,7 +38,7 @@ jobs:
 
 
       - name: Run Selenium Crawler
-        run: python crawler.py # 替換成你的 Python 文件名稱
+        run: python crawler.py
 
       # - name: Upload main.json and course data
       #   uses: actions/upload-artifact@v3
@@ -51,8 +51,14 @@ jobs:
       - name: Prepare GitHub Pages Deployment
         run: |
           mkdir -p dist  # 建立 GitHub Pages 部署目錄
-          cp main.json dist/  # 複製 main.json
-          cp -r course dist/  # 複製 course/ 目錄
+          cp semester.json dist/  # 複製學期列表
+          for semester in [0-9][0-9]-[0-9]* [0-9][0-9][0-9]-[0-9]*; do
+            if [ -d "$semester" ]; then
+              mkdir -p "dist/$semester"
+              cp "$semester/main.json" "dist/$semester/"
+              cp -r "$semester/course" "dist/$semester/"
+            fi
+          done
           echo "<h1>NDHU Course Data</h1>" > dist/index.html  # 建立首頁
 
       - name: Deploy to GitHub Pages
