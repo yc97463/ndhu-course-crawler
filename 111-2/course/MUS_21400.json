@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_21400",
+    "sql_id": "111251734",
+    "course_name": "雙簧管（主修）（3）",
+    "english_course_name": "Oboe（Major）（Ⅲ）",
+    "credits": "1/1",
+    "teacher": [
+        "張志瑋"
+    ],
+    "classroom": [
+        "藝術學院B120"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111251734",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111251734",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

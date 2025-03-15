@@ -1,0 +1,37 @@
+{
+    "course_id": "EAM_51800",
+    "sql_id": "113174856",
+    "course_name": "學校領導研究",
+    "english_course_name": "Studies of Leadership",
+    "credits": "3/3",
+    "teacher": [
+        "范熾文"
+    ],
+    "classroom": [
+        "教育學院C242",
+        "教育學院C242",
+        "教育學院C242"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113174856",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113174856",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "ISAT5270AI",
+    "sql_id": "107193816",
+    "course_name": "論文研究（一）AI",
+    "english_course_name": "Thesis(1)",
+    "credits": "2/2",
+    "teacher": [
+        "鍾莉娟"
+    ],
+    "classroom": [
+        "教D426",
+        "教D426"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107193816",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107193816",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

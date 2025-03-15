@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37200",
+    "sql_id": "106181411",
+    "course_name": "中國知識階層史論",
+    "english_course_name": "The history of the social class of Chinese intellectuals",
+    "credits": "3/3",
+    "teacher": [
+        "黃熾霖"
+    ],
+    "classroom": [
+        "人社三館C108",
+        "人社三館C108",
+        "人社三館C108"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106181411",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106181411",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

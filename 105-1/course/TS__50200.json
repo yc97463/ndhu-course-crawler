@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__50200",
+    "sql_id": "105175689",
+    "course_name": "臺灣民間宗教與信仰",
+    "english_course_name": "Folk Beliefs of Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "李世偉"
+    ],
+    "classroom": [
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105175689",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105175689",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_29660",
+    "sql_id": "113240822",
+    "course_name": "音響工程概論與操作",
+    "english_course_name": "Introduction to Sound Engineering and PA",
+    "credits": "1/1",
+    "teacher": [
+        "高敏福"
+    ],
+    "classroom": [
+        "藝術學院C103"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113240822",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113240822",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

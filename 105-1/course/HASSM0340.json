@@ -1,0 +1,37 @@
+{
+    "course_id": "HASSM0340",
+    "sql_id": "105122745",
+    "course_name": "空間、鬼魅與社會",
+    "english_course_name": "Space, ghost and society",
+    "credits": "3/3",
+    "teacher": [
+        "林潤華"
+    ],
+    "classroom": [
+        "人社一館B317",
+        "人社一館B317",
+        "人社一館B317"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105122745",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105122745",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

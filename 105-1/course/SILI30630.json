@@ -1,0 +1,42 @@
+{
+    "course_id": "SILI30630",
+    "sql_id": "105183474",
+    "course_name": "華文文學史暨基礎閱讀（三）元明清",
+    "english_course_name": "History of Sinophone Literature and Readings:The Yuan, Ming, and Ching Dynasties",
+    "credits": "4/4",
+    "teacher": [
+        "吳明益"
+    ],
+    "classroom": [
+        "人社一館A419",
+        "人社一館A419",
+        "人社一館A419",
+        "人社一館A419"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105183474",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105183474",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_3730AA",
+    "sql_id": "110259213",
+    "course_name": "擊樂（主修）（6）AA",
+    "english_course_name": "Percussion （Major）（Ⅵ）",
+    "credits": "1/1",
+    "teacher": [
+        "洪于雯"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110259213",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110259213",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

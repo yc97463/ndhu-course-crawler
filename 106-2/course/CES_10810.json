@@ -1,0 +1,37 @@
+{
+    "course_id": "CES_10810",
+    "sql_id": "106209600",
+    "course_name": "地球科學概論實習",
+    "english_course_name": "Laboratory of Introduction to Earth Sciences",
+    "credits": "1/0:3",
+    "teacher": [
+        "劉瑩三"
+    ],
+    "classroom": [
+        "環B132",
+        "環B132",
+        "環B132"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106209600",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106209600",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "環境學院學士班::BACHELOR"
+        }
+    ]
+}

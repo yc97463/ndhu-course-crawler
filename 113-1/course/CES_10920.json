@@ -1,0 +1,37 @@
+{
+    "course_id": "CES_10920",
+    "sql_id": "113128421",
+    "course_name": "普通地質學",
+    "english_course_name": "Physical Geology",
+    "credits": "3/3",
+    "teacher": [
+        "劉瑩三"
+    ],
+    "classroom": [
+        "環境學院A124",
+        "環境學院A124",
+        "環境學院A124"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113128421",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113128421",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "環境暨海洋學院學士班::BACHELOR"
+        }
+    ]
+}

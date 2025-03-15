@@ -1,0 +1,40 @@
+{
+    "course_id": "APRSD1200",
+    "sql_id": "111152846",
+    "course_name": "亞太議題研究",
+    "english_course_name": "Topics of Asia-Pacific Research",
+    "credits": "3/3",
+    "teacher": [
+        "林燕淑",
+        "朱景鵬",
+        "嚴愛群",
+        "MARKUS PORSCHE-LUDWIG"
+    ],
+    "classroom": [
+        "人社一館D108",
+        "人社一館D108",
+        "人社一館D108"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111152846",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111152846",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM IN ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

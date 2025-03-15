@@ -1,0 +1,52 @@
+{
+    "course_id": "EAM_5301Z",
+    "sql_id": "112161241",
+    "course_name": "政策決定與執行研究",
+    "english_course_name": "Studies of Policy Making and Implementation",
+    "credits": "3/3",
+    "teacher": [
+        "梁金盛"
+    ],
+    "classroom": [
+        "教育學院B313",
+        "教育學院B313",
+        "教育學院B313",
+        "教育學院B313",
+        "教育學院B313",
+        "教育學院B313"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "3"
+        },
+        {
+            "day": "日",
+            "period": "4"
+        },
+        {
+            "day": "日",
+            "period": "5"
+        },
+        {
+            "day": "日",
+            "period": "6"
+        },
+        {
+            "day": "日",
+            "period": "8"
+        },
+        {
+            "day": "日",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112161241",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112161241",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

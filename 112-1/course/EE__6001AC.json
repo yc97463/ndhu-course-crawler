@@ -1,0 +1,32 @@
+{
+    "course_id": "EE__6001AC",
+    "sql_id": "112126556",
+    "course_name": "引導研究AC",
+    "english_course_name": "Directed Study",
+    "credits": "2/2",
+    "teacher": [
+        "陳美娟"
+    ],
+    "classroom": [
+        "實驗室",
+        "實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        },
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112126556",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112126556",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING"
+        }
+    ]
+}

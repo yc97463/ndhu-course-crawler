@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__16600",
+    "sql_id": "110279615",
+    "course_name": "日語(三)",
+    "english_course_name": "Japanese﹝Ⅲ﹞",
+    "credits": "3/3",
+    "teacher": [
+        "蔡和諧"
+    ],
+    "classroom": [
+        "理工二館A437",
+        "理工二館A437",
+        "理工二館A437"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110279615",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110279615",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "GSLM53200",
+    "sql_id": "109209811",
+    "course_name": "存貨分析與管理",
+    "english_course_name": "Inventory Analysis and Management",
+    "credits": "3/3",
+    "teacher": [
+        "黃郁文"
+    ],
+    "classroom": [
+        "管理學院C215",
+        "管理學院C215",
+        "管理學院C215"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109209811",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109209811",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}

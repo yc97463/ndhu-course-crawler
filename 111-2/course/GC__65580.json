@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__65580",
+    "sql_id": "111280756",
+    "course_name": "新媒體經營與實務",
+    "english_course_name": "New media management practices",
+    "credits": "2/2",
+    "teacher": [
+        "劉英和",
+        "趙荻瑗"
+    ],
+    "classroom": [
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111280756",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111280756",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

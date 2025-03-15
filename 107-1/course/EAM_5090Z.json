@@ -1,0 +1,52 @@
+{
+    "course_id": "EAM_5090Z",
+    "sql_id": "107168568",
+    "course_name": "領導心理學研究",
+    "english_course_name": "Psychological Studies of Leadership Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "陳成宏"
+    ],
+    "classroom": [
+        "五守樓2樓會議室",
+        "五守樓2樓會議室",
+        "五守樓2樓會議室",
+        "五守樓2樓會議室",
+        "五守樓2樓會議室",
+        "五守樓2樓會議室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107168568",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107168568",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

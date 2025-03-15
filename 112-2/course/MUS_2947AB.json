@@ -1,0 +1,33 @@
+{
+    "course_id": "MUS_2947AB",
+    "sql_id": "112258615",
+    "course_name": "室內樂B（二）AB",
+    "english_course_name": "Chamber Music B（II）",
+    "credits": "1/1",
+    "teacher": [
+        "游瑞玲",
+        "謝琅琦"
+    ],
+    "classroom": [
+        "藝術學院C203",
+        "藝術學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112258615",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112258615",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

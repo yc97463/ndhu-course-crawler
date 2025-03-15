@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_53310",
+    "sql_id": "105113542",
+    "course_name": "合唱指揮(一)",
+    "english_course_name": "Choral Conducting(I)",
+    "credits": "1/1",
+    "teacher": [
+        "彭翠萍"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105113542",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105113542",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

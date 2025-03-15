@@ -1,0 +1,37 @@
+{
+    "course_id": "TCLCM0210",
+    "sql_id": "113230132",
+    "course_name": "華語語法學",
+    "english_course_name": "Chinese Syntax",
+    "credits": "3/3",
+    "teacher": [
+        "傅國忠"
+    ],
+    "classroom": [
+        "人社一館D101",
+        "人社一館D101",
+        "人社一館D101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113230132",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113230132",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM IN TEACHING CHINESE AND CALLIGRAPHY"
+        }
+    ]
+}

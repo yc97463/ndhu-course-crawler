@@ -1,0 +1,29 @@
+{
+    "course_id": "NRESM0160",
+    "sql_id": "112269471",
+    "course_name": "碩士論文",
+    "english_course_name": "Master Thesis",
+    "credits": "0/1",
+    "teacher": [
+        "張世杰",
+        "許育誠",
+        "陳毓昀"
+    ],
+    "classroom": [
+        "教師實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112269471",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112269471",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

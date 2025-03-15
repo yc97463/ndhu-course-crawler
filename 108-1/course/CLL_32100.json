@@ -1,0 +1,40 @@
+{
+    "course_id": "CLL_32100",
+    "sql_id": "108144104",
+    "course_name": "硬筆書法",
+    "english_course_name": "Stiff Pen Calligraphy",
+    "credits": "3/3",
+    "teacher": [
+        "李秀華"
+    ],
+    "classroom": [
+        "教育學院A305",
+        "教育學院C242",
+        "教育學院A305",
+        "教育學院C242",
+        "教育學院A305",
+        "教育學院C242"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108144104",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108144104",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}
