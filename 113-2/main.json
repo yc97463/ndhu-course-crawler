@@ -234,7 +234,7 @@
         "class_time": "/一1/一2",
         "english_course_name": "ΠPBL Project(2)",
         "credits": "2/2",
-        "teacher": "/陳震宇/林信鋒/顏士淨/羅壽之/江政欽/吳秀陽/謝欣然",
+        "teacher": "/陳震宇",
         "classroom": "/理工二館C219/理工二館C219",
         "offering_department": "理工學院學士班::BACHELOR",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -394,7 +394,7 @@
         "class_time": "/三1/三2",
         "english_course_name": "ΠPBL Project(6)",
         "credits": "2/2",
-        "teacher": "/陳震宇/林信鋒/顏士淨/羅壽之/江政欽/吳秀陽/謝欣然",
+        "teacher": "/陳震宇",
         "classroom": "/理工二館C219/理工二館C219",
         "offering_department": "理工學院學士班::BACHELOR",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -20927,10 +20927,10 @@
         "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
-    "TS__52291": {
+    "TS__52300": {
         "campus": "壽豐校區",
         "department": "碩士",
-        "course_id": "TS__52291",
+        "course_id": "TS__52300",
         "sql_id": "113263776",
         "course_name": "專題研討(二)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113263776",
