@@ -7615,22 +7615,6 @@
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "EE__71260": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "EE__71260",
-        "sql_id": "113205416",
-        "course_name": "影像視訊編碼",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113205416",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113205416",
-        "class_time": "/一8/一9/一10",
-        "english_course_name": "Image and Video Coding",
-        "credits": "3/3",
-        "teacher": "/陳美娟",
-        "classroom": "/理工二館C209/理工二館C209/理工二館C209",
-        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "EE__D0300": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -18987,7 +18971,7 @@
         "english_course_name": "Studies of Dreaming and Consciousness",
         "credits": "3/3",
         "teacher": "/李沐齊",
-        "classroom": "/人社三館B125/人社三館B125/人社三館B125",
+        "classroom": "/人社三館D302/人社三館D302/人社三館D302",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -35754,7 +35738,7 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Ethnographic Film Planning",
         "credits": "3/3",
-        "teacher": "/陳政?",
+        "teacher": "/kuljelje．patiya",
         "classroom": "/原民院B202/原民院B202/原民院B202",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
