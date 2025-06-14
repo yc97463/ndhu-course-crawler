@@ -6,54 +6,51 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import json
 import os
+import argparse
 
 # 設定 WebDriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 
-options = webdriver.ChromeOptions()
+def setup_driver():
+    options = webdriver.ChromeOptions()
 
-# 🟢 無頭模式（GitHub Actions 需要）
-options.add_argument("--headless")  # 運行在 GitHub Actions 需隱藏 UI
-options.add_argument("--no-sandbox")  # 避免 root 權限問題
-options.add_argument("--disable-dev-shm-usage")  # 避免 /dev/shm 空間不足
-options.add_argument("--disable-gpu")  # 無頭模式下不需要 GPU 渲染，避免錯誤
+    # 🟢 無頭模式（GitHub Actions 需要）
+    options.add_argument("--headless")  # 運行在 GitHub Actions 需隱藏 UI
+    options.add_argument("--no-sandbox")  # 避免 root 權限問題
+    options.add_argument("--disable-dev-shm-usage")  # 避免 /dev/shm 空間不足
+    options.add_argument("--disable-gpu")  # 無頭模式下不需要 GPU 渲染，避免錯誤
 
-# 🟢 避免 Selenium 被偵測為自動化工具
-options.add_argument("--disable-blink-features=AutomationControlled")  
-options.add_experimental_option("excludeSwitches", ["enable-automation"])
-options.add_experimental_option("useAutomationExtension", False)
+    # 🟢 避免 Selenium 被偵測為自動化工具
+    options.add_argument("--disable-blink-features=AutomationControlled")  
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option("useAutomationExtension", False)
 
-# 🟢 視窗設定（避免特定網站 UI 錯誤）
-options.add_argument("--window-size=1280,720")  # 設定瀏覽器解析度
-options.add_argument("start-maximized")  # 最大化視窗，避免某些網站 UI 問題
+    # 🟢 視窗設定（避免特定網站 UI 錯誤）
+    options.add_argument("--window-size=1280,720")  # 設定瀏覽器解析度
+    options.add_argument("start-maximized")  # 最大化視窗，避免某些網站 UI 問題
 
-# 🟢 設定 User-Agent（模仿真實使用者）
-options.add_argument(
-    "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-)
+    # 🟢 設定 User-Agent（模仿真實使用者）
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+    )
 
-# 🟢 建立 WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# 目標網站
-url = "https://sys.ndhu.edu.tw/aa/class/course/Default.aspx"
-driver.get(url)
+def get_semesters(driver):
+    # 目標網站
+    url = "https://sys.ndhu.edu.tw/aa/class/course/Default.aspx"
+    driver.get(url)
 
-# 等待頁面載入
-WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "ddlCOLLEGE")))
+    # 等待頁面載入
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "ddlCOLLEGE")))
 
-# 取得所有學期
-semester_select = Select(driver.find_element(By.NAME, "ddlYEAR"))
-semesters = {option.text.strip(): option.get_attribute("value").strip() for option in semester_select.options}
-semester_list = [semester_value.replace("/", "-") for semester_value in semesters.values()]
+    # 取得所有學期
+    semester_select = Select(driver.find_element(By.NAME, "ddlYEAR"))
+    semesters = {option.text.strip(): option.get_attribute("value").strip() for option in semester_select.options}
+    return semesters
 
-# 將所有學期寫入 semester.json
-with open("semester.json", "w", encoding="utf-8") as f:
-    json.dump(semester_list, f, indent=4, ensure_ascii=False)
-
-# 對每個學期進行處理
-for semester_name, semester_value in semesters.items():
+def crawl_semester(driver, semester_name, semester_value):
     # 學期目錄名稱格式: "113-2"
     semester_dir = semester_value.replace("/", "-")
     print(f"🔄 正在處理學期：{semester_name} ({semester_dir})")
@@ -61,12 +58,12 @@ for semester_name, semester_value in semesters.items():
     # 跳過超過通常的學期
     if semester_dir.split("-")[-1] > "2":
         print(f"👋 {semester_name} 超過通常的學期，跳過")
-        continue
+        return
     
     # 105 學年度之前的學期不處理
     if semester_dir.split("-")[0] < "105":
         print(f"👋 {semester_name} 105 學年度之前的學期，跳過")
-        break
+        return
     
     # 選擇學期
     semester_select = Select(driver.find_element(By.NAME, "ddlYEAR"))
@@ -162,7 +159,7 @@ for semester_name, semester_value in semesters.items():
                                         "english_course_name": columns[11].text.strip(),
                                         "credits": columns[12].text.strip(),
                                         "teacher": [t.strip() for t in columns[13].text.strip().split("/") if t.strip()],
-                                        "classroom": [t.strip() for t in columns[14].text.strip().split("/") if t.strip()],
+                                        "classroom": [t.strip() for t in columns[14].text.strip().split("/") if t],
                                         "class_time": [{"day": t[0], "period": t[1:]} for t in columns[3].text.strip().split("/") if t],
                                         "syllabus_link": columns[7].find_element(By.TAG_NAME, "a").get_attribute("href") if columns[7].find_elements(By.TAG_NAME, "a") else "",
                                         "teaching_plan_link": columns[8].find_element(By.TAG_NAME, "a").get_attribute("href") if columns[8].find_elements(By.TAG_NAME, "a") else "",
@@ -196,5 +193,35 @@ for semester_name, semester_value in semesters.items():
     
     print(f"✅ 已完成學期 {semester_name} 的資料爬取")
 
-print("\n🎉 爬取完成！已存入各學期目錄下的 `main.json` 與 `course/{course_id}.json`")
-driver.quit()
+def main():
+    parser = argparse.ArgumentParser(description='Crawl course data from NDHU course system')
+    parser.add_argument('--semester', help='Specific semester to crawl (e.g., 113-2)')
+    args = parser.parse_args()
+
+    driver = setup_driver()
+    try:
+        semesters = get_semesters(driver)
+        
+        # 將所有學期寫入 semester.json
+        semester_list = [semester_value.replace("/", "-") for semester_value in semesters.values()]
+        with open("semester.json", "w", encoding="utf-8") as f:
+            json.dump(semester_list, f, indent=4, ensure_ascii=False)
+
+        if args.semester:
+            # 只爬取指定的學期
+            semester_value = args.semester.replace("-", "/")
+            if semester_value in semesters.values():
+                semester_name = [k for k, v in semesters.items() if v == semester_value][0]
+                crawl_semester(driver, semester_name, semester_value)
+            else:
+                print(f"❌ 找不到指定的學期：{args.semester}")
+        else:
+            # 爬取所有學期
+            for semester_name, semester_value in semesters.items():
+                crawl_semester(driver, semester_name, semester_value)
+
+    finally:
+        driver.quit()
+
+if __name__ == "__main__":
+    main()
