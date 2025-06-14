@@ -1,0 +1,37 @@
+{
+    "course_id": "PHYS1030AI",
+    "sql_id": "106251255",
+    "course_name": "普通物理實驗(二)AI",
+    "english_course_name": "General Physics Lab. (II)",
+    "credits": "1/0:3",
+    "teacher": [
+        "黃玉林"
+    ],
+    "classroom": [
+        "理工一館C405",
+        "理工一館C405",
+        "理工一館C405"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106251255",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106251255",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        }
+    ]
+}

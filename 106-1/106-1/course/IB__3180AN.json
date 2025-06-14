@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__3180AN",
+    "sql_id": "106118366",
+    "course_name": "國際企業專題(一)AN",
+    "english_course_name": "Project for Department of International Business（Ⅰ）",
+    "credits": "1/1",
+    "teacher": [
+        "陳柏元"
+    ],
+    "classroom": [
+        "教師研究室",
+        "教師研究室",
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        },
+        {
+            "day": "一",
+            "period": "2"
+        },
+        {
+            "day": "一",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106118366",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106118366",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

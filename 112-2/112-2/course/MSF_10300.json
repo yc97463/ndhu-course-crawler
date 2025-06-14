@@ -1,0 +1,41 @@
+{
+    "course_id": "MSF_10300",
+    "sql_id": "112203630",
+    "course_name": "國際金融學",
+    "english_course_name": "International Finance",
+    "credits": "3/3",
+    "teacher": [
+        "王友利"
+    ],
+    "classroom": [
+        "管理學院C109",
+        "管理學院C109",
+        "管理學院C109"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112203630",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112203630",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

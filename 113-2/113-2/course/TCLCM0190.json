@@ -1,0 +1,37 @@
+{
+    "course_id": "TCLCM0190",
+    "sql_id": "113201226",
+    "course_name": "書法文化教學實務",
+    "english_course_name": "Special Topics in Calligraphy Culture Teaching and Practice",
+    "credits": "3/3",
+    "teacher": [
+        "李秀華"
+    ],
+    "classroom": [
+        "人社一館D101",
+        "人社一館D101",
+        "人社一館D101"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113201226",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113201226",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM IN TEACHING CHINESE AND CALLIGRAPHY"
+        }
+    ]
+}

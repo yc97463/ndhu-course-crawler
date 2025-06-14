@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__65150",
+    "sql_id": "108271602",
+    "course_name": "德語(四)",
+    "english_course_name": "German IV",
+    "credits": "3/3",
+    "teacher": [
+        "朱淑慧"
+    ],
+    "classroom": [
+        "理工二館B112",
+        "理工二館B112",
+        "理工二館B112"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108271602",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108271602",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

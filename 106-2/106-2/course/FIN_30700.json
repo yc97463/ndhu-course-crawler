@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_30700",
+    "sql_id": "106272158",
+    "course_name": "計量經濟學(二)",
+    "english_course_name": "Econometrics(II)",
+    "credits": "3/3",
+    "teacher": [
+        "李明龍"
+    ],
+    "classroom": [
+        "教育學院PC2(B220)",
+        "教育學院PC2(B220)",
+        "教育學院PC2(B220)"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106272158",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106272158",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

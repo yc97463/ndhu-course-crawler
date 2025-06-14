@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES54180",
+    "sql_id": "113227069",
+    "course_name": "國家公園地質專題",
+    "english_course_name": "Special Topics in Geology of National Parks",
+    "credits": "3/3",
+    "teacher": [
+        "蔡金河"
+    ],
+    "classroom": [
+        "環境學院B158",
+        "環境學院B158",
+        "環境學院B158"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113227069",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113227069",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IIE_54600",
+    "sql_id": "109180809",
+    "course_name": "計量經濟分析(一)",
+    "english_course_name": "Econometric Analysis（Ⅰ）",
+    "credits": "3/3",
+    "teacher": [
+        "陳建福"
+    ],
+    "classroom": [
+        "人社二館B213",
+        "人社二館B213",
+        "人社二館B213"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109180809",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109180809",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

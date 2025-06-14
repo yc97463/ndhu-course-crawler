@@ -1,0 +1,32 @@
+{
+    "course_id": "MUS_33300",
+    "sql_id": "109256284",
+    "course_name": "聲樂作品研究",
+    "english_course_name": "Voice Literature",
+    "credits": "2/2",
+    "teacher": [
+        "林斐文"
+    ],
+    "classroom": [
+        "學生活動中心B102",
+        "學生活動中心B102"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109256284",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109256284",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

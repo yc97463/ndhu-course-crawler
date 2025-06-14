@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_B0170",
+    "sql_id": "106206985",
+    "course_name": "顧客關係管理",
+    "english_course_name": "Customer Relationship Management",
+    "credits": "3/3",
+    "teacher": [
+        "吳怡菱"
+    ],
+    "classroom": [
+        "管理學院C209",
+        "管理學院C209",
+        "管理學院C209"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106206985",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106206985",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

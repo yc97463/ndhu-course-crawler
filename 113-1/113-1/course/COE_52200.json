@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_52200",
+    "sql_id": "113157258",
+    "course_name": "教育哲學研究",
+    "english_course_name": "Study on Philosophy of Education",
+    "credits": "3/3",
+    "teacher": [
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113157258",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113157258",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

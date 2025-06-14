@@ -1,0 +1,40 @@
+{
+    "course_id": "YY__4750AA",
+    "sql_id": "113277173",
+    "course_name": "體育(四)_高爾夫AA",
+    "english_course_name": "Physical Education (IV) :Golf",
+    "credits": "1/2",
+    "teacher": [
+        "金良遠"
+    ],
+    "classroom": [
+        "A區高爾夫球場",
+        "A區高爾夫球場"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "一",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113277173",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113277173",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "體育中心::PHYSICAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "體育課程::Physical education courses"
+        }
+    ]
+}

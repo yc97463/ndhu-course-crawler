@@ -1,0 +1,36 @@
+{
+    "course_id": "SL__18480",
+    "sql_id": "105245239",
+    "course_name": "服務學習(一)_體育系",
+    "english_course_name": "Service Learning (Ⅰ)",
+    "credits": "1/2",
+    "teacher": [
+        "張威克"
+    ],
+    "classroom": [
+        "教育學院B117",
+        "教育學院B117"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105245239",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105245239",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

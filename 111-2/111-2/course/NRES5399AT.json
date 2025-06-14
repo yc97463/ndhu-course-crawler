@@ -1,0 +1,32 @@
+{
+    "course_id": "NRES5399AT",
+    "sql_id": "111279543",
+    "course_name": "獨立研究AT",
+    "english_course_name": "Independent Study",
+    "credits": "2/2",
+    "teacher": [
+        "蔡金河"
+    ],
+    "classroom": [
+        "教師實驗室",
+        "教師實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111279543",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111279543",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

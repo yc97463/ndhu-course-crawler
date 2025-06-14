@@ -1,0 +1,37 @@
+{
+    "course_id": "CDPD22480",
+    "sql_id": "105278686",
+    "course_name": "健康潛能開發課程與教學（二）",
+    "english_course_name": "Curriculum Design for Development of Potentials in Health(II)",
+    "credits": "3/3",
+    "teacher": [
+        "李明憲"
+    ],
+    "classroom": [
+        "教育學院C223",
+        "教育學院C223",
+        "教育學院C223"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105278686",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105278686",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

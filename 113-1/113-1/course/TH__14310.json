@@ -1,0 +1,33 @@
+{
+    "course_id": "TH__14310",
+    "sql_id": "113113583",
+    "course_name": "生涯規劃與職業教育訓練",
+    "english_course_name": "Career Planning and Vocational Education/Training",
+    "credits": "2/2",
+    "teacher": [
+        "范熾文",
+        "呂善成"
+    ],
+    "classroom": [
+        "教育學院B108",
+        "教育學院B108"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113113583",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113113583",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+        }
+    ]
+}

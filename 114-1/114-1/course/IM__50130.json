@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__50130",
+    "sql_id": "114116520",
+    "course_name": "研究方法",
+    "english_course_name": "Research Methodology",
+    "credits": "3/3",
+    "teacher": [
+        "李怡珍"
+    ],
+    "classroom": [
+        "管理學院C210",
+        "管理學院C210",
+        "管理學院C210"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114116520",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114116520",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

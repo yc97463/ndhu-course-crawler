@@ -1,0 +1,27 @@
+{
+    "course_id": "IART5539AB",
+    "sql_id": "114132253",
+    "course_name": "專題研究AB",
+    "english_course_name": "Independent Study",
+    "credits": "2/2",
+    "teacher": [
+        "羅美蘭"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114132253",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114132253",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

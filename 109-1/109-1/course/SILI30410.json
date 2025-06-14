@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI30410",
+    "sql_id": "109165718",
+    "course_name": "華文舞台劇本選讀",
+    "english_course_name": "Selected Readings in Sinophone Drama",
+    "credits": "3/3",
+    "teacher": [
+        "許子漢"
+    ],
+    "classroom": [
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109165718",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109165718",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

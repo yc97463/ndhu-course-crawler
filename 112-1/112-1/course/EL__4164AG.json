@@ -1,0 +1,27 @@
+{
+    "course_id": "EL__4164AG",
+    "sql_id": "112134210",
+    "course_name": "英語文化創意AG",
+    "english_course_name": "English and Cultural Industry",
+    "credits": "1/1",
+    "teacher": [
+        "楊植喬"
+    ],
+    "classroom": [
+        "人社一館D316"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112134210",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112134210",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}
