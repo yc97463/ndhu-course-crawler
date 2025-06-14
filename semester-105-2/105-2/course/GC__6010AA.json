@@ -1,0 +1,32 @@
+{
+    "course_id": "GC__6010AA",
+    "sql_id": "105260348",
+    "course_name": "英語線上學習三級AA",
+    "english_course_name": "Online English Learning (Level 3)",
+    "credits": "2/2",
+    "teacher": [
+        "陳長慶"
+    ],
+    "classroom": [
+        "人社一館D113",
+        "人社一館D113"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105260348",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105260348",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

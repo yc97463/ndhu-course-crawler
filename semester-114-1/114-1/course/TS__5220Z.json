@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__5220Z",
+    "sql_id": "114156237",
+    "course_name": "學術論文寫作與口頭報告",
+    "english_course_name": "Academic Paper Writing and Oral Presentation",
+    "credits": "3/3",
+    "teacher": [
+        "待聘(裴浩哲)"
+    ],
+    "classroom": [
+        "人社三館D301",
+        "人社三館D301",
+        "人社三館D301"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114156237",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114156237",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "course_id": "CSIEB0320",
+    "sql_id": "113137999",
+    "course_name": "畢業專題（一）",
+    "english_course_name": "Undergraduate Project（Ⅰ）",
+    "credits": "1/2",
+    "teacher": [
+        "顏士淨",
+        "方文杰",
+        "林信鋒",
+        "紀新洲",
+        "張紘睿",
+        "張意政",
+        "張道顧",
+        "陳旻秀",
+        "簡暐哲",
+        "羅壽之",
+        "李官陵"
+    ],
+    "classroom": [
+        "理工二館A329",
+        "理工二館A329"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        },
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113137999",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113137999",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

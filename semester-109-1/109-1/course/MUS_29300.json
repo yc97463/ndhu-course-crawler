@@ -1,0 +1,36 @@
+{
+    "course_id": "MUS_29300",
+    "sql_id": "109138708",
+    "course_name": "爵士理論與即興 (一)",
+    "english_course_name": "Jazz Musicianship(Ⅰ)",
+    "credits": "2/2",
+    "teacher": [
+        "魏廣晧",
+        "山田洋平",
+        "楊曉恩",
+        "翁家怡",
+        "林偉中"
+    ],
+    "classroom": [
+        "學生活動中心B228",
+        "學生活動中心B228"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        },
+        {
+            "day": "二",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109138708",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109138708",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

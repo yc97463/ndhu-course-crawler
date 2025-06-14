@@ -1,0 +1,27 @@
+{
+    "course_id": "EC__40520",
+    "sql_id": "110216674",
+    "course_name": "進階專題研究(二)",
+    "english_course_name": "Advanced Independent Study (II)",
+    "credits": "1/1",
+    "teacher": [
+        "張銘仁"
+    ],
+    "classroom": [
+        "研究所"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110216674",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110216674",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

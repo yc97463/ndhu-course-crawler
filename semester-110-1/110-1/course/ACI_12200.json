@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_12200",
+    "sql_id": "110174646",
+    "course_name": "藝術創意潛能開發",
+    "english_course_name": "Potential Development in Art Talent & Creativity",
+    "credits": "3/3",
+    "teacher": [
+        "郭令權"
+    ],
+    "classroom": [
+        "藝術學院A118",
+        "藝術學院A118",
+        "藝術學院A118"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110174646",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110174646",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

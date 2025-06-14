@@ -1,0 +1,42 @@
+{
+    "course_id": "GC__18000",
+    "sql_id": "107106972",
+    "course_name": "法學概要",
+    "english_course_name": "Introduction to Law",
+    "credits": "2/2",
+    "teacher": [
+        "林忠熙"
+    ],
+    "classroom": [
+        "理工二館-第三講堂C101",
+        "理工二館-第三講堂C101",
+        "理工二館-第三講堂C101",
+        "理工二館-第三講堂C101"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "12"
+        },
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107106972",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107106972",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

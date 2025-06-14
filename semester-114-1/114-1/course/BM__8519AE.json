@@ -1,0 +1,28 @@
+{
+    "course_id": "BM__8519AE",
+    "sql_id": "114186841",
+    "course_name": "論文研究AE",
+    "english_course_name": "Dissertation Guidance",
+    "credits": "1/1",
+    "teacher": [
+        "劉英和",
+        "金榮泰"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114186841",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114186841",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

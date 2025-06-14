@@ -1,0 +1,37 @@
+{
+    "course_id": "SCE_51500",
+    "sql_id": "112131347",
+    "course_name": "多元文化科學教育",
+    "english_course_name": "Multicultural Science Education",
+    "credits": "3/3",
+    "teacher": [
+        "李暉"
+    ],
+    "classroom": [
+        "教育學院D325",
+        "教育學院D325",
+        "教育學院D325"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "7"
+        },
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112131347",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112131347",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

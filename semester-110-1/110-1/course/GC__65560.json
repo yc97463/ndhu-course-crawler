@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__65560",
+    "sql_id": "110170294",
+    "course_name": "《詩經》情懷與科技理性",
+    "english_course_name": "The Scientific and technological rationality of the \"Book of Songs\" (Shih Ching)",
+    "credits": "2/2",
+    "teacher": [
+        "朱嘉雯",
+        "吳秀陽"
+    ],
+    "classroom": [
+        "理工二館C303",
+        "理工二館C303"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110170294",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110170294",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

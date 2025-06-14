@@ -1,0 +1,40 @@
+{
+    "course_id": "LC__4630AG",
+    "sql_id": "113175570",
+    "course_name": "英語溝通二級AG",
+    "english_course_name": "English communications -Level 2",
+    "credits": "2/2",
+    "teacher": [
+        "許瑞珍"
+    ],
+    "classroom": [
+        "人社二館A103",
+        "人社二館A103"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113175570",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113175570",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "語言中心::LANGUAGE CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "英語課程::English courses"
+        }
+    ]
+}

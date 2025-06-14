@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1160AA",
+    "sql_id": "110195670",
+    "course_name": "聲樂（副修）（一）AA",
+    "english_course_name": "Voice（Minor）（Ⅰ）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "林斐文"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110195670",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110195670",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

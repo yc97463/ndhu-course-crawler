@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_37100",
+    "sql_id": "109196030",
+    "course_name": "單簧管（主修）（6）",
+    "english_course_name": "Clarinet（Major）（Ⅵ）",
+    "credits": "1/1",
+    "teacher": [
+        "陳貞蕙"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109196030",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109196030",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

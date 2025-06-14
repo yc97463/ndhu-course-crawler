@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__B0190",
+    "sql_id": "105276133",
+    "course_name": "進階華語(三)",
+    "english_course_name": "Advanced Mandarin Chinese (Level 3)",
+    "credits": "3/3",
+    "teacher": [
+        "傅國忠"
+    ],
+    "classroom": [
+        "人社二館A207",
+        "人社二館A207",
+        "人社二館A207"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105276133",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105276133",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "course_id": "HASSM0110",
+    "sql_id": "106275661",
+    "course_name": "亞太地區研究專題II",
+    "english_course_name": "Topic on the Asia-Pacific Area Studies (II)",
+    "credits": "3/3",
+    "teacher": [
+        "貝克定",
+        "張瓊文"
+    ],
+    "classroom": [
+        "人社三館D301",
+        "人社三館D301",
+        "人社三館D301"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106275661",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106275661",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__40400",
+    "sql_id": "106241152",
+    "course_name": "國際金融學",
+    "english_course_name": "International Finance",
+    "credits": "3/3",
+    "teacher": [
+        "林奇蓉"
+    ],
+    "classroom": [
+        "人社二館A101",
+        "人社二館A101",
+        "人社二館A101"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106241152",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106241152",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}
