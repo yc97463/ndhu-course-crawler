@@ -35,7 +35,7 @@ jobs:
           sudo apt install -y chromium-chromedriver
           echo "Chrome version: $CHROME_VERSION"
 
-      - name: Get Semesters
+      - name: Get Semesters and Generate semester.json
         id: set-matrix
         run: |
           python -c "
@@ -60,16 +60,26 @@ jobs:
           WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, 'ddlCOLLEGE')))
           
           semester_select = Select(driver.find_element(By.NAME, 'ddlYEAR'))
-          semesters = [option.get_attribute('value').strip().replace('/', '-') for option in semester_select.options]
+          all_semesters = [option.get_attribute('value').strip().replace('/', '-') for option in semester_select.options]
           
-          # 過濾掉不需要的學期
-          semesters = [s for s in semesters if s.split('-')[0] >= '105' and s.split('-')[-1] <= '2']
+          # 儲存完整的學期列表到 semester.json
+          with open('semester.json', 'w', encoding='utf-8') as f:
+              json.dump(all_semesters, f, indent=4, ensure_ascii=False)
+          
+          # 過濾掉不需要爬取的學期
+          crawl_semesters = [s for s in all_semesters if s.split('-')[0] >= '105' and s.split('-')[-1] <= '2']
           
           driver.quit()
           
-          matrix = json.dumps({'semester': semesters})
+          matrix = json.dumps({'semester': crawl_semesters})
           print(f'matrix={matrix}')
           " >> $GITHUB_OUTPUT
+
+      - name: Upload semester.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: semester-list
+          path: semester.json
 
   crawl-semester:
     needs: get-semesters
@@ -108,12 +118,10 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.semester }}
-          path: |
-            ${{ matrix.semester }}/
-            semester.json
+          path: ${{ matrix.semester }}/
 
   merge-results:
-    needs: crawl-semester
+    needs: [get-semesters, crawl-semester]
     runs-on: ubuntu-latest
     if: always()
 
@@ -129,18 +137,33 @@ jobs:
       - name: Prepare GitHub Pages Deployment
         run: |
           mkdir -p dist
-          cp artifacts/semester.json dist/ || true
           
-          # 移動所有學期資料到 dist 目錄
+          # 複製 semester.json 到根目錄
+          if [ -f "artifacts/semester-list/semester.json" ]; then
+            cp "artifacts/semester-list/semester.json" dist/
+            echo "✅ 已複製 semester.json 到根目錄"
+          else
+            echo "❌ 找不到 semester.json"
+          fi
+          
+          # 移動所有學期資料到 dist 目錄（維持原始學期名稱格式）
           for semester_dir in artifacts/*/; do
-            if [ -d "$semester_dir" ]; then
-              semester_name=$(basename "$semester_dir")
-              mkdir -p "dist/$semester_name"
-              cp -r "$semester_dir"/* "dist/$semester_name/"
+            semester_name=$(basename "$semester_dir")
+            # 跳過 semester-list 目錄
+            if [ "$semester_name" != "semester-list" ]; then
+              if [ -d "$semester_dir" ]; then
+                echo "📁 處理學期：$semester_name"
+                mkdir -p "dist/$semester_name"
+                cp -r "$semester_dir"/* "dist/$semester_name/"
+              fi
             fi
           done
           
           echo "<h1>NDHU Course Data</h1>" > dist/index.html
+          
+          # 顯示最終結果
+          echo "📋 最終 dist 目錄結構："
+          ls -la dist/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

@@ -202,11 +202,6 @@ def main():
     try:
         semesters = get_semesters(driver)
         
-        # 將所有學期寫入 semester.json
-        semester_list = [semester_value.replace("/", "-") for semester_value in semesters.values()]
-        with open("semester.json", "w", encoding="utf-8") as f:
-            json.dump(semester_list, f, indent=4, ensure_ascii=False)
-
         if args.semester:
             # 只爬取指定的學期
             semester_value = args.semester.replace("-", "/")
@@ -216,7 +211,11 @@ def main():
             else:
                 print(f"❌ 找不到指定的學期：{args.semester}")
         else:
-            # 爬取所有學期
+            # 爬取所有學期時才生成 semester.json
+            semester_list = [semester_value.replace("/", "-") for semester_value in semesters.values()]
+            with open("semester.json", "w", encoding="utf-8") as f:
+                json.dump(semester_list, f, indent=4, ensure_ascii=False)
+            
             for semester_name, semester_value in semesters.items():
                 crawl_semester(driver, semester_name, semester_value)
 
