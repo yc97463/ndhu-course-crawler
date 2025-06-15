@@ -21183,6 +21183,22 @@
         "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
+    "TS__31040": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "TS__31040",
+        "sql_id": "113251747",
+        "course_name": "地圖、社會與技術",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113251747",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113251747",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "Mapping, Society, and Technology",
+        "credits": "3/3",
+        "teacher": "/郭俊麟",
+        "classroom": "/藝術學院-電腦教室A138/藝術學院-電腦教室A138/藝術學院-電腦教室A138",
+        "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
     "TS__31070": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -21212,22 +21228,6 @@
         "credits": "3/3",
         "teacher": "/游子宜",
         "classroom": "/人社三館C116/人社三館C116/人社三館C116",
-        "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
-    "TS__31260": {
-        "campus": "壽豐校區",
-        "department": "學三",
-        "course_id": "TS__31260",
-        "sql_id": "113251747",
-        "course_name": "地圖、社會與技術",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113251747",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113251747",
-        "class_time": "/一9/一10/一11",
-        "english_course_name": "Mapping, Society, and Technology",
-        "credits": "3/3",
-        "teacher": "/郭俊麟",
-        "classroom": "/藝術學院-電腦教室A138/藝術學院-電腦教室A138/藝術學院-電腦教室A138",
         "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -34570,7 +34570,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Doctoral Dissertation",
         "credits": "3/3",
-        "teacher": "/羅永清",
+        "teacher": "/葉秀燕",
         "classroom": "/研究室/研究室/研究室",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -34634,7 +34634,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "Ethnic Relations",
         "credits": "3/3",
-        "teacher": "/羅永清",
+        "teacher": "/葉秀燕/賴淑娟",
         "classroom": "/原民院A218/原民院A218/原民院A218",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -34730,7 +34730,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Cultural Ecology",
         "credits": "3/3",
-        "teacher": "/羅永清",
+        "teacher": "/林徐達/藍姆路‧卡造",
         "classroom": "/原民院A313/原民院A313/原民院A313",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -34794,7 +34794,7 @@
         "class_time": "/五13/五14/五15",
         "english_course_name": "Indigenous Education on Language and Culture",
         "credits": "3/3",
-        "teacher": "/羅永清",
+        "teacher": "/傅可恩",
         "classroom": "/原民院A313/原民院A313/原民院A313",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -34954,7 +34954,7 @@
         "class_time": "/四9/四10/四11",
         "english_course_name": "Indigenous Curriculum Development and Design",
         "credits": "3/3",
-        "teacher": "/羅永清",
+        "teacher": "/林明 Wagi Payan",
         "classroom": "/原民院A206/原民院A206/原民院A206",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -35098,7 +35098,7 @@
         "class_time": "/三9/三10",
         "english_course_name": "Graduation Project II",
         "credits": "2/2",
-        "teacher": "/羅永清",
+        "teacher": "/葉秀燕",
         "classroom": "/研究室/研究室",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
