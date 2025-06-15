@@ -170,4 +170,4 @@ jobs:
         with:
           github_token: ${{ secrets.DEPLOY_TOKEN }}
           publish_dir: dist
-          keep_files: true
+          keep_files: false # 暫時先關閉，避免殘留意外生出來的檔案
