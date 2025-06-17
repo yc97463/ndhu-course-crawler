@@ -48015,6 +48015,22 @@
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
+    "ERC_31100": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "ERC_31100",
+        "sql_id": "114169867",
+        "course_name": "原住民族教育教材探索與開發",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114169867",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114169867",
+        "class_time": "/四4/四5/四6",
+        "english_course_name": "Exploring and Developing on Indigenous Education and Course Material",
+        "credits": "3/3",
+        "teacher": "/待聘",
+        "classroom": "/原民院A206/原民院A206/原民院A206",
+        "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
     "ERC_31310": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -51628,22 +51644,6 @@
         "credits": "2/2",
         "teacher": "/廉兮",
         "classroom": "/教育學院C142/教育學院C142",
-        "offering_department": "通識課程::General courses",
-        "college": "校核心課程::University Core Curriculum"
-    },
-    "GC__63270": {
-        "campus": "壽豐校區",
-        "department": "校核心",
-        "course_id": "GC__63270",
-        "sql_id": "114121819",
-        "course_name": "跨界與歸零（二）",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114121819",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114121819",
-        "class_time": "/二5/二6",
-        "english_course_name": "Boundary Crossing and Self-Exploration Ⅱ",
-        "credits": "2/2",
-        "teacher": "/梁莉芳",
-        "classroom": "/原民院-階梯教室(二)A151/原民院-階梯教室(二)A151",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
