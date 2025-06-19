@@ -8,22 +8,22 @@
         "待聘"
     ],
     "classroom": [
-        "原民院A206",
-        "原民院A206",
-        "原民院A206"
+        "原民院B106",
+        "原民院B106",
+        "原民院B106"
     ],
     "class_time": [
         {
-            "day": "四",
-            "period": "4"
+            "day": "一",
+            "period": "9"
         },
         {
-            "day": "四",
-            "period": "5"
+            "day": "一",
+            "period": "10"
         },
         {
-            "day": "四",
-            "period": "6"
+            "day": "一",
+            "period": "11"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114169867",
