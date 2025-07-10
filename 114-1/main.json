@@ -3871,22 +3871,6 @@
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "APH_7500AL": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "APH_7500AL",
-        "sql_id": "114148048",
-        "course_name": "論文研究AL",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114148048",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114148048",
-        "class_time": "/二2/四2/五2",
-        "english_course_name": "Independent Study",
-        "credits": "3/3",
-        "teacher": "/曾賢德",
-        "classroom": "/研究室/研究室/研究室",
-        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "APH_7500AM": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -4207,22 +4191,6 @@
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "APH_D020AL": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "APH_D020AL",
-        "sql_id": "114119121",
-        "course_name": "論文研究AL",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114119121",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114119121",
-        "class_time": "/二2/三2/五2",
-        "english_course_name": "Independent Study",
-        "credits": "3/3",
-        "teacher": "/曾賢德",
-        "classroom": "/研究室/研究室/研究室",
-        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "APH_D020AM": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -4362,7 +4330,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Advanced Physical Methods in Material and Biological Systems",
         "credits": "3/3",
-        "teacher": "/柯學初/曾賢德/黃玉林/賴建智",
+        "teacher": "/柯學初/黃玉林/賴建智",
         "classroom": "/育成中心1-2/育成中心1-2/育成中心1-2",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -4571,22 +4539,6 @@
         "english_course_name": "Independent Study",
         "credits": "3/3",
         "teacher": "/彭文平",
-        "classroom": "/研究室/研究室/研究室",
-        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
-    "APH_5400AL": {
-        "campus": "壽豐校區",
-        "department": "碩士",
-        "course_id": "APH_5400AL",
-        "sql_id": "114187377",
-        "course_name": "獨立研究AL",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114187377",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114187377",
-        "class_time": "/二2/三2/四2",
-        "english_course_name": "Independent Study",
-        "credits": "3/3",
-        "teacher": "/曾賢德",
         "classroom": "/研究室/研究室/研究室",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -4863,22 +4815,6 @@
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "APH_M020AL": {
-        "campus": "壽豐校區",
-        "department": "碩士",
-        "course_id": "APH_M020AL",
-        "sql_id": "114134670",
-        "course_name": "獨立研究AL",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114134670",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114134670",
-        "class_time": "/二2/三2/四2",
-        "english_course_name": "Independent Study",
-        "credits": "3/3",
-        "teacher": "/曾賢德",
-        "classroom": "/研究室/研究室/研究室",
-        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "APH_M020AM": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -5066,7 +5002,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Advanced Physical Methods in Material and Biological Systems",
         "credits": "3/3",
-        "teacher": "/柯學初/曾賢德/黃玉林/賴建智",
+        "teacher": "/柯學初/黃玉林/賴建智",
         "classroom": "/育成中心1-2/育成中心1-2/育成中心1-2",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -5279,22 +5215,6 @@
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "PHYS1000AG": {
-        "campus": "壽豐校區",
-        "department": "學一",
-        "course_id": "PHYS1000AG",
-        "sql_id": "114181201",
-        "course_name": "普通物理(一)AG",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114181201",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114181201",
-        "class_time": "/二5/二6/四6",
-        "english_course_name": "General Physics(I)",
-        "credits": "3/3",
-        "teacher": "/曾賢德",
-        "classroom": "/理工二館A229/理工二館A229/理工二館A229",
-        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "PHYS1000AH": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -5338,7 +5258,7 @@
         "class_time": "/四8/四9/四10",
         "english_course_name": "General Physics Laboratory (I)",
         "credits": "1/0:3",
-        "teacher": "/曾賢德/鄭嘉良",
+        "teacher": "/鄭嘉良",
         "classroom": "/理工一館C407/理工一館C407/理工一館C407",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -5354,7 +5274,7 @@
         "class_time": "/四8/四9/四10",
         "english_course_name": "General Physics Laboratory (I)",
         "credits": "1/0:3",
-        "teacher": "/曾賢德/鄭嘉良",
+        "teacher": "/鄭嘉良",
         "classroom": "/理工一館C407/理工一館C407/理工一館C407",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -5386,7 +5306,7 @@
         "class_time": "/五8/五9/五10",
         "english_course_name": "General Physics Laboratory (I)",
         "credits": "1/0:3",
-        "teacher": "/曾賢德",
+        "teacher": "/黃玉林",
         "classroom": "/理工一館C405/理工一館C405/理工一館C405",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -13887,6 +13807,22 @@
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "BMM_32900": {
+        "campus": "壽豐校區",
+        "department": "學四",
+        "course_id": "BMM_32900",
+        "sql_id": "114192508",
+        "course_name": "臨床生化學概論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114192508",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114192508",
+        "class_time": "/二5/二6",
+        "english_course_name": "Clinical Biochemistry",
+        "credits": "2/2",
+        "teacher": "/袁大鈞",
+        "classroom": "/理工三館D102/理工三館D102",
+        "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "BMM_33450": {
         "campus": "壽豐校區",
         "department": "學四",
@@ -13948,22 +13884,6 @@
         "credits": "2/2",
         "teacher": "/謝函芸",
         "classroom": "/理工三館B203/理工三館B203",
-        "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
-    "BMM_41570": {
-        "campus": "壽豐校區",
-        "department": "學四",
-        "course_id": "BMM_41570",
-        "sql_id": "114192508",
-        "course_name": "臨床生化學概論",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114192508",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114192508",
-        "class_time": "/二5/二6",
-        "english_course_name": "Clinical Biochemistry",
-        "credits": "2/2",
-        "teacher": "/袁大鈞",
-        "classroom": "/理工三館D102/理工三館D102",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
