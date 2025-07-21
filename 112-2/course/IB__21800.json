@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__21800",
+    "sql_id": "112225753",
+    "course_name": "財務管理",
+    "english_course_name": "Corporate Finance",
+    "credits": "3/3",
+    "teacher": [
+        "欒錦榮"
+    ],
+    "classroom": [
+        "管理學院A119",
+        "管理學院A119",
+        "管理學院A119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112225753",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112225753",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

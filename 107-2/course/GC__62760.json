@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__62760",
+    "sql_id": "107217675",
+    "course_name": "跨界與歸零（一）",
+    "english_course_name": "Boundary Crossing and Self-ExplorationⅠ",
+    "credits": "2/2",
+    "teacher": [
+        "黃筱瑩",
+        "楊孟宇",
+        "陳世彬",
+        "吳明鴻",
+        "吳其璁",
+        "陳翠臻"
+    ],
+    "classroom": [
+        "人社二館-第五講堂B013",
+        "人社二館-第五講堂B013"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107217675",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107217675",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

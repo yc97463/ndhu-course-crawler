@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__57770",
+    "sql_id": "108292046",
+    "course_name": "網路行銷",
+    "english_course_name": "Internet Marketing",
+    "credits": "3/3",
+    "teacher": [
+        "陳啟斌"
+    ],
+    "classroom": [
+        "管理學院C115",
+        "管理學院C115",
+        "管理學院C115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108292046",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108292046",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__5795Z",
+    "sql_id": "106205557",
+    "course_name": "經營管理個案研討",
+    "english_course_name": "Case Study on Business Strategy and Management",
+    "credits": "3/3",
+    "teacher": [
+        "楊國彬"
+    ],
+    "classroom": [
+        "管理學院A115",
+        "管理學院A115",
+        "管理學院A115"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        },
+        {
+            "day": "六",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106205557",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106205557",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

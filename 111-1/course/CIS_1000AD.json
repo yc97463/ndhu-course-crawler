@@ -1,0 +1,37 @@
+{
+    "course_id": "CIS_1000AD",
+    "sql_id": "111141673",
+    "course_name": "台灣原住民族文化AD",
+    "english_course_name": "Indigenous Taiwanese Cultures",
+    "credits": "3/3",
+    "teacher": [
+        "巴奈‧母路"
+    ],
+    "classroom": [
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111141673",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111141673",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院學士班::BACHELOR"
+        }
+    ]
+}

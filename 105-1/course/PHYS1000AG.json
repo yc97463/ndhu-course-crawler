@@ -1,0 +1,41 @@
+{
+    "course_id": "PHYS1000AG",
+    "sql_id": "105140631",
+    "course_name": "普通物理(一)AG",
+    "english_course_name": "General Physics(I)",
+    "credits": "3/3",
+    "teacher": [
+        "曾賢德"
+    ],
+    "classroom": [
+        "理工二館A231",
+        "理工二館A231",
+        "理工二館A231"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105140631",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105140631",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        },
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING"
+        }
+    ]
+}

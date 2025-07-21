@@ -1,0 +1,32 @@
+{
+    "course_id": "DOL_30110",
+    "sql_id": "108174677",
+    "course_name": "社會保障法",
+    "english_course_name": "Social Security Law",
+    "credits": "2/2",
+    "teacher": [
+        "張鑫隆"
+    ],
+    "classroom": [
+        "人社一館A107",
+        "人社一館A107"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108174677",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108174677",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系::DEPARTMENT OF LAW"
+        }
+    ]
+}

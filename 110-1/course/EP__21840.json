@@ -1,0 +1,33 @@
+{
+    "course_id": "EP__21840",
+    "sql_id": "110139338",
+    "course_name": "教育服務理念與實踐",
+    "english_course_name": "Ideals and Praxis of Educational Service",
+    "credits": "2/2",
+    "teacher": [
+        "李真文",
+        "高台茜"
+    ],
+    "classroom": [
+        "教育學院B124",
+        "教育學院B124"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "11"
+        },
+        {
+            "day": "五",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110139338",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110139338",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION"
+        }
+    ]
+}

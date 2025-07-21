@@ -1,0 +1,37 @@
+{
+    "course_id": "MS__56050",
+    "sql_id": "106140585",
+    "course_name": "計算材料科學",
+    "english_course_name": "Calculation in material science",
+    "credits": "3/3",
+    "teacher": [
+        "紀渥德"
+    ],
+    "classroom": [
+        "理工二館PC1(E108)",
+        "理工二館PC1(E108)",
+        "理工二館PC1(E108)"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106140585",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106140585",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING"
+        }
+    ]
+}

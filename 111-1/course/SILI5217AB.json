@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI5217AB",
+    "sql_id": "111183513",
+    "course_name": "家族書寫與認同研究專題AB",
+    "english_course_name": "Seminar in Family Writings and Identity Politics",
+    "credits": "3/3",
+    "teacher": [
+        "黃宗潔"
+    ],
+    "classroom": [
+        "人社一館B305",
+        "人社一館B305",
+        "人社一館B305"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111183513",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111183513",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

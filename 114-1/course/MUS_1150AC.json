@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1150AC",
+    "sql_id": "114191350",
+    "course_name": "聲樂（主修）（1）AC",
+    "english_course_name": "Voice（Major）（Ⅰ）",
+    "credits": "1/1",
+    "teacher": [
+        "陳景貽"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114191350",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114191350",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "YY__1010BG",
+    "sql_id": "108222004",
+    "course_name": "體育(二)BG",
+    "english_course_name": "Physical Education (II)",
+    "credits": "1/2",
+    "teacher": [
+        "沈正雄"
+    ],
+    "classroom": [
+        "D區體育館主場",
+        "D區體育館主場"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        },
+        {
+            "day": "五",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108222004",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108222004",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

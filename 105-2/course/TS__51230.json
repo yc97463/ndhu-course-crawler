@@ -1,0 +1,53 @@
+{
+    "course_id": "TS__51230",
+    "sql_id": "105256185",
+    "course_name": "全球化與地方發展",
+    "english_course_name": "Globalization and Local Development",
+    "credits": "3/3",
+    "teacher": [
+        "陳涵秀",
+        "許建榮"
+    ],
+    "classroom": [
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "7"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105256185",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105256185",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

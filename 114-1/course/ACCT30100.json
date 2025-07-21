@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT30100",
+    "sql_id": "114141577",
+    "course_name": "稅務會計",
+    "english_course_name": "Tax Accounting",
+    "credits": "3/3",
+    "teacher": [
+        "待聘"
+    ],
+    "classroom": [
+        "管理學院C103",
+        "管理學院C103",
+        "管理學院C103"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114141577",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114141577",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

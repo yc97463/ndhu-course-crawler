@@ -1,0 +1,37 @@
+{
+    "course_id": "CDPD10120",
+    "sql_id": "110110748",
+    "course_name": "寫字潛能開發課程與教學",
+    "english_course_name": "Curriculum Design for Development of Potentials in Chinese Hand-Writing",
+    "credits": "3/3",
+    "teacher": [
+        "林岳瑩"
+    ],
+    "classroom": [
+        "教育學院C223",
+        "教育學院C223",
+        "教育學院C223"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110110748",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110110748",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

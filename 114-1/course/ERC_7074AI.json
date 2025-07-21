@@ -1,0 +1,27 @@
+{
+    "course_id": "ERC_7074AI",
+    "sql_id": "114147685",
+    "course_name": "論文指導AI",
+    "english_course_name": "Dissertation Seminar",
+    "credits": "3/3",
+    "teacher": [
+        "藍姆路‧卡造"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114147685",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114147685",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63160",
+    "sql_id": "110254820",
+    "course_name": "經濟學概論",
+    "english_course_name": "Introduction to Economic Theory",
+    "credits": "3/3",
+    "teacher": [
+        "吳雨霖"
+    ],
+    "classroom": [
+        "理工一館A314",
+        "理工一館A314",
+        "理工一館A314"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110254820",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110254820",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

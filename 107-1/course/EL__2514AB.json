@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__2514AB",
+    "sql_id": "107172925",
+    "course_name": "英文作文（二）（上）AB",
+    "english_course_name": "English Composition (II), 1st semester",
+    "credits": "3/3",
+    "teacher": [
+        "蔡淑芬"
+    ],
+    "classroom": [
+        "人社一館D204",
+        "人社一館D204",
+        "人社一館D204"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107172925",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107172925",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

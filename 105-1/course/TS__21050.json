@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__21050",
+    "sql_id": "105151238",
+    "course_name": "地圖應用與電腦製圖",
+    "english_course_name": "Cultural Maps of Taiwan and CorelDraw Mapping",
+    "credits": "3/3",
+    "teacher": [
+        "葉韻翠"
+    ],
+    "classroom": [
+        "教育學院PC2(B220)",
+        "教育學院PC2(B220)",
+        "教育學院PC2(B220)"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105151238",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105151238",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

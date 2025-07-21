@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD5958Z",
+    "sql_id": "106250201",
+    "course_name": "全球化與歐洲統合專題",
+    "english_course_name": "Globalization and the EU Integration",
+    "credits": "3/3",
+    "teacher": [
+        "朱景鵬"
+    ],
+    "classroom": [
+        "人社一館B203",
+        "人社一館B203",
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106250201",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106250201",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

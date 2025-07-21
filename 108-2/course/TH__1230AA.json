@@ -1,0 +1,33 @@
+{
+    "course_id": "TH__1230AA",
+    "sql_id": "108289991",
+    "course_name": "國民小學教學實習AA",
+    "english_course_name": "Educational Practicum for Elementary School",
+    "credits": "2/2",
+    "teacher": [
+        "潘文富",
+        "吳惠貞"
+    ],
+    "classroom": [
+        "教育學院-階梯教室(一)C128",
+        "教育學院-階梯教室(一)C128"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108289991",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108289991",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+        }
+    ]
+}

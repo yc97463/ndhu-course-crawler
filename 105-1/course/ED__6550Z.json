@@ -1,0 +1,28 @@
+{
+    "course_id": "ED__6550Z",
+    "sql_id": "105182273",
+    "course_name": "教育專題講座(二)",
+    "english_course_name": "Seminar in Education (Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "劉明洲",
+        "周水珍"
+    ],
+    "classroom": [
+        "教育學院B320"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105182273",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105182273",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

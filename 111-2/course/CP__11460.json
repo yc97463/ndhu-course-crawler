@@ -1,0 +1,30 @@
+{
+    "course_id": "CP__11460",
+    "sql_id": "111278142",
+    "course_name": "生涯探索",
+    "english_course_name": "Career Exploration",
+    "credits": "1/1",
+    "teacher": [
+        "劉効樺",
+        "林繼偉",
+        "周育如",
+        "翁士恆"
+    ],
+    "classroom": [
+        "人社二館-第二講堂B007"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111278142",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111278142",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

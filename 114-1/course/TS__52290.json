@@ -1,0 +1,33 @@
+{
+    "course_id": "TS__52290",
+    "sql_id": "114135620",
+    "course_name": "專題設計實務研討(一)",
+    "english_course_name": "Practical Seminar on Project Design(I)",
+    "credits": "2/2",
+    "teacher": [
+        "郭澤寬",
+        "葉爾建"
+    ],
+    "classroom": [
+        "人社三館D301",
+        "人社三館D301"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114135620",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114135620",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

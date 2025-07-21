@@ -1,0 +1,40 @@
+{
+    "course_id": "GC__6462AC",
+    "sql_id": "114107482",
+    "course_name": "初級程式設計-PythonAC",
+    "english_course_name": "Fundamental Computer Programming-Python",
+    "credits": "2/2",
+    "teacher": [
+        "陳文盛"
+    ],
+    "classroom": [
+        "理工二館E403",
+        "理工二館E403"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114107482",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114107482",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

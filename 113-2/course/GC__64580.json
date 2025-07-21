@@ -1,0 +1,40 @@
+{
+    "course_id": "GC__64580",
+    "sql_id": "113293926",
+    "course_name": "動物福利學實作課-動物友善校園",
+    "english_course_name": "Companion Animal and Human (PracticevClass)-Animal Friendly Campus",
+    "credits": "2/2",
+    "teacher": [
+        "林潤華"
+    ],
+    "classroom": [
+        "人社三館C116",
+        "人社三館C116"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113293926",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113293926",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

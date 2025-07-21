@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_50140",
+    "sql_id": "108186911",
+    "course_name": "社會企業經營管理",
+    "english_course_name": "Social Enterprise Management",
+    "credits": "3/3",
+    "teacher": [
+        "黎德星"
+    ],
+    "classroom": [
+        "人社一館B205",
+        "人社一館B205",
+        "人社一館B205"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108186911",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108186911",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

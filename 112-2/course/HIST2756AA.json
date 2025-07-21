@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST2756AA",
+    "sql_id": "112257333",
+    "course_name": "當代世界AA",
+    "english_course_name": "The Contemporary World",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億"
+    ],
+    "classroom": [
+        "人社三館B130",
+        "人社三館B130",
+        "人社三館B130"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112257333",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112257333",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

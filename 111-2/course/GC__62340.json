@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__62340",
+    "sql_id": "111255571",
+    "course_name": "翻譯與習作",
+    "english_course_name": "Translation 101",
+    "credits": "3/3",
+    "teacher": [
+        "林千里"
+    ],
+    "classroom": [
+        "人社三館-元瑾講堂B106",
+        "人社三館-元瑾講堂B106",
+        "人社三館-元瑾講堂B106"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111255571",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111255571",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

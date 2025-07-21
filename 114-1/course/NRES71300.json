@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES71300",
+    "sql_id": "114108335",
+    "course_name": "研究方法特論(二)",
+    "english_course_name": "Special Topics on Research Methods(II)",
+    "credits": "3/3",
+    "teacher": [
+        "張文彥"
+    ],
+    "classroom": [
+        "環境學院A146",
+        "環境學院A146",
+        "環境學院A146"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114108335",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114108335",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

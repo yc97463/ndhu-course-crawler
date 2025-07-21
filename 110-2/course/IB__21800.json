@@ -1,0 +1,38 @@
+{
+    "course_id": "IB__21800",
+    "sql_id": "110278190",
+    "course_name": "財務管理",
+    "english_course_name": "Corporate Finance",
+    "credits": "3/3",
+    "teacher": [
+        "蔡語棠",
+        "李顯正"
+    ],
+    "classroom": [
+        "管理學院A119",
+        "管理學院A119",
+        "管理學院A119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110278190",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110278190",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

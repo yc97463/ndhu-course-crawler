@@ -1,0 +1,39 @@
+{
+    "course_id": "OE__10430",
+    "sql_id": "108292382",
+    "course_name": "半導體及能源材料與元件特性分析",
+    "english_course_name": "Semiconductor & Energy Material and Device Characterization",
+    "credits": "3/3",
+    "teacher": [
+        "白益豪",
+        "賴建智",
+        "陳怡嘉"
+    ],
+    "classroom": [
+        "理工二館D401",
+        "理工二館D401",
+        "理工二館D401"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108292382",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108292382",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "光電工程學系::DEPARTMENT OF OPTO-ELECTRONIC ENGINEERING"
+        }
+    ]
+}

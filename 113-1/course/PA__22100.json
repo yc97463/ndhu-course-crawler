@@ -1,0 +1,37 @@
+{
+    "course_id": "PA__22100",
+    "sql_id": "113165985",
+    "course_name": "社會企業與創新",
+    "english_course_name": "Social Enterprise and Innovation",
+    "credits": "3/3",
+    "teacher": [
+        "徐明莉"
+    ],
+    "classroom": [
+        "人社一館B203",
+        "人社一館B203",
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113165985",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113165985",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

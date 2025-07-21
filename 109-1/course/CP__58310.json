@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__58310",
+    "sql_id": "109130372",
+    "course_name": "高等心理病理學特論：分類與診斷 (II)",
+    "english_course_name": "Advanced topics in psychopathology:Classification & Diagnosis(II)",
+    "credits": "3/3",
+    "teacher": [
+        "翁士恆"
+    ],
+    "classroom": [
+        "人社二館B101",
+        "人社二館B101",
+        "人社二館B101"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109130372",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109130372",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}
