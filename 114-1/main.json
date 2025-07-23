@@ -38927,6 +38927,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "MUS_18390": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "MUS_18390",
+        "sql_id": "114121347",
+        "course_name": "聲樂語韻-義大利文(一)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114121347",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114121347",
+        "class_time": "/二9",
+        "english_course_name": "Study on Singer's Diction - Italian (I)",
+        "credits": "1/1",
+        "teacher": "/羅安娜",
+        "classroom": "/藝術學院B120",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_29310": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -39931,6 +39947,22 @@
         "english_course_name": "Trumpet（Major）(Ⅶ）",
         "credits": "1/1",
         "teacher": "/謝琅琦",
+        "classroom": "/教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_43700": {
+        "campus": "壽豐校區",
+        "department": "學四",
+        "course_id": "MUS_43700",
+        "sql_id": "114198616",
+        "course_name": "小提琴（主修）（8）",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114198616",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114198616",
+        "class_time": "/五1",
+        "english_course_name": "Violin（Major）（Ⅷ）",
+        "credits": "1/1",
+        "teacher": "/柯宥帆",
         "classroom": "/教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
