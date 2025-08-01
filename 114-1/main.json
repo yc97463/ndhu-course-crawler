@@ -15242,7 +15242,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/邱鉦倫",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -17818,7 +17818,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/李百中",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -19610,7 +19610,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/陳冠榮",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -20336,7 +20336,7 @@
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
     "CLC_6232AB": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AB",
         "sql_id": "114171600",
@@ -20346,8 +20346,8 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
-        "classroom": "/待確/待確/待確",
+        "teacher": "/蔡政洋",
+        "classroom": "/人社一館A318/人社一館A318/人社一館A318",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -22634,7 +22634,7 @@
         "class_time": "/一8/一9/一10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/邱鉦倫",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -34170,7 +34170,7 @@
         "class_time": "/一8/一9/一10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/陳冠榮",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -37584,7 +37584,7 @@
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
     "CLC_6232AR": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AR",
         "sql_id": "114133886",
@@ -37594,8 +37594,8 @@
         "class_time": "/五8/五9/五10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/曾秋馨",
-        "classroom": "/待確/待確/待確",
+        "teacher": "/胡詩專",
+        "classroom": "/人社一館A318/人社一館A318/人社一館A318",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -42026,7 +42026,7 @@
         "class_time": "/一8/一9/一10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/胡詩專",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -44442,7 +44442,7 @@
         "class_time": "/一8/一9/一10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/曾秋馨",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -46090,7 +46090,7 @@
         "class_time": "/三4/三5/三6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/蔡政洋",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -46506,7 +46506,7 @@
         "class_time": "/日3/日4/日5/日6",
         "english_course_name": "Sports Technique Analysis",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/辜?儀(待聘)",
         "classroom": "/教育學院C142/教育學院C142/教育學院C142/教育學院C142",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -46554,7 +46554,7 @@
         "class_time": "/五5/五6",
         "english_course_name": "Anatomy and Physiology",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/陳業凱(待聘)",
         "classroom": "/教育學院-洋霞講堂A109/教育學院-洋霞講堂A109",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -46602,7 +46602,7 @@
         "class_time": "/四8/四9",
         "english_course_name": "Introduction to Sports Science",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/辜?儀(待聘)",
         "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -46618,7 +46618,7 @@
         "class_time": "/五5/五6",
         "english_course_name": "Anatomy and Physiology",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/陳業凱(待聘)",
         "classroom": "/教育學院-洋霞講堂A109/教育學院-洋霞講堂A109",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -46698,7 +46698,7 @@
         "class_time": "/四5/四6",
         "english_course_name": "Volleyball",
         "credits": "1/2",
-        "teacher": "/待聘",
+        "teacher": "/紀忠呈(待聘)",
         "classroom": "/D區體育館主場/D區體育館主場",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -47370,7 +47370,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/李百中",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -48314,7 +48314,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/曾秋馨",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
