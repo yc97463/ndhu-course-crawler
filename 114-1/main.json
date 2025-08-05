@@ -6698,7 +6698,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Research on Technology-Enhanced Language Learning",
         "credits": "3/3",
-        "teacher": "/朱嘉雯/黃武元",
+        "teacher": "/黃武元",
         "classroom": "/理工二館D301/理工二館D301/理工二館D301",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -8362,7 +8362,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Research on Technology-Enhanced Language Learning",
         "credits": "3/3",
-        "teacher": "/朱嘉雯/黃武元",
+        "teacher": "/黃武元",
         "classroom": "/理工二館D301/理工二館D301/理工二館D301",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -8474,7 +8474,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Research on Technology-Enhanced Language Learning",
         "credits": "3/3",
-        "teacher": "/朱嘉雯/黃武元",
+        "teacher": "/黃武元",
         "classroom": "/理工二館D301/理工二館D301/理工二館D301",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -14235,7 +14235,7 @@
         "english_course_name": "Data Mining",
         "credits": "3/3",
         "teacher": "/劉英和",
-        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
+        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -14523,6 +14523,22 @@
         "english_course_name": "Professional Practice Report Writing",
         "credits": "3/3",
         "teacher": "/欒錦榮",
+        "classroom": "/教師研究室/教師研究室/教師研究室",
+        "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "MGT_5391AF": {
+        "campus": "壽豐校區",
+        "department": "碩專",
+        "course_id": "MGT_5391AF",
+        "sql_id": "114135315",
+        "course_name": "專業實務報告指導AF",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114135315",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114135315",
+        "class_time": "/日1/日2/日3",
+        "english_course_name": "Professional Practice Report Writing",
+        "credits": "3/3",
+        "teacher": "/彭玉樹",
         "classroom": "/教師研究室/教師研究室/教師研究室",
         "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -17674,7 +17690,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Business Law",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/鄭敦宇",
         "classroom": "/人社二館-第三講堂B009/人社二館-第三講堂B009/人社二館-第三講堂B009",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -19146,7 +19162,7 @@
         "class_time": "/一3/一4/一5",
         "english_course_name": "Business Law",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/湯文章",
         "classroom": "/人社二館-第六講堂B015/人社二館-第六講堂B015/人社二館-第六講堂B015",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -20218,7 +20234,7 @@
         "class_time": "/一3/一4/一5",
         "english_course_name": "Business Law",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/湯文章",
         "classroom": "/人社二館-第六講堂B015/人社二館-第六講堂B015/人社二館-第六講堂B015",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -20842,7 +20858,7 @@
         "class_time": "/五9/五10/五11",
         "english_course_name": "Business Law",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/湯文章",
         "classroom": "/教育學院-階梯教室(一)C128/教育學院-階梯教室(一)C128/教育學院-階梯教室(一)C128",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -20891,7 +20907,7 @@
         "english_course_name": "Data Structures",
         "credits": "3/3",
         "teacher": "/陳林志",
-        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
+        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -21275,7 +21291,7 @@
         "english_course_name": "Data Mining",
         "credits": "3/3",
         "teacher": "/劉英和",
-        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
+        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -21930,7 +21946,7 @@
         "class_time": "/五9/五10/五11",
         "english_course_name": "Business Law",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/湯文章",
         "classroom": "/教育學院-階梯教室(一)C128/教育學院-階梯教室(一)C128/教育學院-階梯教室(一)C128",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -21946,7 +21962,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Business Law",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/鄭敦宇",
         "classroom": "/人社二館-第三講堂B009/人社二館-第三講堂B009/人社二館-第三講堂B009",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -23370,7 +23386,7 @@
         "class_time": "/二9/二10/二11",
         "english_course_name": "Hospitality Management",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/黃怡君",
         "classroom": "/管理學院B111/管理學院B111/管理學院B111",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -23482,7 +23498,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Meetings, Incentives, Conventions and Exhibitions Management",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/黃怡君",
         "classroom": "/管理學院D211/管理學院D211/管理學院D211",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -23770,7 +23786,7 @@
         "class_time": "/四9/四10",
         "english_course_name": "Cross-Cultural Comparison",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/孟柱億",
         "classroom": "/人社一館D101/人社一館D101",
         "offering_department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM IN TEACHING CHINESE AS A SECOND LANGUAGE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -24090,7 +24106,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Research on Technology - Enhanced Language Learning",
         "credits": "3/3",
-        "teacher": "/朱嘉雯/黃武元",
+        "teacher": "/黃武元",
         "classroom": "/理工二館D301/理工二館D301/理工二館D301",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM IN TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -24746,7 +24762,7 @@
         "class_time": "/二1",
         "english_course_name": "Research Guidance(I)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/研究室",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -24890,7 +24906,7 @@
         "class_time": "/三1",
         "english_course_name": "Research Guidance(II)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/研究室",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25034,7 +25050,7 @@
         "class_time": "/二2/二3",
         "english_course_name": "Dissertation Guidance(I)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/研究室/研究室",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25178,7 +25194,7 @@
         "class_time": "/三2/三3",
         "english_course_name": "Dissertation Guidance(II)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/研究室/研究室",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25338,7 +25354,7 @@
         "class_time": "/四9/四10/四11",
         "english_course_name": "Selected Readings in Modern Sinophone Fiction",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/人社一館D206/人社一館D206/人社一館D206",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25434,7 +25450,7 @@
         "class_time": "/三4/三5/三6",
         "english_course_name": "Body, Gender and Identity",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/人社一館D206/人社一館D206/人社一館D206",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25450,7 +25466,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Selected Readings in Indigenous Literature",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/馬翊航",
         "classroom": "/人社一館D206/人社一館D206/人社一館D206",
         "offering_department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25563,6 +25579,22 @@
         "english_course_name": "Directed Individual Study I",
         "credits": "1/1",
         "teacher": "/施雅純",
+        "classroom": "/研究室",
+        "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
+    "EL__5060AD": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "EL__5060AD",
+        "sql_id": "114178166",
+        "course_name": "引導研究（一）AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114178166",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114178166",
+        "class_time": "/一1",
+        "english_course_name": "Directed Individual Study I",
+        "credits": "1/1",
+        "teacher": "/林澄億",
         "classroom": "/研究室",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25898,7 +25930,7 @@
         "class_time": "/四9/四10/四11",
         "english_course_name": "English Composition (I), 1st Semester",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/廖高成",
         "classroom": "/人社一館D204/人社一館D204/人社一館D204",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -26058,7 +26090,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Readings in Drama",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/廖高成",
         "classroom": "/人社一館D221/人社一館D221/人社一館D221",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -26314,7 +26346,7 @@
         "class_time": "/五3",
         "english_course_name": "English and Cultural Industry",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/廖高成",
         "classroom": "/研究室",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -26346,7 +26378,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "European Literature",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/廖高成",
         "classroom": "/人社二館B103/人社二館B103/人社二館B103",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27930,7 +27962,7 @@
         "class_time": "/二9/二10/二11",
         "english_course_name": "Mathematics in Economics",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/Bui Dang Long",
         "classroom": "/人社一館D220/人社一館D220/人社一館D220",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -28010,7 +28042,7 @@
         "class_time": "/二9/二10/二11",
         "english_course_name": "Mathematics in Economics",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/Bui Dang Long",
         "classroom": "/人社一館D220/人社一館D220/人社一館D220",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -28650,7 +28682,7 @@
         "class_time": "/二9/二10/二11",
         "english_course_name": "Mathematics in Economics",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/Bui Dang Long",
         "classroom": "/人社一館D220/人社一館D220/人社一館D220",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -28762,7 +28794,7 @@
         "class_time": "/二9/二10/二11",
         "english_course_name": "Mathematics in Economics",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/Bui Dang Long",
         "classroom": "/人社一館D220/人社一館D220/人社一館D220",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -32634,7 +32666,7 @@
         "class_time": "/六8/六9/六10",
         "english_course_name": "Studies in Public Human Resource Management",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/詹中原",
         "classroom": "/人社二館A105/人社二館A105/人社二館A105",
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -37258,7 +37290,7 @@
         "class_time": "/二10/二11/二12",
         "english_course_name": "Art Communications",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/何禮戎",
         "classroom": "/藝術學院A210/藝術學院-電腦教室A138/藝術學院A210/藝術學院-電腦教室A138/藝術學院A210/藝術學院-電腦教室A138",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -37338,7 +37370,7 @@
         "class_time": "/四10/四11/四12",
         "english_course_name": "Color Structure of Natural Dyeing",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/湯文君",
         "classroom": "/藝術工坊102/藝術工坊102/藝術工坊102",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -37402,7 +37434,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Introduction to Arts Marketing",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/常靜潔",
         "classroom": "/藝術學院A128/藝術學院A128/藝術學院A128",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -37498,7 +37530,7 @@
         "class_time": "/五9/五10/五11",
         "english_course_name": "E-Business and The Development of Art and Creative Industries",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/黃星達",
         "classroom": "/藝術學院A210/藝術學院A210/藝術學院A210",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -37530,7 +37562,7 @@
         "class_time": "/三4/三5/三6",
         "english_course_name": "Project Management of Creative Industries",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/常靜潔",
         "classroom": "/藝術學院A320/藝術學院A320/藝術學院A320",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -43375,6 +43407,22 @@
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
+    "SPE_22530": {
+        "campus": "壽豐校區",
+        "department": "學四",
+        "course_id": "SPE_22530",
+        "sql_id": "114126306",
+        "course_name": "生活管理",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114126306",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114126306",
+        "class_time": "/五5/五6",
+        "english_course_name": "Life Managing",
+        "credits": "2/2",
+        "teacher": "/洪清一(待聘)",
+        "classroom": "/教育學院A106/教育學院A106",
+        "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
     "SPE_31320": {
         "campus": "壽豐校區",
         "department": "學四",
@@ -43468,6 +43516,22 @@
         "credits": "4/4",
         "teacher": "/林玟秀",
         "classroom": "/教育學院A104/教育學院A104/教育學院A104/教育學院A104",
+        "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
+    "SPE_41670": {
+        "campus": "壽豐校區",
+        "department": "學四",
+        "course_id": "SPE_41670",
+        "sql_id": "114160545",
+        "course_name": "功能性動作訓練",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114160545",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114160545",
+        "class_time": "/五3/五4",
+        "english_course_name": "Functional motor training",
+        "credits": "2/2",
+        "teacher": "/洪清一(待聘)",
+        "classroom": "/教育學院A106/教育學院A106",
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44572,6 +44636,70 @@
         "credits": "1/1",
         "teacher": "/林坤燦",
         "classroom": "/教育學院d420",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
+    "COE_7418AA": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "COE_7418AA",
+        "sql_id": "114172773",
+        "course_name": "論文研究(一)AA",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114172773",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114172773",
+        "class_time": "/五7",
+        "english_course_name": "Dissertation Guidance (Ⅰ)",
+        "credits": "1/1",
+        "teacher": "/楊熾康",
+        "classroom": "/教D233",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
+    "COE_7418AB": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "COE_7418AB",
+        "sql_id": "114118288",
+        "course_name": "論文研究(一)AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114118288",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114118288",
+        "class_time": "/五5",
+        "english_course_name": "Dissertation Guidance (Ⅰ)",
+        "credits": "1/1",
+        "teacher": "/林坤燦",
+        "classroom": "/教D420",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
+    "COE_7419AA": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "COE_7419AA",
+        "sql_id": "114147537",
+        "course_name": "論文研究(二)AA",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114147537",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114147537",
+        "class_time": "/五8",
+        "english_course_name": "Dissertation Guidance (Ⅱ)",
+        "credits": "1/1",
+        "teacher": "/楊熾康",
+        "classroom": "/教D233",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
+    "COE_7419AB": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "COE_7419AB",
+        "sql_id": "114146790",
+        "course_name": "論文研究(二)AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114146790",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114146790",
+        "class_time": "/五6",
+        "english_course_name": "Dissertation Guidance (Ⅱ)",
+        "credits": "1/1",
+        "teacher": "/林坤燦",
+        "classroom": "/教D420",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -47082,7 +47210,7 @@
         "class_time": "/二11/二12",
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
-        "teacher": "/布興‧大立",
+        "teacher": "/待聘",
         "classroom": "/原民院C113/原民院C113",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -47242,7 +47370,7 @@
         "class_time": "/一11/一12",
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
-        "teacher": "/希婻.紗旮燕",
+        "teacher": "/待聘",
         "classroom": "//線上授課//線上授課",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -47995,7 +48123,7 @@
         "english_course_name": "Taiwan Indigenous Peoples' Knowledge System",
         "credits": "3/3",
         "teacher": "/李宜澤",
-        "classroom": "/原民院B106/原民院B106/原民院B106",
+        "classroom": "/原民院B202/原民院B202/原民院B202",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48122,7 +48250,7 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Exploring and Developing on Indigenous Education and Course Material",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/Sifo Lakaw",
         "classroom": "/原民院B106/原民院B106/原民院B106",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -48506,7 +48634,7 @@
         "class_time": "/二8/二9/二10",
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
-        "teacher": "/布興‧大立",
+        "teacher": "/待聘",
         "classroom": "/原民院C113/原民院C113/原民院C113",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -48650,7 +48778,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
-        "teacher": "/希婻.紗旮燕",
+        "teacher": "/待聘",
         "classroom": "/線上授課/線上授課/線上授課",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -49818,7 +49946,7 @@
         "class_time": "/五9/五10/五11",
         "english_course_name": "The Practices of Ethnic Cultures",
         "credits": "3/3",
-        "teacher": "/浦忠成(待聘)",
+        "teacher": "/浦忠成",
         "classroom": "/原民院A327/原民院A327/原民院A327",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -49930,7 +50058,7 @@
         "class_time": "/四9/四10/四11",
         "english_course_name": "Public Policy",
         "credits": "3/3",
-        "teacher": "/高德義(待聘)",
+        "teacher": "/高德義",
         "classroom": "/原民院A222/原民院A222/原民院A222",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -51628,6 +51756,22 @@
         "credits": "3/3",
         "teacher": "/王立中",
         "classroom": "/理工一館A316/理工一館A316/理工一館A316",
+        "offering_department": "通識課程::General courses",
+        "college": "校核心課程::University Core Curriculum"
+    },
+    "GC__6290AB": {
+        "campus": "壽豐校區",
+        "department": "校核心",
+        "course_id": "GC__6290AB",
+        "sql_id": "114133735",
+        "course_name": "人文經典與現代生活AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114133735",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114133735",
+        "class_time": "/四9/四10/四11",
+        "english_course_name": "Classics of Humanities and Modern Life",
+        "credits": "3/3",
+        "teacher": "/朱嘉雯",
+        "classroom": "/人社三館D113/人社三館D113/人社三館D113",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
