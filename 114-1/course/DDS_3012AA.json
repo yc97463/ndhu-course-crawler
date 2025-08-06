@@ -3,17 +3,42 @@
     "sql_id": "114153724",
     "course_name": "社會工作實習(二)AA",
     "english_course_name": "Social Work Practicum (II)",
-    "credits": "3/3",
+    "credits": "3/0:6",
     "teacher": [
         "黃盈豪"
     ],
     "classroom": [
-        "其他"
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222"
     ],
     "class_time": [
         {
-            "day": "暑",
-            "period": "假上課"
+            "day": "一",
+            "period": "1"
+        },
+        {
+            "day": "一",
+            "period": "2"
+        },
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "1"
+        },
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "二",
+            "period": "3"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114153724",
