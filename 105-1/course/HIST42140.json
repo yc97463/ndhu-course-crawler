@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST42140",
+    "sql_id": "105165443",
+    "course_name": "史學導論",
+    "english_course_name": "Introduction to Historiography",
+    "credits": "3/3",
+    "teacher": [
+        "蔣竹山"
+    ],
+    "classroom": [
+        "人社一館-第三講堂C109",
+        "人社一館-第三講堂C109",
+        "人社一館-第三講堂C109"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105165443",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105165443",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

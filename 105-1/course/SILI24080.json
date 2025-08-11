@@ -1,0 +1,42 @@
+{
+    "course_id": "SILI24080",
+    "sql_id": "105134683",
+    "course_name": "華文文學史暨基礎閱讀（一）先秦兩漢魏晉南北朝",
+    "english_course_name": "History of Sinophone Literature and Readings: From the Pre-Chin to the South-North Dynasties",
+    "credits": "4/4",
+    "teacher": [
+        "許又方"
+    ],
+    "classroom": [
+        "環解中心C103",
+        "環解中心C103",
+        "環解中心C103",
+        "環解中心C103"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105134683",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105134683",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}
