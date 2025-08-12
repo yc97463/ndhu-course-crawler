@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_53380",
+    "sql_id": "114111227",
+    "course_name": "聲樂(副修)",
+    "english_course_name": "Voice（Minor）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "陳景貽"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114111227",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114111227",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}
