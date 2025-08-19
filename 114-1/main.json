@@ -43,7 +43,7 @@
         "english_course_name": "Calculus(I)",
         "credits": "3/3",
         "teacher": "/黃延安",
-        "classroom": "/理工二館-第二講堂B101/理工二館-第二講堂B101/理工二館-第二講堂B101",
+        "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108/理工一館-第一講堂A108",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -75,7 +75,7 @@
         "english_course_name": "Calculus(I)",
         "credits": "3/3",
         "teacher": "/官彥良",
-        "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108/理工一館-第一講堂A108",
+        "classroom": "/理工二館-第二講堂B101/理工二館-第二講堂B101/理工二館-第二講堂B101",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9471,6 +9471,22 @@
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "CSIE30700": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "CSIE30700",
+        "sql_id": "114171370",
+        "course_name": "影像處理導論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114171370",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114171370",
+        "class_time": "/三4/三5/三6",
+        "english_course_name": "Introduction to Image Processing",
+        "credits": "3/3",
+        "teacher": "/林信鋒",
+        "classroom": "/理工二館A331/理工二館A331/理工二館A331",
+        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "CSIE32400": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -9673,6 +9689,22 @@
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114110653",
         "class_time": "/四9/四10/四11",
         "english_course_name": "Introduction to Digital Signal Processing",
+        "credits": "3/3",
+        "teacher": "/林信鋒",
+        "classroom": "/理工二館A331/理工二館A331/理工二館A331",
+        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "CSIEB0440": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "CSIEB0440",
+        "sql_id": "114172869",
+        "course_name": "影像處理導論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114172869",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114172869",
+        "class_time": "/三4/三5/三6",
+        "english_course_name": "Introduction to Image Processing",
         "credits": "3/3",
         "teacher": "/林信鋒",
         "classroom": "/理工二館A331/理工二館A331/理工二館A331",
@@ -27354,7 +27386,7 @@
         "class_time": "/一4/一5/一6/一7",
         "english_course_name": "Counseling Practicum",
         "credits": "2/0:4",
-        "teacher": "/王沂釗/余振民/待聘",
+        "teacher": "/王沂釗/余振民/陳育涵",
         "classroom": "/人社二館B101/人社二館B101/人社二館B101/人社二館B101",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27370,7 +27402,7 @@
         "class_time": "/一4/一5/一6/一7",
         "english_course_name": "Counseling Practicum",
         "credits": "2/0:4",
-        "teacher": "/王沂釗/余振民/待聘",
+        "teacher": "/王沂釗/余振民/陳育涵",
         "classroom": "/人社二館B403/人社二館B403/人社二館B403/人社二館B403",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27386,7 +27418,7 @@
         "class_time": "/一4/一5/一6/一7",
         "english_course_name": "Counseling Practicum",
         "credits": "2/0:4",
-        "teacher": "/王沂釗/余振民/待聘",
+        "teacher": "/王沂釗/余振民/陳育涵",
         "classroom": "/人社二館B404/人社二館B404/人社二館B404/人社二館B404",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27514,7 +27546,7 @@
         "class_time": "/五3/五4/五5/五6/五8/五9",
         "english_course_name": "Internship(Ⅰ)",
         "credits": "3/0:6",
-        "teacher": "/蔣世光/待聘",
+        "teacher": "/蔣世光/林義盛",
         "classroom": "/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27530,7 +27562,7 @@
         "class_time": "/五3/五4/五5/五6/五8/五9",
         "english_course_name": "Internship(Ⅰ)",
         "credits": "3/0:6",
-        "teacher": "/蔣世光/待聘",
+        "teacher": "/蔣世光/黃亮韶",
         "classroom": "/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27578,8 +27610,8 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Introduction of Psychology",
         "credits": "3/3",
-        "teacher": "/蔣世光/王純娟/李沐齊/李慧芳/周育如/林繼偉/高倜歐/劉効樺/黎士鳴/藍玉玲",
-        "classroom": "/人社二館-第四講堂B011/人社二館-第四講堂B011/人社二館-第四講堂B011",
+        "teacher": "/藍玉玲/蔣世光/王純娟/李沐齊/李慧芳/周育如/林繼偉/高倜歐/劉効樺/黎士鳴",
+        "classroom": "/理工二館A437/理工二館A437/理工二館A437",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -36826,7 +36858,7 @@
         "class_time": "/五8/五9/五10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/李正芬",
+        "teacher": "/曾秋馨(待聘)",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -48650,7 +48682,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/曾秋馨",
+        "teacher": "/張蘭石",
         "classroom": "/待確/待確/待確",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -49151,6 +49183,22 @@
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
+    "LCI_24320": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "LCI_24320",
+        "sql_id": "114128559",
+        "course_name": "族語發音與教學",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114128559",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114128559",
+        "class_time": "/一5/一6",
+        "english_course_name": "Indigenous Language Pronunciation and Teaching",
+        "credits": "2/2",
+        "teacher": "/李佩容",
+        "classroom": "/原民院A351/原民院A351",
+        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
     "LCI_30200": {
         "campus": "壽豐校區",
         "department": "學二",
@@ -49244,6 +49292,22 @@
         "credits": "3/3",
         "teacher": "/李佩容",
         "classroom": "/原民院A338/原民院A338/原民院A338",
+        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
+    "LCI_36000": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "LCI_36000",
+        "sql_id": "114139374",
+        "course_name": "部落文化英語",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114139374",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114139374",
+        "class_time": "/五4/五5/五6",
+        "english_course_name": "English for Formosan Ethnic Cultures",
+        "credits": "3/3",
+        "teacher": "/湯愛玉",
+        "classroom": "/原民院A212/原民院A212/原民院A212",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
