@@ -3386,7 +3386,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "General Chemistry Lab (I)",
         "credits": "1/0:3",
-        "teacher": "/林哲仁",
+        "teacher": "/陳國庭",
         "classroom": "/理工一館C411/理工一館C411/理工一館C411",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -3754,7 +3754,7 @@
         "class_time": "/五1/五2",
         "english_course_name": "Independent Study(Ⅰ)",
         "credits": "1/2",
-        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/林哲仁/陳國庭",
+        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/陳國庭",
         "classroom": "/研究室/研究室",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -3786,7 +3786,7 @@
         "class_time": "/五1/五2",
         "english_course_name": "Independent Study(III)",
         "credits": "2/2",
-        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/林哲仁/陳國庭",
+        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/陳國庭",
         "classroom": "/研究室/研究室",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9082,7 +9082,7 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Introduction to Computer Programming (I)",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/楊舜博",
         "classroom": "/理工二館C303/理工二館C303/理工二館C303",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9146,7 +9146,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Lab of Programming I",
         "credits": "1/0:3",
-        "teacher": "/待聘",
+        "teacher": "/張烜瀚",
         "classroom": "/理工二館B305/理工二館B305/理工二館B305",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9226,7 +9226,7 @@
         "class_time": "/四9/四10/四11",
         "english_course_name": "Lab of Programming （Ⅰ）",
         "credits": "1/0:3",
-        "teacher": "/待聘",
+        "teacher": "/林勁甫",
         "classroom": "/理工二館B305/理工二館B305/理工二館B305",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9322,7 +9322,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Lab of Data Structures",
         "credits": "1/0:3",
-        "teacher": "/待聘",
+        "teacher": "/楊舜博",
         "classroom": "/理工二館B305/理工二館B305/理工二館B305",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9402,7 +9402,7 @@
         "class_time": "/五9/五10/五11",
         "english_course_name": "Lab of Data Structures",
         "credits": "1/0:3",
-        "teacher": "/待聘",
+        "teacher": "/楊舜博",
         "classroom": "/理工二館B305/理工二館B305/理工二館B305",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9450,7 +9450,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Computer Architecture",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/紀新洲",
         "classroom": "/理工二館-第二講堂B101/理工二館-第二講堂B101/理工二館-第二講堂B101",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9626,7 +9626,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "Computer Architecture",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/紀新洲",
         "classroom": "/理工二館-第一講堂A127/理工二館-第一講堂A127/理工二館-第一講堂A127",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -24010,7 +24010,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "Research Methods",
         "credits": "3/3",
-        "teacher": "/朱嘉雯",
+        "teacher": "/李正芬",
         "classroom": "/人社一館D101/人社一館D101/人社一館D101",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM IN TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -30410,7 +30410,7 @@
         "class_time": "/三1/三2",
         "english_course_name": "Thesis Guidance",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/楊翠",
         "classroom": "/研究室/研究室",
         "offering_department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -35002,7 +35002,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "seminar",
         "credits": "2/3",
-        "teacher": "/許世璋/楊悠娟",
+        "teacher": "/楊悠娟",
         "classroom": "/環境學院A136/環境學院A136/環境學院A136",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -35162,7 +35162,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Seminar",
         "credits": "2/3",
-        "teacher": "/許世璋/楊悠娟",
+        "teacher": "/楊悠娟",
         "classroom": "/環境學院A136/環境學院A136/環境學院A136",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -35610,7 +35610,7 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Ecotourism",
         "credits": "3/3",
-        "teacher": "/李光中",
+        "teacher": "/李光中/孫夏天",
         "classroom": "/環境學院B145/環境學院B145/環境學院B145",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -35834,7 +35834,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Environmental Law",
         "credits": "3/3",
-        "teacher": "/蘇銘千/戴興盛/林祥偉",
+        "teacher": "/林祥偉/戴興盛/蘇銘千",
         "classroom": "/環境學院A128/環境學院A128/環境學院A128",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -41690,7 +41690,7 @@
         "class_time": "/二10/二11",
         "english_course_name": "Introduction to Social Studies",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/蘇漢彬",
         "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -41706,7 +41706,7 @@
         "class_time": "/二10/二11",
         "english_course_name": "Introduction to Social Studies",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/蘇漢彬",
         "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -52683,7 +52683,7 @@
         "english_course_name": "Micro Course in Personal Organization A",
         "credits": "1/1",
         "teacher": "/張桂芬/顧瑜君",
-        "classroom": "/戶外",
+        "classroom": "/洄瀾學院C102",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -52699,7 +52699,7 @@
         "english_course_name": "Micro Course in Project Communications",
         "credits": "1/1",
         "teacher": "/張桂芬/顧瑜君",
-        "classroom": "/戶外",
+        "classroom": "/洄瀾學院C102",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -56506,7 +56506,7 @@
         "class_time": "/二13/二14",
         "english_course_name": "Teaching Materials and Methods of Social Science in the Elementary School",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/黃桂蓉",
         "classroom": "/教育學院B119/教育學院B119",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
@@ -56634,7 +56634,7 @@
         "class_time": "/三15/三16",
         "english_course_name": "Career Planning and Vocational Education/Training",
         "credits": "2/2",
-        "teacher": "/范熾文/待聘",
+        "teacher": "/范熾文/呂善成",
         "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
@@ -56650,7 +56650,7 @@
         "class_time": "/三13/三14",
         "english_course_name": "Mandarin Phonetics and Conversation Skills",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/張啟超",
         "classroom": "/教育學院B119/教育學院B119",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
@@ -56714,7 +56714,7 @@
         "class_time": "/一13/一14",
         "english_course_name": "Educational Psychology",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/王鴻哲",
         "classroom": "/教育學院B108/教育學院B108",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
