@@ -1,0 +1,38 @@
+{
+    "course_id": "CLL_31970",
+    "sql_id": "107162476",
+    "course_name": "中國文學史（上）",
+    "english_course_name": "History of Chinese Literature(Ⅰ)",
+    "credits": "3/3",
+    "teacher": [
+        "溫光華",
+        "彭衍綸"
+    ],
+    "classroom": [
+        "人社一館-第三講堂C109",
+        "人社一館-第三講堂C109",
+        "人社一館-第三講堂C109"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107162476",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107162476",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

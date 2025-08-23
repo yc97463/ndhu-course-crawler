@@ -1,0 +1,53 @@
+{
+    "course_id": "CP__5843AA",
+    "sql_id": "113284803",
+    "course_name": "臨床全時實習(II)AA",
+    "english_course_name": "Internship(Ⅱ)",
+    "credits": "3/0:6",
+    "teacher": [
+        "高倜歐",
+        "蔡宗延"
+    ],
+    "classroom": [
+        "機構實習",
+        "機構實習",
+        "機構實習",
+        "機構實習",
+        "機構實習",
+        "機構實習"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113284803",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113284803",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "course_id": "NRESM0000",
+    "sql_id": "108181985",
+    "course_name": "自然資源研究方法 (一)",
+    "english_course_name": "Research Methods in Natural Resources (I)",
+    "credits": "3/3",
+    "teacher": [
+        "李光中",
+        "李漢榮",
+        "蘇銘千",
+        "許育誠"
+    ],
+    "classroom": [
+        "環境學院B160",
+        "環境學院B160",
+        "環境學院B160"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108181985",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108181985",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

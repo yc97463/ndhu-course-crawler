@@ -1,0 +1,27 @@
+{
+    "course_id": "SCE_5277AA",
+    "sql_id": "106124062",
+    "course_name": "論文研究（一）AA",
+    "english_course_name": "Thesis (I)",
+    "credits": "1/1",
+    "teacher": [
+        "古智雄"
+    ],
+    "classroom": [
+        "教育學院B327"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106124062",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106124062",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

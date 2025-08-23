@@ -1,0 +1,36 @@
+{
+    "course_id": "XX__10500",
+    "sql_id": "107232829",
+    "course_name": "全民國防教育軍事訓練課程（二）",
+    "english_course_name": "All-out Defense Education Military Training Curriculum(II)",
+    "credits": "1/2",
+    "teacher": [
+        "吳孟昌"
+    ],
+    "classroom": [
+        "人社二館-第三講堂B009",
+        "人社二館-第三講堂B009"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107232829",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107232829",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

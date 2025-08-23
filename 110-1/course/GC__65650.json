@@ -1,0 +1,42 @@
+{
+    "course_id": "GC__65650",
+    "sql_id": "110111242",
+    "course_name": "幸福理財學-實務篇",
+    "english_course_name": "Financial Practice for Happiness",
+    "credits": "2/2",
+    "teacher": [
+        "陳永裕"
+    ],
+    "classroom": [
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110111242",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110111242",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

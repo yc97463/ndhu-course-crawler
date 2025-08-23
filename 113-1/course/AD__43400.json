@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__43400",
+    "sql_id": "113129028",
+    "course_name": "設計實務",
+    "english_course_name": "Design Practice",
+    "credits": "3/3",
+    "teacher": [
+        "黃福康"
+    ],
+    "classroom": [
+        "藝術工坊109",
+        "藝術工坊109",
+        "藝術工坊109"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113129028",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113129028",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

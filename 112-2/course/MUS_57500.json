@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_57500",
+    "sql_id": "112285012",
+    "course_name": "管樂(二)",
+    "english_course_name": "Flute (II)",
+    "credits": "1/1",
+    "teacher": [
+        "游瑞玲"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112285012",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112285012",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "course_id": "CA__21130",
+    "sql_id": "110217053",
+    "course_name": "策展實務",
+    "english_course_name": "Curatorial practice",
+    "credits": "3/3",
+    "teacher": [
+        "田名璋",
+        "彭翠萍",
+        "余慧君"
+    ],
+    "classroom": [
+        "藝術學院A108",
+        "藝術學院A108",
+        "藝術學院A108"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "二",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110217053",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110217053",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

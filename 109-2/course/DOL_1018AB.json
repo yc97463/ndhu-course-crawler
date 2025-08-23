@@ -1,0 +1,41 @@
+{
+    "course_id": "DOL_1018AB",
+    "sql_id": "109264164",
+    "course_name": "行政法總論AB",
+    "english_course_name": "General Theory on Administrative Law",
+    "credits": "3/3",
+    "teacher": [
+        "賴宇松"
+    ],
+    "classroom": [
+        "人社二館B107",
+        "人社二館B107",
+        "人社二館B107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109264164",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109264164",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系::DEPARTMENT OF LAW"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)"
+        }
+    ]
+}

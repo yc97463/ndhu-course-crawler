@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6316AA",
+    "sql_id": "112108658",
+    "course_name": "經濟學概論AA",
+    "english_course_name": "Introduction to Economic Theory",
+    "credits": "3/3",
+    "teacher": [
+        "尤素娟"
+    ],
+    "classroom": [
+        "管理學院-第二講堂D124",
+        "管理學院-第二講堂D124",
+        "管理學院-第二講堂D124"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112108658",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112108658",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

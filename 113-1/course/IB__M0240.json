@@ -1,0 +1,38 @@
+{
+    "course_id": "IB__M0240",
+    "sql_id": "113121441",
+    "course_name": "國際金融市場",
+    "english_course_name": "International Financial Markets",
+    "credits": "3/3",
+    "teacher": [
+        "李同龢",
+        "王廷升"
+    ],
+    "classroom": [
+        "管理學院C121",
+        "管理學院C121",
+        "管理學院C121"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113121441",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113121441",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

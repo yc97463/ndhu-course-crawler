@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__B012AA",
+    "sql_id": "106218241",
+    "course_name": "實用華語(一)AA",
+    "english_course_name": "Mandarin Chinese Practical (Level 1)",
+    "credits": "3/3",
+    "teacher": [
+        "傅國忠"
+    ],
+    "classroom": [
+        "人社三館B104",
+        "人社三館B104",
+        "人社三館B104"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106218241",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106218241",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "course_id": "BM__70100",
+    "sql_id": "108175950",
+    "course_name": "決策模式研究",
+    "english_course_name": "Seminar in Decision Models",
+    "credits": "3/3",
+    "teacher": [
+        "黃郁文",
+        "褚志鵬"
+    ],
+    "classroom": [
+        "管理學院C136",
+        "管理學院C136",
+        "管理學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108175950",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108175950",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

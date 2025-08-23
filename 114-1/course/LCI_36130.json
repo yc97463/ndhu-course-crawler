@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_36130",
+    "sql_id": "114158478",
+    "course_name": "傳播產業與政策",
+    "english_course_name": "Communication Industry and Policy",
+    "credits": "3/3",
+    "teacher": [
+        "董克景"
+    ],
+    "classroom": [
+        "原民院A338",
+        "原民院A338",
+        "原民院A338"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114158478",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114158478",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

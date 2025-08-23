@@ -1,0 +1,38 @@
+{
+    "course_id": "BM__3320AA",
+    "sql_id": "106221961",
+    "course_name": "供應鏈管理AA",
+    "english_course_name": "Supply Chain Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳正杰",
+        "李佳如"
+    ],
+    "classroom": [
+        "管理學院D118",
+        "管理學院D118",
+        "管理學院D118"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106221961",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106221961",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

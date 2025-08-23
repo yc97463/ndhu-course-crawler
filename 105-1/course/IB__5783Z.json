@@ -1,0 +1,38 @@
+{
+    "course_id": "IB__5783Z",
+    "sql_id": "105137766",
+    "course_name": "海外企業參訪與研習",
+    "english_course_name": "Overseas Field Study of Business Management",
+    "credits": "3/3",
+    "teacher": [
+        "欒錦榮",
+        "張國義"
+    ],
+    "classroom": [
+        "管理學院A115",
+        "管理學院A115",
+        "管理學院A115"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105137766",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105137766",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_74410",
+    "sql_id": "107133074",
+    "course_name": "專題研究(四)",
+    "english_course_name": "Independent Study (Ⅳ)",
+    "credits": "3/3",
+    "teacher": [
+        "楊昌斌"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107133074",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107133074",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

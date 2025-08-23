@@ -1,0 +1,32 @@
+{
+    "course_id": "CLL_2062AA",
+    "sql_id": "108232354",
+    "course_name": "詩選及習作（下）AA",
+    "english_course_name": "Readings in Chinese Poetry with writing practice (II)",
+    "credits": "2/2",
+    "teacher": [
+        "顏進雄"
+    ],
+    "classroom": [
+        "人社一館B105",
+        "人社一館B105"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108232354",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108232354",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

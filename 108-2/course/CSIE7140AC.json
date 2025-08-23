@@ -1,0 +1,27 @@
+{
+    "course_id": "CSIE7140AC",
+    "sql_id": "108257603",
+    "course_name": "論文研究(六)AC",
+    "english_course_name": "Thesis (Ⅵ)",
+    "credits": "1/1",
+    "teacher": [
+        "黃振榮"
+    ],
+    "classroom": [
+        "研討室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108257603",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108257603",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}
