@@ -15456,7 +15456,7 @@
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
     "CLC_6232AC": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AC",
         "sql_id": "114180667",
@@ -15467,7 +15467,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/邱鉦倫",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -19904,7 +19904,7 @@
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
     "CLC_6232AD": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AD",
         "sql_id": "114156229",
@@ -19915,7 +19915,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/陳冠榮",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社二館A101/人社二館A101/人社二館A101",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -22848,7 +22848,7 @@
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
     "CLC_6232AG": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AG",
         "sql_id": "114110443",
@@ -22859,7 +22859,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/邱鉦倫",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社二館A105/人社二館A105/人社二館A105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -24816,7 +24816,7 @@
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
     "CLC_6232AA": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AA",
         "sql_id": "114143127",
@@ -24826,8 +24826,8 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/待聘/張寶云",
-        "classroom": "/待確/待確/待確",
+        "teacher": "/張寶云",
+        "classroom": "/人社一館D206/人社一館D206/人社一館D206",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -34432,7 +34432,7 @@
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
     "CLC_6232AH": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AH",
         "sql_id": "114149437",
@@ -34443,7 +34443,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/陳冠榮",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社二館-第五講堂B013/人社二館-第五講堂B013/人社二館-第五講堂B013",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -34492,6 +34492,22 @@
         "credits": "0/1",
         "teacher": "/待聘",
         "classroom": "/環境學院-階梯教室B119",
+        "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
+        "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
+    },
+    "NRES71040": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "NRES71040",
+        "sql_id": "114159149",
+        "course_name": "環境經濟特論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114159149",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114159149",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "Special Topics on Environmental Economics",
+        "credits": "3/3",
+        "teacher": "/李俊鴻",
+        "classroom": "/環境學院A159/環境學院A159/環境學院A159",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -42288,7 +42304,7 @@
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
     "CLC_6232AF": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AF",
         "sql_id": "114136894",
@@ -42299,7 +42315,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/胡詩專",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社一館D105/人社一館D105/人社一館D105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -43008,7 +43024,7 @@
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
     "CLC_6232AJ": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AJ",
         "sql_id": "114172036",
@@ -43019,7 +43035,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/溫光華",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/教育學院D213/教育學院D213/教育學院D213",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -43792,7 +43808,7 @@
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
     "CLC_6232AL": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AL",
         "sql_id": "114171379",
@@ -43803,7 +43819,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/劉惠萍",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社一館B105/人社一館B105/人社一館B105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -44736,7 +44752,7 @@
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
     "CLC_6232AI": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AI",
         "sql_id": "114131408",
@@ -44747,7 +44763,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/曾秋馨",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/教育學院C223/教育學院C223/教育學院C223",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -46448,7 +46464,7 @@
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
     "CLC_6232AK": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AK",
         "sql_id": "114150747",
@@ -46459,7 +46475,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/蔡政洋",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/教育學院B117/教育學院B117/教育學院B117",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -47728,7 +47744,7 @@
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
     "CLC_6232AQ": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AQ",
         "sql_id": "114124441",
@@ -47739,7 +47755,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/李百中",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社一館D105/人社一館D105/人社一館D105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -48672,7 +48688,7 @@
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
     "CLC_6232AP": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AP",
         "sql_id": "114195681",
@@ -48683,7 +48699,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/張蘭石",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社一館B206/人社一館B206/人社一館B206",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -56320,7 +56336,7 @@
         "college": "校核心課程::University Core Curriculum"
     },
     "CLC_6232AO": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AO",
         "sql_id": "114172772",
@@ -56331,7 +56347,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/程克雅",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社一館B105/人社一館B105/人社一館B105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
