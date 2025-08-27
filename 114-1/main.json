@@ -10475,7 +10475,7 @@
         "english_course_name": "Fundamental Experiments in Materials （III）：Processing in Microelectronics",
         "credits": "2/0:4",
         "teacher": "/林育賢/魏茂國/陳怡嘉/傅彥培",
-        "classroom": "/工C121/理工二館A231/工C121/理工二館A231/工C121/理工二館A231/工C121/理工二館A231",
+        "classroom": "/理工二館A231/理工二館C121/理工二館A231/理工二館C121/理工二館A231/理工二館C121/理工二館A231/理工二館C121",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -17658,7 +17658,7 @@
         "class_time": "/日10/日11/日12",
         "english_course_name": "Contemporary Business Strategy",
         "credits": "3/3",
-        "teacher": "/陳建男/待聘",
+        "teacher": "/陳建男/林益全",
         "classroom": "/管理學院D118/管理學院D118/管理學院D118",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -17850,7 +17850,7 @@
         "class_time": "/六7/六8",
         "english_course_name": "Seminar in Human Resource Management",
         "credits": "2/2",
-        "teacher": "/陳淑玲/待聘",
+        "teacher": "/陳淑玲/李怡慧",
         "classroom": "/管理學院D118/管理學院D118",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -17898,8 +17898,8 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Applied Calculus For Business",
         "credits": "3/3",
-        "teacher": "/待聘",
-        "classroom": "/管理學院D135/管理學院D135/管理學院D135",
+        "teacher": "/曾柏恩",
+        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -17946,8 +17946,8 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Corporate Finance",
         "credits": "3/3",
-        "teacher": "/池祥萱",
-        "classroom": "/教育學院-階梯教室(一)C128/教育學院-階梯教室(一)C128/教育學院-階梯教室(一)C128",
+        "teacher": "/林容璟",
+        "classroom": "/管理學院B103/管理學院B103/管理學院B103",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -18026,7 +18026,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Project in Business Administration",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/陳淑玲/陳珮綺/廖苡全",
         "classroom": "/其他",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -18074,7 +18074,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Industry and Competitive Analysis",
         "credits": "3/3",
-        "teacher": "/陳建男",
+        "teacher": "/陳建男/林容璟",
         "classroom": "/管理學院D118/管理學院D118/管理學院D118",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -18112,7 +18112,7 @@
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
     "CLC_6232AE": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AE",
         "sql_id": "114121107",
@@ -18123,7 +18123,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/李百中",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/教育學院B119/教育學院B119/教育學院B119",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -18139,7 +18139,7 @@
         "english_course_name": "International Business Management",
         "credits": "3/3",
         "teacher": "/欒錦榮",
-        "classroom": "/ 管理學院A221/ 管理學院A221/ 管理學院A221",
+        "classroom": "/管理學院A221/管理學院A221/管理學院A221",
         "offering_department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -21520,7 +21520,7 @@
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
     "CLC_6232AM": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AM",
         "sql_id": "114137817",
@@ -21530,8 +21530,8 @@
         "class_time": "/三4/三5/三6",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/謝明陽",
-        "classroom": "/待確/待確/待確",
+        "teacher": "/胡詩專",
+        "classroom": "/人社二館-第五講堂B013/人社二館-第五講堂B013/人社二館-第五講堂B013",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -27564,6 +27564,22 @@
         "credits": "3/0:6",
         "teacher": "/蔣世光/黃亮韶",
         "classroom": "/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304",
+        "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
+    "CP__58430": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "CP__58430",
+        "sql_id": "114115613",
+        "course_name": "臨床全時實習(II)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114115613",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114115613",
+        "class_time": "/五3/五4/五5/五6/五8/五9",
+        "english_course_name": "Internship(Ⅱ)",
+        "credits": "3/3",
+        "teacher": "/蔣世光/林義盛",
+        "classroom": "/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -36864,7 +36880,7 @@
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
     "CLC_6232AS": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "校核心",
         "course_id": "CLC_6232AS",
         "sql_id": "114128211",
@@ -36875,7 +36891,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/曾秋馨",
-        "classroom": "/待確/待確/待確",
+        "classroom": "/人社一館A318/人社一館A318/人社一館A318",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -37883,7 +37899,7 @@
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
         "teacher": "/胡詩專",
-        "classroom": "/人社一館A318/人社一館A318/人社一館A318",
+        "classroom": "/人社二館-第五講堂B013/人社二館-第五講堂B013/人社二館-第五講堂B013",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -42314,7 +42330,7 @@
         "class_time": "/一8/一9/一10",
         "english_course_name": "Chinese Language Ability and Education",
         "credits": "3/3",
-        "teacher": "/胡詩專",
+        "teacher": "/謝明陽",
         "classroom": "/人社一館D105/人社一館D105/人社一館D105",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
@@ -43003,7 +43019,7 @@
         "english_course_name": "Practicum for Teaching Young Children",
         "credits": "4/4",
         "teacher": "/陳慧華",
-        "classroom": "/教育學院D118室/教育學院D118室/教育學院D118室/教育學院D118室",
+        "classroom": "/教育學院D118/教育學院D118/教育學院D118/教育學院D118",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -48379,7 +48395,7 @@
         "english_course_name": "Taiwan Indigenous Peoples' Knowledge System",
         "credits": "3/3",
         "teacher": "/李宜澤",
-        "classroom": "/原民院B202/原民院B202/原民院B202",
+        "classroom": "/原民院B106/原民院B106/原民院B106",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48796,22 +48812,6 @@
         "credits": "2/2",
         "teacher": "/Sifo Lakaw",
         "classroom": "/原民院A351/原民院A351",
-        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
-        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
-    },
-    "LCI_1224AC": {
-        "campus": "其它",
-        "department": "學一",
-        "course_id": "LCI_1224AC",
-        "sql_id": "114147015",
-        "course_name": "族語會話AC",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114147015",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114147015",
-        "class_time": "/五5/五6",
-        "english_course_name": "Indigenous Languages Conversation",
-        "credits": "2/2",
-        "teacher": "/黃桂英",
-        "classroom": "/線上授課/線上授課",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -50284,6 +50284,22 @@
         "credits": "3/3",
         "teacher": "/日宏煜",
         "classroom": "/原民院A330/原民院A330/原民院A330",
+        "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
+    "DDS_30600": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "DDS_30600",
+        "sql_id": "114196887",
+        "course_name": "社會運動",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114196887",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114196887",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "Social movements",
+        "credits": "3/3",
+        "teacher": "/李政政",
+        "classroom": "/原民院A222/原民院A222/原民院A222",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
