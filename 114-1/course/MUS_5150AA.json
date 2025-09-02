@@ -1,7 +1,7 @@
 {
-    "course_id": "MUS_51500",
-    "sql_id": "114184225",
-    "course_name": "聲樂（一）",
+    "course_id": "MUS_5150AA",
+    "sql_id": "114162636",
+    "course_name": "聲樂（一）AA",
     "english_course_name": "Voice(I)",
     "credits": "1/1",
     "teacher": [
@@ -16,8 +16,8 @@
             "period": "1"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114184225",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114184225",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114162636",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114162636",
     "departments": [
         {
             "college": "藝術學院::COLLEGE OF THE ARTS",
