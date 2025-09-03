@@ -1,5 +1,5 @@
 {
-    "course_id": "ACIM@0040",
+    "course_id": "ACIM20120",
     "sql_id": "114138034",
     "course_name": "會計資訊系統",
     "english_course_name": "Accounting Information Systems",
@@ -8,9 +8,9 @@
         "吳世彬"
     ],
     "classroom": [
-        "其他",
-        "其他",
-        "其他"
+        "管理學院C215",
+        "管理學院C215",
+        "管理學院C215"
     ],
     "class_time": [
         {

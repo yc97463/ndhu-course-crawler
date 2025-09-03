@@ -15135,22 +15135,6 @@
         "offering_department": "管理學院會計與資訊管理國際學士班::BACHELOR PROGRAM OF ACCOUNTING AND INFORMATION MANAGEMENT(INTERNATIONAL PROGRAM)",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
-    "ACIM@0040": {
-        "campus": "壽豐校區",
-        "department": "學二",
-        "course_id": "ACIM@0040",
-        "sql_id": "114138034",
-        "course_name": "會計資訊系統",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114138034",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114138034",
-        "class_time": "/四4/四5/四6",
-        "english_course_name": "Accounting Information Systems",
-        "credits": "3/3",
-        "teacher": "/吳世彬",
-        "classroom": "/其他/其他/其他",
-        "offering_department": "管理學院會計與資訊管理國際學士班::BACHELOR PROGRAM OF ACCOUNTING AND INFORMATION MANAGEMENT(INTERNATIONAL PROGRAM)",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
     "ACIM20010": {
         "campus": "壽豐校區",
         "department": "學二",
@@ -15212,6 +15196,22 @@
         "credits": "3/3",
         "teacher": "/陳玉佳",
         "classroom": "/管理學院B103/管理學院B103/管理學院B103",
+        "offering_department": "管理學院會計與資訊管理國際學士班::BACHELOR PROGRAM OF ACCOUNTING AND INFORMATION MANAGEMENT(INTERNATIONAL PROGRAM)",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "ACIM20120": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "ACIM20120",
+        "sql_id": "114138034",
+        "course_name": "會計資訊系統",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114138034",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114138034",
+        "class_time": "/四4/四5/四6",
+        "english_course_name": "Accounting Information Systems",
+        "credits": "3/3",
+        "teacher": "/吳世彬",
+        "classroom": "/管理學院C215/管理學院C215/管理學院C215",
         "offering_department": "管理學院會計與資訊管理國際學士班::BACHELOR PROGRAM OF ACCOUNTING AND INFORMATION MANAGEMENT(INTERNATIONAL PROGRAM)",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -19210,7 +19210,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
-        "teacher": "/王廷升/李同龢",
+        "teacher": "/李同龢/王廷升",
         "classroom": "/管理學院C122/管理學院C122/管理學院C122",
         "offering_department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -20570,7 +20570,7 @@
         "class_time": "/五9/五10/五11",
         "english_course_name": "Tax Accounting",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/待聘(陳文彬)",
         "classroom": "/管理學院C103/管理學院C103/管理學院C103",
         "offering_department": "會計學系::DEPARTMENT OF ACCOUNTING",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -27207,7 +27207,7 @@
         "course_name": "體育(一)AN",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114136152",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114136152",
-        "class_time": "/二3/二4",
+        "class_time": "/二2/二3",
         "english_course_name": "Physical Education (I)",
         "credits": "1/2",
         "teacher": "/簡桂寶",
@@ -28155,7 +28155,7 @@
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
         "teacher": "/李同龢/王廷升",
-        "classroom": "/管理學院C121/管理學院C121/管理學院C121",
+        "classroom": "/管理學院C122/管理學院C122/管理學院C122",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -28203,7 +28203,7 @@
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
         "teacher": "/李同龢/王廷升",
-        "classroom": "/管理學院C121/管理學院C121/管理學院C121",
+        "classroom": "/管理學院C122/管理學院C122/管理學院C122",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -28875,7 +28875,7 @@
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
         "teacher": "/李同龢/王廷升",
-        "classroom": "/管理學院C121/管理學院C121/管理學院C121",
+        "classroom": "/管理學院C122/管理學院C122/管理學院C122",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -28955,7 +28955,7 @@
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
         "teacher": "/李同龢/王廷升",
-        "classroom": "/管理學院C121/管理學院C121/管理學院C121",
+        "classroom": "/管理學院C122/管理學院C122/管理學院C122",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -40731,7 +40731,7 @@
         "english_course_name": "Research in Aesthetics",
         "credits": "3/3",
         "teacher": "/顏彗如",
-        "classroom": "/藝術學院A335/藝術學院A335/藝術學院A335",
+        "classroom": "/藝術學院A258/藝術學院A258/藝術學院A258",
         "offering_department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -47291,7 +47291,7 @@
         "english_course_name": "Counseling Principles and Practice",
         "credits": "2/2",
         "teacher": "/王沂釗",
-        "classroom": "/教育學院B112/教育學院B112",
+        "classroom": "/教育學院B124/教育學院B124",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -47563,7 +47563,7 @@
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
         "teacher": "/朱珍靜",
-        "classroom": "/原民院A239/原民院A239",
+        "classroom": "/線上課程/線上課程",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -47611,7 +47611,7 @@
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
         "teacher": "/余榮德",
-        "classroom": "/原民院C113/原民院C113",
+        "classroom": "/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -47687,27 +47687,27 @@
         "course_name": "族語（一）AI",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114129483",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114129483",
-        "class_time": "/三12/四12/五12",
+        "class_time": "/三12/四12",
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
         "teacher": "/簡淑惠",
-        "classroom": "/線上授課/線上授課/線上授課",
+        "classroom": "/線上授課/線上授課",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
     "CIS_1130AJ": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "學一",
         "course_id": "CIS_1130AJ",
         "sql_id": "114134513",
         "course_name": "族語（一）AJ",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114134513",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114134513",
-        "class_time": "/二11/二12",
+        "class_time": "/五5/五6",
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
         "teacher": "/黃桂英",
-        "classroom": "//線上授課//線上授課",
+        "classroom": "/原民院A351/原民院A351",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48960,7 +48960,7 @@
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
     "LCI_2340AA": {
-        "campus": "壽豐校區",
+        "campus": "其它",
         "department": "學二",
         "course_id": "LCI_2340AA",
         "sql_id": "114172368",
@@ -48971,7 +48971,7 @@
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
         "teacher": "/朱珍靜",
-        "classroom": "/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137",
+        "classroom": "/線上課程/線上課程/線上課程",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -49019,7 +49019,7 @@
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
         "teacher": "/余榮德",
-        "classroom": "/原民院C113/原民院C113/原民院C113",
+        "classroom": "/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -49088,7 +49088,7 @@
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
     "LCI_2340AJ": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "學二",
         "course_id": "LCI_2340AJ",
         "sql_id": "114104425",
@@ -49099,7 +49099,7 @@
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
         "teacher": "/黃桂英",
-        "classroom": "/線上授課/線上授課/線上授課",
+        "classroom": "/原民院A351/原民院A351/原民院A351",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -49210,7 +49210,7 @@
         "class_time": "/二9/二10/二11",
         "english_course_name": "Script Writing",
         "credits": "3/3",
-        "teacher": "/虞戡平(待聘)",
+        "teacher": "/虞戡平",
         "classroom": "/原民院A239/原民院A239/原民院A239",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"

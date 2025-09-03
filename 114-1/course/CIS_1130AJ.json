@@ -8,17 +8,17 @@
         "黃桂英"
     ],
     "classroom": [
-        "線上授課",
-        "線上授課"
+        "原民院A351",
+        "原民院A351"
     ],
     "class_time": [
         {
-            "day": "二",
-            "period": "11"
+            "day": "五",
+            "period": "5"
         },
         {
-            "day": "二",
-            "period": "12"
+            "day": "五",
+            "period": "6"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114134513",
