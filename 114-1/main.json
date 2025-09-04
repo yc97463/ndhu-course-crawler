@@ -3130,7 +3130,7 @@
         "class_time": "/五1",
         "english_course_name": "Thesis",
         "credits": "1/1",
-        "teacher": "/林哲仁",
+        "teacher": "/林雅凡",
         "classroom": "/研究室",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -39199,22 +39199,6 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
-    "MUS_18000": {
-        "campus": "壽豐校區",
-        "department": "學一",
-        "course_id": "MUS_18000",
-        "sql_id": "114157389",
-        "course_name": "爵士薩克斯風 (主修) (1)",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114157389",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114157389",
-        "class_time": "/一1",
-        "english_course_name": "Jazz Saxophone (Major) (Ⅰ)",
-        "credits": "1/1",
-        "teacher": "/程森杰",
-        "classroom": "/教師研究室",
-        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
-        "college": "藝術學院::COLLEGE OF THE ARTS"
-    },
     "MUS_18210": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -39291,6 +39275,22 @@
         "english_course_name": "Jazz Bass (Minor) (I)",
         "credits": "0.5/0.5",
         "teacher": "/山田洋平",
+        "classroom": "/教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_18350": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "MUS_18350",
+        "sql_id": "114173983",
+        "course_name": "薩克斯風(主修) (1)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114173983",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114173983",
+        "class_time": "/一1",
+        "english_course_name": "Saxophone (Major)（Ⅰ）",
+        "credits": "1/1",
+        "teacher": "/程森杰",
         "classroom": "/教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
