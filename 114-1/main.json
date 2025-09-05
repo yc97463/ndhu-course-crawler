@@ -30667,7 +30667,7 @@
         "english_course_name": "Chinese Syntactic Structure",
         "credits": "2/2",
         "teacher": "/傅國忠",
-        "classroom": "/人社一館B206/人社一館B206",
+        "classroom": "/人社一館A318/人社一館A318",
         "offering_department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -38143,6 +38143,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "MUS_5170AE": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "MUS_5170AE",
+        "sql_id": "114188436",
+        "course_name": "引導研究AE",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114188436",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114188436",
+        "class_time": "/五2",
+        "english_course_name": "Directed Individual Study",
+        "credits": "1/1",
+        "teacher": "/魏廣晧",
+        "classroom": "/教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_52000": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -38507,6 +38523,38 @@
         "english_course_name": "Independent Study",
         "credits": "1/1",
         "teacher": "/王麗倩",
+        "classroom": "/教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_5910AA": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "MUS_5910AA",
+        "sql_id": "114199578",
+        "course_name": "獨立研究AA",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114199578",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114199578",
+        "class_time": "/四2",
+        "english_course_name": "Independent Study",
+        "credits": "1/1",
+        "teacher": "/王麗倩",
+        "classroom": "/教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_5910AB": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "MUS_5910AB",
+        "sql_id": "114142781",
+        "course_name": "獨立研究AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114142781",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114142781",
+        "class_time": "/四2",
+        "english_course_name": "Independent Study",
+        "credits": "1/1",
+        "teacher": "/魏廣晧",
         "classroom": "/教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -39818,7 +39866,7 @@
         "class_time": "/五14/五15",
         "english_course_name": "Chamber Music Winds Ensemble（I）",
         "credits": "1/2",
-        "teacher": "/待聘",
+        "teacher": "/呂彥輝/程森杰",
         "classroom": "/藝術學院C103/藝術學院C103",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -41306,7 +41354,7 @@
         "class_time": "/四3",
         "english_course_name": "Special Topics (I)",
         "credits": "1/1",
-        "teacher": "/湯運添/韓毓琦/顏彗如",
+        "teacher": "/吳偉谷/韓毓琦/顏彗如",
         "classroom": "/藝術學院A464",
         "offering_department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -41322,7 +41370,7 @@
         "class_time": "/四3",
         "english_course_name": "Special Topics (I)",
         "credits": "1/1",
-        "teacher": "/黃琡雅/黃成永/廖慶華",
+        "teacher": "/黃琡雅/黃成永/洪莫愁",
         "classroom": "/藝術學院A362",
         "offering_department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -41338,7 +41386,7 @@
         "class_time": "/四3",
         "english_course_name": "Special Topics (I)",
         "credits": "1/1",
-        "teacher": "/田名璋/吳偉谷/洪莫愁",
+        "teacher": "/湯運添/田名璋/廖慶華",
         "classroom": "/藝術工坊111",
         "offering_department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -44267,7 +44315,7 @@
         "english_course_name": "Theory & Practice in Public Administration",
         "credits": "3/3",
         "teacher": "/陳成宏",
-        "classroom": "/教育學院B331/教育學院B331/教育學院B331",
+        "classroom": "/教育學院C242/教育學院C242/教育學院C242",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -47578,7 +47626,7 @@
         "class_time": "/二11/二12",
         "english_course_name": "Indigenous Languages I",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/陳宇",
         "classroom": "/原民院C113/原民院C113",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -48986,7 +49034,7 @@
         "class_time": "/二8/二9/二10",
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/素伊．多夕",
         "classroom": "/原民院C113/原民院C113/原民院C113",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -50523,12 +50571,12 @@
         "english_course_name": "Calligraphy Family Special Course (I)",
         "credits": "1/1",
         "teacher": "/廖慶華",
-        "classroom": "/洄瀾學院C102",
+        "classroom": "/藝術學院A262",
         "offering_department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN",
         "college": "洄瀾學院::COLLEGE OF HUILAN"
     },
     "RVIS10120": {
-        "campus": "壽豐校區",
+        "campus": "其它",
         "department": "學一",
         "course_id": "RVIS10120",
         "sql_id": "114142466",
@@ -50539,7 +50587,7 @@
         "english_course_name": "Literature Family Special Course (I)",
         "credits": "1/1",
         "teacher": "/朱嘉雯",
-        "classroom": "/洄瀾學院C102",
+        "classroom": "/人社三館D220研究室",
         "offering_department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN",
         "college": "洄瀾學院::COLLEGE OF HUILAN"
     },
@@ -50555,7 +50603,7 @@
         "english_course_name": "Design Family Special Course (I)",
         "credits": "1/1",
         "teacher": "/黃琡雅",
-        "classroom": "/洄瀾學院C102",
+        "classroom": "/藝術學院A143",
         "offering_department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN",
         "college": "洄瀾學院::COLLEGE OF HUILAN"
     },
@@ -56827,7 +56875,7 @@
         "english_course_name": "Sociology of Education",
         "credits": "2/2",
         "teacher": "/李真文",
-        "classroom": "/教育學院B108/教育學院B108",
+        "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -57243,7 +57291,7 @@
         "english_course_name": "Sociology of Education",
         "credits": "2/2",
         "teacher": "/李真文",
-        "classroom": "/教育學院B108/教育學院B108",
+        "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "特教學前學程::EDUACTION PROGRAM FOR PRESCHOOL SPECIAL EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     }
