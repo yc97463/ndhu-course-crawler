@@ -1199,22 +1199,6 @@
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "AM__5807AI": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "AM__5807AI",
-        "sql_id": "114123823",
-        "course_name": "引導研究AI",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114123823",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114123823",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Directed Study",
-        "credits": "2/2",
-        "teacher": "/曹振海",
-        "classroom": "/其他",
-        "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "AM__5807AJ": {
         "campus": "其它",
         "department": "碩士",
@@ -15063,11 +15047,11 @@
         "course_name": "顧客關係管理",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114196198",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114196198",
-        "class_time": "/一4/一5/一6",
+        "class_time": "/五4/五5/五6",
         "english_course_name": "Customer Relationship Management",
         "credits": "3/3",
         "teacher": "/吳怡菱",
-        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
+        "classroom": "/管理學院C203/管理學院C203/管理學院C203",
         "offering_department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -19119,6 +19103,22 @@
         "offering_department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "IB__57770": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "IB__57770",
+        "sql_id": "114128758",
+        "course_name": "網路行銷",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114128758",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114128758",
+        "class_time": "/五4/五5/五6",
+        "english_course_name": "Internet Marketing",
+        "credits": "3/3",
+        "teacher": "/玎公明",
+        "classroom": "/管理學院C121/管理學院C121/管理學院C121",
+        "offering_department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "IB__57940": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -21146,7 +21146,7 @@
         "class_time": "/三4/三5/三6",
         "english_course_name": "Data Structures",
         "credits": "3/3",
-        "teacher": "/陳林志",
+        "teacher": "/許芳銘",
         "classroom": "/管理學院B119/管理學院B119/管理學院B119",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -24783,22 +24783,6 @@
         "offering_department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM IN ASIA-PACIFIC REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
-    "APRSD3000": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "APRSD3000",
-        "sql_id": "114162852",
-        "course_name": "可計算一般均衡模型",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114162852",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114162852",
-        "class_time": "/三4/三5/三6",
-        "english_course_name": "Computable General Equilibrium Modeling",
-        "credits": "3/3",
-        "teacher": "/高鍾煥",
-        "classroom": "/人社一館D108/人社一館D108/人社一館D108",
-        "offering_department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM IN ASIA-PACIFIC REGIONAL STUDIES",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
     "CLC_6232AA": {
         "campus": "壽豐校區",
         "department": "校核心",
@@ -27530,7 +27514,7 @@
         "class_time": "/五3/五4/五5/五6/五8/五9",
         "english_course_name": "Internship(Ⅰ)",
         "credits": "3/0:6",
-        "teacher": "/蔣世光",
+        "teacher": "/蔣世光/林義盛",
         "classroom": "/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -27563,7 +27547,7 @@
         "english_course_name": "Internship(Ⅱ)",
         "credits": "3/0:6",
         "teacher": "/蔣世光",
-        "classroom": "/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206/人社二館B206",
+        "classroom": "/教師研究室/教師研究室/教師研究室/教師研究室/教師研究室/教師研究室",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -28538,7 +28522,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study (Ⅱ)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/林燕淑",
         "classroom": "/其他",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -28554,7 +28538,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study (Ⅱ)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/尤素娟",
         "classroom": "/其他",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -28570,7 +28554,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study (Ⅱ)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/王友利",
         "classroom": "/其他",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -28842,7 +28826,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study(Ⅱ)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/李娓瑋",
         "classroom": "/其他",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -38511,30 +38495,14 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
-    "MUS_59100": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "MUS_59100",
-        "sql_id": "114163903",
-        "course_name": "獨立研究",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114163903",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114163903",
-        "class_time": "/四2",
-        "english_course_name": "Independent Study",
-        "credits": "1/1",
-        "teacher": "/王麗倩",
-        "classroom": "/教師研究室",
-        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
-        "college": "藝術學院::COLLEGE OF THE ARTS"
-    },
     "MUS_5910AA": {
         "campus": "其它",
         "department": "碩士",
         "course_id": "MUS_5910AA",
-        "sql_id": "114199578",
+        "sql_id": "114163903",
         "course_name": "獨立研究AA",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114199578",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114199578",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114163903",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114163903",
         "class_time": "/四2",
         "english_course_name": "Independent Study",
         "credits": "1/1",
@@ -45663,6 +45631,22 @@
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
+    "COE_74300": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "COE_74300",
+        "sql_id": "114154932",
+        "course_name": "教育學講座",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114154932",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114154932",
+        "class_time": "/五12",
+        "english_course_name": "Endowment Lecture on Pedagogy",
+        "credits": "1/1",
+        "teacher": "/楊熾康",
+        "classroom": "/教育學院D233",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
     "COE_74310": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -52315,7 +52299,7 @@
         "english_course_name": "Multicultural education",
         "credits": "2/2",
         "teacher": "/廉兮",
-        "classroom": "/教育學院C142/教育學院C142",
+        "classroom": "/教育學院B119/教育學院B119",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
