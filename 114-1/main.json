@@ -16463,22 +16463,6 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
-    "BM__83000": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "BM__83000",
-        "sql_id": "114187885",
-        "course_name": "數位內容專題",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114187885",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114187885",
-        "class_time": "/三8/三9/三10",
-        "english_course_name": "Research Topics on Digital Content",
-        "credits": "3/3",
-        "teacher": "/陳林志",
-        "classroom": "/管理學院C210/管理學院C210/管理學院C210",
-        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
     "BM__83100": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -20684,22 +20668,6 @@
         "credits": "3/3",
         "teacher": "/邱素文",
         "classroom": "/管理學院C109/管理學院C109/管理學院C109",
-        "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
-    "IM__50120": {
-        "campus": "壽豐校區",
-        "department": "碩士",
-        "course_id": "IM__50120",
-        "sql_id": "114102717",
-        "course_name": "數位內容專題",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114102717",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114102717",
-        "class_time": "/三8/三9/三10",
-        "english_course_name": "Research Topics on Digital Content",
-        "credits": "3/3",
-        "teacher": "/陳林志",
-        "classroom": "/管理學院C210/管理學院C210/管理學院C210",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
