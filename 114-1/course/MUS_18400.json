@@ -1,8 +1,8 @@
 {
-    "course_id": "MUS_18390",
-    "sql_id": "114121347",
-    "course_name": "聲樂語韻-義大利文(一)",
-    "english_course_name": "Study on Singer's Diction - Italian (I)",
+    "course_id": "MUS_18400",
+    "sql_id": "114123607",
+    "course_name": "聲樂語韻-義大利文(二)",
+    "english_course_name": "Study on Singer's Diction - Italian (II)",
     "credits": "1/1",
     "teacher": [
         "羅安娜"
@@ -16,8 +16,8 @@
             "period": "9"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114121347",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114121347",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114123607",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114123607",
     "departments": [
         {
             "college": "藝術學院::COLLEGE OF THE ARTS",

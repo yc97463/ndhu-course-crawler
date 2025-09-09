@@ -2522,7 +2522,7 @@
         "class_time": "/五8/五9",
         "english_course_name": "Seminar",
         "credits": "1/2",
-        "teacher": "/陳國庭",
+        "teacher": "/何彥鵬",
         "classroom": "/理工二館D201/理工二館D201",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -2586,7 +2586,7 @@
         "class_time": "/五1/五2/五3",
         "english_course_name": "Independent Study",
         "credits": "3/3",
-        "teacher": "/陳國庭",
+        "teacher": "/何彥鵬",
         "classroom": "/研究室/研究室/研究室",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -6023,7 +6023,7 @@
         "course_name": "總結性評量專題研究AC",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114167106",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114167106",
-        "class_time": "/二2/三2/四2",
+        "class_time": "/一2/二2/四2",
         "english_course_name": "Summative evaluation for Independent Study",
         "credits": "2/2",
         "teacher": "/郭永綱",
@@ -6135,7 +6135,7 @@
         "course_name": "總結性評量專題研究AJ",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114160113",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114160113",
-        "class_time": "/二2/三2/四2",
+        "class_time": "/二2/四2/四3",
         "english_course_name": "Summative evaluation for Independent Study",
         "credits": "2/2",
         "teacher": "/黃玉林",
@@ -24010,7 +24010,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Study",
         "credits": "1/1",
-        "teacher": "/吳冠宏",
+        "teacher": "/李正芬",
         "classroom": "/其他",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM IN TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -39311,16 +39311,16 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
-    "MUS_18390": {
+    "MUS_18400": {
         "campus": "壽豐校區",
         "department": "學一",
-        "course_id": "MUS_18390",
-        "sql_id": "114121347",
-        "course_name": "聲樂語韻-義大利文(一)",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114121347",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114121347",
+        "course_id": "MUS_18400",
+        "sql_id": "114123607",
+        "course_name": "聲樂語韻-義大利文(二)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114123607",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114123607",
         "class_time": "/二9",
-        "english_course_name": "Study on Singer's Diction - Italian (I)",
+        "english_course_name": "Study on Singer's Diction - Italian (II)",
         "credits": "1/1",
         "teacher": "/羅安娜",
         "classroom": "/藝術學院B120",
@@ -43499,7 +43499,7 @@
         "english_course_name": "Autism Spectrum Disorders",
         "credits": "2/2",
         "teacher": "/王淑惠",
-        "classroom": "/教育學院C131/教育學院C131",
+        "classroom": "/教育學院A106/教育學院A106",
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43595,7 +43595,7 @@
         "english_course_name": "Introduction to Early Intervention",
         "credits": "2/2",
         "teacher": "/鍾莉娟",
-        "classroom": "/教育學院C131/教育學院C131",
+        "classroom": "/教育學院A106/教育學院A106",
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43851,7 +43851,7 @@
         "english_course_name": "Practicum in Special Education(2)",
         "credits": "4/4",
         "teacher": "/廖永堃",
-        "classroom": "/教育學院A106/教育學院A106/教育學院A106/教育學院A106",
+        "classroom": "/教育學院C131/教育學院C131/教育學院C131/教育學院C131",
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -45866,7 +45866,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Individual Study",
         "credits": "1/1",
-        "teacher": "/李明憲/李真文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
+        "teacher": "/李真文/李崗/林意雪/高台茜/高金成/劉唯玉",
         "classroom": "/其他",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -45882,7 +45882,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Thesis Guidance",
         "credits": "2/2",
-        "teacher": "/李真文/李崗/高台茜/高金成/張德勝/劉佩雲/謝顥音",
+        "teacher": "/李崗/高台茜/張德勝/劉佩雲/謝顥音/楊熾康",
         "classroom": "/其他",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -49435,7 +49435,7 @@
         "english_course_name": "Communication Industry and Policy",
         "credits": "3/3",
         "teacher": "/董克景",
-        "classroom": "/原民院A338/原民院A338/原民院A338",
+        "classroom": "/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137/原民院-階梯教室(一)A137",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
