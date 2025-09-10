@@ -5,20 +5,30 @@
     "english_course_name": "Indigenous Languages I",
     "credits": "2/2",
     "teacher": [
-        "楊金富"
+        "陳宇"
     ],
     "classroom": [
-        "線上授課",
-        "線上授課"
+        "原民院A349",
+        "原民院A349",
+        "原民院A349",
+        "原民院A349"
     ],
     "class_time": [
         {
-            "day": "四",
-            "period": "11"
+            "day": "五",
+            "period": "8"
         },
         {
-            "day": "四",
-            "period": "12"
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114136343",
