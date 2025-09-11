@@ -5899,7 +5899,7 @@
         "english_course_name": "Thermal Physics",
         "credits": "3/3",
         "teacher": "/張俊明",
-        "classroom": "/育成中心1-4/育成中心1-4/育成中心1-4",
+        "classroom": "/理工二館C203/理工二館C203/理工二館C203",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -5915,7 +5915,7 @@
         "english_course_name": "Thermal Physics",
         "credits": "3/3",
         "teacher": "/張俊明",
-        "classroom": "/育成中心1-4/育成中心1-4/育成中心1-4",
+        "classroom": "/理工二館C203/理工二館C203/理工二館C203",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9307,7 +9307,7 @@
         "english_course_name": "Digital Logic Design",
         "credits": "3/3",
         "teacher": "/楊慶隆",
-        "classroom": "/理工二館-ZT講堂C101/理工二館-ZT講堂C101/理工二館-ZT講堂C101",
+        "classroom": "/理工二館A329/理工二館A329/理工二館A329",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9595,7 +9595,7 @@
         "english_course_name": "Computer Architecture",
         "credits": "3/3",
         "teacher": "/紀新洲",
-        "classroom": "/理工二館-第一講堂A127/理工二館-第一講堂A127/理工二館-第一講堂A127",
+        "classroom": "/理工二館A331/理工二館A331/理工二館A331",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10171,7 +10171,7 @@
         "english_course_name": "Semiconductor Materials",
         "credits": "3/3",
         "teacher": "/林育賢",
-        "classroom": "/理工二館A229/理工二館A229/理工二館A229",
+        "classroom": "/理工二館-ZT講堂C101/理工二館-ZT講堂C101/理工二館-ZT講堂C101",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10187,7 +10187,7 @@
         "english_course_name": "Semiconductor Materials",
         "credits": "3/3",
         "teacher": "/林育賢",
-        "classroom": "/理工二館A229/理工二館A229/理工二館A229",
+        "classroom": "/理工二館-ZT講堂C101/理工二館-ZT講堂C101/理工二館-ZT講堂C101",
         "offering_department": "光電工程學系::DEPARTMENT OF OPTO-ELECTRONIC ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10347,7 +10347,7 @@
         "english_course_name": "Engineering Mathematics （I）",
         "credits": "3/3",
         "teacher": "/紀渥德",
-        "classroom": "/理工二館A231/理工二館A231/理工二館A231",
+        "classroom": "/理工二館-第一講堂A127/理工二館-第一講堂A127/理工二館-第一講堂A127",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -27643,7 +27643,7 @@
         "english_course_name": "Theories and Techniques of Counseling",
         "credits": "3/3",
         "teacher": "/余振民",
-        "classroom": "/人社二館-第四講堂B011/人社二館-第四講堂B011/人社二館-第四講堂B011",
+        "classroom": "/藝術學院A116/藝術學院A116/藝術學院A116",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -27835,7 +27835,7 @@
         "english_course_name": "Career Counseling and Practice",
         "credits": "3/3",
         "teacher": "/王沂釗",
-        "classroom": "/人社二館B101/人社二館B101/人社二館B101",
+        "classroom": "/人社二館-第一講堂B005/人社二館-第一講堂B005/人社二館-第一講堂B005",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -27851,7 +27851,7 @@
         "english_course_name": "Marriage and Family",
         "credits": "3/3",
         "teacher": "/李慧芳",
-        "classroom": "/人社二館B101/人社二館B101/人社二館B101",
+        "classroom": "/人社二館-第四講堂B011/人社二館-第四講堂B011/人社二館-第四講堂B011",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -31579,7 +31579,7 @@
         "english_course_name": "Social Theory",
         "credits": "3/3",
         "teacher": "/林子新",
-        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
+        "classroom": "/人社二館D107/人社二館D107/人社二館D107",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -31979,7 +31979,7 @@
         "english_course_name": "Social Philosophy",
         "credits": "3/3",
         "teacher": "/黃華彥",
-        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
+        "classroom": "/人社二館A101/人社二館A101/人社二館A101",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32059,7 +32059,7 @@
         "english_course_name": "Urban Sociology",
         "credits": "3/3",
         "teacher": "/黎德星",
-        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
+        "classroom": "/人社二館D107/人社二館D107/人社二館D107",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32091,7 +32091,7 @@
         "english_course_name": "Community Participation Action",
         "credits": "3/3",
         "teacher": "/陳素梅",
-        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
+        "classroom": "/人社二館D107/人社二館D107/人社二館D107",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32139,7 +32139,7 @@
         "english_course_name": "Gender and Health",
         "credits": "3/3",
         "teacher": "/梁莉芳",
-        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
+        "classroom": "/人社三館C116/人社三館C116/人社三館C116",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32171,7 +32171,7 @@
         "english_course_name": "Social Innovation",
         "credits": "3/3",
         "teacher": "/蔡侑霖",
-        "classroom": "/人社二館D105/人社二館D105/人社二館D105",
+        "classroom": "/人社二館D107/人社二館D107/人社二館D107",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -41691,7 +41691,7 @@
         "english_course_name": "Sociology of Education",
         "credits": "2/2",
         "teacher": "/王采薇",
-        "classroom": "/教育學院C111/教育學院C111",
+        "classroom": "/教育學院B119/教育學院B119",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -53803,7 +53803,7 @@
         "english_course_name": "Personal Finance for a Fulfilled Life",
         "credits": "2/2",
         "teacher": "/翁胤哲",
-        "classroom": "/管理學院C221/管理學院C221",
+        "classroom": "/管理學院D111/管理學院D111",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
