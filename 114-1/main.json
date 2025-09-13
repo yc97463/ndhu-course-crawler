@@ -3151,6 +3151,22 @@
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "CHEM5600AI": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "CHEM5600AI",
+        "sql_id": "114120153",
+        "course_name": "論文研究AI",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114120153",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114120153",
+        "class_time": "/五1",
+        "english_course_name": "Thesis",
+        "credits": "1/1",
+        "teacher": "/張海舟",
+        "classroom": "/研究室",
+        "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "CHEM56200": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -10235,7 +10251,7 @@
         "english_course_name": "Spectroscopy for Material Science",
         "credits": "3/3",
         "teacher": "/陳素華",
-        "classroom": "/理工二館C109/理工二館C109/理工二館C109",
+        "classroom": "/理工二館C205/理工二館C205/理工二館C205",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -12571,7 +12587,7 @@
         "english_course_name": "Numerical analysis and calculation for Opto-electronics",
         "credits": "3/3",
         "teacher": "/李政誼",
-        "classroom": "/理工二館C309/理工二館C309/理工二館C309",
+        "classroom": "/理工二館D309/理工二館D309/理工二館D309",
         "offering_department": "光電工程學系::DEPARTMENT OF OPTO-ELECTRONIC ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13114,7 +13130,7 @@
         "class_time": "/五3",
         "english_course_name": "Journal club (Ⅰ)",
         "credits": "1/1",
-        "teacher": "/彭致文",
+        "teacher": "/蘇玟珉/傅詩宸/謝函芸/林哲緯",
         "classroom": "/理工三館B201",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -13835,7 +13851,7 @@
         "english_course_name": "Bioconjugate Techniques and Biomedical Applications",
         "credits": "3/3",
         "teacher": "/李佳洪",
-        "classroom": "/理工三館D102/理工三館D102/理工三館D102",
+        "classroom": "/原民院-階梯教室(二)A151/原民院-階梯教室(二)A151/原民院-階梯教室(二)A151",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -14636,6 +14652,22 @@
         "credits": "3/3",
         "teacher": "/彭玉樹",
         "classroom": "/教師研究室/教師研究室/教師研究室",
+        "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "MGT_5390AM": {
+        "campus": "其它",
+        "department": "碩專",
+        "course_id": "MGT_5390AM",
+        "sql_id": "114114410",
+        "course_name": "專題研究AM",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114114410",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114114410",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "Independent Study",
+        "credits": "3/3",
+        "teacher": "/陳正杰",
+        "classroom": "/其他",
         "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -20555,7 +20587,7 @@
         "english_course_name": "Cost and Management Accounting (I)",
         "credits": "3/3",
         "teacher": "/黃德芬",
-        "classroom": "/管理學院C135/管理學院C135/管理學院C135",
+        "classroom": "/管理學院B111/管理學院B111/管理學院B111",
         "offering_department": "會計學系::DEPARTMENT OF ACCOUNTING",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -23563,7 +23595,7 @@
         "english_course_name": "Hospitality Management",
         "credits": "3/3",
         "teacher": "/黃怡君",
-        "classroom": "/管理學院B111/管理學院B111/管理學院B111",
+        "classroom": "/管理學院C135/管理學院C135/管理學院C135",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -26091,7 +26123,7 @@
         "english_course_name": "English Composition (I), 1st Semester",
         "credits": "3/3",
         "teacher": "/廖高成",
-        "classroom": "/人社一館D204/人社一館D204/人社一館D204",
+        "classroom": "/人社一館A306/人社一館A306/人社一館A306",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -49259,7 +49291,7 @@
         "english_course_name": "Indigenous Languages Reading",
         "credits": "2/2",
         "teacher": "/Sifo Lakaw",
-        "classroom": "/原民院A351/原民院A351",
+        "classroom": "/原民院A347/原民院A347",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -50235,7 +50267,7 @@
         "english_course_name": "Social Case Work",
         "credits": "3/3",
         "teacher": "/莊曉霞",
-        "classroom": "/原民院A327/原民院A327/原民院A327",
+        "classroom": "/原民院A223/原民院A223/原民院A223",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -50267,7 +50299,7 @@
         "english_course_name": "Medical Social Work",
         "credits": "3/3",
         "teacher": "/鄭期緯",
-        "classroom": "/原民院A327/原民院A327/原民院A327",
+        "classroom": "/原民院A223/原民院A223/原民院A223",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -57019,7 +57051,7 @@
         "english_course_name": "Instructional Materials and Methods for Chinese Language Area in Secondary Education 1",
         "credits": "2/2",
         "teacher": "/溫光華",
-        "classroom": "/教育學院C142/教育學院C142",
+        "classroom": "/人社一館B206/人社一館B206",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
