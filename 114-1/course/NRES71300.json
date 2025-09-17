@@ -14,16 +14,16 @@
     ],
     "class_time": [
         {
-            "day": "二",
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
             "period": "2"
         },
         {
-            "day": "二",
+            "day": "三",
             "period": "3"
-        },
-        {
-            "day": "二",
-            "period": "12"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114108335",

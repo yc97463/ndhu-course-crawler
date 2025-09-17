@@ -1,17 +1,16 @@
 {
-    "course_id": "NRES5400AB",
-    "sql_id": "114118041",
-    "course_name": "專題討論AB",
+    "course_id": "NRES5400AH",
+    "sql_id": "114186485",
+    "course_name": "專題討論AH",
     "english_course_name": "seminar",
     "credits": "2/3",
     "teacher": [
-        "許育誠",
-        "黃國靖"
+        "張文彥"
     ],
     "classroom": [
-        "環境學院A155",
-        "環境學院A155",
-        "環境學院A155"
+        "環境學院B160",
+        "環境學院B160",
+        "環境學院B160"
     ],
     "class_time": [
         {
@@ -27,8 +26,8 @@
             "period": "6"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114118041",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114118041",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114186485",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114186485",
     "departments": [
         {
             "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",

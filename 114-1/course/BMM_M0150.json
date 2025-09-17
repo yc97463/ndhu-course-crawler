@@ -5,19 +5,22 @@
     "english_course_name": "Journal club (Ⅰ)",
     "credits": "2/2",
     "teacher": [
-        "蘇玟珉"
+        "蘇玟珉",
+        "傅詩宸",
+        "謝函芸",
+        "林哲緯"
     ],
     "classroom": [
-        "理工三館D102",
-        "理工三館D102"
+        "理工三館B201",
+        "理工三館B201"
     ],
     "class_time": [
         {
-            "day": "五",
+            "day": "三",
             "period": "5"
         },
         {
-            "day": "五",
+            "day": "三",
             "period": "6"
         }
     ],
