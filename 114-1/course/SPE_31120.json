@@ -8,17 +8,17 @@
         "廖永堃"
     ],
     "classroom": [
-        "教育學院A104",
-        "教育學院A104"
+        "教育學院A106",
+        "教育學院A106"
     ],
     "class_time": [
         {
             "day": "三",
-            "period": "3"
+            "period": "11"
         },
         {
             "day": "三",
-            "period": "4"
+            "period": "12"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114189005",
