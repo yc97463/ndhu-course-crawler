@@ -2491,7 +2491,7 @@
         "english_course_name": "General Chemistry (I)",
         "credits": "3/3",
         "teacher": "/錢嘉琳",
-        "classroom": "/理工一館D241/理工一館D241/理工一館D241",
+        "classroom": "/理工一館-第三講堂/原民院-階梯教室(二)A151/原民院-階梯教室(二)A151",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -6416,7 +6416,7 @@
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
     "CSIE10920": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "學二",
         "course_id": "CSIE10920",
         "sql_id": "114126654",
@@ -6427,7 +6427,7 @@
         "english_course_name": "Programming Ability Certification",
         "credits": "0/0",
         "teacher": "/張意政",
-        "classroom": "/其他",
+        "classroom": "/理工二館B204",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -6576,7 +6576,7 @@
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
     "CSIEB0470": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "學二",
         "course_id": "CSIEB0470",
         "sql_id": "114102309",
@@ -6587,7 +6587,7 @@
         "english_course_name": "Programming Ability Certification",
         "credits": "0/0",
         "teacher": "/張意政",
-        "classroom": "/其他",
+        "classroom": "/理工二館B204",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -6624,18 +6624,18 @@
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
     "CSIE30500": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "學三",
         "course_id": "CSIE30500",
         "sql_id": "114152336",
         "course_name": "畢業專題(一)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114152336",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114152336",
-        "class_time": "/與教師另行約定",
+        "class_time": "/一1/二1",
         "english_course_name": "undergraduate Project（I）",
         "credits": "1/2",
         "teacher": "/黃振榮/方文杰",
-        "classroom": "/其他",
+        "classroom": "/理工二館B204/理工二館B204",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -6832,18 +6832,18 @@
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
     "CSIEB0320": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "學三",
         "course_id": "CSIEB0320",
         "sql_id": "114184583",
         "course_name": "畢業專題（一）",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114184583",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114184583",
-        "class_time": "/與教師另行約定",
+        "class_time": "/一1/二1",
         "english_course_name": "Undergraduate Project（Ⅰ）",
         "credits": "1/2",
         "teacher": "/黃振榮/方文杰",
-        "classroom": "/其他",
+        "classroom": "/理工二館B204/理工二館B204",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -28343,7 +28343,7 @@
         "course_name": "聲樂語韻-義大利文(二)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114123607",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114123607",
-        "class_time": "/二9",
+        "class_time": "/二12",
         "english_course_name": "Study on Singer's Diction - Italian (II)",
         "credits": "1/1",
         "teacher": "/羅安娜",
@@ -29319,7 +29319,7 @@
         "course_name": "音樂職涯實務AB",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114163156",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114163156",
-        "class_time": "/四3/四4",
+        "class_time": "/一3/一4",
         "english_course_name": "Music Career Practicum",
         "credits": "2/2",
         "teacher": "/沈克恕",
@@ -35355,7 +35355,7 @@
         "english_course_name": "Special Topics in Physical Fitness",
         "credits": "2/2",
         "teacher": "/陳韋翰",
-        "classroom": "/教育學院D309/教育學院D309/教育學院D309/教育學院D309",
+        "classroom": "/教育學院B112/教育學院B112/教育學院B112/教育學院B112",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -39659,7 +39659,7 @@
         "english_course_name": "Bible and Whole-Person Development",
         "credits": "2/2",
         "teacher": "/劉効樺/許芳銘",
-        "classroom": "/人社二館-第四講堂B011/人社二館-第四講堂B011",
+        "classroom": "/人社二館B101/人社二館B101",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -40700,6 +40700,22 @@
         "credits": "2/2",
         "teacher": "/林坤茂",
         "classroom": "/管理學院-第二講堂D124/管理學院-第二講堂D124",
+        "offering_department": "通識課程::General courses",
+        "college": "校核心課程::University Core Curriculum"
+    },
+    "GC__65270": {
+        "campus": "壽豐校區",
+        "department": "校核心",
+        "course_id": "GC__65270",
+        "sql_id": "114147274",
+        "course_name": "道路危機管理與防禦駕駛安全實務",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114147274",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114147274",
+        "class_time": "/三9/三10/三11/三12",
+        "english_course_name": "Practice of Road Crisis Management and Defensive Driving Safety",
+        "credits": "2/2",
+        "teacher": "/黃增樟",
+        "classroom": "/理工二館A429/理工二館A429/理工二館A429/理工二館A429",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -44299,7 +44315,7 @@
         "english_course_name": "Mandarin Phonetics and Conversation Skills",
         "credits": "2/2",
         "teacher": "/張啟超",
-        "classroom": "/教育學院B124/教育學院B124",
+        "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },

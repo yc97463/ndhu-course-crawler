@@ -9,12 +9,17 @@
         "方文杰"
     ],
     "classroom": [
-        "其他"
+        "理工二館B204",
+        "理工二館B204"
     ],
     "class_time": [
         {
-            "day": "與",
-            "period": "教師另行約定"
+            "day": "一",
+            "period": "1"
+        },
+        {
+            "day": "二",
+            "period": "1"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114152336",
