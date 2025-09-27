@@ -7647,6 +7647,22 @@
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "EE__7129AD": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "EE__7129AD",
+        "sql_id": "114108445",
+        "course_name": "專題研究AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114108445",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114108445",
+        "class_time": "/五1/五2",
+        "english_course_name": "Independent Study",
+        "credits": "2/2",
+        "teacher": "/張伯浩",
+        "classroom": "/實驗室/實驗室",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "EE__7129AH": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -7883,6 +7899,22 @@
         "english_course_name": "Directed Study",
         "credits": "2/2",
         "teacher": "/陳震宇",
+        "classroom": "/實驗室/實驗室",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "EE__M005AL": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "EE__M005AL",
+        "sql_id": "114127875",
+        "course_name": "引導研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114127875",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114127875",
+        "class_time": "/五1/五2",
+        "english_course_name": "Directed Study",
+        "credits": "2/2",
+        "teacher": "/謝長倭",
         "classroom": "/實驗室/實驗室",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -23243,7 +23275,7 @@
         "english_course_name": "Administrative Law",
         "credits": "3/3",
         "teacher": "/黃愛珍",
-        "classroom": "/人社一館-第三講堂C109/人社一館-第三講堂C109/人社一館-第三講堂C109",
+        "classroom": "/原民院-階梯教室(二)A151/原民院-階梯教室(二)A151/原民院-階梯教室(二)A151",
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -29018,7 +29050,7 @@
         "class_time": "/五14/五15",
         "english_course_name": "Chamber Music Winds Ensemble（I）",
         "credits": "1/2",
-        "teacher": "/呂彥輝/程森杰",
+        "teacher": "/呂彥輝/程森杰/游瑞玲",
         "classroom": "/藝術學院C103/藝術學院C103",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -37227,7 +37259,7 @@
         "english_course_name": "Indigenous Languages（III）",
         "credits": "2/2",
         "teacher": "/黃桂英",
-        "classroom": "/原民院A351/原民院A351/原民院A351",
+        "classroom": "/原民院A240/原民院A240/原民院A240",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
