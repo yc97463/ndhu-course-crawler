@@ -56,14 +56,14 @@ def crawl_semester(driver, semester_name, semester_value):
     print(f"🔄 正在處理學期：{semester_name} ({semester_dir})")
     
     # 跳過超過通常的學期
-    if semester_dir.split("-")[-1] > "2":
-        print(f"👋 {semester_name} 超過通常的學期，跳過")
-        return
+    # if semester_dir.split("-")[-1] > "2":
+    #     print(f"👋 {semester_name} 超過通常的學期，跳過")
+    #     return
     
     # 105 學年度之前的學期不處理
-    if semester_dir.split("-")[0] < "105":
-        print(f"👋 {semester_name} 105 學年度之前的學期，跳過")
-        return
+    # if semester_dir.split("-")[0] < "105":
+    #     print(f"👋 {semester_name} 105 學年度之前的學期，跳過")
+    #     return
     
     # 選擇學期
     semester_select = Select(driver.find_element(By.NAME, "ddlYEAR"))

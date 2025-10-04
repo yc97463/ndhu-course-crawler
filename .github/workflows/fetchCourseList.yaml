@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -47,30 +47,30 @@ jobs:
           from webdriver_manager.chrome import ChromeDriverManager
           from selenium.webdriver.chrome.service import Service
           import json
-          
+
           options = webdriver.ChromeOptions()
           options.add_argument('--headless')
           options.add_argument('--no-sandbox')
           options.add_argument('--disable-dev-shm-usage')
           options.add_argument('--disable-gpu')
-          
+
           driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
           driver.get('https://sys.ndhu.edu.tw/aa/class/course/Default.aspx')
-          
+
           WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, 'ddlCOLLEGE')))
-          
+
           semester_select = Select(driver.find_element(By.NAME, 'ddlYEAR'))
           all_semesters = [option.get_attribute('value').strip().replace('/', '-') for option in semester_select.options]
-          
+
           # 儲存完整的學期列表到 semester.json
           with open('semester.json', 'w', encoding='utf-8') as f:
               json.dump(all_semesters, f, indent=4, ensure_ascii=False)
-          
+
           # 過濾掉不需要爬取的學期
-          crawl_semesters = [s for s in all_semesters if s.split('-')[0] >= '105' and s.split('-')[-1] <= '2']
-          
+          # crawl_semesters = [s for s in all_semesters if s.split('-')[0] >= '105' and s.split('-')[-1] <= '2']
+
           driver.quit()
-          
+
           matrix = json.dumps({'semester': crawl_semesters})
           print(f'matrix={matrix}')
           " >> $GITHUB_OUTPUT
@@ -137,7 +137,7 @@ jobs:
       - name: Prepare GitHub Pages Deployment
         run: |
           mkdir -p dist
-          
+
           # 複製 semester.json 到根目錄
           if [ -f "artifacts/semester-list/semester.json" ]; then
             cp "artifacts/semester-list/semester.json" dist/
@@ -145,7 +145,7 @@ jobs:
           else
             echo "❌ 找不到 semester.json"
           fi
-          
+
           # 移動所有學期資料到 dist 目錄（維持原始學期名稱格式）
           for semester_dir in artifacts/*/; do
             semester_name=$(basename "$semester_dir")
@@ -158,9 +158,9 @@ jobs:
               fi
             fi
           done
-          
+
           echo "<h1>NDHU Course Data</h1>" > dist/index.html
-          
+
           # 顯示最終結果
           echo "📋 最終 dist 目錄結構："
           ls -la dist/
