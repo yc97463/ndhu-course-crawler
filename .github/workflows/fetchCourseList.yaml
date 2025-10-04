@@ -68,6 +68,7 @@ jobs:
 
           # 過濾掉不需要爬取的學期
           # crawl_semesters = [s for s in all_semesters if s.split('-')[0] >= '105' and s.split('-')[-1] <= '2']
+          crawl_semesters = all_semesters
 
           driver.quit()
 
