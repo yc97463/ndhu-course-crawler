@@ -2475,7 +2475,7 @@
         "english_course_name": "General Chemistry (I)",
         "credits": "3/3",
         "teacher": "/劉鎮維",
-        "classroom": "/理工一館D241/理工一館D241/理工一館D241",
+        "classroom": "/理工一館B201/理工一館B201/理工一館B201",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -4522,7 +4522,7 @@
         "class_time": "/二2/三2/四2",
         "english_course_name": "Independent Study (II)",
         "credits": "2/2",
-        "teacher": "/葉旺奇/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/陳企寧/張俊明/吳勝允/黃玉林/彭文平/紀信昌/賴建智/葉振斌",
+        "teacher": "/葉旺奇/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/陳企寧/張俊明/吳勝允/黃玉林/彭文平/紀信昌/賴建智/葉振斌/戴德昌",
         "classroom": "/理工一館A209/理工一館A209/理工一館A209",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -4538,7 +4538,7 @@
         "class_time": "/二2/三2/四2",
         "english_course_name": "Independent Study (II)",
         "credits": "2/2",
-        "teacher": "/葉旺奇/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/陳企寧/張俊明/吳勝允/黃玉林/彭文平/紀信昌/賴建智/葉振斌",
+        "teacher": "/葉旺奇/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/陳企寧/張俊明/吳勝允/黃玉林/彭文平/紀信昌/賴建智/葉振斌/戴德昌",
         "classroom": "/理工一館A209/理工一館A209/理工一館A209",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -6618,7 +6618,7 @@
         "class_time": "/一1/二1",
         "english_course_name": "undergraduate Project（I）",
         "credits": "1/2",
-        "teacher": "/黃振榮/方文杰",
+        "teacher": "/江政欽/高韓英/張紘睿/張意政/張道顧/陳旻秀/楊茂村/楊慶隆/蔡正雄/賴志宏/賴寶蓮/簡暐哲/顏士淨/羅壽之/周世杰",
         "classroom": "/理工二館B204/理工二館B204",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -6826,7 +6826,7 @@
         "class_time": "/一1/二1",
         "english_course_name": "Undergraduate Project（Ⅰ）",
         "credits": "1/2",
-        "teacher": "/黃振榮/方文杰",
+        "teacher": "/方文杰/林信鋒/高韓英/張紘睿/張意政/張道顧/陳旻秀/顏士淨/李官陵",
         "classroom": "/理工二館B204/理工二館B204",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -8442,7 +8442,7 @@
         "class_time": "/四1/四2/五1",
         "english_course_name": "Special Topics in Electrical Engineering Lab.(I)",
         "credits": "1/3",
-        "teacher": "/黃家華/陳美娟/翁若敏/鄭献勳/張伯浩/陳俊全/謝欣然/陳震宇/林群傑/劉耿銘/吳柏宏/謝長倭",
+        "teacher": "/黃家華/陳美娟/翁若敏/謝欣然/陳震宇/林群傑/劉耿銘/吳柏宏/謝長倭",
         "classroom": "/實驗室/實驗室/實驗室",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -22026,7 +22026,7 @@
         "class_time": "/三2/三3",
         "english_course_name": "Thesis",
         "credits": "2/2",
-        "teacher": "/李世偉/林潤華/張瓊文/郭俊麟/郭澤寬/黃雯娟/葉爾建/葉韻翠",
+        "teacher": "/李世偉/林潤華/張瓊文/郭澤寬/葉爾建",
         "classroom": "/人社三館D301/人社三館D301",
         "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
