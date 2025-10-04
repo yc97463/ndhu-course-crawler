@@ -1,0 +1,37 @@
+{
+    "course_id": "SD__51500",
+    "sql_id": "103276445",
+    "course_name": "量化研究",
+    "english_course_name": "Quantitative Research",
+    "credits": "3/3",
+    "teacher": [
+        "呂傑華"
+    ],
+    "classroom": [
+        "教PC2(B220)",
+        "教PC2(B220)",
+        "教PC2(B220)"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103276445",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103276445",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

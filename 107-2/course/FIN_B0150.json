@@ -1,0 +1,41 @@
+{
+    "course_id": "FIN_B0150",
+    "sql_id": "107280121",
+    "course_name": "國際金融市場",
+    "english_course_name": "International Financial Markets",
+    "credits": "3/3",
+    "teacher": [
+        "翁胤哲"
+    ],
+    "classroom": [
+        "管理學院C103",
+        "管理學院C103",
+        "管理學院C103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107280121",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107280121",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

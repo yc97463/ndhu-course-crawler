@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI52160",
+    "sql_id": "100117213",
+    "course_name": "文化創意產業專題（一）",
+    "english_course_name": "Seminar in Cultural Creative Industries（Ｉ）",
+    "credits": "3/3",
+    "teacher": [
+        "林黛嫚"
+    ],
+    "classroom": [
+        "文B302",
+        "文B302",
+        "文B302"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100117213",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100117213",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

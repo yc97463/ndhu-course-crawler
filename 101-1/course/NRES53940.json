@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES53940",
+    "sql_id": "101129792",
+    "course_name": "人文生態與環境倫理",
+    "english_course_name": "Humanity, Ecology and Environmental Ethic",
+    "credits": "3/3",
+    "teacher": [
+        "梁明煌"
+    ],
+    "classroom": [
+        "環A155",
+        "環A155",
+        "環A155"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101129792",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101129792",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

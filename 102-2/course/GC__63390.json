@@ -1,0 +1,35 @@
+{
+    "course_id": "GC__63390",
+    "sql_id": "102238486",
+    "course_name": "花東生活與科學面面觀",
+    "english_course_name": "Overview of the Life in Hualien Taitung?and Science",
+    "credits": "2/2",
+    "teacher": [
+        "蔡志宏",
+        "莊沁融",
+        "徐裕奎",
+        "白益豪"
+    ],
+    "classroom": [
+        "工A437",
+        "工A437"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102238486",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102238486",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

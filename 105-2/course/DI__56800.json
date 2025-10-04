@@ -1,0 +1,37 @@
+{
+    "course_id": "DI__56800",
+    "sql_id": "105294531",
+    "course_name": "自然資源與環境政治",
+    "english_course_name": "Natural Resources and The Politics of Environment",
+    "credits": "3/3",
+    "teacher": [
+        "陳毅峰"
+    ],
+    "classroom": [
+        "原民院A317",
+        "原民院A317",
+        "原民院A317"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105294531",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105294531",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

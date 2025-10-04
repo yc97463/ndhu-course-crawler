@@ -1,0 +1,41 @@
+{
+    "course_id": "IB__2080AB",
+    "sql_id": "108180358",
+    "course_name": "人力資源管理AB",
+    "english_course_name": "Human resources Management",
+    "credits": "3/3",
+    "teacher": [
+        "張國義"
+    ],
+    "classroom": [
+        "管理學院A119",
+        "管理學院A119",
+        "管理學院A119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108180358",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108180358",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

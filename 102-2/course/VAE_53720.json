@@ -1,0 +1,37 @@
+{
+    "course_id": "VAE_53720",
+    "sql_id": "102223208",
+    "course_name": "劇場藝術與教學應用",
+    "english_course_name": "Theatre Arts and Education",
+    "credits": "3/3",
+    "teacher": [
+        "秦嘉嫄"
+    ],
+    "classroom": [
+        "民B110",
+        "民B110",
+        "民B110"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102223208",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102223208",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

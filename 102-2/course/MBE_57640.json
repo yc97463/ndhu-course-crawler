@@ -1,0 +1,32 @@
+{
+    "course_id": "MBE_57640",
+    "sql_id": "102260570",
+    "course_name": "海洋仔稚魚書報討論",
+    "english_course_name": "Topics on Marine Ichthyoplankton Research",
+    "credits": "2/2",
+    "teacher": [
+        "謝泓諺"
+    ],
+    "classroom": [
+        "R2002",
+        "R2002"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102260570",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102260570",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物多樣性及演化研究所::GRADUATE INSTITUTE OF MARINE BIODIVERSITY AND EVOLUTIONARY BIOLOGY"
+        }
+    ]
+}

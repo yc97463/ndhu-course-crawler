@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD53600",
+    "sql_id": "103116972",
+    "course_name": "危機管理專題研究",
+    "english_course_name": "Studies in Crisis Management",
+    "credits": "3/3",
+    "teacher": [
+        "朱鎮明"
+    ],
+    "classroom": [
+        "共A205",
+        "共A205",
+        "共A205"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103116972",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103116972",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

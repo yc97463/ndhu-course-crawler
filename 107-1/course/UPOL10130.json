@@ -1,0 +1,37 @@
+{
+    "course_id": "UPOL10130",
+    "sql_id": "107105920",
+    "course_name": "專利法",
+    "english_course_name": "Patent Law",
+    "credits": "3/3",
+    "teacher": [
+        "張郁齡"
+    ],
+    "classroom": [
+        "人社一館A107",
+        "人社一館A107",
+        "人社一館A107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107105920",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107105920",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程::UNDERGRADUATE PROGRAM OF LAW"
+        }
+    ]
+}

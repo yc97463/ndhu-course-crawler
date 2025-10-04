@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__1650AF",
+    "sql_id": "100261023",
+    "course_name": "日語(一)AF",
+    "english_course_name": "Japanese(I)",
+    "credits": "3/3",
+    "teacher": [
+        "陳凱莉"
+    ],
+    "classroom": [
+        "工A437",
+        "工A437",
+        "工A437"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100261023",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100261023",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

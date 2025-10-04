@@ -1,0 +1,32 @@
+{
+    "course_id": "CHEM7110AA",
+    "sql_id": "102209738",
+    "course_name": "專題討論(二)AA",
+    "english_course_name": "Seminar (II)",
+    "credits": "1/2",
+    "teacher": [
+        "何彥鵬"
+    ],
+    "classroom": [
+        "理D333",
+        "理D333"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102209738",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102209738",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "化學系::DEPARTMENT OF CHEMISTRY"
+        }
+    ]
+}

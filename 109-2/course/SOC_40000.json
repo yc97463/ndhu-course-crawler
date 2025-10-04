@@ -1,0 +1,39 @@
+{
+    "course_id": "SOC_40000",
+    "sql_id": "109207435",
+    "course_name": "社會實踐方案",
+    "english_course_name": "Program of Social Practices",
+    "credits": "3/3",
+    "teacher": [
+        "林子新",
+        "莊致嘉",
+        "黎德星"
+    ],
+    "classroom": [
+        "人社二館B201",
+        "人社二館B201",
+        "人社二館B201"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109207435",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109207435",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

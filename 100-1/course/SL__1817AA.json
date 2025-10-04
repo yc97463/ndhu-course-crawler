@@ -1,0 +1,36 @@
+{
+    "course_id": "SL__1817AA",
+    "sql_id": "100136182",
+    "course_name": "服務學習(二)_中文系AA",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "0/2",
+    "teacher": [
+        "張啟超"
+    ],
+    "classroom": [
+        "民階梯(一)",
+        "民階梯(一)"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100136182",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100136182",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "EC__7200AA",
+    "sql_id": "100140135",
+    "course_name": "專題研究（一）AA",
+    "english_course_name": "Independent Study(Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "林燕淑"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100140135",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100140135",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

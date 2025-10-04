@@ -1,0 +1,27 @@
+{
+    "course_id": "CSIE7150AD",
+    "sql_id": "104257321",
+    "course_name": "論文研究(八)AD",
+    "english_course_name": "Thesis (Ⅷ)",
+    "credits": "1/1",
+    "teacher": [
+        "蔡正雄"
+    ],
+    "classroom": [
+        "A325室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104257321",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104257321",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

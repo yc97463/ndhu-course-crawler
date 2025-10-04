@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_44600",
+    "sql_id": "111167838",
+    "course_name": "長笛（主修）（8）",
+    "english_course_name": "Flute（Major）（Ⅷ）",
+    "credits": "1/1",
+    "teacher": [
+        "游瑞玲"
+    ],
+    "classroom": [
+        "藝術學院B120"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111167838",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111167838",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

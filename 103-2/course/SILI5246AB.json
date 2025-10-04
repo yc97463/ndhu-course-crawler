@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI5246AB",
+    "sql_id": "103276716",
+    "course_name": "文藝思潮專題AB",
+    "english_course_name": "Seminar on Changing Trends in Literature",
+    "credits": "3/3",
+    "teacher": [
+        "李進益"
+    ],
+    "classroom": [
+        "文B117",
+        "文B117",
+        "文B117"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103276716",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103276716",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

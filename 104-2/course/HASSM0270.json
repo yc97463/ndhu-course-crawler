@@ -1,0 +1,37 @@
+{
+    "course_id": "HASSM0270",
+    "sql_id": "104208020",
+    "course_name": "亞太地區社會文化政策",
+    "english_course_name": "Social and Cultural Policies of Asia-Pacific Region",
+    "credits": "3/3",
+    "teacher": [
+        "MARKUS PORSCHE-LUDWIG"
+    ],
+    "classroom": [
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104208020",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104208020",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

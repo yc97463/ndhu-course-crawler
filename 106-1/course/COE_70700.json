@@ -1,0 +1,38 @@
+{
+    "course_id": "COE_70700",
+    "sql_id": "106182990",
+    "course_name": "校長與學校處境專題研究",
+    "english_course_name": "Research Seminar on Principal and School Situation",
+    "credits": "3/3",
+    "teacher": [
+        "范熾文",
+        "陳成宏"
+    ],
+    "classroom": [
+        "教育學院B331",
+        "教育學院B331",
+        "教育學院B331"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106182990",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106182990",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

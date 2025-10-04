@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_4480AB",
+    "sql_id": "100212588",
+    "course_name": "鋼琴(副修)(八)AB",
+    "english_course_name": "Piano (Minor) (VIII)",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "王麗君"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100212588",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100212588",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

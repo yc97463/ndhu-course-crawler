@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLS20160",
+    "sql_id": "102297685",
+    "course_name": "觀光規劃概論",
+    "english_course_name": "Tourism Planning",
+    "credits": "3/3",
+    "teacher": [
+        "遲恒昌"
+    ],
+    "classroom": [
+        "管D211",
+        "管D211",
+        "管D211"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102297685",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102297685",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

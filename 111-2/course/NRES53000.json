@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES53000",
+    "sql_id": "111226130",
+    "course_name": "水棲昆蟲生態學",
+    "english_course_name": "Ecology of Aquatic Insect",
+    "credits": "3/3",
+    "teacher": [
+        "黃國靖"
+    ],
+    "classroom": [
+        "環境學院A159",
+        "環境學院A159",
+        "環境學院A159"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111226130",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111226130",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

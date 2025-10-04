@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_31400",
+    "sql_id": "102220000",
+    "course_name": "歷史語言學",
+    "english_course_name": "Historical Linguistics",
+    "credits": "3/3",
+    "teacher": [
+        "李佩容"
+    ],
+    "classroom": [
+        "民A239",
+        "民A239",
+        "民A239"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102220000",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102220000",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

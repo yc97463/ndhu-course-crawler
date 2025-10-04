@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD5710Z",
+    "sql_id": "100261584",
+    "course_name": "政策行銷研究",
+    "english_course_name": "Studies in Policy Marketing",
+    "credits": "3/3",
+    "teacher": [
+        "魯炳炎"
+    ],
+    "classroom": [
+        "文B203",
+        "文B203",
+        "文B203"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100261584",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100261584",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政研究所::GRADUATE INSTITUTE OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

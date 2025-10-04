@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_3260AC",
+    "sql_id": "103177190",
+    "course_name": "聲樂（主修）（5）AC",
+    "english_course_name": "Voice（Major）（Ⅴ）",
+    "credits": "1/1",
+    "teacher": [
+        "黃淑紋"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103177190",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103177190",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

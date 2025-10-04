@@ -1,0 +1,37 @@
+{
+    "course_id": "IART54300",
+    "sql_id": "101157773",
+    "course_name": "藝文贊助與募款專題",
+    "english_course_name": "Fundraising and Sponsorship",
+    "credits": "3/3",
+    "teacher": [
+        "邱淑宜"
+    ],
+    "classroom": [
+        "民A327",
+        "民A327",
+        "民A327"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101157773",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101157773",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

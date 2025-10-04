@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__73720",
+    "sql_id": "100102745",
+    "course_name": "現代戲劇（二）",
+    "english_course_name": "Contemporary Theatre and Drama (II)",
+    "credits": "3/3",
+    "teacher": [
+        "郭強生"
+    ],
+    "classroom": [
+        "文D204",
+        "文D204",
+        "文D204"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100102745",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100102745",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__M010AL",
+    "sql_id": "103111655",
+    "course_name": "論文研究(二)AL",
+    "english_course_name": "ThesisⅡ",
+    "credits": "3/3",
+    "teacher": [
+        "夏締青"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        },
+        {
+            "day": "五",
+            "period": "2"
+        },
+        {
+            "day": "五",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103111655",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103111655",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

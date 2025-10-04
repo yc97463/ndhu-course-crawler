@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__25120",
+    "sql_id": "103104605",
+    "course_name": "英語教材教法",
+    "english_course_name": "English Teaching Materials and Methods",
+    "credits": "3/3",
+    "teacher": [
+        "嚴愛群"
+    ],
+    "classroom": [
+        "教PC1(B213)",
+        "教PC1(B213)",
+        "教PC1(B213)"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103104605",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103104605",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

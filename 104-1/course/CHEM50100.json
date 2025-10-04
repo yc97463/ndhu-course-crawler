@@ -1,0 +1,37 @@
+{
+    "course_id": "CHEM50100",
+    "sql_id": "104168580",
+    "course_name": "有機光譜分析",
+    "english_course_name": "Spectroscopic Analysis in Organic Chemistry",
+    "credits": "3/3",
+    "teacher": [
+        "朱家亮"
+    ],
+    "classroom": [
+        "理工一館D241",
+        "理工一館D241",
+        "理工一館D241"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104168580",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104168580",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "化學系::DEPARTMENT OF CHEMISTRY"
+        }
+    ]
+}

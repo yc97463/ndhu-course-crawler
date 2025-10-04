@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI20340",
+    "sql_id": "104144611",
+    "course_name": "古典散文選讀",
+    "english_course_name": "Selected Readings in Classical Chinese Prose",
+    "credits": "3/3",
+    "teacher": [
+        "游宗蓉"
+    ],
+    "classroom": [
+        "人社一館A107",
+        "人社一館A107",
+        "人社一館A107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104144611",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104144611",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

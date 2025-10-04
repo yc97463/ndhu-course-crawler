@@ -1,0 +1,37 @@
+{
+    "course_id": "UPIL10060",
+    "sql_id": "107250031",
+    "course_name": "世界原住民族通論",
+    "english_course_name": "Introduction to the Indigenous Peoples of the World",
+    "credits": "3/3",
+    "teacher": [
+        "謝若蘭"
+    ],
+    "classroom": [
+        "原民院A213",
+        "原民院A213",
+        "原民院A213"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107250031",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107250031",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程原住民專班::UNDERGRADUATE PROGRAM OF LAW(INDIGENOUS LAW PROGRAM)"
+        }
+    ]
+}

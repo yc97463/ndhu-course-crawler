@@ -1,0 +1,52 @@
+{
+    "course_id": "CLL_5444Z",
+    "sql_id": "103579671",
+    "course_name": "古典詩詞欣賞與教學",
+    "english_course_name": "Critically Appreciation and Teaching Methods of Traditional Chinese Poetry",
+    "credits": "3/3",
+    "teacher": [
+        "張蜀蕙"
+    ],
+    "classroom": [
+        "文D219",
+        "文D219",
+        "文D219",
+        "文D219",
+        "文D219",
+        "文D219"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103579671",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103579671",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

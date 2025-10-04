@@ -1,0 +1,38 @@
+{
+    "course_id": "GC__63750",
+    "sql_id": "103262806",
+    "course_name": "東臺灣的生存樣貌、人文想像與社會實踐",
+    "english_course_name": "Well-Being, Imagination and Social Praxes in East Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "翁士恆",
+        "黃宣衛"
+    ],
+    "classroom": [
+        "共A105",
+        "共A105",
+        "共A105"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "14"
+        },
+        {
+            "day": "日",
+            "period": "15"
+        },
+        {
+            "day": "日",
+            "period": "16"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103262806",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103262806",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

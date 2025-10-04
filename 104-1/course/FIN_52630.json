@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_52630",
+    "sql_id": "104136858",
+    "course_name": "統計分析導論",
+    "english_course_name": "An introduction to statistical analysis",
+    "credits": "1/1",
+    "teacher": [
+        "林金龍"
+    ],
+    "classroom": [
+        "管理學院C221",
+        "管理學院C221",
+        "管理學院C221"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104136858",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104136858",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__75130",
+    "sql_id": "104274394",
+    "course_name": "常微分方程",
+    "english_course_name": "Ordinary Differential Equations",
+    "credits": "3/3",
+    "teacher": [
+        "班榮超"
+    ],
+    "classroom": [
+        "理工一館B301",
+        "理工一館B301",
+        "理工一館B301"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104274394",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104274394",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

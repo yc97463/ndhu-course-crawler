@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_31880",
+    "sql_id": "103121531",
+    "course_name": "甲骨文字選讀",
+    "english_course_name": "Chinese Paleography-Oracle Bone Characters",
+    "credits": "3/3",
+    "teacher": [
+        "許學仁"
+    ],
+    "classroom": [
+        "文D206",
+        "文D206",
+        "文D206"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103121531",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103121531",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

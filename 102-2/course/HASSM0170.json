@@ -1,0 +1,38 @@
+{
+    "course_id": "HASSM0170",
+    "sql_id": "102278543",
+    "course_name": "歷史與社會集體記憶",
+    "english_course_name": "History and Social Memory",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億",
+        "康培德"
+    ],
+    "classroom": [
+        "文B317",
+        "文B317",
+        "文B317"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102278543",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102278543",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "SL__12500",
+    "sql_id": "101212113",
+    "course_name": "服務學習(一)_教行系",
+    "english_course_name": "Service Learning (Ⅰ)",
+    "credits": "0/2",
+    "teacher": [
+        "紀惠英"
+    ],
+    "classroom": [
+        "教B124",
+        "教B124"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101212113",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101212113",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

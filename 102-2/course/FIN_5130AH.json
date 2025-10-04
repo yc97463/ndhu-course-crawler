@@ -1,0 +1,27 @@
+{
+    "course_id": "FIN_5130AH",
+    "sql_id": "102246045",
+    "course_name": "專題研究(二)AH",
+    "english_course_name": "Special Topic for Research(II)",
+    "credits": "1/1",
+    "teacher": [
+        "侯介澤"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102246045",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102246045",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

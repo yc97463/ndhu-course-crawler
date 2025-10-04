@@ -1,0 +1,37 @@
+{
+    "course_id": "APRSD2300",
+    "sql_id": "112274154",
+    "course_name": "印太地區的國際關係與政治",
+    "english_course_name": "International Relations and Politics of the Indo-Pacific",
+    "credits": "3/3",
+    "teacher": [
+        "張詠詠"
+    ],
+    "classroom": [
+        "人社一館D101",
+        "人社一館D101",
+        "人社一館D101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112274154",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112274154",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM IN ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

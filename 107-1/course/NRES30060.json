@@ -1,0 +1,35 @@
+{
+    "course_id": "NRES30060",
+    "sql_id": "107160372",
+    "course_name": "專題研究（一）",
+    "english_course_name": "Independent Study (I)",
+    "credits": "1/1",
+    "teacher": [
+        "李漢榮",
+        "戴興盛",
+        "黃國靖",
+        "林祥偉",
+        "陳毓昀",
+        "黃文彬",
+        "許育誠",
+        "蘇銘千",
+        "張世杰"
+    ],
+    "classroom": [
+        "環境學院A128"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107160372",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107160372",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

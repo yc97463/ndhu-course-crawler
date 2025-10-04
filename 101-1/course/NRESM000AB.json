@@ -1,0 +1,37 @@
+{
+    "course_id": "NRESM000AB",
+    "sql_id": "101102101",
+    "course_name": "自然資源研究方法 (一)AB",
+    "english_course_name": "Research Methods in Natural Resources (I)",
+    "credits": "3/3",
+    "teacher": [
+        "蘇銘千"
+    ],
+    "classroom": [
+        "教師實驗室",
+        "教師實驗室",
+        "教師實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101102101",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101102101",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

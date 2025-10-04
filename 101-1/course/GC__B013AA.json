@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__B013AA",
+    "sql_id": "101169545",
+    "course_name": "實用華語(二)AA",
+    "english_course_name": "Mandarin Chinese Practical (Level 2)",
+    "credits": "3/3",
+    "teacher": [
+        "黃玉慧"
+    ],
+    "classroom": [
+        "共A103",
+        "共A103",
+        "共A103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101169545",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101169545",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__70300",
+    "sql_id": "100210462",
+    "course_name": "個體經濟分析（三）",
+    "english_course_name": "Microeconomic Analysis(III)",
+    "credits": "3/3",
+    "teacher": [
+        "梁文榮"
+    ],
+    "classroom": [
+        "文D220",
+        "文D220",
+        "文D220"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100210462",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100210462",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

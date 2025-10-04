@@ -1,0 +1,27 @@
+{
+    "course_id": "ECE_5323AD",
+    "sql_id": "104280350",
+    "course_name": "論文研究(一)AD",
+    "english_course_name": "Thesis (Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "蔡佳燕"
+    ],
+    "classroom": [
+        "教D407室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104280350",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104280350",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

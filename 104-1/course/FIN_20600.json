@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_20600",
+    "sql_id": "104113834",
+    "course_name": "貨幣銀行學",
+    "english_course_name": "Money and Banking",
+    "credits": "3/3",
+    "teacher": [
+        "林金龍"
+    ],
+    "classroom": [
+        "管理學院B119",
+        "管理學院B119",
+        "管理學院B119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104113834",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104113834",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

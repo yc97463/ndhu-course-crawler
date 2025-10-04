@@ -1,0 +1,33 @@
+{
+    "course_id": "EP__18700",
+    "sql_id": "104186774",
+    "course_name": "數學領域教材教法",
+    "english_course_name": "Instructional Materials and Methods for Mathematics Area",
+    "credits": "2/2",
+    "teacher": [
+        "郭大衛",
+        "賴志宏"
+    ],
+    "classroom": [
+        "理工一館B301",
+        "理工一館B301"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104186774",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104186774",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION"
+        }
+    ]
+}

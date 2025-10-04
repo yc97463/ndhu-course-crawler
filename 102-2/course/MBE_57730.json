@@ -1,0 +1,37 @@
+{
+    "course_id": "MBE_57730",
+    "sql_id": "102224915",
+    "course_name": "海洋新興污染物特論",
+    "english_course_name": "Topics in Marine Emerging Contaminants",
+    "credits": "3/3",
+    "teacher": [
+        "陳德豪"
+    ],
+    "classroom": [
+        "R2003",
+        "R2003",
+        "R2003"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102224915",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102224915",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物多樣性及演化研究所::GRADUATE INSTITUTE OF MARINE BIODIVERSITY AND EVOLUTIONARY BIOLOGY"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "course_id": "TRLS50400",
+    "sql_id": "106155061",
+    "course_name": "觀光遊憩管理特論",
+    "english_course_name": "Advanced Tourism and Recreation Management",
+    "credits": "3/3",
+    "teacher": [
+        "麥康妮",
+        "李介祿",
+        "張景煜",
+        "遲恒昌",
+        "賴來新",
+        "陳麗如",
+        "葉智魁",
+        "劉吉川",
+        "吳宗瓊"
+    ],
+    "classroom": [
+        "管理學院C236",
+        "管理學院C236",
+        "管理學院C236"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106155061",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106155061",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

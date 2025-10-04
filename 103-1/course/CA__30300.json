@@ -1,0 +1,40 @@
+{
+    "course_id": "CA__30300",
+    "sql_id": "103178543",
+    "course_name": "樂舞文化",
+    "english_course_name": "The Culture Of Music and Dance",
+    "credits": "3/3",
+    "teacher": [
+        "林斐文"
+    ],
+    "classroom": [
+        "學C103",
+        "學-演講廳A101",
+        "學C103",
+        "學-演講廳A101",
+        "學C103",
+        "學-演講廳A101"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103178543",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103178543",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

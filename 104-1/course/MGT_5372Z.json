@@ -1,0 +1,27 @@
+{
+    "course_id": "MGT_5372Z",
+    "sql_id": "104105400",
+    "course_name": "企業參訪與研習",
+    "english_course_name": "Field Study of Business Management",
+    "credits": "1/1",
+    "teacher": [
+        "巫喜瑞"
+    ],
+    "classroom": [
+        "管理學院A107"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104105400",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104105400",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__64460",
+    "sql_id": "106213304",
+    "course_name": "地球的故事",
+    "english_course_name": "Geological history of Earth",
+    "credits": "2/2",
+    "teacher": [
+        "張有和",
+        "張成華"
+    ],
+    "classroom": [
+        "環境學院A136",
+        "環境學院A136"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106213304",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106213304",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

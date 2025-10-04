@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT20400",
+    "sql_id": "100260301",
+    "course_name": "統計學(二)",
+    "english_course_name": "Statistics（II）",
+    "credits": "3/3",
+    "teacher": [
+        "姚維仁"
+    ],
+    "classroom": [
+        "共六講堂",
+        "共六講堂",
+        "共六講堂"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100260301",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100260301",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

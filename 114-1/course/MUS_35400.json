@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_35400",
+    "sql_id": "114152452",
+    "course_name": "大提琴（主修）（6）",
+    "english_course_name": "Cello（Major）（Ⅵ）",
+    "credits": "1/1",
+    "teacher": [
+        "李宜珮"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114152452",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114152452",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

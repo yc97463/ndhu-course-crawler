@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__5490AB",
+    "sql_id": "103231827",
+    "course_name": "西班牙語(一)AB",
+    "english_course_name": "Spanish﹝Ⅰ﹞",
+    "credits": "3/3",
+    "teacher": [
+        "曾麗敏"
+    ],
+    "classroom": [
+        "工B212",
+        "工B212",
+        "工B212"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103231827",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103231827",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

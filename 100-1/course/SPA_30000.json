@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_30000",
+    "sql_id": "100176463",
+    "course_name": "國際政治",
+    "english_course_name": "International Politics",
+    "credits": "3/3",
+    "teacher": [
+        "石忠山"
+    ],
+    "classroom": [
+        "共A103",
+        "共A103",
+        "共A103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100176463",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100176463",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會暨公共行政學系::DEPARTMENT OF SOCIOLOGY AND PUBLIC AFFAIRS"
+        }
+    ]
+}

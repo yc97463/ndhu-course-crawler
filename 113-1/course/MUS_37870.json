@@ -1,0 +1,37 @@
+{
+    "course_id": "MUS_37870",
+    "sql_id": "113118730",
+    "course_name": "合唱教學",
+    "english_course_name": "Choral Pedagogy",
+    "credits": "3/3",
+    "teacher": [
+        "彭翠萍"
+    ],
+    "classroom": [
+        "藝術學院C227",
+        "藝術學院C227",
+        "藝術學院C227"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113118730",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113118730",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

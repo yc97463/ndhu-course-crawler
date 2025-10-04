@@ -1,0 +1,27 @@
+{
+    "course_id": "CSIE5430AI",
+    "sql_id": "104236277",
+    "course_name": "引導研究(二)AI",
+    "english_course_name": "Independent Study（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "紀新洲"
+    ],
+    "classroom": [
+        "A325室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104236277",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104236277",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

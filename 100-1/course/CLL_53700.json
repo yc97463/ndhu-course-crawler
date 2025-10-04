@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_53700",
+    "sql_id": "100123145",
+    "course_name": "出土簡帛與古文獻研究",
+    "english_course_name": "The Study of the Unearthed Documents and Archaeological Relic",
+    "credits": "3/3",
+    "teacher": [
+        "魏慈德"
+    ],
+    "classroom": [
+        "共A107",
+        "共A107",
+        "共A107"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100123145",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100123145",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

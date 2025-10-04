@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__3290AA",
+    "sql_id": "100107989",
+    "course_name": "翻譯與習作（一）AA",
+    "english_course_name": "Translation, 1st semester",
+    "credits": "3/3",
+    "teacher": [
+        "林惠玲"
+    ],
+    "classroom": [
+        "共B103",
+        "共B103",
+        "共B103"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100107989",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100107989",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

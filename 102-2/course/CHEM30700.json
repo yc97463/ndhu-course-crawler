@@ -1,0 +1,37 @@
+{
+    "course_id": "CHEM30700",
+    "sql_id": "102288158",
+    "course_name": "生物化學(二)",
+    "english_course_name": "Biochemistry(Ⅱ)",
+    "credits": "3/3",
+    "teacher": [
+        "戴達夫"
+    ],
+    "classroom": [
+        "理D241",
+        "理D241",
+        "理D241"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102288158",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102288158",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "化學系::DEPARTMENT OF CHEMISTRY"
+        }
+    ]
+}

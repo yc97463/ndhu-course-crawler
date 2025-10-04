@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__M0090",
+    "sql_id": "109156018",
+    "course_name": "國際財務管理",
+    "english_course_name": "International Financial Management",
+    "credits": "3/3",
+    "teacher": [
+        "翁胤哲"
+    ],
+    "classroom": [
+        "管理學院C109",
+        "管理學院C109",
+        "管理學院C109"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109156018",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109156018",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}
