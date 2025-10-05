@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__3010AA",
+    "sql_id": "102110759",
+    "course_name": "性別教育AA",
+    "english_course_name": "Gender Education",
+    "credits": "3/3",
+    "teacher": [
+        "張德勝"
+    ],
+    "classroom": [
+        "文二講堂",
+        "文二講堂",
+        "文二講堂"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102110759",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102110759",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

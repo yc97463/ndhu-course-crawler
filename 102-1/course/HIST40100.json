@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST40100",
+    "sql_id": "102124503",
+    "course_name": "歷史與人物",
+    "english_course_name": "History and Individuals",
+    "credits": "3/3",
+    "teacher": [
+        "許育銘"
+    ],
+    "classroom": [
+        "文D206",
+        "文D206",
+        "文D206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102124503",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102124503",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

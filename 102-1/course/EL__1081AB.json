@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__1081AB",
+    "sql_id": "102198597",
+    "course_name": "西洋文學概論(上)AB",
+    "english_course_name": "Backgrounds of Western Literature, 1st Semester",
+    "credits": "3/3",
+    "teacher": [
+        "鄭詠之"
+    ],
+    "classroom": [
+        "文D105",
+        "文D105",
+        "文D105"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102198597",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102198597",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}
