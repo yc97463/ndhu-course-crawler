@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__41310",
+    "sql_id": "102169484",
+    "course_name": "日文（三）（上）",
+    "english_course_name": "Japanese（III）, 1st semester",
+    "credits": "3/3",
+    "teacher": [
+        "吳佳潓"
+    ],
+    "classroom": [
+        "文D221",
+        "文D221",
+        "文D221"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102169484",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102169484",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

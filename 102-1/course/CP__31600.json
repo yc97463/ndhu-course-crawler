@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__31600",
+    "sql_id": "102103709",
+    "course_name": "現象學心理學導論",
+    "english_course_name": "Introduction to Phenomenological Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "李維倫"
+    ],
+    "classroom": [
+        "共B109",
+        "共B109",
+        "共B109"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102103709",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102103709",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

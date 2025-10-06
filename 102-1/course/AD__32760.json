@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__32760",
+    "sql_id": "102102812",
+    "course_name": "電腦影音整合",
+    "english_course_name": "Audio-Visual Production",
+    "credits": "3/3",
+    "teacher": [
+        "田名璋"
+    ],
+    "classroom": [
+        "民C119",
+        "民C119",
+        "民C119"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102102812",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102102812",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

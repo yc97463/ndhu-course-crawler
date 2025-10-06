@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST42120",
+    "sql_id": "102181481",
+    "course_name": "文化事業參與與實務",
+    "english_course_name": "Cultural Industries Participation and Practice",
+    "credits": "3/3",
+    "teacher": [
+        "張璉"
+    ],
+    "classroom": [
+        "文D205",
+        "文D205",
+        "文D205"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102181481",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102181481",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

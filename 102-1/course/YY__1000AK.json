@@ -1,0 +1,36 @@
+{
+    "course_id": "YY__1000AK",
+    "sql_id": "102173776",
+    "course_name": "體育(一)AK",
+    "english_course_name": "Physical Education﹝Ⅰ﹞",
+    "credits": "1/2",
+    "teacher": [
+        "黃琇瑩"
+    ],
+    "classroom": [
+        "A區網球場",
+        "A區網球場"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102173776",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102173776",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

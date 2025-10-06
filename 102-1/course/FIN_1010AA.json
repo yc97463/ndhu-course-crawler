@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_1010AA",
+    "sql_id": "102176945",
+    "course_name": "財務管理AA",
+    "english_course_name": "Corporate Finance",
+    "credits": "3/3",
+    "teacher": [
+        "池祥萱"
+    ],
+    "classroom": [
+        "管二講堂",
+        "管二講堂",
+        "管二講堂"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102176945",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102176945",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}
