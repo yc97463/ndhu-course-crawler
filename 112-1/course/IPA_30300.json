@@ -1,0 +1,37 @@
+{
+    "course_id": "IPA_30300",
+    "sql_id": "112135781",
+    "course_name": "劇場實務",
+    "english_course_name": "Theatre Practice",
+    "credits": "3/3",
+    "teacher": [
+        "莊國鑫"
+    ],
+    "classroom": [
+        "原民院C111",
+        "原民院C111",
+        "原民院C111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112135781",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112135781",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民族樂舞與藝術學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS PERFORMANCE AND ARTS"
+        }
+    ]
+}
