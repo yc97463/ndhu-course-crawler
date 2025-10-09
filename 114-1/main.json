@@ -75,7 +75,7 @@
         "english_course_name": "Calculus(I)",
         "credits": "3/3",
         "teacher": "/官彥良",
-        "classroom": "/理工二館-第二講堂B101/理工二館-第二講堂B101/理工二館-第二講堂B101",
+        "classroom": "/理工二館-第四講堂A307/理工二館-第四講堂A307/理工二館-第四講堂A307",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -19498,7 +19498,7 @@
         "class_time": "/四3",
         "english_course_name": "Independent Study",
         "credits": "1/1",
-        "teacher": "/王沂釗/王純娟/余振民/李沐齊/李慧芳/周育如/林繼偉/高倜歐/劉効樺/蔣世光/黎士鳴/藍玉玲",
+        "teacher": "/王純娟/李慧芳/林繼偉/劉効樺",
         "classroom": "/研究室",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -31754,7 +31754,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Thesis (Ⅰ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/林俊瑩/蔡佳燕/張明麗/林鳳貞/張凱程",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -31818,7 +31818,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Study (Ⅰ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/林鳳貞",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -31834,7 +31834,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Study (Ⅱ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/林俊瑩/張素貞",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -31850,7 +31850,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Thesis(Ⅰ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/林俊瑩/陳慧華/張素貞/林鳳貞/張凱程",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -44331,7 +44331,7 @@
         "english_course_name": "Mandarin Chinese Practical (Level 1)",
         "credits": "3/3",
         "teacher": "/張育欣",
-        "classroom": "/人社三館B104/人社三館B104/人社三館B104",
+        "classroom": "/人社三館D113/人社三館D113/人社三館D113",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
