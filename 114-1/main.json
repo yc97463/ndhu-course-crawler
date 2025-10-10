@@ -7610,7 +7610,7 @@
         "class_time": "/二1/二2/二3",
         "english_course_name": "Report",
         "credits": "3/3",
-        "teacher": "/傅彥培/陳素華/田禮嘉/陳俊良/余英松/魏茂國/陳怡嘉/林育賢/黃常寧",
+        "teacher": "/陳俊良/陳素華/田禮嘉/傅彥培/余英松/魏茂國/陳怡嘉/林育賢/黃常寧",
         "classroom": "/研究室/研究室/研究室",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -24618,7 +24618,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study on Ecology",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/吳海音",
         "classroom": "/其他",
         "offering_department": "環境暨海洋學院學士班::BACHELOR",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -24698,7 +24698,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "2/2",
-        "teacher": "/李俊鴻",
+        "teacher": "/李俊鴻/洪耀明/蔡金河/蘇銘千/許世璋",
         "classroom": "/其他",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -25898,7 +25898,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "The Capstone Project Report on Agroecology",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/吳海音/蔡建福",
         "classroom": "/其他",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -25914,7 +25914,7 @@
         "class_time": "/二12",
         "english_course_name": "Independent Study (I)",
         "credits": "1/1",
-        "teacher": "/吳海音",
+        "teacher": "/洪耀明/劉瑩三/楊悠娟",
         "classroom": "/環境學院A124",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -31738,7 +31738,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Study (Ⅰ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/林俊瑩/蔡佳燕/陳慧華/張素貞",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -44955,7 +44955,7 @@
         "english_course_name": "Instructional Materials and Methods of Geography for Social Studies1",
         "credits": "2/2",
         "teacher": "/張瓊文",
-        "classroom": "/人社三館D301/人社三館D301",
+        "classroom": "/教育學院C142/教育學院C142",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
