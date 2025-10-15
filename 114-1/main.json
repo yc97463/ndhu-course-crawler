@@ -138,7 +138,7 @@
         "class_time": "/三1/三2",
         "english_course_name": "ΠPBL Project(1)",
         "credits": "2/2",
-        "teacher": "/陳震宇",
+        "teacher": "/陳震宇/謝欣然",
         "classroom": "/C219/C219",
         "offering_department": "理工學院學士班::BACHELOR",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -22106,7 +22106,7 @@
         "class_time": "/六2/六3",
         "english_course_name": "Thesis",
         "credits": "2/2",
-        "teacher": "/李世偉/林潤華/張瓊文/郭俊麟/郭澤寬/黃雯娟/葉爾建/葉韻翠",
+        "teacher": "/郭俊麟/郭澤寬",
         "classroom": "/人社三館D301/人社三館D301",
         "offering_department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -44683,7 +44683,7 @@
         "english_course_name": "Educational Psychology",
         "credits": "2/2",
         "teacher": "/王鴻哲",
-        "classroom": "/教育學院B108/教育學院B108",
+        "classroom": "/教育學院B124/教育學院B124",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -45035,7 +45035,7 @@
         "english_course_name": "Educational Psychology",
         "credits": "2/2",
         "teacher": "/王鴻哲",
-        "classroom": "/教育學院B108/教育學院B108",
+        "classroom": "/教育學院B124/教育學院B124",
         "offering_department": "特教學前學程::EDUACTION PROGRAM FOR PRESCHOOL SPECIAL EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
