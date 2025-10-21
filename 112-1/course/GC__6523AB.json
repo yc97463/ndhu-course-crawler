@@ -1,0 +1,28 @@
+{
+    "course_id": "GC__6523AB",
+    "sql_id": "112118614",
+    "course_name": "垂直整合專題(一)AB",
+    "english_course_name": "Vertically Integrated Projects (I)",
+    "credits": "1/1",
+    "teacher": [
+        "楊熾康",
+        "林永利"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112118614",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112118614",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

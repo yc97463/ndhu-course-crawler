@@ -1,0 +1,27 @@
+{
+    "course_id": "HASS20000",
+    "sql_id": "106221822",
+    "course_name": "人文社會科學學院微課程(四)",
+    "english_course_name": "Micro course in Humanities and Social Sciences IV",
+    "credits": "1/1",
+    "teacher": [
+        "李正芬"
+    ],
+    "classroom": [
+        "人社一館-第三講堂C109"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106221822",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106221822",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院學士班::BACHELOR"
+        }
+    ]
+}

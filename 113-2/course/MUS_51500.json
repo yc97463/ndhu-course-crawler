@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_51500",
+    "sql_id": "113278603",
+    "course_name": "聲樂（一）",
+    "english_course_name": "Voice(I)",
+    "credits": "1/1",
+    "teacher": [
+        "陳景貽"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113278603",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113278603",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

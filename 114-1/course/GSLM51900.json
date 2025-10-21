@@ -1,0 +1,38 @@
+{
+    "course_id": "GSLM51900",
+    "sql_id": "114151760",
+    "course_name": "生產計劃與排程",
+    "english_course_name": "Production Planning and Scheduling",
+    "credits": "3/3",
+    "teacher": [
+        "陳怡君",
+        "馬綱廷"
+    ],
+    "classroom": [
+        "管理學院C110",
+        "管理學院C110",
+        "管理學院C110"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114151760",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114151760",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}

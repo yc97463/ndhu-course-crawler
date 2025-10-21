@@ -1,0 +1,42 @@
+{
+    "course_id": "IFP_10020",
+    "sql_id": "112213807",
+    "course_name": "華語綜合練習",
+    "english_course_name": "Integrative Practice in Chinese",
+    "credits": "4/4",
+    "teacher": [
+        "郭乃禎"
+    ],
+    "classroom": [
+        "人社三館B104",
+        "人社三館B104",
+        "人社三館B104",
+        "人社三館B104"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112213807",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112213807",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__31200",
+    "sql_id": "110173822",
+    "course_name": "企業通訊與網路",
+    "english_course_name": "Telecommunications and Networks for Business",
+    "credits": "3/3",
+    "teacher": [
+        "陳偉銘"
+    ],
+    "classroom": [
+        "管理學院C141",
+        "管理學院C141",
+        "管理學院C141"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110173822",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110173822",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

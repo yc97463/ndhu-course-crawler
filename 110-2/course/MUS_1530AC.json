@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1530AC",
+    "sql_id": "110228886",
+    "course_name": "小提琴（主修）（2）AC",
+    "english_course_name": "Violin（Major）（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "王銘哲"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110228886",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110228886",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

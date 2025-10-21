@@ -1,0 +1,42 @@
+{
+    "course_id": "TH__1140AB",
+    "sql_id": "100379804",
+    "course_name": "輔導原理與實務AB",
+    "english_course_name": "Counseling Principles and Practice",
+    "credits": "2/2",
+    "teacher": [
+        "蔣世光"
+    ],
+    "classroom": [
+        "教B108",
+        "教B108",
+        "教B108",
+        "教B108"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100379804",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100379804",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育"
+        }
+    ]
+}

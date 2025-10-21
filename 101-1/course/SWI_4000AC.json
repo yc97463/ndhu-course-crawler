@@ -1,0 +1,42 @@
+{
+    "course_id": "SWI_4000AC",
+    "sql_id": "101173864",
+    "course_name": "社會工作實習（二）AC",
+    "english_course_name": "Social Work Practicum (II)",
+    "credits": "2/0:4",
+    "teacher": [
+        "林明禛"
+    ],
+    "classroom": [
+        "民A330",
+        "民A330",
+        "民A330",
+        "民A330"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101173864",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101173864",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}

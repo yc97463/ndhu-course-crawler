@@ -1,0 +1,37 @@
+{
+    "course_id": "CDPD10140",
+    "sql_id": "111167514",
+    "course_name": "思考潛能開發課程與教學",
+    "english_course_name": "Curriculum and Instruction of Thinking Potential Development",
+    "credits": "3/3",
+    "teacher": [
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院B309",
+        "教育學院B309",
+        "教育學院B309"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111167514",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111167514",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

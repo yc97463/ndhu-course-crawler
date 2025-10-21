@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_40010",
+    "sql_id": "114164653",
+    "course_name": "社會創新",
+    "english_course_name": "Social Innovation",
+    "credits": "3/3",
+    "teacher": [
+        "蔡侑霖"
+    ],
+    "classroom": [
+        "人社二館D107",
+        "人社二館D107",
+        "人社二館D107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114164653",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114164653",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}
