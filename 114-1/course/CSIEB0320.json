@@ -16,17 +16,12 @@
         "李官陵"
     ],
     "classroom": [
-        "理工二館B204",
-        "理工二館B204"
+        "其他"
     ],
     "class_time": [
         {
-            "day": "一",
-            "period": "1"
-        },
-        {
-            "day": "二",
-            "period": "1"
+            "day": "與",
+            "period": "教師另行約定"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114184583",
