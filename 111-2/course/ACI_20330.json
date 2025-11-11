@@ -1,0 +1,40 @@
+{
+    "course_id": "ACI_20330",
+    "sql_id": "111212956",
+    "course_name": "陶藝創意產業與設計",
+    "english_course_name": "Pottery creative industry and design",
+    "credits": "3/3",
+    "teacher": [
+        "郭文昌"
+    ],
+    "classroom": [
+        "藝術工坊120",
+        "藝術學院B103",
+        "藝術工坊120",
+        "藝術學院B103",
+        "藝術工坊120",
+        "藝術學院B103"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111212956",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111212956",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

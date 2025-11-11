@@ -1,0 +1,27 @@
+{
+    "course_id": "SD__5080AB",
+    "sql_id": "104285564",
+    "course_name": "引導研究（一）AB",
+    "english_course_name": "Directed Individual Study（Ⅰ）",
+    "credits": "1/1",
+    "teacher": [
+        "呂傑華"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104285564",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104285564",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

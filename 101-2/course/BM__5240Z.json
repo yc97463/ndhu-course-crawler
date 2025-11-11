@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__5240Z",
+    "sql_id": "101276717",
+    "course_name": "生產管理研討",
+    "english_course_name": "Seminar in Production Management",
+    "credits": "3/3",
+    "teacher": [
+        "黃郁文"
+    ],
+    "classroom": [
+        "管D118",
+        "管D118",
+        "管D118"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "4"
+        },
+        {
+            "day": "日",
+            "period": "5"
+        },
+        {
+            "day": "日",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101276717",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101276717",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

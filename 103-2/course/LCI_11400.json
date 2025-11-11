@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_11400",
+    "sql_id": "103240324",
+    "course_name": "傳播理論",
+    "english_course_name": "Communication Theory",
+    "credits": "3/3",
+    "teacher": [
+        "林俊偉"
+    ],
+    "classroom": [
+        "民A338",
+        "民A338",
+        "民A338"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103240324",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103240324",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

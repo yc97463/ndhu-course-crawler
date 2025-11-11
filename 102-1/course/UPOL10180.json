@@ -1,0 +1,37 @@
+{
+    "course_id": "UPOL10180",
+    "sql_id": "102167430",
+    "course_name": "刑法總則",
+    "english_course_name": "General Theory on Criminal Law",
+    "credits": "3/3",
+    "teacher": [
+        "湯文章"
+    ],
+    "classroom": [
+        "工一講堂",
+        "工一講堂",
+        "工一講堂"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "7"
+        },
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102167430",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102167430",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程::UNDERGRADUATE PROGRAM OF LAW"
+        }
+    ]
+}

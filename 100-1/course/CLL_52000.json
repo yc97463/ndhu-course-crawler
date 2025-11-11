@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_52000",
+    "sql_id": "100142038",
+    "course_name": "詞學專題研究",
+    "english_course_name": "Seminar in Ci Poetics",
+    "credits": "3/3",
+    "teacher": [
+        "劉漢初"
+    ],
+    "classroom": [
+        "共A107",
+        "共A107",
+        "共A107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100142038",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100142038",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

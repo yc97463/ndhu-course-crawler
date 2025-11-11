@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63770",
+    "sql_id": "110256503",
+    "course_name": "認識歐盟",
+    "english_course_name": "Understanding the European Union",
+    "credits": "3/3",
+    "teacher": [
+        "FERENCZY ZSUZSA ANNA"
+    ],
+    "classroom": [
+        "人社二館-第一講堂B005",
+        "人社二館-第一講堂B005",
+        "人社二館-第一講堂B005"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110256503",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110256503",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

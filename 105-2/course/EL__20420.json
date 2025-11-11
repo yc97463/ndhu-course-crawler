@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__20420",
+    "sql_id": "105229517",
+    "course_name": "語言學概論(下)",
+    "english_course_name": "Introduction to Linguistics, 2nd Semester",
+    "credits": "3/3",
+    "teacher": [
+        "鄭育霖"
+    ],
+    "classroom": [
+        "人社二館B103",
+        "人社二館B103",
+        "人社二館B103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105229517",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105229517",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

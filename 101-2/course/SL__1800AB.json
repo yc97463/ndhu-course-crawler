@@ -1,0 +1,36 @@
+{
+    "course_id": "SL__1800AB",
+    "sql_id": "101205210",
+    "course_name": "服務學習(一)_觀遊系AB",
+    "english_course_name": "Service Learning (Ⅰ)",
+    "credits": "0/2",
+    "teacher": [
+        "許義忠"
+    ],
+    "classroom": [
+        "管D211",
+        "管D211"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "7"
+        },
+        {
+            "day": "四",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101205210",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101205210",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

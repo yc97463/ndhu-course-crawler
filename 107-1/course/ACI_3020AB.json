@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_3020AB",
+    "sql_id": "107140704",
+    "course_name": "專題研究設計(一)AB",
+    "english_course_name": "Introduction to Research Design(I)",
+    "credits": "3/3",
+    "teacher": [
+        "張淑華"
+    ],
+    "classroom": [
+        "原民院C113",
+        "原民院C113",
+        "原民院C113"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107140704",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107140704",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

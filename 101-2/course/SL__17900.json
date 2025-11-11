@@ -1,0 +1,31 @@
+{
+    "course_id": "SL__17900",
+    "sql_id": "101282918",
+    "course_name": "服務學習(一)_自資系",
+    "english_course_name": "Service Learning (Ⅰ)",
+    "credits": "0/1",
+    "teacher": [
+        "蔡建福"
+    ],
+    "classroom": [
+        "環A124"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101282918",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101282918",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

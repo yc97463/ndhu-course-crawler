@@ -1,0 +1,37 @@
+{
+    "course_id": "DKM_51700",
+    "sql_id": "100157187",
+    "course_name": "高等電子商務",
+    "english_course_name": "Advanced Electronic Business",
+    "credits": "3/3",
+    "teacher": [
+        "陳林志"
+    ],
+    "classroom": [
+        "管D234",
+        "管D234",
+        "管D234"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100157187",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100157187",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

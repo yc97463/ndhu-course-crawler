@@ -1,0 +1,55 @@
+{
+    "course_id": "CP__58230",
+    "sql_id": "100266556",
+    "course_name": "諮商專業實習(二)B",
+    "english_course_name": "Internship",
+    "credits": "3/0:6",
+    "teacher": [
+        "王沂釗",
+        "王緒中",
+        "林美珠",
+        "賈紅鶯"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室",
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100266556",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100266556",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "CLL_5446ZF",
+    "sql_id": "101504012",
+    "course_name": "論文研究ZF",
+    "english_course_name": "Thesis Guidance",
+    "credits": "1/1",
+    "teacher": [
+        "巫俊勳"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "12"
+        },
+        {
+            "day": "三",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101504012",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101504012",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

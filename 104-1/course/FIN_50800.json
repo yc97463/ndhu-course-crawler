@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_50800",
+    "sql_id": "104170212",
+    "course_name": "財務數學",
+    "english_course_name": "Financial Mathematics",
+    "credits": "3/3",
+    "teacher": [
+        "蕭義龍"
+    ],
+    "classroom": [
+        "管理學院C221",
+        "管理學院C221",
+        "管理學院C221"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104170212",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104170212",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

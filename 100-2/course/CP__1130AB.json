@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__1130AB",
+    "sql_id": "100237177",
+    "course_name": "助人歷程與技巧AB",
+    "english_course_name": "Helping Profession:Process & Skills",
+    "credits": "3/3",
+    "teacher": [
+        "劉志如"
+    ],
+    "classroom": [
+        "共B101",
+        "共B101",
+        "共B101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100237177",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100237177",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

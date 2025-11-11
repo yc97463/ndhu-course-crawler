@@ -1,0 +1,52 @@
+{
+    "course_id": "PE__5280Z",
+    "sql_id": "100512559",
+    "course_name": "運動生理學專題研究",
+    "english_course_name": "Advanced Exercise Physiology Monographic Study",
+    "credits": "3/3",
+    "teacher": [
+        "楊昌斌"
+    ],
+    "classroom": [
+        "體育103",
+        "體育103",
+        "體育103",
+        "體育103",
+        "體育103",
+        "體育103"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "7"
+        },
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100512559",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100512559",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

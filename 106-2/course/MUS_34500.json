@@ -1,0 +1,32 @@
+{
+    "course_id": "MUS_34500",
+    "sql_id": "106218557",
+    "course_name": "合唱（六）",
+    "english_course_name": "Chorus (Ⅵ)",
+    "credits": "1/2",
+    "teacher": [
+        "彭翠萍"
+    ],
+    "classroom": [
+        "學生活動中心C103",
+        "學生活動中心C103"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106218557",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106218557",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

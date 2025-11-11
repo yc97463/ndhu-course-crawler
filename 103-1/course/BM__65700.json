@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__65700",
+    "sql_id": "103173050",
+    "course_name": "行銷企劃實務",
+    "english_course_name": "Practice of Marketing Planning",
+    "credits": "3/3",
+    "teacher": [
+        "祝道松"
+    ],
+    "classroom": [
+        "管C110",
+        "管C110",
+        "管C110"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103173050",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103173050",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

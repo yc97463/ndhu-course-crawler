@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_31400",
+    "sql_id": "100108275",
+    "course_name": "鋼琴(副修)(五)",
+    "english_course_name": "Piano (Minor) (V)",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "彭翠萍"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100108275",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100108275",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

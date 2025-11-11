@@ -1,0 +1,38 @@
+{
+    "course_id": "CLL_57100",
+    "sql_id": "110176134",
+    "course_name": "中西美學經典研究—詮釋與實踐",
+    "english_course_name": "Study on Chinese and Western Aesthetics Classics: Interpretation and Praxis",
+    "credits": "3/3",
+    "teacher": [
+        "李正芬",
+        "李崗"
+    ],
+    "classroom": [
+        "人社一館D219",
+        "人社一館D219",
+        "人社一館D219"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110176134",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110176134",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

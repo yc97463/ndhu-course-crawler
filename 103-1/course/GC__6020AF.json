@@ -1,0 +1,32 @@
+{
+    "course_id": "GC__6020AF",
+    "sql_id": "103144903",
+    "course_name": "英文閱讀與寫作一級AF",
+    "english_course_name": "English Reading and Writing (Level 1)",
+    "credits": "2/2",
+    "teacher": [
+        "張玄竺"
+    ],
+    "classroom": [
+        "理A206",
+        "理A206"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103144903",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103144903",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

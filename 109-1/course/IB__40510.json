@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__40510",
+    "sql_id": "109123862",
+    "course_name": "全球經營管理個案研討",
+    "english_course_name": "Case studies for global marketing",
+    "credits": "3/3",
+    "teacher": [
+        "周慧君"
+    ],
+    "classroom": [
+        "管理學院A119",
+        "管理學院A119",
+        "管理學院A119"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        },
+        {
+            "day": "四",
+            "period": "2"
+        },
+        {
+            "day": "四",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109123862",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109123862",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

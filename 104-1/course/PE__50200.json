@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__50200",
+    "sql_id": "104119075",
+    "course_name": "體育研究法",
+    "english_course_name": "Research Methods in Physical Education",
+    "credits": "3/3",
+    "teacher": [
+        "林嘉志"
+    ],
+    "classroom": [
+        "教育學院D309",
+        "教育學院D309",
+        "教育學院D309"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104119075",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104119075",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

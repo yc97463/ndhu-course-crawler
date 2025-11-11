@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__M0220",
+    "sql_id": "103164071",
+    "course_name": "國際企業學",
+    "english_course_name": "International Business Management",
+    "credits": "3/3",
+    "teacher": [
+        "夏締青"
+    ],
+    "classroom": [
+        "管C115",
+        "管C115",
+        "管C115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103164071",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103164071",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_70620",
+    "sql_id": "101101170",
+    "course_name": "全球化與新自由主義",
+    "english_course_name": "Globalization and Neoliberalism",
+    "credits": "3/3",
+    "teacher": [
+        "林徐達"
+    ],
+    "classroom": [
+        "民A313",
+        "民A313",
+        "民A313"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101101170",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101101170",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__30960",
+    "sql_id": "102258664",
+    "course_name": "計量地理學",
+    "english_course_name": "Quantitative Geography",
+    "credits": "3/3",
+    "teacher": [
+        "潘文富"
+    ],
+    "classroom": [
+        "教PC1(B213)",
+        "教PC1(B213)",
+        "教PC1(B213)"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102258664",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102258664",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

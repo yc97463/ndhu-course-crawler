@@ -1,0 +1,39 @@
+{
+    "course_id": "AD__52960",
+    "sql_id": "102212750",
+    "course_name": "藝術與設計專案研究(一)",
+    "english_course_name": "Research in Art and Design Project I",
+    "credits": "3/3",
+    "teacher": [
+        "林永利",
+        "田名璋",
+        "黃成永"
+    ],
+    "classroom": [
+        "民C104",
+        "民C104",
+        "民C104"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102212750",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102212750",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__52500",
+    "sql_id": "101152835",
+    "course_name": "交換代數(一)",
+    "english_course_name": "Commutative Algebra (I)",
+    "credits": "3/3",
+    "teacher": [
+        "林英芬"
+    ],
+    "classroom": [
+        "理B301",
+        "理B301",
+        "理B301"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101152835",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101152835",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

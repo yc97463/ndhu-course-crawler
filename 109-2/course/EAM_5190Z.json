@@ -1,0 +1,52 @@
+{
+    "course_id": "EAM_5190Z",
+    "sql_id": "109242447",
+    "course_name": "學校行政電腦化管理研究",
+    "english_course_name": "School Administrative Computerization & Management Study",
+    "credits": "3/3",
+    "teacher": [
+        "潘文福"
+    ],
+    "classroom": [
+        "五守樓電腦教室306",
+        "五守樓電腦教室306",
+        "五守樓電腦教室306",
+        "五守樓電腦教室306",
+        "五守樓電腦教室306",
+        "五守樓電腦教室306"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109242447",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109242447",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

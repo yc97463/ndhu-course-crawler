@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__52500",
+    "sql_id": "108271534",
+    "course_name": "靜態影像研究",
+    "english_course_name": "Still Image Study",
+    "credits": "3/3",
+    "teacher": [
+        "田名璋"
+    ],
+    "classroom": [
+        "環解中心C102",
+        "環解中心C102",
+        "環解中心C102"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108271534",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108271534",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

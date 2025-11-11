@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_M0150",
+    "sql_id": "100213420",
+    "course_name": "基金管理",
+    "english_course_name": "Mutual Funds Portfolio Management",
+    "credits": "3/3",
+    "teacher": [
+        "侯介澤"
+    ],
+    "classroom": [
+        "管D111",
+        "管D111",
+        "管D111"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100213420",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100213420",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

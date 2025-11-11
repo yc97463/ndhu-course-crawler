@@ -1,0 +1,37 @@
+{
+    "course_id": "MSF_10350",
+    "sql_id": "103110013",
+    "course_name": "管理統計學",
+    "english_course_name": "Management Statistics",
+    "credits": "3/3",
+    "teacher": [
+        "池文海"
+    ],
+    "classroom": [
+        "管D118",
+        "管D118",
+        "管D118"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103110013",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103110013",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

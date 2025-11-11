@@ -1,0 +1,27 @@
+{
+    "course_id": "IB__3190AE",
+    "sql_id": "100287342",
+    "course_name": "國際企業專題(二)AE",
+    "english_course_name": "Project for Department of International Business（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "張巧真"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100287342",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100287342",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

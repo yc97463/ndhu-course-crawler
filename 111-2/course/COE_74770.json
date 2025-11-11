@@ -1,0 +1,39 @@
+{
+    "course_id": "COE_74770",
+    "sql_id": "111294956",
+    "course_name": "雙語教學研究",
+    "english_course_name": "Study on Bilingual Instruction",
+    "credits": "3/3",
+    "teacher": [
+        "謝顥音",
+        "劉唯玉",
+        "林世悠"
+    ],
+    "classroom": [
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111294956",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111294956",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

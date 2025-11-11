@@ -1,0 +1,32 @@
+{
+    "course_id": "SPE_10700",
+    "sql_id": "100134603",
+    "course_name": "創造力教育",
+    "english_course_name": "Creativity Education",
+    "credits": "2/2",
+    "teacher": [
+        "蔣明珊"
+    ],
+    "classroom": [
+        "教C137",
+        "教C137"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100134603",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100134603",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

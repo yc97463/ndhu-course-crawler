@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_32610",
+    "sql_id": "113109032",
+    "course_name": "爵士人聲 (主修) (5)",
+    "english_course_name": "Jazz Vocal (Major) (V)",
+    "credits": "1/1",
+    "teacher": [
+        "蔡雯慧"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113109032",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113109032",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

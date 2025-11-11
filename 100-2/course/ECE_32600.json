@@ -1,0 +1,32 @@
+{
+    "course_id": "ECE_32600",
+    "sql_id": "100201837",
+    "course_name": "家庭生活教育概論",
+    "english_course_name": "Family Life Education",
+    "credits": "2/2",
+    "teacher": [
+        "張明麗"
+    ],
+    "classroom": [
+        "教B111",
+        "教B111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100201837",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100201837",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__50900",
+    "sql_id": "103216006",
+    "course_name": "國際企業談判",
+    "english_course_name": "International Business Negotiation",
+    "credits": "3/3",
+    "teacher": [
+        "張國忠"
+    ],
+    "classroom": [
+        "管C115",
+        "管C115",
+        "管C115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103216006",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103216006",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

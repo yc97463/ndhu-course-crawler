@@ -1,0 +1,40 @@
+{
+    "course_id": "GC__6317AA",
+    "sql_id": "102187030",
+    "course_name": "東臺灣田野調查AA",
+    "english_course_name": "Field Study in East Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "林潤華",
+        "張瓊文",
+        "黃雯娟",
+        "黃宣衛"
+    ],
+    "classroom": [
+        "文A318",
+        "文A318",
+        "文A318"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102187030",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102187030",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

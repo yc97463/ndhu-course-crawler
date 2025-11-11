@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI5249AB",
+    "sql_id": "110256414",
+    "course_name": "創作與研究方法AB",
+    "english_course_name": "Methods of Creative Writing and Research",
+    "credits": "3/3",
+    "teacher": [
+        "李依倩"
+    ],
+    "classroom": [
+        "人社一館B115",
+        "人社一館B115",
+        "人社一館B115"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110256414",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110256414",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "CLL_32000",
+    "sql_id": "103263416",
+    "course_name": "語用學",
+    "english_course_name": "Pragmatics",
+    "credits": "2/2",
+    "teacher": [
+        "程克雅"
+    ],
+    "classroom": [
+        "共A107",
+        "共A107"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103263416",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103263416",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

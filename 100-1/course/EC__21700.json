@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__21700",
+    "sql_id": "100114974",
+    "course_name": "金融市場",
+    "english_course_name": "Financial Markets",
+    "credits": "3/3",
+    "teacher": [
+        "張銘仁"
+    ],
+    "classroom": [
+        "共A101",
+        "共A101",
+        "共A101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100114974",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100114974",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

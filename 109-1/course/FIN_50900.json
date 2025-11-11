@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_50900",
+    "sql_id": "109127482",
+    "course_name": "財經英文",
+    "english_course_name": "Finance English",
+    "credits": "3/3",
+    "teacher": [
+        "高月霞"
+    ],
+    "classroom": [
+        "管理學院D111",
+        "管理學院D111",
+        "管理學院D111"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109127482",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109127482",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

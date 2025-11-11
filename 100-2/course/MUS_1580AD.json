@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1580AD",
+    "sql_id": "100277866",
+    "course_name": "鋼琴（副修）（二）AD",
+    "english_course_name": "Piano（Minor）（Ⅱ）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "王麗君"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100277866",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100277866",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

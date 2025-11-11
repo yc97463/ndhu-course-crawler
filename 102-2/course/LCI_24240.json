@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_24240",
+    "sql_id": "102286328",
+    "course_name": "原住民族口傳文學",
+    "english_course_name": "Folktale of indigenous",
+    "credits": "3/3",
+    "teacher": [
+        "浦忠成"
+    ],
+    "classroom": [
+        "民A338",
+        "民A338",
+        "民A338"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102286328",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102286328",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

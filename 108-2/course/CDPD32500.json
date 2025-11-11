@@ -1,0 +1,38 @@
+{
+    "course_id": "CDPD32500",
+    "sql_id": "108256052",
+    "course_name": "潛能開發教育事業實務(一)",
+    "english_course_name": "Practice of Enterprises in Human Potentials Development(I)",
+    "credits": "3/3",
+    "teacher": [
+        "李明憲",
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院B309",
+        "教育學院B309",
+        "教育學院B309"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108256052",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108256052",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

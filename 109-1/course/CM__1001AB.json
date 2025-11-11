@@ -1,0 +1,38 @@
+{
+    "course_id": "CM__1001AB",
+    "sql_id": "109151451",
+    "course_name": "企業倫理講座AB",
+    "english_course_name": "Business Ethics Seminar",
+    "credits": "2/2",
+    "teacher": [
+        "陳雯虹",
+        "侯介澤",
+        "陳麗如"
+    ],
+    "classroom": [
+        "理工一館-第一講堂A108",
+        "理工一館-第一講堂A108"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109151451",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109151451",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

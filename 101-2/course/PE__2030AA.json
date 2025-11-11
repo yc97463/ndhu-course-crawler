@@ -1,0 +1,32 @@
+{
+    "course_id": "PE__2030AA",
+    "sql_id": "101242577",
+    "course_name": "網球AA",
+    "english_course_name": "Tennis",
+    "credits": "1/2",
+    "teacher": [
+        "張威克"
+    ],
+    "classroom": [
+        "網球場",
+        "網球場"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101242577",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101242577",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

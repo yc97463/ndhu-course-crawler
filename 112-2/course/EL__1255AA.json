@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__1255AA",
+    "sql_id": "112230581",
+    "course_name": "口語聽講訓練（二）AA",
+    "english_course_name": "English Listening and Oral Training (II)",
+    "credits": "3/3",
+    "teacher": [
+        "魏克倫"
+    ],
+    "classroom": [
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112230581",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112230581",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

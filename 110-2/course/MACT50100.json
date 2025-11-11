@@ -1,0 +1,37 @@
+{
+    "course_id": "MACT50100",
+    "sql_id": "110255198",
+    "course_name": "金融商品會計",
+    "english_course_name": "Accounting for Financial Instruments",
+    "credits": "3/3",
+    "teacher": [
+        "孫文琦"
+    ],
+    "classroom": [
+        "管理學院C133",
+        "管理學院C133",
+        "管理學院C133"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110255198",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110255198",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

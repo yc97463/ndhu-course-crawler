@@ -1,0 +1,37 @@
+{
+    "course_id": "SD__20800",
+    "sql_id": "105106974",
+    "course_name": "社會問題",
+    "english_course_name": "Social Problems",
+    "credits": "3/3",
+    "teacher": [
+        "陳素梅"
+    ],
+    "classroom": [
+        "人社二館B107",
+        "人社二館B107",
+        "人社二館B107"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105106974",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105106974",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__31520",
+    "sql_id": "101230381",
+    "course_name": "法文（二）（下）",
+    "english_course_name": "French ( II ), 2nd Semester",
+    "credits": "3/3",
+    "teacher": [
+        "呂約伯"
+    ],
+    "classroom": [
+        "文D204",
+        "文D204",
+        "文D204"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        },
+        {
+            "day": "四",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101230381",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101230381",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_7020AB",
+    "sql_id": "100236008",
+    "course_name": "博士論文（二）AB",
+    "english_course_name": "Doctoral Dissertation (Ⅱ)",
+    "credits": "3/3",
+    "teacher": [
+        "紀駿傑"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "1"
+        },
+        {
+            "day": "日",
+            "period": "2"
+        },
+        {
+            "day": "日",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100236008",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100236008",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

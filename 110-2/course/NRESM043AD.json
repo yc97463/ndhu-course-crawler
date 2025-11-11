@@ -1,0 +1,38 @@
+{
+    "course_id": "NRESM043AD",
+    "sql_id": "110257444",
+    "course_name": "專題討論AD",
+    "english_course_name": "Seminar",
+    "credits": "2/3",
+    "teacher": [
+        "陳毓昀",
+        "孫義方"
+    ],
+    "classroom": [
+        "環境學院B410",
+        "環境學院B410",
+        "環境學院B410"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110257444",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110257444",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5456Z",
+    "sql_id": "100581010",
+    "course_name": "運動技術分析",
+    "english_course_name": "Analysis of Sports Skill",
+    "credits": "2/2",
+    "teacher": [
+        "王令儀"
+    ],
+    "classroom": [
+        "體育102",
+        "體育102",
+        "體育102",
+        "體育102"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "11"
+        },
+        {
+            "day": "五",
+            "period": "12"
+        },
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100581010",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100581010",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

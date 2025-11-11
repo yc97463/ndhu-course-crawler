@@ -1,0 +1,27 @@
+{
+    "course_id": "DKM_50100",
+    "sql_id": "101215493",
+    "course_name": "論文研討(二)",
+    "english_course_name": "Seminar on Information Management（II）",
+    "credits": "1/1",
+    "teacher": [
+        "葉國暉"
+    ],
+    "classroom": [
+        "管C210"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101215493",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101215493",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "SPE_41510",
+    "sql_id": "100286885",
+    "course_name": "資訊科技輔具研發與設計",
+    "english_course_name": "Research & Design in Assistive Information Technology",
+    "credits": "3/3",
+    "teacher": [
+        "施清祥"
+    ],
+    "classroom": [
+        "教A106",
+        "教A106",
+        "教A106"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100286885",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100286885",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

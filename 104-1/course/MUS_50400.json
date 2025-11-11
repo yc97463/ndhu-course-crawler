@@ -1,0 +1,37 @@
+{
+    "course_id": "MUS_50400",
+    "sql_id": "104167509",
+    "course_name": "音樂研究法",
+    "english_course_name": "Seminar in Music Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "程緯華"
+    ],
+    "classroom": [
+        "學生活動中心B119",
+        "學生活動中心B119",
+        "學生活動中心B119"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104167509",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104167509",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

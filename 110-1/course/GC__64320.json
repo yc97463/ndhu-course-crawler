@@ -1,0 +1,27 @@
+{
+    "course_id": "GC__64320",
+    "sql_id": "110173545",
+    "course_name": "實踐取向自主學習(十)",
+    "english_course_name": "Pratically Orientated Self-Learning X",
+    "credits": "1/1",
+    "teacher": [
+        "林意雪"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110173545",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110173545",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

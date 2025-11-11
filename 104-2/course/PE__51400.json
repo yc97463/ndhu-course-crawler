@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__51400",
+    "sql_id": "104285763",
+    "course_name": "體育課程設計與發展研究",
+    "english_course_name": "Advanced Curriculum Design in Physical Education in Elementary and Secondary Schools",
+    "credits": "3/3",
+    "teacher": [
+        "徐月琴"
+    ],
+    "classroom": [
+        "教育學院D309",
+        "教育學院D309",
+        "教育學院D309"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        },
+        {
+            "day": "三",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104285763",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104285763",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

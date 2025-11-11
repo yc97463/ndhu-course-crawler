@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST2350AB",
+    "sql_id": "101108445",
+    "course_name": "中國通史（三）AB",
+    "english_course_name": "Chinese History (III)",
+    "credits": "3/3",
+    "teacher": [
+        "陳元朋"
+    ],
+    "classroom": [
+        "文D206",
+        "文D206",
+        "文D206"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101108445",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101108445",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

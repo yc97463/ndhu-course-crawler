@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__2020AA",
+    "sql_id": "109230398",
+    "course_name": "管理學AA",
+    "english_course_name": "Introduction to Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳雯虹"
+    ],
+    "classroom": [
+        "管理學院B103",
+        "管理學院B103",
+        "管理學院B103"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109230398",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109230398",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

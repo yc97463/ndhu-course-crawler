@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_5347Z",
+    "sql_id": "113125571",
+    "course_name": "遊戲與玩具應用研究",
+    "english_course_name": "Research on Play and Toys",
+    "credits": "3/3",
+    "teacher": [
+        "蔡佳燕"
+    ],
+    "classroom": [
+        "教D313教室",
+        "教D313教室",
+        "教D313教室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "3"
+        },
+        {
+            "day": "日",
+            "period": "4"
+        },
+        {
+            "day": "日",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113125571",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113125571",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

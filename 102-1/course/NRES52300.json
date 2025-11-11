@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES52300",
+    "sql_id": "102121268",
+    "course_name": "植物群落生態學",
+    "english_course_name": "Plant Community Ecology",
+    "credits": "3/3",
+    "teacher": [
+        "陳毓昀"
+    ],
+    "classroom": [
+        "環B158",
+        "環B158",
+        "環B158"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102121268",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102121268",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

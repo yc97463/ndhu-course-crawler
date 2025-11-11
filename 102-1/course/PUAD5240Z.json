@@ -1,0 +1,39 @@
+{
+    "course_id": "PUAD5240Z",
+    "sql_id": "102188836",
+    "course_name": "公共事務專題講座",
+    "english_course_name": "Seminar in Public Issues",
+    "credits": "3/3",
+    "teacher": [
+        "石忠山",
+        "朱鎮明",
+        "魯炳炎"
+    ],
+    "classroom": [
+        "共一講堂",
+        "共一講堂",
+        "共一講堂"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102188836",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102188836",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

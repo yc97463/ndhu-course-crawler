@@ -1,0 +1,34 @@
+{
+    "course_id": "ECE_40200",
+    "sql_id": "100263916",
+    "course_name": "幼兒歌曲與創作",
+    "english_course_name": "Composition of Children's Songs",
+    "credits": "2/2",
+    "teacher": [
+        "蘇育代"
+    ],
+    "classroom": [
+        "教C237",
+        "教D207",
+        "教C237",
+        "教D207"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100263916",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100263916",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

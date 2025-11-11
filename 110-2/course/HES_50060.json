@@ -1,0 +1,28 @@
+{
+    "course_id": "HES_50060",
+    "sql_id": "110244481",
+    "course_name": "碩士論文",
+    "english_course_name": "Master Thesis",
+    "credits": "0/1",
+    "teacher": [
+        "李俊鴻",
+        "宋秉明"
+    ],
+    "classroom": [
+        "教師實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110244481",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110244481",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "人文與環境碩士學位學程::MASTER OF HUMANITY AND ENVIRONMENTAL SCIENCE PROGRAM"
+        }
+    ]
+}

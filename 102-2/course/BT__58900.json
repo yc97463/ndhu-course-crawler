@@ -1,0 +1,37 @@
+{
+    "course_id": "BT__58900",
+    "sql_id": "102260821",
+    "course_name": "分子對接於新藥研發",
+    "english_course_name": "Molecular Docking in Drug Discovery",
+    "credits": "3/3",
+    "teacher": [
+        "宣大衛"
+    ],
+    "classroom": [
+        "理工三館B201",
+        "理工三館B201",
+        "理工三館B201"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102260821",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102260821",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "生命科學系::DEPARTMENT OF LIFE SCIENCE"
+        }
+    ]
+}

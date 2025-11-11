@@ -1,0 +1,38 @@
+{
+    "course_id": "BM__65400",
+    "sql_id": "103199927",
+    "course_name": "綠色企業經營策略研究",
+    "english_course_name": "Research on Green Business Strategy",
+    "credits": "3/3",
+    "teacher": [
+        "劉漢榆",
+        "梁明煌"
+    ],
+    "classroom": [
+        "管A103",
+        "管A103",
+        "管A103"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103199927",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103199927",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

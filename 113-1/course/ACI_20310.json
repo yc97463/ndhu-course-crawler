@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_20310",
+    "sql_id": "113199015",
+    "course_name": "金屬鍛敲與造形",
+    "english_course_name": "Metal forging and shaping",
+    "credits": "3/3",
+    "teacher": [
+        "呂浴珊"
+    ],
+    "classroom": [
+        "藝術學院B102",
+        "藝術學院B102",
+        "藝術學院B102"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113199015",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113199015",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

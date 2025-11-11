@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD53600",
+    "sql_id": "110146495",
+    "course_name": "危機管理專題研究",
+    "english_course_name": "Studies in Crisis Management",
+    "credits": "3/3",
+    "teacher": [
+        "詹中原"
+    ],
+    "classroom": [
+        "人社二館D107",
+        "人社二館D107",
+        "人社二館D107"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110146495",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110146495",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}
