@@ -1,0 +1,38 @@
+{
+    "course_id": "HASSM0190",
+    "sql_id": "103151042",
+    "course_name": "亞太地區研究專題I",
+    "english_course_name": "Topic on the Asia-Pacific Area Studies (I)",
+    "credits": "3/3",
+    "teacher": [
+        "林潤華",
+        "張瓊文"
+    ],
+    "classroom": [
+        "文B317",
+        "文B317",
+        "文B317"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103151042",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103151042",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

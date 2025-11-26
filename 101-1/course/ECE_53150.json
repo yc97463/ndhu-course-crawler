@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_53150",
+    "sql_id": "101173422",
+    "course_name": "幼兒發展研究",
+    "english_course_name": "Research on Child Development",
+    "credits": "3/3",
+    "teacher": [
+        "蔡佳燕"
+    ],
+    "classroom": [
+        "教C231",
+        "教C231",
+        "教C231"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101173422",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101173422",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

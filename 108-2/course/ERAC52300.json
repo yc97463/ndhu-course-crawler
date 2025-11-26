@@ -1,0 +1,37 @@
+{
+    "course_id": "ERAC52300",
+    "sql_id": "108280923",
+    "course_name": "族群關係",
+    "english_course_name": "Ethnic Relations",
+    "credits": "3/3",
+    "teacher": [
+        "賴淑娟"
+    ],
+    "classroom": [
+        "原民院A218",
+        "原民院A218",
+        "原民院A218"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108280923",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108280923",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

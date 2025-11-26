@@ -1,0 +1,34 @@
+{
+    "course_id": "PE__10700",
+    "sql_id": "101178624",
+    "course_name": "身心發展與身體活動",
+    "english_course_name": "Physical-Psychological Development and Body Activities",
+    "credits": "2/2",
+    "teacher": [
+        "徐月琴"
+    ],
+    "classroom": [
+        "教B117",
+        "體育館綜合球場",
+        "教B117",
+        "體育館綜合球場"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101178624",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101178624",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

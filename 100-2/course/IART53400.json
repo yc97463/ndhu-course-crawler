@@ -1,0 +1,37 @@
+{
+    "course_id": "IART53400",
+    "sql_id": "100266317",
+    "course_name": "美學的經濟",
+    "english_course_name": "Economics of Aesthetics",
+    "credits": "3/3",
+    "teacher": [
+        "陳怡方"
+    ],
+    "classroom": [
+        "民A327",
+        "民A327",
+        "民A327"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100266317",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100266317",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

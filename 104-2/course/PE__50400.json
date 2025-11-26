@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__50400",
+    "sql_id": "104214593",
+    "course_name": "運動生理學研究",
+    "english_course_name": "Advanced Exercise Physiology",
+    "credits": "3/3",
+    "teacher": [
+        "楊昌斌"
+    ],
+    "classroom": [
+        "教育學院C431-1",
+        "教育學院C431-1",
+        "教育學院C431-1"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104214593",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104214593",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

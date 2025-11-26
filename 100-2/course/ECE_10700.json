@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_10700",
+    "sql_id": "100220737",
+    "course_name": "特殊幼兒教育",
+    "english_course_name": "Early Childhood Special Education",
+    "credits": "3/3",
+    "teacher": [
+        "石明英"
+    ],
+    "classroom": [
+        "教B126",
+        "教B126",
+        "教B126"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100220737",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100220737",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

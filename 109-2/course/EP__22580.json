@@ -1,0 +1,28 @@
+{
+    "course_id": "EP__22580",
+    "sql_id": "109281318",
+    "course_name": "綜合活動領域輔導專長教學實習2",
+    "english_course_name": "The Practicum of Instruction for Compound - Subject Area : Major in Guidance 2",
+    "credits": "1/1",
+    "teacher": [
+        "王沂釗",
+        "陳慧雯"
+    ],
+    "classroom": [
+        "教育學院B108"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109281318",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109281318",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION"
+        }
+    ]
+}

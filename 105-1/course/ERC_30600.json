@@ -1,0 +1,38 @@
+{
+    "course_id": "ERC_30600",
+    "sql_id": "105194722",
+    "course_name": "族群文化實務",
+    "english_course_name": "Apprenticeship",
+    "credits": "3/3",
+    "teacher": [
+        "謝若蘭",
+        "賴淑娟"
+    ],
+    "classroom": [
+        "原民院A206",
+        "原民院A206",
+        "原民院A206"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105194722",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105194722",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

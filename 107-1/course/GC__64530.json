@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__64530",
+    "sql_id": "107146744",
+    "course_name": "跨界與歸零（四）",
+    "english_course_name": "Boundary Crossing and Self-Exploration Ⅳ",
+    "credits": "2/2",
+    "teacher": [
+        "黃筱瑩",
+        "顧瑜君"
+    ],
+    "classroom": [
+        "環境學院A136",
+        "環境學院A136"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107146744",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107146744",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

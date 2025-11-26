@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_52300",
+    "sql_id": "111101813",
+    "course_name": "東台灣社會田野調查寫作",
+    "english_course_name": "The Field Work on the Eastern Taiwan's Society",
+    "credits": "3/3",
+    "teacher": [
+        "蔡侑霖"
+    ],
+    "classroom": [
+        "人社二館B201",
+        "人社二館B201",
+        "人社二館B201"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111101813",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111101813",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

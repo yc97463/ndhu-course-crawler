@@ -1,0 +1,28 @@
+{
+    "course_id": "GC__6523AK",
+    "sql_id": "110152181",
+    "course_name": "垂直整合專題(一)AK",
+    "english_course_name": "Vertically Integrated Projects (I)",
+    "credits": "1/1",
+    "teacher": [
+        "林意雪",
+        "吳勝允"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "16"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110152181",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110152181",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_51900",
+    "sql_id": "103267701",
+    "course_name": "行動研究法",
+    "english_course_name": "Action Research",
+    "credits": "3/3",
+    "teacher": [
+        "張明麗"
+    ],
+    "classroom": [
+        "教C231",
+        "教C231",
+        "教C231"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103267701",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103267701",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

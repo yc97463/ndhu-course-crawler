@@ -1,0 +1,37 @@
+{
+    "course_id": "ISAT52600",
+    "sql_id": "101203410",
+    "course_name": "擴大性溝通(AAC)研究",
+    "english_course_name": "Augmentative and Alternative Communication",
+    "credits": "3/3",
+    "teacher": [
+        "楊熾康"
+    ],
+    "classroom": [
+        "教D230",
+        "教D230",
+        "教D230"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101203410",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101203410",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

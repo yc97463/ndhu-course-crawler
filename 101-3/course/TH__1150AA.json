@@ -1,0 +1,42 @@
+{
+    "course_id": "TH__1150AA",
+    "sql_id": "101352986",
+    "course_name": "教育社會學AA",
+    "english_course_name": "Sociology of Education",
+    "credits": "2/2",
+    "teacher": [
+        "李真文"
+    ],
+    "classroom": [
+        "教B111",
+        "教B111",
+        "教B111",
+        "教B111"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101352986",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101352986",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育"
+        }
+    ]
+}

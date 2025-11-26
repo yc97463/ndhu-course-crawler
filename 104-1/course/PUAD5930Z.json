@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD5930Z",
+    "sql_id": "104165679",
+    "course_name": "政府人力資源管理專題研究",
+    "english_course_name": "Studies in Public Human Resource Management",
+    "credits": "3/3",
+    "teacher": [
+        "黃朝盟"
+    ],
+    "classroom": [
+        "人社一館B203",
+        "人社一館B203",
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104165679",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104165679",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

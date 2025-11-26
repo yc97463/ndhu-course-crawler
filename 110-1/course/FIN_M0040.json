@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_M0040",
+    "sql_id": "110108663",
+    "course_name": "衍生性金融商品",
+    "english_course_name": "Derivatives",
+    "credits": "3/3",
+    "teacher": [
+        "呂進瑞"
+    ],
+    "classroom": [
+        "管理學院C227",
+        "管理學院C227",
+        "管理學院C227"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110108663",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110108663",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

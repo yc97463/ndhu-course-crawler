@@ -1,0 +1,32 @@
+{
+    "course_id": "SL__18880",
+    "sql_id": "109173773",
+    "course_name": "服務學習(二)_教育系",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "高建民",
+        "劉唯玉"
+    ],
+    "classroom": [
+        "教育學院C223"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109173773",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109173773",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

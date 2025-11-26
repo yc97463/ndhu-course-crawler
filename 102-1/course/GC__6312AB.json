@@ -1,0 +1,38 @@
+{
+    "course_id": "GC__6312AB",
+    "sql_id": "102171446",
+    "course_name": "世界文學與文化AB",
+    "english_course_name": "World Literatures and Cultures",
+    "credits": "3/3",
+    "teacher": [
+        "楊植喬",
+        "王君琦"
+    ],
+    "classroom": [
+        "管C133",
+        "管C133",
+        "管C133"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102171446",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102171446",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

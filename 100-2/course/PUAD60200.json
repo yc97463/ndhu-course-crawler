@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD60200",
+    "sql_id": "100294980",
+    "course_name": "大陸社會發展專題",
+    "english_course_name": "Seminar in Social Development in Mainland China",
+    "credits": "3/3",
+    "teacher": [
+        "許光泰"
+    ],
+    "classroom": [
+        "文B203",
+        "文B203",
+        "文B203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100294980",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100294980",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政研究所::GRADUATE INSTITUTE OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

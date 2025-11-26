@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_30200",
+    "sql_id": "104127609",
+    "course_name": "語言復振",
+    "english_course_name": "Language Revitalization",
+    "credits": "3/3",
+    "teacher": [
+        "簡月真"
+    ],
+    "classroom": [
+        "原民院A338",
+        "原民院A338",
+        "原民院A338"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104127609",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104127609",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

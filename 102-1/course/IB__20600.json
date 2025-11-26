@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__20600",
+    "sql_id": "102101604",
+    "course_name": "國際行銷管理",
+    "english_course_name": "International Marketing Management",
+    "credits": "3/3",
+    "teacher": [
+        "周慧君"
+    ],
+    "classroom": [
+        "管A115",
+        "管A115",
+        "管A115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102101604",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102101604",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

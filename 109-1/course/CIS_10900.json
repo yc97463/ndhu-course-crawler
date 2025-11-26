@@ -1,0 +1,37 @@
+{
+    "course_id": "CIS_10900",
+    "sql_id": "109114483",
+    "course_name": "政治學",
+    "english_course_name": "Political Science",
+    "credits": "3/3",
+    "teacher": [
+        "施正鋒"
+    ],
+    "classroom": [
+        "原民院A223",
+        "原民院A223",
+        "原民院A223"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109114483",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109114483",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院學士班::BACHELOR"
+        }
+    ]
+}

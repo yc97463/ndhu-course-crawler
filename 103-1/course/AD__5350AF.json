@@ -1,0 +1,27 @@
+{
+    "course_id": "AD__5350AF",
+    "sql_id": "103179627",
+    "course_name": "專題研究(五)AF",
+    "english_course_name": "Special Topic Study V",
+    "credits": "1/1",
+    "teacher": [
+        "湯運添"
+    ],
+    "classroom": [
+        "民C124"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103179627",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103179627",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

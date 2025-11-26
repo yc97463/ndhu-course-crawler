@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__2060AB",
+    "sql_id": "109111499",
+    "course_name": "普通數學AB",
+    "english_course_name": "General Mathematics",
+    "credits": "2/2",
+    "teacher": [
+        "張子貴"
+    ],
+    "classroom": [
+        "教育學院B124",
+        "教育學院B124"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109111499",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109111499",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

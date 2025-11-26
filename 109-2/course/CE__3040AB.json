@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__3040AB",
+    "sql_id": "109202291",
+    "course_name": "音樂AB",
+    "english_course_name": "Music",
+    "credits": "2/2",
+    "teacher": [
+        "林世悠"
+    ],
+    "classroom": [
+        "學生活動中心B112",
+        "學生活動中心B112"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109202291",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109202291",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

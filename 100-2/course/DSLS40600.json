@@ -1,0 +1,38 @@
+{
+    "course_id": "DSLS40600",
+    "sql_id": "100267416",
+    "course_name": "運動保健醫學",
+    "english_course_name": "Health-Promoting Exercise of Medicine",
+    "credits": "3/3",
+    "teacher": [
+        "林嘉志",
+        "沙部‧魯比"
+    ],
+    "classroom": [
+        "管C233",
+        "管C233",
+        "管C233"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100267416",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100267416",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

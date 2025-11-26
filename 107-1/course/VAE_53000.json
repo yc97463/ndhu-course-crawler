@@ -1,0 +1,37 @@
+{
+    "course_id": "VAE_53000",
+    "sql_id": "107126528",
+    "course_name": "多元文化與創意開發",
+    "english_course_name": "Development of Multicultural and Creative Art",
+    "credits": "3/3",
+    "teacher": [
+        "余慧君"
+    ],
+    "classroom": [
+        "原民院A327",
+        "原民院A327",
+        "原民院A327"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107126528",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107126528",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

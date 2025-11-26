@@ -1,0 +1,27 @@
+{
+    "course_id": "BM__8480AB",
+    "sql_id": "106109813",
+    "course_name": "論文研究(二)AB",
+    "english_course_name": "Dissertation II",
+    "credits": "1/1",
+    "teacher": [
+        "林達榮"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106109813",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106109813",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

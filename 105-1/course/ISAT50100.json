@@ -1,0 +1,38 @@
+{
+    "course_id": "ISAT50100",
+    "sql_id": "105171415",
+    "course_name": "身心障礙議題研究",
+    "english_course_name": "Seminar on the Trends of Special Needs",
+    "credits": "3/3",
+    "teacher": [
+        "鍾莉娟",
+        "林玟秀"
+    ],
+    "classroom": [
+        "教D230",
+        "教D230",
+        "教D230"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105171415",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105171415",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

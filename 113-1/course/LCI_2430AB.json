@@ -1,0 +1,32 @@
+{
+    "course_id": "LCI_2430AB",
+    "sql_id": "113188246",
+    "course_name": "族語寫作AB",
+    "english_course_name": "Indigenous Languages Writing",
+    "credits": "2/2",
+    "teacher": [
+        "黃桂英"
+    ],
+    "classroom": [
+        "線上",
+        "線上"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113188246",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113188246",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

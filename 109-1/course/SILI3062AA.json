@@ -1,0 +1,32 @@
+{
+    "course_id": "SILI3062AA",
+    "sql_id": "109148345",
+    "course_name": "文化創意產業學程實習AA",
+    "english_course_name": "Program of Cultural Creative Industries Internship",
+    "credits": "2/0:2",
+    "teacher": [
+        "李進益"
+    ],
+    "classroom": [
+        "人社一館D206",
+        "人社一館D206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        },
+        {
+            "day": "五",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109148345",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109148345",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

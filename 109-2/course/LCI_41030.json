@@ -1,0 +1,28 @@
+{
+    "course_id": "LCI_41030",
+    "sql_id": "109260149",
+    "course_name": "專題製作(二)",
+    "english_course_name": "Graduate Project (II)",
+    "credits": "1/1",
+    "teacher": [
+        "孫嘉穗",
+        "楊鈞凱"
+    ],
+    "classroom": [
+        "原民院A239"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109260149",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109260149",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

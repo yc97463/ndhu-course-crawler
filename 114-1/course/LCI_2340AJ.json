@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_2340AJ",
+    "sql_id": "114104425",
+    "course_name": "族語（三）AJ",
+    "english_course_name": "Indigenous Languages（III）",
+    "credits": "2/2",
+    "teacher": [
+        "黃桂英"
+    ],
+    "classroom": [
+        "原民院A240",
+        "原民院A240",
+        "原民院A240"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114104425",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114104425",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__51000",
+    "sql_id": "102104143",
+    "course_name": "運動心理學研究",
+    "english_course_name": "Advanced Sports Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "林如瀚"
+    ],
+    "classroom": [
+        "教C409",
+        "教C409",
+        "教C409"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102104143",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102104143",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

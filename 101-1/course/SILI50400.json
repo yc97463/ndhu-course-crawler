@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI50400",
+    "sql_id": "101175460",
+    "course_name": "文學批評專題（一）",
+    "english_course_name": "Seminar in Literature Criticism（Ｉ）",
+    "credits": "3/3",
+    "teacher": [
+        "魏貽君"
+    ],
+    "classroom": [
+        "文B117",
+        "文B117",
+        "文B117"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101175460",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101175460",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}
