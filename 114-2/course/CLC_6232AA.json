@@ -1,0 +1,49 @@
+{
+    "course_id": "CLC_6232AA",
+    "sql_id": "114203048",
+    "course_name": "中文能力與涵養AA",
+    "english_course_name": "Chinese Language Ability and Education",
+    "credits": "3/3",
+    "teacher": [
+        "顏進雄"
+    ],
+    "classroom": [
+        "人社一館B105",
+        "人社一館B105",
+        "人社一館B105"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114203048",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114203048",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "華語文中心::CHINESE LANGUAGE CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "中文課程::Chinese courses"
+        }
+    ]
+}
