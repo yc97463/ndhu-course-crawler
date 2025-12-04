@@ -8,22 +8,12 @@
         "黃家華"
     ],
     "classroom": [
-        "實驗室",
-        "實驗室",
-        "實驗室"
+        "其他"
     ],
     "class_time": [
         {
-            "day": "五",
-            "period": "1"
-        },
-        {
-            "day": "五",
-            "period": "2"
-        },
-        {
-            "day": "五",
-            "period": "3"
+            "day": "與",
+            "period": "教師另行約定"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114268110",
