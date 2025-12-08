@@ -1,11 +1,18 @@
 {
-    "course_id": "OE__1026AA",
+    "course_id": "OE__10260",
     "sql_id": "114161609",
-    "course_name": "專題研究(三)AA",
+    "course_name": "專題研究(三)",
     "english_course_name": "Independent Study (III)",
     "credits": "1/1",
     "teacher": [
-        "白益豪"
+        "白益豪",
+        "李政誼",
+        "林伯彥",
+        "林楚軒",
+        "林嘉德",
+        "徐裕奎",
+        "莊沁融",
+        "蔡志宏"
     ],
     "classroom": [
         "實驗室"
