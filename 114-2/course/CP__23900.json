@@ -8,22 +8,22 @@
         "李沐齊"
     ],
     "classroom": [
-        "人社一館D107",
-        "人社一館D107",
-        "人社一館D107"
+        "人社二館-第四講堂B011",
+        "人社二館-第四講堂B011",
+        "人社二館-第四講堂B011"
     ],
     "class_time": [
         {
-            "day": "四",
-            "period": "9"
+            "day": "五",
+            "period": "4"
         },
         {
-            "day": "四",
-            "period": "10"
+            "day": "五",
+            "period": "5"
         },
         {
-            "day": "四",
-            "period": "11"
+            "day": "五",
+            "period": "6"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114215287",

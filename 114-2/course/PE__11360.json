@@ -5,7 +5,7 @@
     "english_course_name": "Human Physiology",
     "credits": "2/2",
     "teacher": [
-        "待聘"
+        "林嘉志"
     ],
     "classroom": [
         "教育學院B117",
@@ -13,11 +13,11 @@
     ],
     "class_time": [
         {
-            "day": "二",
+            "day": "五",
             "period": "5"
         },
         {
-            "day": "二",
+            "day": "五",
             "period": "6"
         }
     ],
