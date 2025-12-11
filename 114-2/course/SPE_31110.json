@@ -8,17 +8,17 @@
         "林玟秀"
     ],
     "classroom": [
-        "教育學院C131",
-        "教育學院C131"
+        "教育學院A106",
+        "教育學院A106"
     ],
     "class_time": [
         {
             "day": "四",
-            "period": "10"
+            "period": "5"
         },
         {
             "day": "四",
-            "period": "11"
+            "period": "6"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114227929",
