@@ -15,15 +15,15 @@
     "class_time": [
         {
             "day": "五",
+            "period": "7"
+        },
+        {
+            "day": "五",
             "period": "8"
         },
         {
             "day": "五",
             "period": "9"
-        },
-        {
-            "day": "五",
-            "period": "10"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114285059",

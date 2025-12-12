@@ -1,8 +1,8 @@
 {
-    "course_id": "PHYS1010AC",
-    "sql_id": "114212370",
-    "course_name": "普通物理實驗(一)AC",
-    "english_course_name": "General Physics Laboratory (I)",
+    "course_id": "PHYS1030AC",
+    "sql_id": "114213341",
+    "course_name": "普通物理實驗(二)AC",
+    "english_course_name": "General Physics Lab. (II)",
     "credits": "1/0:3",
     "teacher": [
         "賴建智"
@@ -26,8 +26,8 @@
             "period": "10"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114212370",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114212370",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114213341",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114213341",
     "departments": [
         {
             "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
