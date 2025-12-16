@@ -8,22 +8,22 @@
         "梁莉芳"
     ],
     "classroom": [
-        "人社二館D105",
-        "人社二館D105",
-        "人社二館D105"
+        "人社一館B113",
+        "人社一館B113",
+        "人社一館B113"
     ],
     "class_time": [
         {
-            "day": "三",
-            "period": "1"
+            "day": "五",
+            "period": "9"
         },
         {
-            "day": "三",
-            "period": "2"
+            "day": "五",
+            "period": "10"
         },
         {
-            "day": "三",
-            "period": "3"
+            "day": "五",
+            "period": "11"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114224817",
