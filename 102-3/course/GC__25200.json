@@ -1,24 +1,39 @@
 {
-    "course_id": "GC__63940",
-    "sql_id": "108301285",
-    "course_name": "英語閱讀與詮釋",
-    "english_course_name": "English Reading Comprehension",
-    "credits": "2/2",
+    "course_id": "GC__25200",
+    "sql_id": "102398952",
+    "course_name": "英語文學名著選讀",
+    "english_course_name": "Selected Readings in English Masterpieces",
+    "credits": "3/3",
     "teacher": [
-        "吳佩儀"
+        "張玄竺"
     ],
     "classroom": [
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113",
-        "人社三館D113"
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207",
+        "共A207"
     ],
     "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
         {
             "day": "二",
             "period": "8"
@@ -56,8 +71,8 @@
             "period": "10"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108301285",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108301285",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102398952",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102398952",
     "departments": [
         {
             "college": "通識教育中心::GENERAL EDUCATION CENTER",

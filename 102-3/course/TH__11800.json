@@ -1,17 +1,17 @@
 {
-    "course_id": "TH__11000",
-    "sql_id": "108331498",
-    "course_name": "國民小學數學教材教法",
-    "english_course_name": "Teaching Materials and Methods of Mathematics in the Elementary School",
+    "course_id": "TH__11800",
+    "sql_id": "102323194",
+    "course_name": "教育行政",
+    "english_course_name": "Educational Administration",
     "credits": "2/2",
     "teacher": [
-        "丁嘉琦"
+        "范熾文"
     ],
     "classroom": [
-        "教育學院B108",
-        "教育學院B108",
-        "教育學院B108",
-        "教育學院B108"
+        "教B108",
+        "教B108",
+        "教B108",
+        "教B108"
     ],
     "class_time": [
         {
@@ -31,8 +31,8 @@
             "period": "6"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108331498",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108331498",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102323194",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102323194",
     "departments": [
         {
             "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
