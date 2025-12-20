@@ -8127,6 +8127,38 @@
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "CSIE62240": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "CSIE62240",
+        "sql_id": "114271033",
+        "course_name": "氛圍編碼",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114271033",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114271033",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "Vibe Coding",
+        "credits": "3/3",
+        "teacher": "/何宇傑",
+        "classroom": "/理工二館D301/理工二館D301/理工二館D301",
+        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "CSIE62250": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "CSIE62250",
+        "sql_id": "114203935",
+        "course_name": "大語言模型及應用",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114203935",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114203935",
+        "class_time": "/二5/二6/二7",
+        "english_course_name": "Large Language Models and Applications",
+        "credits": "3/3",
+        "teacher": "/何宇傑",
+        "classroom": "/理工二館E403/理工二館E403/理工二館E403",
+        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "CSIEM0090": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -8252,6 +8284,22 @@
         "credits": "3/3",
         "teacher": "/黃武元",
         "classroom": "/理工二館C303/理工二館C303/理工二館C303",
+        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "CSIEM0680": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "CSIEM0680",
+        "sql_id": "114237226",
+        "course_name": "大語言模型及應用",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114237226",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114237226",
+        "class_time": "/二5/二6/二7",
+        "english_course_name": "Large Language Models and Applications",
+        "credits": "3/3",
+        "teacher": "/何宇傑",
+        "classroom": "/理工二館E403/理工二館E403/理工二館E403",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -22060,6 +22108,22 @@
         "credits": "2/2",
         "teacher": "/何寶璋",
         "classroom": "/人社一館D101/人社一館D101",
+        "offering_department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
+    "TCSL70180": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "TCSL70180",
+        "sql_id": "114246906",
+        "course_name": "人工智慧與華語文學習專題",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114246906",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114246906",
+        "class_time": "/四9/四10/四11",
+        "english_course_name": "Topic in Artificial Intelligence and Chinese Language Learning",
+        "credits": "3/3",
+        "teacher": "/待聘",
+        "classroom": "/人社一館D101/人社一館D101/人社一館D101",
         "offering_department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -38876,7 +38940,7 @@
         "credits": "2/2",
         "teacher": "/李真文",
         "classroom": "/教育學院B112/教育學院B112",
-        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
     "CE__2110AA": {
@@ -41787,7 +41851,7 @@
         "english_course_name": "Educational Law",
         "credits": "2/2",
         "teacher": "/范熾文",
-        "classroom": "/教育學院B124/教育學院B124",
+        "classroom": "/教育學院B313/教育學院B313",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -47738,7 +47802,7 @@
         "class_time": "/四8/四9",
         "english_course_name": "Fundamental Computer Programming-R Language",
         "credits": "2/2",
-        "teacher": "/張烜瀚",
+        "teacher": "/張烜瀚/陳旻秀",
         "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
