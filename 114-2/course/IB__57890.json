@@ -1,0 +1,38 @@
+{
+    "course_id": "IB__57890",
+    "sql_id": "114225044",
+    "course_name": "國際企業研究方法",
+    "english_course_name": "Research methods international Business",
+    "credits": "3/3",
+    "teacher": [
+        "張國義",
+        "陳柏元"
+    ],
+    "classroom": [
+        "管理學院C121",
+        "管理學院C121",
+        "管理學院C121"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114225044",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114225044",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}
