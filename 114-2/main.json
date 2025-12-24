@@ -25402,7 +25402,7 @@
         "class_time": "/一7/一8",
         "english_course_name": "Counseling Practicum",
         "credits": "1/0:2",
-        "teacher": "/王沂釗/余振民/待聘",
+        "teacher": "/王沂釗/余振民/陳育涵",
         "classroom": "/人社二館B101/人社二館B101",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25418,7 +25418,7 @@
         "class_time": "/一7/一8",
         "english_course_name": "Counseling Practicum",
         "credits": "1/0:2",
-        "teacher": "/王沂釗/待聘/余振民",
+        "teacher": "/王沂釗/余振民/陳育涵",
         "classroom": "/人社二館B403/人社二館B403",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25434,7 +25434,7 @@
         "class_time": "/一7/一8",
         "english_course_name": "Counseling Practicum",
         "credits": "1/0:2",
-        "teacher": "/王沂釗/余振民/待聘",
+        "teacher": "/王沂釗/余振民/陳育涵",
         "classroom": "/人社二館B404/人社二館B404",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25546,7 +25546,7 @@
         "class_time": "/五7/五8/五9/五10/五11/五12",
         "english_course_name": "Internship(Ⅱ)",
         "credits": "3/0:6",
-        "teacher": "/黎士鳴/待聘",
+        "teacher": "/黎士鳴/林義盛",
         "classroom": "/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25562,8 +25562,8 @@
         "class_time": "/五7/五8/五9/五10/五11/五12",
         "english_course_name": "Internship(Ⅱ)",
         "credits": "3/0:6",
-        "teacher": "/黎士鳴/待聘",
-        "classroom": "/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304/人社二館B304",
+        "teacher": "/黎士鳴/黃亮韶",
+        "classroom": "/人社一館D203/人社一館D203/人社一館D203/人社一館D203/人社一館D203/人社一館D203",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -25610,7 +25610,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Interpersonal Relationship",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/蘇琳",
         "classroom": "/人社二館B101/人社二館B101/人社二館B101",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -33098,7 +33098,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "seminar",
         "credits": "2/3",
-        "teacher": "/楊悠娟",
+        "teacher": "/楊悠娟/洪耀明",
         "classroom": "/環境學院A155/環境學院A155/環境學院A155",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -33290,7 +33290,7 @@
         "class_time": "/二4/二5/二6",
         "english_course_name": "Seminar",
         "credits": "2/3",
-        "teacher": "/楊悠娟",
+        "teacher": "/楊悠娟/洪耀明",
         "classroom": "/環境學院A155/環境學院A155/環境學院A155",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -36255,6 +36255,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "MUS_12800": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "MUS_12800",
+        "sql_id": "114220387",
+        "course_name": "木笛",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114220387",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114220387",
+        "class_time": "/一8/一9",
+        "english_course_name": "Recorder",
+        "credits": "2/2",
+        "teacher": "/陳燕玲",
+        "classroom": "/藝術學院C227/藝術學院C227",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_13300": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -37324,22 +37340,6 @@
         "credits": "1/1",
         "teacher": "/許聰義",
         "classroom": "/藝術學院教師研究室",
-        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
-        "college": "藝術學院::COLLEGE OF THE ARTS"
-    },
-    "MUS_12800": {
-        "campus": "壽豐校區",
-        "department": "學三",
-        "course_id": "MUS_12800",
-        "sql_id": "114220387",
-        "course_name": "木笛",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114220387",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114220387",
-        "class_time": "/一8/一9",
-        "english_course_name": "Recorder",
-        "credits": "2/2",
-        "teacher": "/陳燕玲",
-        "classroom": "/藝術學院C227/藝術學院C227",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -45627,7 +45627,7 @@
         "english_course_name": "Investigating Taiwanese Socio-Cultural Change",
         "credits": "3/3",
         "teacher": "/謝若蘭",
-        "classroom": "/原民院A206/原民院A206/原民院A206",
+        "classroom": "/原民院B106/原民院B106/原民院B106",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -49866,7 +49866,7 @@
         "class_time": "/三11/三12",
         "english_course_name": "New Media Management Practices",
         "credits": "2/2",
-        "teacher": "/劉英和/趙荻瑗",
+        "teacher": "/趙荻瑗/劉英和",
         "classroom": "/人社二館-第一講堂B005/人社二館-第一講堂B005",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
