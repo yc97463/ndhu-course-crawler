@@ -13599,6 +13599,22 @@
         "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "MGT_5408Z": {
+        "campus": "壽豐校區",
+        "department": "碩專",
+        "course_id": "MGT_5408Z",
+        "sql_id": "114222605",
+        "course_name": "新創企業創業家講座",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114222605",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114222605",
+        "class_time": "/日9/日10",
+        "english_course_name": "Start-up Entrepreneurs Speeches and Seminars",
+        "credits": "2/2",
+        "teacher": "/欒錦榮",
+        "classroom": "/管理學院A115/管理學院A115",
+        "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "MGT_5411Z": {
         "campus": "壽豐校區",
         "department": "碩專",
@@ -13627,22 +13643,6 @@
         "english_course_name": "Digital Marketing",
         "credits": "2/2",
         "teacher": "/徐暘展",
-        "classroom": "/管理學院A115/管理學院A115",
-        "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
-    "MGT_5426Z": {
-        "campus": "壽豐校區",
-        "department": "碩專",
-        "course_id": "MGT_5426Z",
-        "sql_id": "114222605",
-        "course_name": "新創企業創業家講座",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114222605",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114222605",
-        "class_time": "/日9/日10",
-        "english_course_name": "Start-up Entrepreneurs Speeches and Seminars",
-        "credits": "2/2",
-        "teacher": "/欒錦榮",
         "classroom": "/管理學院A115/管理學院A115",
         "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -34890,7 +34890,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/黃星達",
         "classroom": "/其他",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -35050,7 +35050,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/黃星達",
         "classroom": "/其他",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -35306,7 +35306,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/黃星達",
         "classroom": "/其他",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -35450,7 +35450,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Crafts and Design",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/黃星達",
         "classroom": "/藝術學院A226/藝術學院A226/藝術學院A226",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -35610,7 +35610,7 @@
         "class_time": "/五4/五5/五6",
         "english_course_name": "Designing the Websites for Arts and Creative Industries",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/黃星達",
         "classroom": "/藝術學院-電腦教室A138/藝術學院-電腦教室A138/藝術學院-電腦教室A138",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -35658,7 +35658,7 @@
         "class_time": "/一11/一12/三12",
         "english_course_name": "Project Lab",
         "credits": "3/3",
-        "teacher": "/余慧君/郭文昌/郭令權/陳怡方/張淑華/待聘",
+        "teacher": "/余慧君/郭文昌/郭令權/陳怡方/張淑華/黃星達",
         "classroom": "/藝術學院A210/藝術學院A210/藝術學院A210",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
