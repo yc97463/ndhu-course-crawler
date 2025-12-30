@@ -14826,7 +14826,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/江志卿",
         "classroom": "/其他",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -14906,7 +14906,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Dissertation Guidance",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/江志卿",
         "classroom": "/其他",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -19503,6 +19503,22 @@
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "IM__21100": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "IM__21100",
+        "sql_id": "114270914",
+        "course_name": "演算法",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114270914",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114270914",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "Algorithm Design and Analysis",
+        "credits": "3/3",
+        "teacher": "/葉國暉/待聘(李林發）",
+        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
+        "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "IM__30100": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -21691,7 +21707,7 @@
         "english_course_name": "International Commerce Communication",
         "credits": "2/2",
         "teacher": "/吳佩儀",
-        "classroom": "/管理學院B111/管理學院B111",
+        "classroom": "/理工二館-第二講堂B101/理工二館-第二講堂B101",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -48923,7 +48939,7 @@
         "english_course_name": "Korean(II)",
         "credits": "3/3",
         "teacher": "/謝秀梅",
-        "classroom": "/理工二館C309/理工二館C309/理工二館C309",
+        "classroom": "/理工二館E105/理工二館E105/理工二館E105",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -48939,7 +48955,7 @@
         "english_course_name": "Korean(II)",
         "credits": "3/3",
         "teacher": "/謝秀梅",
-        "classroom": "/理工二館C309/理工二館C309/理工二館C309",
+        "classroom": "/理工二館E105/理工二館E105/理工二館E105",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -49723,7 +49739,7 @@
         "english_course_name": "Korean(Ⅲ)",
         "credits": "3/3",
         "teacher": "/謝秀梅",
-        "classroom": "/理工二館C309/理工二館C309/理工二館C309",
+        "classroom": "/理工二館E105/理工二館E105/理工二館E105",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
