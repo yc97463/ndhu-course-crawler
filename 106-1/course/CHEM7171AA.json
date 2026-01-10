@@ -1,0 +1,37 @@
+{
+    "course_id": "CHEM7171AA",
+    "sql_id": "106155860",
+    "course_name": "專題研究（七）AA",
+    "english_course_name": "Independent Study (7）",
+    "credits": "3/3",
+    "teacher": [
+        "何彥鵬"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106155860",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106155860",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "化學系::DEPARTMENT OF CHEMISTRY"
+        }
+    ]
+}
