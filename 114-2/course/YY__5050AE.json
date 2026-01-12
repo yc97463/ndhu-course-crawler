@@ -31,6 +31,10 @@
         {
             "college": "校核心課程::University Core Curriculum",
             "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "體育課程::Physical education courses"
         }
     ]
 }
