@@ -3338,7 +3338,7 @@
         "class_time": "/二1/二2",
         "english_course_name": "Independent Study(IV)",
         "credits": "2/2",
-        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/陳國庭/賴彥勳",
+        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/陳國庭/劉鎮維",
         "classroom": "/理工一館-第三講堂/理工一館-第三講堂",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -40967,7 +40967,7 @@
         "course_name": "輔助科技概論",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114206648",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114206648",
-        "class_time": "/二9/二10",
+        "class_time": "/三9/三10",
         "english_course_name": "The Introduction of Assistive Technology",
         "credits": "2/2",
         "teacher": "/吳尚書(待聘)",
@@ -43898,7 +43898,7 @@
         "class_time": "/四3/四4/四5/四6",
         "english_course_name": "Teaching Practicum in Elementary School(I)",
         "credits": "4/4",
-        "teacher": "/高金成/周子宇/賴榮興/謝世婷",
+        "teacher": "/高金成/周子宇/謝世婷/待聘",
         "classroom": "/教育學院C113/教育學院C113/教育學院C113/教育學院C113",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -49547,7 +49547,7 @@
         "english_course_name": "The Leadership Development of Youth",
         "credits": "2/2",
         "teacher": "/吳佳燕",
-        "classroom": "/理工二館C405/理工二館C405",
+        "classroom": "/理工二館E105/理工二館E105",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
