@@ -2330,7 +2330,7 @@
         "class_time": "/五10/五11",
         "english_course_name": "Colloquium (II)",
         "credits": "1/2",
-        "teacher": "/賴彥勳",
+        "teacher": "/賴彥勲",
         "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -2538,7 +2538,7 @@
         "class_time": "/三4/三5/三6",
         "english_course_name": "Organic Reactions and Mechanisms",
         "credits": "3/3",
-        "teacher": "/賴彥勳",
+        "teacher": "/賴彥勲",
         "classroom": "/理工一館D339/理工一館D339/理工一館D339",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -2618,7 +2618,7 @@
         "class_time": "/五10/五11",
         "english_course_name": "Colloquium(4)",
         "credits": "1/2",
-        "teacher": "/賴彥勳",
+        "teacher": "/賴彥勲",
         "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -2858,7 +2858,7 @@
         "class_time": "/五10/五11",
         "english_course_name": "Colloquium(4)",
         "credits": "1/2",
-        "teacher": "/賴彥勳",
+        "teacher": "/賴彥勲",
         "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -2970,7 +2970,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "General Chemistry Lab(II)",
         "credits": "1/0:3",
-        "teacher": "/賴彥勳",
+        "teacher": "/賴彥勲",
         "classroom": "/理工一館C411/理工一館C411/理工一館C411",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -3034,7 +3034,7 @@
         "class_time": "/四2/四3",
         "english_course_name": "Chemistry in Social Practice (II)",
         "credits": "1/2",
-        "teacher": "/林雅凡/賴彥勳",
+        "teacher": "/林雅凡/賴彥勲",
         "classroom": "/理工一館D241/理工一館D241",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -3194,7 +3194,7 @@
         "class_time": "/二5/二6",
         "english_course_name": "Organic Chemistry(Ⅱ)",
         "credits": "2/2",
-        "teacher": "/賴彥勳",
+        "teacher": "/賴彥勲",
         "classroom": "/理工三館-階梯教室D104/理工三館-階梯教室D104",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -3242,7 +3242,7 @@
         "class_time": "/一1/一2",
         "english_course_name": "Independent Study(Ⅱ)",
         "credits": "1/2",
-        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/陳國庭/賴彥勳",
+        "teacher": "/劉鎮維/劉福成/朱家亮/林雅凡/陳國庭/賴彥勲",
         "classroom": "/理工一館-第三講堂/理工一館-第三講堂",
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -8123,7 +8123,7 @@
         "english_course_name": "Vibe Coding",
         "credits": "3/3",
         "teacher": "/何宇傑",
-        "classroom": "/理工二館D301/理工二館D301/理工二館D301",
+        "classroom": "/理工二館B301/理工二館B301/理工二館B301",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -8139,7 +8139,7 @@
         "english_course_name": "Large Language Models and Applications",
         "credits": "3/3",
         "teacher": "/何宇傑",
-        "classroom": "/理工二館E403/理工二館E403/理工二館E403",
+        "classroom": "/理工二館B301/理工二館B301/理工二館B301",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -8283,7 +8283,7 @@
         "english_course_name": "Large Language Models and Applications",
         "credits": "3/3",
         "teacher": "/何宇傑",
-        "classroom": "/理工二館E403/理工二館E403/理工二館E403",
+        "classroom": "/理工二館B301/理工二館B301/理工二館B301",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13274,7 +13274,7 @@
         "class_time": "/一5/一6",
         "english_course_name": "Journal club",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/袁大鈞",
         "classroom": "/理工三館B203/理工三館B203",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -24314,7 +24314,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "Spanish ( I ), 2nd Semester",
         "credits": "3/3",
-        "teacher": "/待聘",
+        "teacher": "/David Nazar Coutino",
         "classroom": "/人社一館D204/人社一館D204/人社一館D204",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -25015,7 +25015,7 @@
         "course_name": "飲食史專題",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114203020",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114203020",
-        "class_time": "/三4/三5/三6",
+        "class_time": "/二4/二5/二6",
         "english_course_name": "Food and Drink in Chinese History",
         "credits": "3/3",
         "teacher": "/陳元朋",
@@ -30215,7 +30215,7 @@
         "course_name": "社會實踐方案AA",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114210307",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114210307",
-        "class_time": "/五4/五5/五6",
+        "class_time": "/一3/二3/四3",
         "english_course_name": "Program of Social Practices",
         "credits": "3/3",
         "teacher": "/呂傑華",
@@ -36027,7 +36027,7 @@
         "english_course_name": "Voice(II)",
         "credits": "1/1",
         "teacher": "/陳景貽",
-        "classroom": "/藝學院教師研究室",
+        "classroom": "/藝術學院教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -36043,7 +36043,7 @@
         "english_course_name": "Voice(II)",
         "credits": "1/1",
         "teacher": "/彭興讓",
-        "classroom": "/藝學院教師研究室",
+        "classroom": "/藝術學院教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -38011,7 +38011,7 @@
         "english_course_name": "Jazz Saxophone (Major) (Ⅷ)",
         "credits": "1/1",
         "teacher": "/楊曉恩",
-        "classroom": "/藝術炫教師研究室",
+        "classroom": "/藝術學院教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -51402,7 +51402,7 @@
         "class_time": "/四8/四9",
         "english_course_name": "Online English Learning (Level 1)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/吳佩蓁(待聘)",
         "classroom": "/人社二館B103/人社二館B103",
         "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
@@ -51450,7 +51450,7 @@
         "class_time": "/四10/四11",
         "english_course_name": "Online English Learning (Level 1)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/吳佩蓁(待聘)",
         "classroom": "/人社二館B103/人社二館B103",
         "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
@@ -51643,7 +51643,7 @@
         "english_course_name": "Online English Learning (Level 2)",
         "credits": "2/2",
         "teacher": "/林千里",
-        "classroom": "/人社三館-元瑾講堂B106/人社三館-元瑾講堂B106",
+        "classroom": "/教育學院PC2(B220)/教育學院PC2(B220)",
         "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -51674,7 +51674,7 @@
         "class_time": "/五3/五4",
         "english_course_name": "Online English Learning (Level 2)",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/吳佩蓁(待聘)",
         "classroom": "/理工二館B212/理工二館B212",
         "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
