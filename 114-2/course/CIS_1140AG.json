@@ -8,10 +8,8 @@
         "摩奧．悟吉納"
     ],
     "classroom": [
-        "原民院A240",
-        "原民院A240",
-        "原民院A240",
-        "原民院A240"
+        "線上課程",
+        "線上課程"
     ],
     "class_time": [
         {
@@ -21,14 +19,6 @@
         {
             "day": "二",
             "period": "10"
-        },
-        {
-            "day": "二",
-            "period": "11"
-        },
-        {
-            "day": "二",
-            "period": "12"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114224221",
