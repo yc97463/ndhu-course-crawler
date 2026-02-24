@@ -8,12 +8,17 @@
         "戴興盛"
     ],
     "classroom": [
-        "其他"
+        "教師實驗室",
+        "教師實驗室"
     ],
     "class_time": [
         {
-            "day": "與",
-            "period": "教師另行約定"
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114251237",
