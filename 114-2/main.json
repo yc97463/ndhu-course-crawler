@@ -263,7 +263,7 @@
         "course_name": "程式設計(二)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114202874",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114202874",
-        "class_time": "/三4/三5/三6",
+        "class_time": "/三9/三10/三11",
         "english_course_name": "Introduction to Computer Programming (II)",
         "credits": "3/3",
         "teacher": "/楊舜博",
@@ -311,7 +311,7 @@
         "course_name": "程式設計實驗(二)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114255272",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114255272",
-        "class_time": "/三9/三10/三11",
+        "class_time": "/三4/三5/三6",
         "english_course_name": "Lab of Programming II",
         "credits": "1/1",
         "teacher": "/楊舜博",
@@ -2891,7 +2891,7 @@
         "english_course_name": "General Chemistry (II)",
         "credits": "3/3",
         "teacher": "/邱子豪",
-        "classroom": "/理工一館D241/理工一館D241/理工一館D241",
+        "classroom": "/理工一館-第一講堂A108/理工一館-第一講堂A108/理工一館-第一講堂A108",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -19035,7 +19035,7 @@
         "english_course_name": "Cost and Management Accounting (II)",
         "credits": "3/3",
         "teacher": "/黃德芬",
-        "classroom": "/管理學院C141/管理學院C141/管理學院C141",
+        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
         "offering_department": "會計學系::DEPARTMENT OF ACCOUNTING",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -29962,7 +29962,7 @@
         "class_time": "/五1/五2",
         "english_course_name": "Practice in Social Enterprises（Ⅱ）",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/呂傑華",
         "classroom": "/教師研究室/教師研究室",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -34090,7 +34090,7 @@
         "class_time": "/三9/三10/三11",
         "english_course_name": "Environmental Science",
         "credits": "3/3",
-        "teacher": "/李俊鴻/洪耀明/林祥偉",
+        "teacher": "/林祥偉/洪耀明/李俊鴻",
         "classroom": "/環境學院A124/環境學院A124/環境學院A124",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -36575,6 +36575,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "MUS_11520": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "MUS_11520",
+        "sql_id": "114257212",
+        "course_name": "爵士人聲 (主修) (2)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114257212",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114257212",
+        "class_time": "/一1",
+        "english_course_name": "Jazz Vocal (Major) (II)",
+        "credits": "1/1",
+        "teacher": "/蔡雯慧",
+        "classroom": "/藝術學院教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_11900": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -37275,6 +37291,22 @@
         "english_course_name": "Jazz Vocal (Minor) (III)",
         "credits": "0.5/0.5",
         "teacher": "/蔡雯慧",
+        "classroom": "/藝術學院教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_23500": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "MUS_23500",
+        "sql_id": "114286520",
+        "course_name": "大提琴（主修）（3）",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114286520",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114286520",
+        "class_time": "/三2",
+        "english_course_name": "Cello（Major）（Ⅲ）",
+        "credits": "1/1",
+        "teacher": "/李宜珮",
         "classroom": "/藝術學院教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -38075,6 +38107,22 @@
         "english_course_name": "Violin（Major）（Ⅷ）",
         "credits": "1/1",
         "teacher": "/柯宥帆",
+        "classroom": "/藝術學院教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_4370AC": {
+        "campus": "壽豐校區",
+        "department": "學四",
+        "course_id": "MUS_4370AC",
+        "sql_id": "114232626",
+        "course_name": "小提琴（主修）（8）AC",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114232626",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114232626",
+        "class_time": "/一1",
+        "english_course_name": "Violin（Major）（Ⅷ）",
+        "credits": "1/1",
+        "teacher": "/王銘哲",
         "classroom": "/藝術學院教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -39163,7 +39211,7 @@
         "english_course_name": "Health and Physical Education",
         "credits": "2/2",
         "teacher": "/李宏盈",
-        "classroom": "/教育學院B119/教育學院B119",
+        "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -39179,7 +39227,7 @@
         "english_course_name": "Health and Physical Education",
         "credits": "2/2",
         "teacher": "/李宏盈",
-        "classroom": "/教育學院B119/教育學院B119",
+        "classroom": "/教育學院B117/教育學院B117",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -40187,7 +40235,7 @@
         "english_course_name": "Seminar in Indigenous Education",
         "credits": "3/3",
         "teacher": "/張瀠之",
-        "classroom": "/教育學院C108/教育學院C108/教育學院C108",
+        "classroom": "/教育學院B327/教育學院B327/教育學院B327",
         "offering_department": "花師教育學院多元文化教育博士班::PH.D. PROGRAM OF MULTICULTURAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43179,7 +43227,7 @@
         "english_course_name": "Study on Aboriginal Education",
         "credits": "3/3",
         "teacher": "/張瀠之",
-        "classroom": "/教育學院C108/教育學院C108/教育學院C108",
+        "classroom": "/教育學院B327/教育學院B327/教育學院B327",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43675,7 +43723,7 @@
         "english_course_name": "Seminar on Indigenous Education",
         "credits": "3/3",
         "teacher": "/張瀠之",
-        "classroom": "/教育學院C108/教育學院C108/教育學院C108",
+        "classroom": "/教育學院B327/教育學院B327/教育學院B327",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -45322,7 +45370,7 @@
         "class_time": "/一11/一12",
         "english_course_name": "Indigenous Languages II",
         "credits": "2/2",
-        "teacher": "/待聘",
+        "teacher": "/李清玉",
         "classroom": "/線上課程/線上課程",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -45354,7 +45402,7 @@
         "class_time": "/一10/一11",
         "english_course_name": "Indigenous Languages II",
         "credits": "2/2",
-        "teacher": "/杜佤克．瑪蘇筮",
+        "teacher": "/潘秀蘭",
         "classroom": "/線上課程/線上課程",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -46746,7 +46794,7 @@
         "class_time": "/四10/四11/四12",
         "english_course_name": "Indigenous Languages（IV）",
         "credits": "2/3",
-        "teacher": "/待聘",
+        "teacher": "/張正妹",
         "classroom": "/線上課程/線上課程/線上課程",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
@@ -46778,7 +46826,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Indigenous Languages（IV）",
         "credits": "2/3",
-        "teacher": "/杜佤克．瑪蘇筮",
+        "teacher": "/潘秀蘭",
         "classroom": "/線上課程/線上課程/線上課程",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
