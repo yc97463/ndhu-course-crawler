@@ -1627,7 +1627,7 @@
         "english_course_name": "Statistics",
         "credits": "3/3",
         "teacher": "/曹振海",
-        "classroom": "/理工一館B201/理工一館B201/理工一館B201",
+        "classroom": "/理工一館A316/理工一館A316/理工一館A316",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1643,7 +1643,7 @@
         "english_course_name": "Statistics",
         "credits": "3/3",
         "teacher": "/曹振海",
-        "classroom": "/理工一館B201/理工一館B201/理工一館B201",
+        "classroom": "/理工一館A316/理工一館A316/理工一館A316",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9707,7 +9707,7 @@
         "english_course_name": "Semiconductor Devices",
         "credits": "3/3",
         "teacher": "/林育賢",
-        "classroom": "/理工二館A229/理工二館A229/理工二館A229",
+        "classroom": "/理工二館-ZT講堂C101/理工二館-ZT講堂C101/理工二館-ZT講堂C101",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9723,7 +9723,7 @@
         "english_course_name": "Semiconductor Devices",
         "credits": "3/3",
         "teacher": "/林育賢",
-        "classroom": "/理工二館A229/理工二館A229/理工二館A229",
+        "classroom": "/理工二館-ZT講堂C101/理工二館-ZT講堂C101/理工二館-ZT講堂C101",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13679,6 +13679,22 @@
         "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "MGT_5422Z": {
+        "campus": "壽豐校區",
+        "department": "碩專",
+        "course_id": "MGT_5422Z",
+        "sql_id": "114208104",
+        "course_name": "全球商機探索",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114208104",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114208104",
+        "class_time": "/一1/一2/一3",
+        "english_course_name": "Global Business Opportunity Exploration",
+        "credits": "3/3",
+        "teacher": "/欒錦榮",
+        "classroom": "/管理學院A107/管理學院A107/管理學院A107",
+        "offering_department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "MGT_5425Z": {
         "campus": "壽豐校區",
         "department": "碩專",
@@ -16538,7 +16554,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "3/3",
-        "teacher": "/余相賓",
+        "teacher": "/蕭朝興",
         "classroom": "/其他",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -20623,6 +20639,22 @@
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "FIN_31400": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "FIN_31400",
+        "sql_id": "114200554",
+        "course_name": "財經英文",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114200554",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114200554",
+        "class_time": "/三9/三10/三11",
+        "english_course_name": "Finance English",
+        "credits": "3/3",
+        "teacher": "/呂進瑞",
+        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
+        "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "FIN_31440": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -20668,6 +20700,22 @@
         "credits": "3/3",
         "teacher": "/翁胤哲",
         "classroom": "/管理學院C109/管理學院C109/管理學院C109",
+        "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "FIN_B0160": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "FIN_B0160",
+        "sql_id": "114274948",
+        "course_name": "財經英文",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114274948",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114274948",
+        "class_time": "/三9/三10/三11",
+        "english_course_name": "Finance English",
+        "credits": "3/3",
+        "teacher": "/呂進瑞",
+        "classroom": "/管理學院D117/管理學院D117/管理學院D117",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -24395,7 +24443,7 @@
         "english_course_name": "English Composition (III)",
         "credits": "3/3",
         "teacher": "/陳淑玲",
-        "classroom": "/人社一館D221/人社一館D221/人社一館D221",
+        "classroom": "/人社一館A306/人社一館A306/人社一館A306",
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -36231,7 +36279,7 @@
         "course_name": "聲樂(副修)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114227589",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114227589",
-        "class_time": "/五2",
+        "class_time": "/四1",
         "english_course_name": "Voice（Minor）",
         "credits": "0.5/0.5",
         "teacher": "/彭興讓",
@@ -38299,6 +38347,22 @@
         "english_course_name": "Jazz Saxophone (Major) (Ⅷ)",
         "credits": "1/1",
         "teacher": "/楊曉恩",
+        "classroom": "/藝術學院教師研究室",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_48200": {
+        "campus": "壽豐校區",
+        "department": "學四",
+        "course_id": "MUS_48200",
+        "sql_id": "114263892",
+        "course_name": "爵士電貝斯/低音大提琴 (主修) (8)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114263892",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114263892",
+        "class_time": "/二1",
+        "english_course_name": "Jazz Bass (Major) (VIII)",
+        "credits": "1/1",
+        "teacher": "/山田洋平",
         "classroom": "/藝術學院教師研究室",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
@@ -40891,7 +40955,7 @@
         "english_course_name": "Philosophy and Practice for Individualized Educational Plan",
         "credits": "2/2",
         "teacher": "/林鳳貞",
-        "classroom": "/教育學院B126/教育學院B126",
+        "classroom": "/教育學院C237/教育學院C237",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -46762,7 +46826,7 @@
         "class_time": "/一4/一5/一6",
         "english_course_name": "Indigenous Languages（IV）",
         "credits": "2/3",
-        "teacher": "/待聘",
+        "teacher": "/李清玉",
         "classroom": "/線上課程/線上課程/線上課程",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
