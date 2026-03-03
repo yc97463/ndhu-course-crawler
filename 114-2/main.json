@@ -1371,7 +1371,7 @@
         "english_course_name": "Linear Algebra (I)",
         "credits": "3/3",
         "teacher": "/郭大衛",
-        "classroom": "/理工一館A316/理工一館A316/理工一館A316",
+        "classroom": "/理工一館A318/理工一館A318/理工一館A318",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1387,7 +1387,7 @@
         "english_course_name": "Linear Algebra (I)",
         "credits": "3/3",
         "teacher": "/張飛黃",
-        "classroom": "/理工一館A318/理工一館A318/理工一館A318",
+        "classroom": "/理工一館A316/理工一館A316/理工一館A316",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9418,7 +9418,7 @@
         "class_time": "/一8/一9",
         "english_course_name": "Seminar",
         "credits": "1/2",
-        "teacher": "/傅彥培/余英松/紀渥德",
+        "teacher": "/余英松/紀渥德",
         "classroom": "/理工二館A125/理工二館A125",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9674,7 +9674,7 @@
         "class_time": "/一8/一9",
         "english_course_name": "Seminar",
         "credits": "1/2",
-        "teacher": "/傅彥培/余英松/紀渥德",
+        "teacher": "/余英松/紀渥德",
         "classroom": "/理工二館A125/理工二館A125",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -9961,7 +9961,7 @@
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114218984",
         "class_time": "/一1/一2",
         "english_course_name": "Independent Study(II)",
-        "credits": "2/0:2",
+        "credits": "2/2",
         "teacher": "/余英松/田禮嘉/林育賢/紀渥德/陳怡嘉/陳俊良/陳素華/傅彥培/黃常寧/魏茂國",
         "classroom": "/研究室/研究室",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
@@ -11547,7 +11547,7 @@
         "english_course_name": "Microprocessor",
         "credits": "3/3",
         "teacher": "/謝長倭",
-        "classroom": "/理工二館D201/理工二館D201/理工二館D201",
+        "classroom": "/理工二館C203/理工二館C203/理工二館C203",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13019,7 +13019,7 @@
         "english_course_name": "Instrumental Analysis for Bio-technology",
         "credits": "3/3",
         "teacher": "/李佳洪",
-        "classroom": "/理工三館D102/理工三館D102/理工三館D102",
+        "classroom": "/理工三館B201/理工三館B201/理工三館B201",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13147,7 +13147,7 @@
         "english_course_name": "Introduction to Neurodegenerative Disorders",
         "credits": "2/2",
         "teacher": "/羅彥宇/林哲緯",
-        "classroom": "/理工三館B104/理工三館B104",
+        "classroom": "/理工三館D102/理工三館D102",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13179,7 +13179,7 @@
         "english_course_name": "Diseases and Molecular Diagnostics",
         "credits": "3/3",
         "teacher": "/彭致文",
-        "classroom": "/理工三館B104/理工三館B104/理工三館B104",
+        "classroom": "/理工三館D102/理工三館D102/理工三館D102",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13243,7 +13243,7 @@
         "english_course_name": "Applied Enzymology",
         "credits": "3/3",
         "teacher": "/蘇玟珉",
-        "classroom": "/理工三館D102/理工三館D102/理工三館D102",
+        "classroom": "/理工三館B203/理工三館B203/理工三館B203",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13259,7 +13259,7 @@
         "english_course_name": "Precision medicine",
         "credits": "3/3",
         "teacher": "/彭致文/謝函芸/林哲緯",
-        "classroom": "/理工三館B104/理工三館B104/理工三館B104",
+        "classroom": "/理工三館D102/理工三館D102/理工三館D102",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -18987,7 +18987,7 @@
         "english_course_name": "Taxation Law",
         "credits": "3/3",
         "teacher": "/王肇蘭",
-        "classroom": "/管理學院C141/管理學院C141/管理學院C141",
+        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
         "offering_department": "會計學系::DEPARTMENT OF ACCOUNTING",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -19515,7 +19515,7 @@
         "english_course_name": "Management Information Systems",
         "credits": "3/3",
         "teacher": "/吳怡菱",
-        "classroom": "/管理學院C203/管理學院C203/管理學院C203",
+        "classroom": "/管理學院B119/管理學院B119/管理學院B119",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -19594,7 +19594,7 @@
         "class_time": "/一9/一10/一11",
         "english_course_name": "Algorithm Design and Analysis",
         "credits": "3/3",
-        "teacher": "/葉國暉/待聘(李林發）",
+        "teacher": "/葉國暉/李林發",
         "classroom": "/管理學院D117/管理學院D117/管理學院D117",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -26039,7 +26039,7 @@
         "course_name": "學校輔導工作實習",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114269030",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114269030",
-        "class_time": "/五5/五6",
+        "class_time": "/四1/四2",
         "english_course_name": "practicum of School Guidance",
         "credits": "2/2",
         "teacher": "/王沂釗",
@@ -26203,6 +26203,22 @@
         "english_course_name": "Independent Study (Ⅰ)",
         "credits": "1/1",
         "teacher": "/王友利",
+        "classroom": "/其他",
+        "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
+    "EC__D002AE": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "EC__D002AE",
+        "sql_id": "114266624",
+        "course_name": "引導研究AE",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114266624",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114266624",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "Independent Study (Ⅰ)",
+        "credits": "1/1",
+        "teacher": "/林燕淑",
         "classroom": "/其他",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -42667,7 +42683,7 @@
         "english_course_name": "Research Seminar on Educational Reform",
         "credits": "3/3",
         "teacher": "/李崗",
-        "classroom": "/教育學院C108/教育學院C108/教育學院C108",
+        "classroom": "/教育學院B129/教育學院B129/教育學院B129",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -49659,7 +49675,7 @@
         "english_course_name": "Boundary Crossing and Self-ExplorationⅠ",
         "credits": "2/2",
         "teacher": "/顧瑜君",
-        "classroom": "/環境學院B158/環境學院B158",
+        "classroom": "/多容館-社參中心多功能教室/多容館-社參中心多功能教室",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -49755,7 +49771,7 @@
         "english_course_name": "Boundary Crossing and Self-Exploration Ⅱ",
         "credits": "2/2",
         "teacher": "/顧瑜君",
-        "classroom": "/環境學院B158/環境學院B158",
+        "classroom": "/多容館-社參中心多功能教室/多容館-社參中心多功能教室",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -53787,7 +53803,7 @@
         "english_course_name": "Mandarin Chinese Practical (Level 1)",
         "credits": "3/3",
         "teacher": "/張育欣",
-        "classroom": "/人社三館C120/人社三館C120/人社三館C120",
+        "classroom": "/人社三館D113/人社三館D113/人社三館D113",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -53803,7 +53819,7 @@
         "english_course_name": "Mandarin Chinese Practical (Level 1)",
         "credits": "3/3",
         "teacher": "/張育欣",
-        "classroom": "/人社三館C120/人社三館C120/人社三館C120",
+        "classroom": "/人社三館D113/人社三館D113/人社三館D113",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -53883,7 +53899,7 @@
         "english_course_name": "Fundamental Chinese",
         "credits": "3/3",
         "teacher": "/張育欣",
-        "classroom": "/人社三館C120/人社三館C120/人社三館C120",
+        "classroom": "/人社三館D113/人社三館D113/人社三館D113",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
