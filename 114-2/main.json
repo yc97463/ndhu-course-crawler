@@ -10943,6 +10943,22 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "BM__8518AE": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "BM__8518AE",
+        "sql_id": "114258196",
+        "course_name": "專題研究AE",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114258196",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114258196",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "Independent Study",
+        "credits": "1/1",
+        "teacher": "/江志卿",
+        "classroom": "/其他",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "BM__8518AF": {
         "campus": "其它",
         "department": "博士",
@@ -11019,6 +11035,22 @@
         "english_course_name": "Dissertation Guidance",
         "credits": "1/1",
         "teacher": "/陳光和",
+        "classroom": "/其他",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "BM__8519AE": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "BM__8519AE",
+        "sql_id": "114226096",
+        "course_name": "論文研究AE",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114226096",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114226096",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "Dissertation Guidance",
+        "credits": "1/1",
+        "teacher": "/江志卿",
         "classroom": "/其他",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -12219,7 +12251,7 @@
         "english_course_name": "Production and Operations Management",
         "credits": "3/3",
         "teacher": "/馬綱廷",
-        "classroom": "/管理學院D118/管理學院D118/管理學院D118",
+        "classroom": "/管理學院D135/管理學院D135/管理學院D135",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -12315,7 +12347,7 @@
         "english_course_name": "Warehouse Planning and Operations Systems",
         "credits": "3/3",
         "teacher": "/陳怡君",
-        "classroom": "/管理學院D135/管理學院D135/管理學院D135",
+        "classroom": "/管理學院D118/管理學院D118/管理學院D118",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -18811,7 +18843,7 @@
         "english_course_name": "Interpersonal Relationship",
         "credits": "3/3",
         "teacher": "/蘇琳",
-        "classroom": "/人社二館B101/人社二館B101/人社二館B101",
+        "classroom": "/管理學院C103/管理學院C103/管理學院C103",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -21104,7 +21136,7 @@
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
     "SD__5080AD": {
-        "campus": "其它",
+        "campus": "壽豐校區",
         "department": "碩士",
         "course_id": "SD__5080AD",
         "sql_id": "114271652",
@@ -21115,7 +21147,7 @@
         "english_course_name": "Directed Individual Study（Ⅰ）",
         "credits": "1/1",
         "teacher": "/莊致嘉",
-        "classroom": "/教師研究室",
+        "classroom": "/人社一館B113",
         "offering_department": "社會學系::DEPARTMENT OF SOCIOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -22715,7 +22747,7 @@
         "english_course_name": "International Human Rights Law",
         "credits": "2/2",
         "teacher": "/徐揮彥",
-        "classroom": "/人社三館C116/人社三館C116",
+        "classroom": "/人社二館B107/人社二館B107",
         "offering_department": "法律學系::DEPARTMENT OF LAW",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -22891,7 +22923,7 @@
         "english_course_name": "Case Solution on Criminal Law and Criminal Procedure Law",
         "credits": "2/2",
         "teacher": "/范耕維",
-        "classroom": "/人社二館B107/人社二館B107",
+        "classroom": "/人社二館A209/人社二館A209",
         "offering_department": "法律學系::DEPARTMENT OF LAW",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -23099,7 +23131,7 @@
         "english_course_name": "International Human Rights Law",
         "credits": "2/2",
         "teacher": "/徐揮彥",
-        "classroom": "/人社三館C116/人社三館C116",
+        "classroom": "/人社二館B107/人社二館B107",
         "offering_department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -23275,7 +23307,7 @@
         "english_course_name": "Case Solution on Criminal Law and Criminal Procedure Law",
         "credits": "2/2",
         "teacher": "/范耕維",
-        "classroom": "/人社二館B107/人社二館B107",
+        "classroom": "/人社二館A209/人社二館A209",
         "offering_department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -41499,7 +41531,7 @@
         "english_course_name": "Physical Education (IV)_Slow jogging",
         "credits": "1/2",
         "teacher": "/江正發",
-        "classroom": "/田徑活動中心二樓/田徑場/田徑活動中心二樓/田徑場",
+        "classroom": "/田徑場/田徑場",
         "offering_department": "體育課程::Physical education courses",
         "college": "校核心課程::University Core Curriculum"
     },
