@@ -10,35 +10,20 @@
     "classroom": [
         "教育學院D313",
         "教育學院D313",
-        "教育學院D313",
-        "教育學院D313",
-        "教育學院D313",
         "教育學院D313"
     ],
     "class_time": [
         {
             "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
             "period": "10"
-        },
-        {
-            "day": "六",
-            "period": "11"
-        },
-        {
-            "day": "六",
-            "period": "12"
-        },
-        {
-            "day": "六",
-            "period": "13"
-        },
-        {
-            "day": "六",
-            "period": "14"
-        },
-        {
-            "day": "六",
-            "period": "15"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114225068",

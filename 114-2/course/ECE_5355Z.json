@@ -10,16 +10,9 @@
     "classroom": [
         "教育學院D213",
         "教育學院D213",
-        "教育學院D213",
-        "教育學院D213",
-        "教育學院D213",
         "教育學院D213"
     ],
     "class_time": [
-        {
-            "day": "六",
-            "period": "3"
-        },
         {
             "day": "六",
             "period": "4"
@@ -31,14 +24,6 @@
         {
             "day": "六",
             "period": "6"
-        },
-        {
-            "day": "六",
-            "period": "8"
-        },
-        {
-            "day": "六",
-            "period": "9"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114207360",
