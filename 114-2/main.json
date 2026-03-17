@@ -191,22 +191,6 @@
         "offering_department": "理工學院學士班::BACHELOR",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "TCAI10020": {
-        "campus": "壽豐校區",
-        "department": "學二",
-        "course_id": "TCAI10020",
-        "sql_id": "114281410",
-        "course_name": "機率與統計",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114281410",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114281410",
-        "class_time": "/四9/四10/四11",
-        "english_course_name": "Probability and Statistics",
-        "credits": "3/3",
-        "teacher": "/臺灣大學葉丙成教授",
-        "classroom": "/線上課程/線上課程/線上課程",
-        "offering_department": "理工學院學士班::BACHELOR",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "EE__3350AB": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -3071,6 +3055,22 @@
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "APH_D020AO": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "APH_D020AO",
+        "sql_id": "114200082",
+        "course_name": "論文研究AO",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114200082",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114200082",
+        "class_time": "/二2/四2/五2",
+        "english_course_name": "Independent Study",
+        "credits": "3/3",
+        "teacher": "/葉振斌",
+        "classroom": "/研究室/研究室/研究室",
+        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "APH_72000": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -3882,7 +3882,7 @@
         "class_time": "/三2/四2",
         "english_course_name": "Independent Study (I)",
         "credits": "2/2",
-        "teacher": "/陳企寧",
+        "teacher": "/陳企寧/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/張俊明/吳勝允/葉旺奇/黃玉林/彭文平/紀信昌/葉振斌/戴德昌/賴建智",
         "classroom": "/實驗室/實驗室",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -3898,7 +3898,7 @@
         "class_time": "/三2/四2",
         "english_course_name": "Independent Study (I)",
         "credits": "2/2",
-        "teacher": "/陳企寧",
+        "teacher": "/陳企寧/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/張俊明/吳勝允/黃玉林/彭文平/紀信昌/葉振斌/戴德昌/賴建智",
         "classroom": "/實驗室/實驗室",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -4330,7 +4330,7 @@
         "class_time": "/二2/四2",
         "english_course_name": "Independent Study (III)",
         "credits": "2/2",
-        "teacher": "/戴德昌",
+        "teacher": "/戴德昌/李大興/鄭嘉良/郭永綱/馬遠榮/陳企寧/張俊明/吳勝允/葉旺奇/黃玉林/彭文平/紀信昌/葉振斌/賴建智",
         "classroom": "/實驗室/實驗室",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -4346,7 +4346,7 @@
         "class_time": "/二2/四2",
         "english_course_name": "Independent Study (III)",
         "credits": "2/2",
-        "teacher": "/戴德昌",
+        "teacher": "/郭永綱/柯學初/馬遠榮/吳勝允/葉旺奇/黃玉林/彭文平/賴建智",
         "classroom": "/實驗室/實驗室",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -5375,22 +5375,6 @@
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "CSIEM040AF": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "CSIEM040AF",
-        "sql_id": "114284498",
-        "course_name": "論文研究AF",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114284498",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114284498",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Thesis",
-        "credits": "2/2",
-        "teacher": "/周世杰",
-        "classroom": "/其他",
-        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "CSIEM040AI": {
         "campus": "其它",
         "department": "碩士",
@@ -5483,22 +5467,6 @@
         "english_course_name": "Thesis",
         "credits": "2/2",
         "teacher": "/黃武元",
-        "classroom": "/其他",
-        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
-    "CSIEM040AW": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "CSIEM040AW",
-        "sql_id": "114265509",
-        "course_name": "論文研究AW",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114265509",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114265509",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Thesis",
-        "credits": "2/2",
-        "teacher": "/何宇傑",
         "classroom": "/其他",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -27615,22 +27583,6 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
-    "MUS_25100": {
-        "campus": "其它",
-        "department": "學二",
-        "course_id": "MUS_25100",
-        "sql_id": "114245178",
-        "course_name": "中提琴（主修）（4）",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114245178",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114245178",
-        "class_time": "/二1",
-        "english_course_name": "Viola（Major）（Ⅳ）",
-        "credits": "1/1",
-        "teacher": "/王銘哲",
-        "classroom": "/藝術學院教師研究室",
-        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
-        "college": "藝術學院::COLLEGE OF THE ARTS"
-    },
     "MUS_25200": {
         "campus": "壽豐校區",
         "department": "學二",
@@ -30271,22 +30223,6 @@
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
-    "ECE_5092Z": {
-        "campus": "其它",
-        "department": "碩專",
-        "course_id": "ECE_5092Z",
-        "sql_id": "114220376",
-        "course_name": "引導研究(二)",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114220376",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114220376",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Directed Study (Ⅱ)",
-        "credits": "1/1",
-        "teacher": "/待聘",
-        "classroom": "/其他",
-        "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
-        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
-    },
     "ECE_5326Z": {
         "campus": "其它",
         "department": "碩專",
@@ -32655,38 +32591,6 @@
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
-    "COE_7458AC": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "COE_7458AC",
-        "sql_id": "114214350",
-        "course_name": "論文研究AC",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114214350",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114214350",
-        "class_time": "/五3",
-        "english_course_name": "Dissertation Guidance",
-        "credits": "1/1",
-        "teacher": "/范熾文",
-        "classroom": "/研究室",
-        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
-        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
-    },
-    "COE_7458AD": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "COE_7458AD",
-        "sql_id": "114282852",
-        "course_name": "論文研究AD",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114282852",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114282852",
-        "class_time": "/三3",
-        "english_course_name": "Dissertation Guidance",
-        "credits": "1/1",
-        "teacher": "/張志明",
-        "classroom": "/研究室",
-        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
-        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
-    },
     "COE_7466AA": {
         "campus": "其它",
         "department": "博士",
@@ -33018,7 +32922,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Individual Study",
         "credits": "1/1",
-        "teacher": "/張德勝",
+        "teacher": "/張德勝/高金成",
         "classroom": "/其他",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -33179,22 +33083,6 @@
         "english_course_name": "Thesis",
         "credits": "1/1",
         "teacher": "/陳世文",
-        "classroom": "/其他",
-        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
-        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
-    },
-    "SCE_5288AC": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "SCE_5288AC",
-        "sql_id": "114241335",
-        "course_name": "論文研究AC",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114241335",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114241335",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Thesis",
-        "credits": "1/1",
-        "teacher": "/蔡仁哲",
         "classroom": "/其他",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -35007,22 +34895,6 @@
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
-    "ERC_7074AF": {
-        "campus": "其它",
-        "department": "博士",
-        "course_id": "ERC_7074AF",
-        "sql_id": "114258313",
-        "course_name": "論文指導AF",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114258313",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114258313",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Dissertation Seminar",
-        "credits": "3/3",
-        "teacher": "/葉秀燕",
-        "classroom": "/其他",
-        "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
-        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
-    },
     "ERC_7074AI": {
         "campus": "其它",
         "department": "博士",
@@ -36299,22 +36171,6 @@
         "english_course_name": "Independent Study",
         "credits": "3/3",
         "teacher": "/莊曉霞",
-        "classroom": "/其他",
-        "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
-        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
-    },
-    "DDS_5045AD": {
-        "campus": "其它",
-        "department": "碩專",
-        "course_id": "DDS_5045AD",
-        "sql_id": "114204699",
-        "course_name": "專題研究AD",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114204699",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114204699",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Independent Study",
-        "credits": "3/3",
-        "teacher": "/黃盈豪",
         "classroom": "/其他",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
