@@ -3898,7 +3898,7 @@
         "class_time": "/三2/四2",
         "english_course_name": "Independent Study (I)",
         "credits": "2/2",
-        "teacher": "/陳企寧/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/張俊明/吳勝允/黃玉林/彭文平/紀信昌/葉振斌/戴德昌/賴建智",
+        "teacher": "/陳企寧/李大興/鄭嘉良/郭永綱/柯學初/馬遠榮/張俊明/吳勝允/黃玉林/彭文平/紀信昌/葉振斌/戴德昌/賴建智/葉旺奇",
         "classroom": "/實驗室/實驗室",
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
@@ -5471,6 +5471,22 @@
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "CSIEM040AW": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "CSIEM040AW",
+        "sql_id": "114265509",
+        "course_name": "論文研究AW",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114265509",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114265509",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "Thesis",
+        "credits": "2/2",
+        "teacher": "/何宇傑",
+        "classroom": "/其他",
+        "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "AIIA50020": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -6972,22 +6988,6 @@
         "credits": "1/2",
         "teacher": "/紀渥德",
         "classroom": "/理工二館-第二講堂B101/理工二館-第二講堂B101",
-        "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
-    "MS__M0020": {
-        "campus": "壽豐校區",
-        "department": "碩士",
-        "course_id": "MS__M0020",
-        "sql_id": "114251300",
-        "course_name": "專題討論",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114251300",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114251300",
-        "class_time": "/一8/一9",
-        "english_course_name": "Seminar",
-        "credits": "1/2",
-        "teacher": "/余英松/紀渥德",
-        "classroom": "/理工二館A125/理工二館A125",
         "offering_department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10282,7 +10282,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
-        "teacher": "/翁胤哲",
+        "teacher": "/翁胤哲/陳松興",
         "classroom": "/管理學院C109/管理學院C109/管理學院C109",
         "offering_department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -11039,22 +11039,6 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
-    "BM__8519AE": {
-        "campus": "其它",
-        "department": "博士",
-        "course_id": "BM__8519AE",
-        "sql_id": "114226096",
-        "course_name": "論文研究AE",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114226096",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114226096",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Dissertation Guidance",
-        "credits": "1/1",
-        "teacher": "/江志卿",
-        "classroom": "/其他",
-        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
     "BM__8519AF": {
         "campus": "其它",
         "department": "博士",
@@ -11375,22 +11359,6 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
-    "BM__6360AD": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "BM__6360AD",
-        "sql_id": "114268881",
-        "course_name": "引導研究AD",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114268881",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114268881",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Directed Study",
-        "credits": "1/1",
-        "teacher": "/陳淑玲",
-        "classroom": "/其他",
-        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
     "BM__6360AF": {
         "campus": "其它",
         "department": "碩士",
@@ -11647,22 +11615,6 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
-    "BM__M002AC": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "BM__M002AC",
-        "sql_id": "114255705",
-        "course_name": "引導研究AC",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114255705",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114255705",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Directed Study",
-        "credits": "1/1",
-        "teacher": "/巫喜瑞",
-        "classroom": "/其他",
-        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
     "BM__M002AE": {
         "campus": "其它",
         "department": "碩士",
@@ -11675,22 +11627,6 @@
         "english_course_name": "Directed Study",
         "credits": "1/1",
         "teacher": "/陳筱華",
-        "classroom": "/其他",
-        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
-    "BM__M002AG": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "BM__M002AG",
-        "sql_id": "114211216",
-        "course_name": "引導研究AG",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114211216",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114211216",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "Directed Study",
-        "credits": "1/1",
-        "teacher": "/陳雯虹",
         "classroom": "/其他",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -15162,7 +15098,7 @@
         "class_time": "/四4/四5/四6",
         "english_course_name": "International Financial Markets",
         "credits": "3/3",
-        "teacher": "/翁胤哲",
+        "teacher": "/翁胤哲/陳松興",
         "classroom": "/管理學院C109/管理學院C109/管理學院C109",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
@@ -16250,7 +16186,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Thesis Study",
         "credits": "1/1",
-        "teacher": "/李正芬/巫俊勳/彭衍綸/溫光華/嚴愛群/何寶璋/劉明洲/朱嘉雯/邱凡芸",
+        "teacher": "/李正芬/何寶璋/朱嘉雯/邱凡芸",
         "classroom": "/其他",
         "offering_department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -16330,7 +16266,7 @@
         "class_time": "/二2",
         "english_course_name": "Directed Study (I)",
         "credits": "1/1",
-        "teacher": "/李正芬/何寶璋/彭衍綸/溫光華/嚴愛群/朱嘉雯/劉明洲/廖慶華/巫俊勳/邱凡芸",
+        "teacher": "/邱凡芸",
         "classroom": "/研究室",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -16346,7 +16282,7 @@
         "class_time": "/二2",
         "english_course_name": "Thesis Study (I)",
         "credits": "1/1",
-        "teacher": "/李正芬/巫俊勳/彭衍綸/溫光華/何寶璋/劉明洲/朱嘉雯/邱凡芸",
+        "teacher": "/何寶璋/朱嘉雯",
         "classroom": "/研究室",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -16394,7 +16330,7 @@
         "class_time": "/二2",
         "english_course_name": "Directed Study (II)",
         "credits": "1/1",
-        "teacher": "/李正芬/朱嘉雯/劉明洲/何寶璋/巫俊勳/彭衍綸/溫光華/邱凡芸",
+        "teacher": "/李正芬/邱凡芸",
         "classroom": "/研究室",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -18570,7 +18506,7 @@
         "class_time": "/三3",
         "english_course_name": "Independent Study",
         "credits": "1/1",
-        "teacher": "/藍玉玲/王純娟/余振民/李沐齊/李慧芳/周育如/林繼偉/高倜歐/劉効樺/黎士鳴/王沂釗",
+        "teacher": "/王純娟/劉効樺/黎士鳴/王沂釗",
         "classroom": "/研究室",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
@@ -19167,22 +19103,6 @@
         "offering_department": "體育課程::Physical education courses",
         "college": "校核心課程::University Core Curriculum"
     },
-    "EC__70100": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "EC__70100",
-        "sql_id": "114207762",
-        "course_name": "計量經濟分析(二)",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114207762",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114207762",
-        "class_time": "/五4/五5/五6",
-        "english_course_name": "Econometric Analysis（II）",
-        "credits": "3/3",
-        "teacher": "/林世揚",
-        "classroom": "/人社一館D220/人社一館D220/人社一館D220",
-        "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
     "EC__D002AA": {
         "campus": "其它",
         "department": "博士",
@@ -19356,22 +19276,6 @@
         "credits": "1/2",
         "teacher": "/羅德芬",
         "classroom": "/人社二館D410/人社二館D410",
-        "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
-    "EC__75700": {
-        "campus": "壽豐校區",
-        "department": "博士",
-        "course_id": "EC__75700",
-        "sql_id": "114206033",
-        "course_name": "應用計量經濟學",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114206033",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114206033",
-        "class_time": "/四9/四10/四11",
-        "english_course_name": "Applied Econometrics",
-        "credits": "3/3",
-        "teacher": "/羅德芬",
-        "classroom": "/圖資中心PC2(B106)/圖資中心PC2(B106)/圖資中心PC2(B106)",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -23530,7 +23434,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study on Ecology",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/許育誠/陳毓昀",
         "classroom": "/其他",
         "offering_department": "環境暨海洋學院學士班::BACHELOR",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -24170,7 +24074,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Independent Study",
         "credits": "2/2",
-        "teacher": "/洪耀明",
+        "teacher": "/洪耀明/李俊鴻",
         "classroom": "/其他",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -24650,7 +24554,7 @@
         "class_time": "/二12",
         "english_course_name": "Independent Study (I)",
         "credits": "1/1",
-        "teacher": "/吳海音",
+        "teacher": "/林祥偉/蔡金河/洪耀明",
         "classroom": "/環境學院A128",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -24762,7 +24666,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "The Capstone Project Report on Agroecology",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/蔡建福/許世璋",
         "classroom": "/其他",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -30154,7 +30058,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Directed Study (Ⅱ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/張素貞/林俊瑩/蔡佳燕/陳慧華",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -30170,7 +30074,7 @@
         "class_time": "/與教師另行約定",
         "english_course_name": "Thesis (Ⅱ)",
         "credits": "1/1",
-        "teacher": "/待聘",
+        "teacher": "/張明麗/林俊瑩/張凱程/蔡佳燕/林鳳貞",
         "classroom": "/其他",
         "offering_department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
@@ -34651,7 +34555,7 @@
         "english_course_name": "Indigenous Languages II",
         "credits": "2/2",
         "teacher": "/黃桂英",
-        "classroom": "/原民院A240/原民院A240",
+        "classroom": "/線上課程/線上課程",
         "offering_department": "原住民民族學院學士班::BACHELOR",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -35643,7 +35547,7 @@
         "english_course_name": "Indigenous Languages Reading",
         "credits": "2/2",
         "teacher": "/吳凡",
-        "classroom": "/線上課程/線上課程",
+        "classroom": "/原民院A349/原民院A349",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
