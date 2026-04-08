@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__36600",
+    "sql_id": "101221980",
+    "course_name": "傳播與文化",
+    "english_course_name": "Communication and Culture",
+    "credits": "3/3",
+    "teacher": [
+        "董克景"
+    ],
+    "classroom": [
+        "民階梯(一)",
+        "民階梯(一)",
+        "民階梯(一)"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101221980",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101221980",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
