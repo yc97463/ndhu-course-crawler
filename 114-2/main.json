@@ -35119,22 +35119,6 @@
         "offering_department": "體育課程::Physical education courses",
         "college": "校核心課程::University Core Curriculum"
     },
-    "LCI_11100": {
-        "campus": "壽豐校區",
-        "department": "學一",
-        "course_id": "LCI_11100",
-        "sql_id": "114246058",
-        "course_name": "南島語言概論",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114246058",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114246058",
-        "class_time": "/四9/四10",
-        "english_course_name": "Introduction to Austronesian Languages",
-        "credits": "2/2",
-        "teacher": "/李佩容",
-        "classroom": "/原民院A338/原民院A338",
-        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
-        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
-    },
     "LCI_12250": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -35180,6 +35164,22 @@
         "credits": "3/3",
         "teacher": "/楊鈞凱",
         "classroom": "/原民院A338/原民院A338/原民院A338",
+        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
+    "LCI_11100": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "LCI_11100",
+        "sql_id": "114246058",
+        "course_name": "南島語言概論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114246058",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114246058",
+        "class_time": "/四9/四10",
+        "english_course_name": "Introduction to Austronesian Languages",
+        "credits": "2/2",
+        "teacher": "/李佩容",
+        "classroom": "/原民院A338/原民院A338",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
