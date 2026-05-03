@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__21300",
+    "sql_id": "112145122",
+    "course_name": "平面設計",
+    "english_course_name": "Graphic Design",
+    "credits": "3/3",
+    "teacher": [
+        "黃琡雅"
+    ],
+    "classroom": [
+        "藝術學院-電腦教室A138",
+        "藝術學院-電腦教室A138",
+        "藝術學院-電腦教室A138"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112145122",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112145122",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

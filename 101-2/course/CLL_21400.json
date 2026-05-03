@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_21400",
+    "sql_id": "101243718",
+    "course_name": "修辭學",
+    "english_course_name": "Chinese Rhetoric",
+    "credits": "3/3",
+    "teacher": [
+        "黃如焄"
+    ],
+    "classroom": [
+        "文B105",
+        "文B105",
+        "文B105"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101243718",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101243718",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "course_id": "BM__82300",
+    "sql_id": "105173136",
+    "course_name": "財務金融研究方法",
+    "english_course_name": "Seminar in Finance Research Methodology",
+    "credits": "3/3",
+    "teacher": [
+        "林金龍",
+        "蕭朝興",
+        "呂進瑞"
+    ],
+    "classroom": [
+        "管理學院C221",
+        "管理學院C221",
+        "管理學院C221"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105173136",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105173136",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "PE__10900",
+    "sql_id": "108261740",
+    "course_name": "運動教育學",
+    "english_course_name": "Sport Pedagogy",
+    "credits": "2/2",
+    "teacher": [
+        "尚憶薇"
+    ],
+    "classroom": [
+        "教育學院B117",
+        "教育學院B117"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108261740",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108261740",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

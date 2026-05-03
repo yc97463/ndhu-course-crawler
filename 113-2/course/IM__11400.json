@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__11400",
+    "sql_id": "113251676",
+    "course_name": "資訊系統與組織管理",
+    "english_course_name": "IT Artifact and Organizational Management",
+    "credits": "3/3",
+    "teacher": [
+        "李怡珍"
+    ],
+    "classroom": [
+        "管理學院D117",
+        "管理學院D117",
+        "管理學院D117"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113251676",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113251676",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

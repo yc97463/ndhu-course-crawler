@@ -1,0 +1,27 @@
+{
+    "course_id": "CLL_3226AP",
+    "sql_id": "110195771",
+    "course_name": "專題製作(一)AP",
+    "english_course_name": "Special Topics（I）",
+    "credits": "1/1",
+    "teacher": [
+        "郭澤寬"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110195771",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110195771",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

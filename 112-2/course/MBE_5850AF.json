@@ -1,0 +1,27 @@
+{
+    "course_id": "MBE_5850AF",
+    "sql_id": "112278862",
+    "course_name": "專題研究AF",
+    "english_course_name": "Thesis Research",
+    "credits": "1/1",
+    "teacher": [
+        "劉弼仁"
+    ],
+    "classroom": [
+        "各實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112278862",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112278862",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

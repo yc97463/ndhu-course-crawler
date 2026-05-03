@@ -1,0 +1,28 @@
+{
+    "course_id": "COE_73670",
+    "sql_id": "111172175",
+    "course_name": "教育學講座(二)",
+    "english_course_name": "Endowment Lecture on Pedagogy (Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "劉佩雲",
+        "李真文"
+    ],
+    "classroom": [
+        "教育學院B320"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111172175",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111172175",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

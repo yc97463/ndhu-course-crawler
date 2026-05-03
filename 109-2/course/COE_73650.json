@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_73650",
+    "sql_id": "109261137",
+    "course_name": "學校行政專題研究",
+    "english_course_name": "Research Seminar on School Administration",
+    "credits": "3/3",
+    "teacher": [
+        "吳新傑"
+    ],
+    "classroom": [
+        "教育學院B331",
+        "教育學院B331",
+        "教育學院B331"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109261137",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109261137",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

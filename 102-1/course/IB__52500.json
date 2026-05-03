@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__52500",
+    "sql_id": "102127203",
+    "course_name": "全球產業分析",
+    "english_course_name": "Global Industrial Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "陳柏元"
+    ],
+    "classroom": [
+        "管C115",
+        "管C115",
+        "管C115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102127203",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102127203",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

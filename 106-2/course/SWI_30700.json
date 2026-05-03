@@ -1,0 +1,37 @@
+{
+    "course_id": "SWI_30700",
+    "sql_id": "106226661",
+    "course_name": "社會統計",
+    "english_course_name": "Social Statistics",
+    "credits": "3/3",
+    "teacher": [
+        "賴淑娟"
+    ],
+    "classroom": [
+        "圖資中心PC2(B106)",
+        "圖資中心PC2(B106)",
+        "圖資中心PC2(B106)"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106226661",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106226661",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_36100",
+    "sql_id": "104155387",
+    "course_name": "語言教學與實務",
+    "english_course_name": "Language Teaching and Practice",
+    "credits": "3/3",
+    "teacher": [
+        "湯愛玉"
+    ],
+    "classroom": [
+        "原民院A349",
+        "原民院A349",
+        "原民院A349"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104155387",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104155387",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

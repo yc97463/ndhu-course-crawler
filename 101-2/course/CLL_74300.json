@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_74300",
+    "sql_id": "101293073",
+    "course_name": "中國文學抒情傳統專題",
+    "english_course_name": "Seminar in Chinese Literary Lyric Tradition",
+    "credits": "3/3",
+    "teacher": [
+        "顏崑陽"
+    ],
+    "classroom": [
+        "文B117",
+        "文B117",
+        "文B117"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101293073",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101293073",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

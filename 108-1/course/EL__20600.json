@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__20600",
+    "sql_id": "108103289",
+    "course_name": "小說選讀（一）",
+    "english_course_name": "Readings in the Novel ( I )",
+    "credits": "3/3",
+    "teacher": [
+        "陳淑玲"
+    ],
+    "classroom": [
+        "人社一館D115",
+        "人社一館D115",
+        "人社一館D115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108103289",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108103289",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

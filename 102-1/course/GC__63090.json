@@ -1,0 +1,39 @@
+{
+    "course_id": "GC__63090",
+    "sql_id": "102114723",
+    "course_name": "音樂欣賞",
+    "english_course_name": "Music Appreciation",
+    "credits": "2/2",
+    "teacher": [
+        "林斐文",
+        "王麗倩",
+        "彭翠萍",
+        "蘇秀華",
+        "于汶蕙",
+        "洪于茜",
+        "沈克恕",
+        "許牧慈"
+    ],
+    "classroom": [
+        "學A101",
+        "學A101"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102114723",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102114723",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

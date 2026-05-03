@@ -1,0 +1,41 @@
+{
+    "course_id": "ACCT1160AB",
+    "sql_id": "104133143",
+    "course_name": "會計學原理(一)AB",
+    "english_course_name": "Accounting Principle（Ⅰ）",
+    "credits": "3/3",
+    "teacher": [
+        "林穎芬"
+    ],
+    "classroom": [
+        "管理學院B103",
+        "管理學院B103",
+        "管理學院B103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104133143",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104133143",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

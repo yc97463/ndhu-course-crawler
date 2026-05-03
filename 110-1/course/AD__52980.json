@@ -1,0 +1,39 @@
+{
+    "course_id": "AD__52980",
+    "sql_id": "110122524",
+    "course_name": "藝術與設計專案研究(二)",
+    "english_course_name": "Research in Art and Design Project II",
+    "credits": "3/3",
+    "teacher": [
+        "田名璋",
+        "韓毓琦",
+        "黃琡雅"
+    ],
+    "classroom": [
+        "藝術學院A362",
+        "藝術學院A362",
+        "藝術學院A362"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110122524",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110122524",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

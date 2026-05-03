@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__4000AD",
+    "sql_id": "102210583",
+    "course_name": "發展心理學AD",
+    "english_course_name": "Development Psychology",
+    "credits": "2/2",
+    "teacher": [
+        "蔡佳燕"
+    ],
+    "classroom": [
+        "教B124",
+        "教B124"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102210583",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102210583",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "EL__3440AK",
+    "sql_id": "108156576",
+    "course_name": "英語文化創意AK",
+    "english_course_name": "English and Cultural Industry",
+    "credits": "1/1",
+    "teacher": [
+        "鄭詠之"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108156576",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108156576",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "course_id": "LCI_41050",
+    "sql_id": "107212399",
+    "course_name": "媒體實習(二)",
+    "english_course_name": "Media Internship (二)",
+    "credits": "3/0:6",
+    "teacher": [
+        "楊鈞凱"
+    ],
+    "classroom": [
+        "原民院A239",
+        "原民院A239",
+        "原民院A239",
+        "原民院A239",
+        "原民院A239",
+        "原民院A239"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107212399",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107212399",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__31700",
+    "sql_id": "108259756",
+    "course_name": "主要西方作者專題（一）",
+    "english_course_name": "Major Western Authors ( I )",
+    "credits": "3/3",
+    "teacher": [
+        "羅珮瑄"
+    ],
+    "classroom": [
+        "理工二館D401",
+        "理工二館D401",
+        "理工二館D401"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108259756",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108259756",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

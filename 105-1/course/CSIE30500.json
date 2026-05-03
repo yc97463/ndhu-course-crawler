@@ -1,0 +1,45 @@
+{
+    "course_id": "CSIE30500",
+    "sql_id": "105138758",
+    "course_name": "專題研究(一)",
+    "english_course_name": "Independent Study（I）",
+    "credits": "1/2",
+    "teacher": [
+        "彭勝龍",
+        "顏士淨",
+        "羅壽之",
+        "江政欽",
+        "吳秀陽",
+        "楊慶隆",
+        "戴文凱",
+        "楊茂村",
+        "雍忠",
+        "李官陵",
+        "賴志宏",
+        "紀新洲",
+        "張意政",
+        "陳旻秀"
+    ],
+    "classroom": [
+        "理工二館研究室",
+        "理工二館研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105138758",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105138758",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

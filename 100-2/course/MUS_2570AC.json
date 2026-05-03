@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2570AC",
+    "sql_id": "100221736",
+    "course_name": "聲樂（主修）（4）AC",
+    "english_course_name": "Voice（Major）（Ⅳ）",
+    "credits": "1/1",
+    "teacher": [
+        "陳美晴"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100221736",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100221736",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

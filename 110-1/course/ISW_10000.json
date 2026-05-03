@@ -1,0 +1,37 @@
+{
+    "course_id": "ISW_10000",
+    "sql_id": "110155592",
+    "course_name": "心理學",
+    "english_course_name": "Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "張希文 Lenglengman Rovaniyaw"
+    ],
+    "classroom": [
+        "原民院A330",
+        "原民院A330",
+        "原民院A330"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110155592",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110155592",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族社會工作學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS SOCIAL WORK"
+        }
+    ]
+}

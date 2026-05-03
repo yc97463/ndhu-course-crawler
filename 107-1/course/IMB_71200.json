@@ -1,0 +1,37 @@
+{
+    "course_id": "IMB_71200",
+    "sql_id": "107101574",
+    "course_name": "海洋無脊椎動物特論",
+    "english_course_name": "Advanced Marine Invertebrate Zoology",
+    "credits": "3/3",
+    "teacher": [
+        "劉弼仁"
+    ],
+    "classroom": [
+        "一研1F教室",
+        "一研1F教室",
+        "一研1F教室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107101574",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107101574",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

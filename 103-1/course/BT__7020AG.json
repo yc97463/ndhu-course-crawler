@@ -1,0 +1,37 @@
+{
+    "course_id": "BT__7020AG",
+    "sql_id": "103122825",
+    "course_name": "專題研究(一)AG",
+    "english_course_name": "Independent Study (Ⅰ)",
+    "credits": "3/3",
+    "teacher": [
+        "翁慶豐"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103122825",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103122825",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "生命科學系::DEPARTMENT OF LIFE SCIENCE"
+        }
+    ]
+}

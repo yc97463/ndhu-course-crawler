@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__20700",
+    "sql_id": "109227102",
+    "course_name": "電腦影像處理",
+    "english_course_name": "Computer Image-Processing",
+    "credits": "3/3",
+    "teacher": [
+        "黃琡雅"
+    ],
+    "classroom": [
+        "原民院C121",
+        "原民院C121",
+        "原民院C121"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109227102",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109227102",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

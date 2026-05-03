@@ -1,0 +1,37 @@
+{
+    "course_id": "MBT_56470",
+    "sql_id": "101262825",
+    "course_name": "高階活性天然物",
+    "english_course_name": "Special Topics of Bioactive Natural Products",
+    "credits": "3/3",
+    "teacher": [
+        "呂美津"
+    ],
+    "classroom": [
+        "R2222",
+        "R2222",
+        "R2222"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101262825",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101262825",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物科技研究所::GRADUATE INSTITUTE OF MARINE BIOTECHNOLOGY"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "course_id": "BM__2020AD",
+    "sql_id": "100209344",
+    "course_name": "管理學AD",
+    "english_course_name": "Introduction to Management",
+    "credits": "3/3",
+    "teacher": [
+        "高月霞"
+    ],
+    "classroom": [
+        "管B111",
+        "管B111",
+        "管B111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100209344",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100209344",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

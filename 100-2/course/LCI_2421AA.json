@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_2421AA",
+    "sql_id": "100279174",
+    "course_name": "劇本寫作AA",
+    "english_course_name": "Script Writing",
+    "credits": "3/3",
+    "teacher": [
+        "葉鴻洲"
+    ],
+    "classroom": [
+        "民A212",
+        "民A212",
+        "民A212"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100279174",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100279174",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__3372AC",
+    "sql_id": "100206527",
+    "course_name": "高級英文寫作(一)(下)AC",
+    "english_course_name": "Advanced English Writing(I), 2nd semester",
+    "credits": "1.5/3",
+    "teacher": [
+        "林惠玲"
+    ],
+    "classroom": [
+        "文D204",
+        "文D204",
+        "文D204"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100206527",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100206527",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

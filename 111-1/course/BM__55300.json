@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__55300",
+    "sql_id": "111180925",
+    "course_name": "多變量分析",
+    "english_course_name": "Multivariate Data Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "池文海"
+    ],
+    "classroom": [
+        "管理學院A103",
+        "管理學院A103",
+        "管理學院A103"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "13"
+        },
+        {
+            "day": "四",
+            "period": "14"
+        },
+        {
+            "day": "四",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111180925",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111180925",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

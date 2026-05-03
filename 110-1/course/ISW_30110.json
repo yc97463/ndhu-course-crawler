@@ -1,0 +1,37 @@
+{
+    "course_id": "ISW_30110",
+    "sql_id": "110185531",
+    "course_name": "身心障礙福利服務",
+    "english_course_name": "Welfare Service for the Disable Person",
+    "credits": "3/3",
+    "teacher": [
+        "賴兩陽"
+    ],
+    "classroom": [
+        "原民院A330",
+        "原民院A330",
+        "原民院A330"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110185531",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110185531",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族社會工作學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS SOCIAL WORK"
+        }
+    ]
+}

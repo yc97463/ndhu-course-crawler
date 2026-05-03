@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1530AB",
+    "sql_id": "110225171",
+    "course_name": "小提琴（主修）（2）AB",
+    "english_course_name": "Violin（Major）（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "柯宥帆"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110225171",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110225171",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

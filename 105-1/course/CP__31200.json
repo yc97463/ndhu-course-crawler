@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__31200",
+    "sql_id": "105174613",
+    "course_name": "認知心理學",
+    "english_course_name": "Cognitive Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "周育如"
+    ],
+    "classroom": [
+        "理工二館C203",
+        "理工二館C203",
+        "理工二館C203"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105174613",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105174613",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

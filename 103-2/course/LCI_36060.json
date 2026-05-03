@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_36060",
+    "sql_id": "103261098",
+    "course_name": "廣播實務",
+    "english_course_name": "Broadcasting Practice",
+    "credits": "3/3",
+    "teacher": [
+        "葉鴻洲"
+    ],
+    "classroom": [
+        "民A212",
+        "民A212",
+        "民A212"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103261098",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103261098",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

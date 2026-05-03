@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_5039AF",
+    "sql_id": "103142537",
+    "course_name": "專題研究AF",
+    "english_course_name": "Independent Study",
+    "credits": "3/3",
+    "teacher": [
+        "李招瑩"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "1"
+        },
+        {
+            "day": "日",
+            "period": "2"
+        },
+        {
+            "day": "日",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103142537",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103142537",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "course_id": "CLC_6232AE",
+    "sql_id": "113249106",
+    "course_name": "中文能力與涵養AE",
+    "english_course_name": "Chinese language ability and education",
+    "credits": "3/3",
+    "teacher": [
+        "陳冠榮"
+    ],
+    "classroom": [
+        "人社二館-第四講堂B011",
+        "人社二館-第四講堂B011",
+        "人社二館-第四講堂B011"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113249106",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113249106",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "華語文中心::CHINESE LANGUAGE CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "中文課程::Chinese courses"
+        }
+    ]
+}

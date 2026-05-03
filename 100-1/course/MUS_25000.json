@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_25000",
+    "sql_id": "100176639",
+    "course_name": "聲樂(副修)(四)",
+    "english_course_name": "Voice (Minor) (IV)",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "陳怡瑩"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100176639",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100176639",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

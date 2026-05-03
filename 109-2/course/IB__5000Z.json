@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__5000Z",
+    "sql_id": "109268025",
+    "course_name": "國際行銷管理",
+    "english_course_name": "International Marketing Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳柏元"
+    ],
+    "classroom": [
+        "管理學院A115",
+        "管理學院A115",
+        "管理學院A115"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        },
+        {
+            "day": "六",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109268025",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109268025",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

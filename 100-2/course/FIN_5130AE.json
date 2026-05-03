@@ -1,0 +1,27 @@
+{
+    "course_id": "FIN_5130AE",
+    "sql_id": "100221849",
+    "course_name": "專題研究(二)AE",
+    "english_course_name": "Special Topic for Research(II)",
+    "credits": "1/1",
+    "teacher": [
+        "池祥萱"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100221849",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100221849",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

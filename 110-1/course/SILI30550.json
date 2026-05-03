@@ -1,0 +1,52 @@
+{
+    "course_id": "SILI30550",
+    "sql_id": "110143221",
+    "course_name": "華文報導文學選讀",
+    "english_course_name": "Selected Readings in Sinophone Reportage Literature",
+    "credits": "3/3",
+    "teacher": [
+        "吳晟"
+    ],
+    "classroom": [
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110143221",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110143221",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

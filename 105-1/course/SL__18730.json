@@ -1,0 +1,37 @@
+{
+    "course_id": "SL__18730",
+    "sql_id": "105136243",
+    "course_name": "服務學習(二)_材料系",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "1/2",
+    "teacher": [
+        "陳俊良",
+        "紀渥德"
+    ],
+    "classroom": [
+        "理工二館A231",
+        "理工二館A231"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "12"
+        },
+        {
+            "day": "五",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105136243",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105136243",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

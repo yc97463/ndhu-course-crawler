@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLS52100",
+    "sql_id": "111251078",
+    "course_name": "旅遊目的地經營管理專論",
+    "english_course_name": "Special Topics on Destination Management",
+    "credits": "3/3",
+    "teacher": [
+        "徐暘展"
+    ],
+    "classroom": [
+        "管理學院C236",
+        "管理學院C236",
+        "管理學院C236"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111251078",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111251078",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}
