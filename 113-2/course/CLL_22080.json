@@ -1,0 +1,32 @@
+{
+    "course_id": "CLL_22080",
+    "sql_id": "113252734",
+    "course_name": "語言學概論（二）",
+    "english_course_name": "Introduction to Linguistics（II）",
+    "credits": "2/2",
+    "teacher": [
+        "李正芬"
+    ],
+    "classroom": [
+        "人社一館A318",
+        "人社一館A318"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113252734",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113252734",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

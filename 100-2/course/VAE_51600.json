@@ -1,0 +1,37 @@
+{
+    "course_id": "VAE_51600",
+    "sql_id": "100293560",
+    "course_name": "社會藝術教育",
+    "english_course_name": "Art Education in the Societ",
+    "credits": "3/3",
+    "teacher": [
+        "吳國淳"
+    ],
+    "classroom": [
+        "民A327",
+        "民A327",
+        "民A327"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100293560",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100293560",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

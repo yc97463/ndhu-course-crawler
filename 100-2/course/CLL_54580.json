@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_54580",
+    "sql_id": "100279145",
+    "course_name": "宋明理學專題研究",
+    "english_course_name": "Seminar in Song-Ming Neo-Confucianism",
+    "credits": "3/3",
+    "teacher": [
+        "林安梧"
+    ],
+    "classroom": [
+        "文A314",
+        "文A314",
+        "文A314"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100279145",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100279145",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

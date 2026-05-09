@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__51700",
+    "sql_id": "100282437",
+    "course_name": "體育統計與實驗設計",
+    "english_course_name": "Advanced Statistical Methods and Design of Experiments in Physical Education",
+    "credits": "3/3",
+    "teacher": [
+        "林如瀚"
+    ],
+    "classroom": [
+        "教C136",
+        "教C136",
+        "教C136"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100282437",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100282437",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

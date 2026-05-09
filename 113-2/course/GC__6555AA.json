@@ -1,0 +1,40 @@
+{
+    "course_id": "GC__6555AA",
+    "sql_id": "113230578",
+    "course_name": "初級程式設計-VBAAA",
+    "english_course_name": "Programming in VBA",
+    "credits": "2/2",
+    "teacher": [
+        "楊舜博"
+    ],
+    "classroom": [
+        "理工二館PC1(E108)",
+        "理工二館PC1(E108)"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113230578",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113230578",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

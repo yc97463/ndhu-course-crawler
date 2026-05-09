@@ -1,0 +1,37 @@
+{
+    "course_id": "ERAC75100",
+    "sql_id": "100280262",
+    "course_name": "後殖民研究",
+    "english_course_name": "Postcolonial Studies",
+    "credits": "3/3",
+    "teacher": [
+        "紀駿傑"
+    ],
+    "classroom": [
+        "民A313",
+        "民A313",
+        "民A313"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100280262",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100280262",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}
