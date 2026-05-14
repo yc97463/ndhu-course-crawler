@@ -1,0 +1,33 @@
+{
+    "course_id": "COE_55220",
+    "sql_id": "111137361",
+    "course_name": "論文研究",
+    "english_course_name": "Dissertation Guidance",
+    "credits": "1/1",
+    "teacher": [
+        "李崗",
+        "林意雪",
+        "高台茜",
+        "張德勝",
+        "劉佩雲",
+        "李真文",
+        "劉明洲"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111137361",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111137361",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}
