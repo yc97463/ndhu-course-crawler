@@ -1,0 +1,36 @@
+{
+    "course_id": "DDS_20400",
+    "sql_id": "115130367",
+    "course_name": "憲法與原住民族行政及法規",
+    "english_course_name": "否",
+    "credits": "Constitution and Indigenous Administration and Regulations",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "待聘"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115130367",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115130367",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}

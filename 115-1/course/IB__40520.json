@@ -1,0 +1,36 @@
+{
+    "course_id": "IB__40520",
+    "sql_id": "115163555",
+    "course_name": "服務行銷與創新個案研討",
+    "english_course_name": "否",
+    "credits": "Case studies for Service Marketing and Innovation",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳柏元"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "7"
+        },
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115163555",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115163555",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

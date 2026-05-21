@@ -1,0 +1,36 @@
+{
+    "course_id": "IIE_54700",
+    "sql_id": "115185738",
+    "course_name": "個體經濟分析(一)",
+    "english_course_name": "是",
+    "credits": "Microeconomic Analysis（I）",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "林奇蓉"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115185738",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115185738",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "course_id": "EC__D015AD",
+    "sql_id": "115188772",
+    "course_name": "論文研究AD",
+    "english_course_name": "是",
+    "credits": "Independent Study (II)",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "待聘"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115188772",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115188772",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

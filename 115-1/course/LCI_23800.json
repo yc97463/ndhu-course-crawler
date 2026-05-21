@@ -1,0 +1,36 @@
+{
+    "course_id": "LCI_23800",
+    "sql_id": "115184494",
+    "course_name": "電影企劃與製作",
+    "english_course_name": "否",
+    "credits": "Digital Video Planning and Production",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "虞戡平"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115184494",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115184494",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

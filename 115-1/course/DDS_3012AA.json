@@ -1,0 +1,48 @@
+{
+    "course_id": "DDS_3012AA",
+    "sql_id": "115123728",
+    "course_name": "社會工作實習(二)AA",
+    "english_course_name": "否",
+    "credits": "Social Work Practicum (II)",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "黃盈豪"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "1"
+        },
+        {
+            "day": "四",
+            "period": "2"
+        },
+        {
+            "day": "四",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115123728",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115123728",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}
