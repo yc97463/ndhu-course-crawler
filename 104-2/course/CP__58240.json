@@ -1,0 +1,39 @@
+{
+    "course_id": "CP__58240",
+    "sql_id": "104254017",
+    "course_name": "諮商與心理治療實務",
+    "english_course_name": "Practicum",
+    "credits": "3/3",
+    "teacher": [
+        "劉志如",
+        "陳淑瓊",
+        "王純娟"
+    ],
+    "classroom": [
+        "人社二館D105",
+        "人社二館D105",
+        "人社二館D105"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104254017",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104254017",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

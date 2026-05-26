@@ -1,0 +1,32 @@
+{
+    "course_id": "YY__50100",
+    "sql_id": "104223891",
+    "course_name": "體育(四)_跆拳道",
+    "english_course_name": "physical education of Taekwondo 2",
+    "credits": "1/2",
+    "teacher": [
+        "陳詩欣"
+    ],
+    "classroom": [
+        "D區跆拳道教室",
+        "D區跆拳道教室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104223891",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104223891",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

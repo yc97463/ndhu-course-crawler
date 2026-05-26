@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__10710",
+    "sql_id": "104223309",
+    "course_name": "亞太地理",
+    "english_course_name": "Geography of Asian-Pacific Area",
+    "credits": "3/3",
+    "teacher": [
+        "葉韻翠"
+    ],
+    "classroom": [
+        "人社二館B105",
+        "人社二館B105",
+        "人社二館B105"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104223309",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104223309",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

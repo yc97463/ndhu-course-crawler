@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__1030AE",
+    "sql_id": "108285853",
+    "course_name": "教育行政AE",
+    "english_course_name": "Educational Administration",
+    "credits": "2/2",
+    "teacher": [
+        "梁金盛"
+    ],
+    "classroom": [
+        "教育學院B313",
+        "教育學院B313"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108285853",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108285853",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

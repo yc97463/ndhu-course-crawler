@@ -1,0 +1,37 @@
+{
+    "course_id": "PHYS3110AB",
+    "sql_id": "104276948",
+    "course_name": "實驗物理技術(一)AB",
+    "english_course_name": "Experimental Techniques in Physics (I)",
+    "credits": "3/3",
+    "teacher": [
+        "曾賢德"
+    ],
+    "classroom": [
+        "理工一館D131",
+        "理工一館D131",
+        "理工一館D131"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104276948",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104276948",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        }
+    ]
+}

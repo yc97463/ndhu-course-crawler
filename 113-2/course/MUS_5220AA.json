@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5220AA",
+    "sql_id": "113257438",
+    "course_name": "鋼琴（四）AA",
+    "english_course_name": "Piano(IV)",
+    "credits": "1/1",
+    "teacher": [
+        "劉惠芝"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113257438",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113257438",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

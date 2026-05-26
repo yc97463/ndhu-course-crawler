@@ -60,7 +60,7 @@
         "credits": "2/2",
         "teacher": "/陳文盛",
         "classroom": "/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程",
-        "offering_department": "校核心課程::University Core Curriculum",
+        "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
     "GC__1650AB": {
@@ -76,7 +76,7 @@
         "credits": "3/3",
         "teacher": "/蔡和諧",
         "classroom": "/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程",
-        "offering_department": "校核心課程::University Core Curriculum",
+        "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
     "LC__6010AB": {
@@ -92,7 +92,7 @@
         "credits": "2/2",
         "teacher": "/吳佩儀",
         "classroom": "/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程",
-        "offering_department": "校核心課程::University Core Curriculum",
+        "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
     },
     "LC__56200": {
@@ -108,7 +108,7 @@
         "credits": "2/2",
         "teacher": "/林融慕",
         "classroom": "/人社一館B107/人社一館B107/人社一館B107/人社一館B107/人社一館B107/人社一館B107/人社一館B107/人社一館B107/人社一館B107",
-        "offering_department": "校核心課程::University Core Curriculum",
+        "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
     },
     "LC__60600": {
@@ -124,7 +124,7 @@
         "credits": "2/2",
         "teacher": "/陳勁廷",
         "classroom": "/人社三館B107/人社三館B107/人社三館B107/人社三館B107/人社三館B107/人社三館B107/人社三館B107/人社三館B107/人社三館B107",
-        "offering_department": "校核心課程::University Core Curriculum",
+        "offering_department": "英語課程::English courses",
         "college": "校核心課程::University Core Curriculum"
     },
     "YY__14820": {
@@ -140,7 +140,7 @@
         "credits": "1/2",
         "teacher": "/陳孝夫",
         "classroom": "/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池/A區游泳池外池",
-        "offering_department": "校核心課程::University Core Curriculum",
+        "offering_department": "體育課程::Physical education courses",
         "college": "校核心課程::University Core Curriculum"
     },
     "TH__12000": {
