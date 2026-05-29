@@ -1,12 +1,12 @@
 {
     "course_id": "CP__58430",
-    "sql_id": "115185137",
+    "sql_id": "115100077",
     "course_name": "臨床全時實習(II)",
     "english_course_name": "否",
     "credits": "Internship(Ⅱ)",
     "teacher": [
         "3",
-        "3"
+        "0:6"
     ],
     "classroom": [
         "黎士鳴"
@@ -37,8 +37,8 @@
             "period": "9"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115185137",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115185137",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115100077",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115100077",
     "departments": [
         {
             "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
