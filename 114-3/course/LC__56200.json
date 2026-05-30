@@ -8,12 +8,52 @@
         "林融慕"
     ],
     "classroom": [
-        "其他"
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107"
     ],
     "class_time": [
         {
-            "day": "暑",
-            "period": "假上課"
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114308728",

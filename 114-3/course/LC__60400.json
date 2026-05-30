@@ -8,12 +8,52 @@
         "楊宗樺"
     ],
     "classroom": [
-        "其他"
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111",
+        "人社三館B111"
     ],
     "class_time": [
         {
-            "day": "暑",
-            "period": "假上課"
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114357142",

@@ -8,12 +8,52 @@
         "吳佩儀"
     ],
     "classroom": [
-        "其他"
+        "線上課程",
+        "線上課程",
+        "線上課程",
+        "線上課程",
+        "線上課程",
+        "線上課程",
+        "線上課程",
+        "線上課程",
+        "線上課程"
     ],
     "class_time": [
         {
-            "day": "暑",
-            "period": "假上課"
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114352945",

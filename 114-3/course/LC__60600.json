@@ -8,12 +8,52 @@
         "陳勁廷"
     ],
     "classroom": [
-        "其他"
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107",
+        "人社三館B107"
     ],
     "class_time": [
         {
-            "day": "暑",
-            "period": "假上課"
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
         }
     ],
     "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114338263",

@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__33640",
+    "sql_id": "114167463",
+    "course_name": "R語言程式設計與資料分析",
+    "english_course_name": "R Programming Language and Data Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "江志卿"
+    ],
+    "classroom": [
+        "管理學院C203",
+        "管理學院C203",
+        "管理學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114167463",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114167463",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}
