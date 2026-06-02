@@ -25103,6 +25103,22 @@
         "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
+    "EL__5173AD": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "EL__5173AD",
+        "sql_id": "115108962",
+        "course_name": "論文研究（一）AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115108962",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115108962",
+        "class_time": "/四1/四2",
+        "english_course_name": "否",
+        "credits": "Independent Study I",
+        "teacher": "2/2",
+        "classroom": "/林澄億",
+        "offering_department": "英美語文學系::DEPARTMENT OF ENGLISH",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
     "EL__51560": {
         "campus": "壽豐校區",
         "department": "碩士",
