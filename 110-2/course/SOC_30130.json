@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_30130",
+    "sql_id": "110276195",
+    "course_name": "犯罪、懲罰與社會",
+    "english_course_name": "Crime, Punishment, and Society",
+    "credits": "3/3",
+    "teacher": [
+        "黃華彥"
+    ],
+    "classroom": [
+        "人社二館B201",
+        "人社二館B201",
+        "人社二館B201"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110276195",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110276195",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

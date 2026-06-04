@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_74700",
+    "sql_id": "110275290",
+    "course_name": "運動教育研究",
+    "english_course_name": "Seminars in Sport Pedagogy",
+    "credits": "3/3",
+    "teacher": [
+        "徐偉庭"
+    ],
+    "classroom": [
+        "教育學院D309",
+        "教育學院D309",
+        "教育學院D309"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110275290",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110275290",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

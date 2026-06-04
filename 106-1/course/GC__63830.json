@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63830",
+    "sql_id": "106162722",
+    "course_name": "量化的思維模式",
+    "english_course_name": "Quantitative reasoning",
+    "credits": "3/3",
+    "teacher": [
+        "范麗娟"
+    ],
+    "classroom": [
+        "理工二館PC2(E112)",
+        "理工二館PC2(E112)",
+        "理工二館PC2(E112)"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106162722",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106162722",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
