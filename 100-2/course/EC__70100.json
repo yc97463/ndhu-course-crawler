@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__70100",
+    "sql_id": "100257238",
+    "course_name": "計量經濟分析（二）",
+    "english_course_name": "Econometric Analysis（II）",
+    "credits": "3/3",
+    "teacher": [
+        "陳建福"
+    ],
+    "classroom": [
+        "共B213",
+        "共B213",
+        "共B213"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100257238",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100257238",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}
