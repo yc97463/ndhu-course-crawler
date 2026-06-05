@@ -1,0 +1,37 @@
+{
+    "course_id": "CI__22400",
+    "sql_id": "102135487",
+    "course_name": "台灣原住民史",
+    "english_course_name": "History of Taiwan Indigenous People",
+    "credits": "3/3",
+    "teacher": [
+        "林素珍"
+    ],
+    "classroom": [
+        "民A213",
+        "民A213",
+        "民A213"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102135487",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102135487",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

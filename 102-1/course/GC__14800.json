@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__14800",
+    "sql_id": "102135543",
+    "course_name": "資訊科技與應用",
+    "english_course_name": "Information Technology and its Applications",
+    "credits": "2/2",
+    "teacher": [
+        "高韓英",
+        "許紘瑋"
+    ],
+    "classroom": [
+        "工B305",
+        "工B305"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102135543",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102135543",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
