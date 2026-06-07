@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_51910",
+    "sql_id": "100168367",
+    "course_name": "資訊社會理論",
+    "english_course_name": "Theories of the Information Society",
+    "credits": "3/3",
+    "teacher": [
+        "孫嘉穗"
+    ],
+    "classroom": [
+        "文B205",
+        "文B205",
+        "文B205"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100168367",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100168367",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會暨公共行政學系::DEPARTMENT OF SOCIOLOGY AND PUBLIC AFFAIRS"
+        }
+    ]
+}

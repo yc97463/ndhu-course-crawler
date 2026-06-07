@@ -1,0 +1,30 @@
+{
+    "course_id": "GC__67540",
+    "sql_id": "110207556",
+    "course_name": "古典戲曲的超時空元宇宙進行式",
+    "english_course_name": "The Progressive Style of Super-Space-time and Metaverse in Classical Chinese Opera",
+    "credits": "1/1",
+    "teacher": [
+        "朱嘉雯",
+        "陳偉銘",
+        "張道顧",
+        "楊舜博"
+    ],
+    "classroom": [
+        "理工二館E307"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110207556",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110207556",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
