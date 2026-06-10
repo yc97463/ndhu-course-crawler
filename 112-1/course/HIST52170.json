@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST52170",
+    "sql_id": "112112476",
+    "course_name": "考古學專題",
+    "english_course_name": "An Introduction to the Archaeological Study and the Readings of the Classics",
+    "credits": "3/3",
+    "teacher": [
+        "金蕙涵"
+    ],
+    "classroom": [
+        "人社三館D302",
+        "人社三館D302",
+        "人社三館D302"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112112476",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112112476",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

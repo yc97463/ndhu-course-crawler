@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__33900",
+    "sql_id": "112143460",
+    "course_name": "跨國產業分析",
+    "english_course_name": "International Industrial Economics",
+    "credits": "3/3",
+    "teacher": [
+        "李娓瑋"
+    ],
+    "classroom": [
+        "人社二館A101",
+        "人社二館A101",
+        "人社二館A101"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112143460",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112143460",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

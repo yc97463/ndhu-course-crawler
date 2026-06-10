@@ -1,0 +1,37 @@
+{
+    "course_id": "DOL_2003AB",
+    "sql_id": "112197436",
+    "course_name": "刑事訴訟法AB",
+    "english_course_name": "Criminal Procedure Law",
+    "credits": "3/3",
+    "teacher": [
+        "簡至鴻"
+    ],
+    "classroom": [
+        "人社二館B107",
+        "人社二館B107",
+        "人社二館B107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112197436",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112197436",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系::DEPARTMENT OF LAW"
+        }
+    ]
+}

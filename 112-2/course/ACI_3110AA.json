@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_3110AA",
+    "sql_id": "112284845",
+    "course_name": "專題研究設計AA",
+    "english_course_name": "Introduction to Research Design",
+    "credits": "3/3",
+    "teacher": [
+        "萬煜瑤"
+    ],
+    "classroom": [
+        "藝術學院A211",
+        "藝術學院A211",
+        "藝術學院A211"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112284845",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112284845",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

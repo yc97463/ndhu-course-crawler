@@ -1,0 +1,37 @@
+{
+    "course_id": "RVIS20220",
+    "sql_id": "113192904",
+    "course_name": "視覺傳達與設計實作",
+    "english_course_name": "Visual Communication and Design Implementation",
+    "credits": "3/3",
+    "teacher": [
+        "黃琡雅"
+    ],
+    "classroom": [
+        "藝術學院-電腦教室A138",
+        "藝術學院-電腦教室A138",
+        "藝術學院-電腦教室A138"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113192904",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113192904",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

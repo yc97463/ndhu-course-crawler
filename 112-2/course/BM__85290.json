@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__85290",
+    "sql_id": "112227755",
+    "course_name": "企業社會責任研究",
+    "english_course_name": "Corporate Social Responsibilty Research",
+    "credits": "3/3",
+    "teacher": [
+        "蔣念祖"
+    ],
+    "classroom": [
+        "管理學院C115",
+        "管理學院C115",
+        "管理學院C115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112227755",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112227755",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}
