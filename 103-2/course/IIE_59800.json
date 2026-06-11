@@ -1,0 +1,37 @@
+{
+    "course_id": "IIE_59800",
+    "sql_id": "103242941",
+    "course_name": "貨幣理論",
+    "english_course_name": "Monetary Theory and Policy",
+    "credits": "3/3",
+    "teacher": [
+        "張銘仁"
+    ],
+    "classroom": [
+        "共D406",
+        "共D406",
+        "共D406"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103242941",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103242941",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

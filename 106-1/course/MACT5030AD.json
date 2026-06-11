@@ -1,0 +1,27 @@
+{
+    "course_id": "MACT5030AD",
+    "sql_id": "106142985",
+    "course_name": "專題研究(一)AD",
+    "english_course_name": "Independent Study (Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "王肇蘭"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106142985",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106142985",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計與財務碩士學位學程::MASTER OF ACCOUNTING AND FINANCE PROGRAM"
+        }
+    ]
+}

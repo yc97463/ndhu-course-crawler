@@ -1,0 +1,27 @@
+{
+    "course_id": "TS__5150AD",
+    "sql_id": "106127206",
+    "course_name": "引導研究(一)AD",
+    "english_course_name": "Directed Study Ⅰ",
+    "credits": "1/1",
+    "teacher": [
+        "潘繼道"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106127206",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106127206",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}
