@@ -1,0 +1,37 @@
+{
+    "course_id": "NR__51200",
+    "sql_id": "105288388",
+    "course_name": "土地資源評估",
+    "english_course_name": "Land Resources Assessment",
+    "credits": "3/3",
+    "teacher": [
+        "陳紫娥"
+    ],
+    "classroom": [
+        "環境學院A155",
+        "環境學院A155",
+        "環境學院A155"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105288388",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105288388",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}
