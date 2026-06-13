@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__1100AA",
+    "sql_id": "114110002",
+    "course_name": "數學導論AA",
+    "english_course_name": "Introduction to mathematics",
+    "credits": "3/3",
+    "teacher": [
+        "郭大衛"
+    ],
+    "classroom": [
+        "理工一館A316",
+        "理工一館A316",
+        "理工一館A316"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114110002",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114110002",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}
