@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__22900",
+    "sql_id": "113210235",
+    "course_name": "兒童文學",
+    "english_course_name": "Children's Literature",
+    "credits": "3/3",
+    "teacher": [
+        "蔡淑芬"
+    ],
+    "classroom": [
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113210235",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113210235",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2260AA",
+    "sql_id": "113266656",
+    "course_name": "鋼琴（主修）（3）AA",
+    "english_course_name": "Piano（Major）（Ⅲ）",
+    "credits": "1/1",
+    "teacher": [
+        "劉惠芝"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113266656",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113266656",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}
