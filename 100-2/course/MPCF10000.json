@@ -1,0 +1,27 @@
+{
+    "course_id": "MPCF10000",
+    "sql_id": "100219221",
+    "course_name": "論文寫作",
+    "english_course_name": "Thesis Writing",
+    "credits": "1/1",
+    "teacher": [
+        "蕭朝興"
+    ],
+    "classroom": [
+        "管A302"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100219221",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100219221",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}
