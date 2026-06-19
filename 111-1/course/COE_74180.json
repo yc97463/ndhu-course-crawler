@@ -1,0 +1,27 @@
+{
+    "course_id": "COE_74180",
+    "sql_id": "111174627",
+    "course_name": "論文研究(一)",
+    "english_course_name": "Dissertation Guidance (Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "楊熾康"
+    ],
+    "classroom": [
+        "教D233"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111174627",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111174627",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

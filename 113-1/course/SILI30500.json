@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI30500",
+    "sql_id": "113178314",
+    "course_name": "小說與歷史",
+    "english_course_name": "Fiction and History",
+    "credits": "3/3",
+    "teacher": [
+        "楊翠"
+    ],
+    "classroom": [
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113178314",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113178314",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

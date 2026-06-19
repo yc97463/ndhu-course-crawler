@@ -1,0 +1,45 @@
+{
+    "course_id": "CDPD4192AB",
+    "sql_id": "111106831",
+    "course_name": "國民小學教學實習IIAB",
+    "english_course_name": "Teaching Practicum in Elementary School(II)",
+    "credits": "4/4",
+    "teacher": [
+        "李真文",
+        "張玉真",
+        "周子宇",
+        "賴榮興"
+    ],
+    "classroom": [
+        "教育學院C113",
+        "教育學院C113",
+        "教育學院C113",
+        "教育學院C113"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111106831",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111106831",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_48400",
+    "sql_id": "113182064",
+    "course_name": "爵士鋼琴 (主修) (7)",
+    "english_course_name": "Jazz Piano (Major) (VII)",
+    "credits": "1/1",
+    "teacher": [
+        "許聰義"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113182064",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113182064",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}
