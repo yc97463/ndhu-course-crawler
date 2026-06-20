@@ -1,0 +1,37 @@
+{
+    "course_id": "MSF_10010",
+    "sql_id": "103288825",
+    "course_name": "微積分(二)",
+    "english_course_name": "Calculus(II)",
+    "credits": "3/3",
+    "teacher": [
+        "魏澤人"
+    ],
+    "classroom": [
+        "理B101",
+        "理B101",
+        "理B101"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103288825",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103288825",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}
