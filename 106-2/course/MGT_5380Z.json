@@ -1,0 +1,37 @@
+{
+    "course_id": "MGT_5380Z",
+    "sql_id": "106213638",
+    "course_name": "中國大陸企業參訪與研習",
+    "english_course_name": "Mainland China Field Study of Business Management",
+    "credits": "3/3",
+    "teacher": [
+        "林穎芬"
+    ],
+    "classroom": [
+        "管理學院A107",
+        "管理學院A107",
+        "管理學院A107"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "7"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106213638",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106213638",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

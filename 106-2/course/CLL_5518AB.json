@@ -1,0 +1,27 @@
+{
+    "course_id": "CLL_5518AB",
+    "sql_id": "106214630",
+    "course_name": "論文研究(二)AB",
+    "english_course_name": "Thesis Guidance（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "張啟超"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106214630",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106214630",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

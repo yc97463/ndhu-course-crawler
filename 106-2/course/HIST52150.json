@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST52150",
+    "sql_id": "106207916",
+    "course_name": "臺灣海洋史專題",
+    "english_course_name": "Taiwanese Maritime History",
+    "credits": "3/3",
+    "teacher": [
+        "康培德"
+    ],
+    "classroom": [
+        "人社三館C210",
+        "人社三館C210",
+        "人社三館C210"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106207916",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106207916",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}
