@@ -1,0 +1,32 @@
+{
+    "course_id": "LCI_11100",
+    "sql_id": "102273425",
+    "course_name": "南島語言概論",
+    "english_course_name": "Introduction to Austronesian Languages",
+    "credits": "2/2",
+    "teacher": [
+        "湯愛玉"
+    ],
+    "classroom": [
+        "民A338",
+        "民A338"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102273425",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102273425",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

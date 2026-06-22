@@ -1,0 +1,27 @@
+{
+    "course_id": "EAM_5324AB",
+    "sql_id": "110202088",
+    "course_name": "引導研究AB",
+    "english_course_name": "Research Guidance",
+    "credits": "1/1",
+    "teacher": [
+        "范熾文"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110202088",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110202088",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

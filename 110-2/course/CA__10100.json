@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__10100",
+    "sql_id": "110254052",
+    "course_name": "藝術概論",
+    "english_course_name": "Introduction of Arts",
+    "credits": "3/3",
+    "teacher": [
+        "羅美蘭"
+    ],
+    "classroom": [
+        "藝術學院-階梯教室A102",
+        "藝術學院-階梯教室A102",
+        "藝術學院-階梯教室A102"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110254052",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110254052",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

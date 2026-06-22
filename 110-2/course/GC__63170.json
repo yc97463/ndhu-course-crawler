@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63170",
+    "sql_id": "110271441",
+    "course_name": "東臺灣田野調查",
+    "english_course_name": "Field Study in East Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "歐崇敬"
+    ],
+    "classroom": [
+        "理工二館A429",
+        "理工二館A429",
+        "理工二館A429"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110271441",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110271441",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
