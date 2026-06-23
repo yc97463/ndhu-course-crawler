@@ -79,12 +79,12 @@
         "offering_department": "會計學系::DEPARTMENT OF ACCOUNTING",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
-    "LC__6010AB": {
+    "LC__60100": {
         "campus": "壽豐校區",
         "department": "校核心",
-        "course_id": "LC__6010AB",
+        "course_id": "LC__60100",
         "sql_id": "114352945",
-        "course_name": "英語線上學習三級AB",
+        "course_name": "英語線上學習三級",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114352945",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114352945",
         "class_time": "/一4/一5/一6/二4/二5/二6/四4/四5/四6",
@@ -351,16 +351,16 @@
         "offering_department": "特教學前學程::EDUACTION PROGRAM FOR PRESCHOOL SPECIAL EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
-    "LC__6010AA": {
+    "LC__70060": {
         "campus": "壽豐校區",
         "department": "學一",
-        "course_id": "LC__6010AA",
-        "sql_id": "114355619",
-        "course_name": "英語線上學習三級AA",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114355619",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114355619",
+        "course_id": "LC__70060",
+        "sql_id": "114347658",
+        "course_name": "AI與科技輔助英語學習三級",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114347658",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114347658",
         "class_time": "/一4/一5/一6/二4/二5/二6/四4/四5/四6",
-        "english_course_name": "Online English Learning (Level 3)",
+        "english_course_name": "AI- and Technology-Assisted English Learning (Level 3)",
         "credits": "2/2",
         "teacher": "/吳佩儀",
         "classroom": "/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程/線上課程",

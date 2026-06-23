@@ -1,0 +1,38 @@
+{
+    "course_id": "CM__1001AF",
+    "sql_id": "112130719",
+    "course_name": "企業倫理講座AF",
+    "english_course_name": "Business Ethics Seminar",
+    "credits": "2/2",
+    "teacher": [
+        "陳建男",
+        "李明龍",
+        "李易儒"
+    ],
+    "classroom": [
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112130719",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112130719",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

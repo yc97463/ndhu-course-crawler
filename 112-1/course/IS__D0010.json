@@ -1,0 +1,44 @@
+{
+    "course_id": "IS__D0010",
+    "sql_id": "112143697",
+    "course_name": "臺灣原住民族專題研究",
+    "english_course_name": "Special Topics on Indigenous Peoples of Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "石忠山",
+        "謝若蘭",
+        "張希文 Lenglengman Rovaniyaw",
+        "鄭期緯",
+        "日宏煜",
+        "陳毅峰",
+        "董克景",
+        "黃毓超"
+    ],
+    "classroom": [
+        "原民院A318",
+        "原民院A318",
+        "原民院A318"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112143697",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112143697",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院原住民族研究國際博士班::INTERNATIONAL PH. D. PROGRAM OF INDIGENOUS STUDIES"
+        }
+    ]
+}
