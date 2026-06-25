@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_31730",
+    "sql_id": "100154824",
+    "course_name": "中華民國憲法",
+    "english_course_name": "Constitution of The Republic of China",
+    "credits": "3/3",
+    "teacher": [
+        "成鳳樑"
+    ],
+    "classroom": [
+        "共A103",
+        "共A103",
+        "共A103"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100154824",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100154824",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會暨公共行政學系::DEPARTMENT OF SOCIOLOGY AND PUBLIC AFFAIRS"
+        }
+    ]
+}
