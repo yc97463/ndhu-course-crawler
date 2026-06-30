@@ -47919,6 +47919,38 @@
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
+    "LCI_2430AA": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "LCI_2430AA",
+        "sql_id": "115132201",
+        "course_name": "族語寫作AA",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115132201",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115132201",
+        "class_time": "/六10/六11",
+        "english_course_name": "否",
+        "credits": "Indigenous Languages Writing AA",
+        "teacher": "2/2",
+        "classroom": "/待聘",
+        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
+    "LCI_2430AB": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "LCI_2430AB",
+        "sql_id": "115104870",
+        "course_name": "族語寫作AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115104870",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115104870",
+        "class_time": "/六10/六11",
+        "english_course_name": "否",
+        "credits": "Indigenous Languages Writing AB",
+        "teacher": "2/2",
+        "classroom": "/待聘",
+        "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
     "LCI_24330": {
         "campus": "壽豐校區",
         "department": "學二",
