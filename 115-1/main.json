@@ -1775,12 +1775,12 @@
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "AM__40730": {
+    "AM__4073AA": {
         "campus": "其它",
         "department": "學三",
-        "course_id": "AM__40730",
+        "course_id": "AM__4073AA",
         "sql_id": "115171315",
-        "course_name": "專題製作",
+        "course_name": "專題製作AA",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115171315",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115171315",
         "class_time": "/與教師另行約定",
@@ -1788,6 +1788,22 @@
         "credits": "Research Project",
         "teacher": "3/3",
         "classroom": "/郭大衛",
+        "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "AM__4073AB": {
+        "campus": "其它",
+        "department": "學三",
+        "course_id": "AM__4073AB",
+        "sql_id": "115196550",
+        "course_name": "專題製作AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115196550",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115196550",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Research Project",
+        "teacher": "3/3",
+        "classroom": "/曹振海",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -8763,7 +8779,7 @@
         "english_course_name": "否",
         "credits": "Undergraduate Project(Ⅰ)",
         "teacher": "1/2",
-        "classroom": "/待聘",
+        "classroom": "/張紘睿/陳旻秀",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -9051,7 +9067,7 @@
         "english_course_name": "是",
         "credits": "Undergraduate Project（Ⅰ）",
         "teacher": "1/2",
-        "classroom": "/待聘",
+        "classroom": "/張紘睿/陳旻秀",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
