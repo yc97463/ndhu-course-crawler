@@ -1,0 +1,46 @@
+{
+    "course_id": "IBBA5003Z",
+    "sql_id": "105238678",
+    "course_name": "國際企業管理",
+    "english_course_name": "International Business Management",
+    "credits": "3/3",
+    "teacher": [
+        "欒錦榮"
+    ],
+    "classroom": [
+        "國軍教學點",
+        "東華創新研究園區五守樓403室",
+        "國軍教學點",
+        "東華創新研究園區五守樓403室",
+        "國軍教學點",
+        "東華創新研究園區五守樓403室",
+        "國軍教學點",
+        "東華創新研究園區五守樓403室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        },
+        {
+            "day": "二",
+            "period": "16"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105238678",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105238678",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

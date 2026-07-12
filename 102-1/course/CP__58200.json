@@ -1,0 +1,42 @@
+{
+    "course_id": "CP__58200",
+    "sql_id": "102123374",
+    "course_name": "諮商心理實習(下)B",
+    "english_course_name": "Counseling Practicum",
+    "credits": "1/0:4",
+    "teacher": [
+        "劉志如"
+    ],
+    "classroom": [
+        "共B403",
+        "共B403",
+        "共B403",
+        "共B403"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102123374",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102123374",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}
