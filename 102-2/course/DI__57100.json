@@ -1,0 +1,37 @@
+{
+    "course_id": "DI__57100",
+    "sql_id": "102239417",
+    "course_name": "族群政治專題",
+    "english_course_name": "Seminar in the Ethnic Politic",
+    "credits": "3/3",
+    "teacher": [
+        "施正鋒"
+    ],
+    "classroom": [
+        "民A222",
+        "民A222",
+        "民A222"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102239417",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102239417",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}

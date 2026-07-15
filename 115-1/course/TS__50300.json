@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__50300",
+    "sql_id": "115133112",
+    "course_name": "區域研究法",
+    "english_course_name": "否",
+    "credits": "Methodology of Regional Studies",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "潘繼道",
+        "黃雯娟"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115133112",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115133112",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

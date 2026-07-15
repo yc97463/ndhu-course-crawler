@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__75600",
+    "sql_id": "100172890",
+    "course_name": "區域經濟學(二)",
+    "english_course_name": "Regional Economics (II)",
+    "credits": "3/3",
+    "teacher": [
+        "梁文榮"
+    ],
+    "classroom": [
+        "文D220",
+        "文D220",
+        "文D220"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100172890",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100172890",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

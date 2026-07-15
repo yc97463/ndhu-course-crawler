@@ -1,0 +1,41 @@
+{
+    "course_id": "CSIE1020AD",
+    "sql_id": "105188141",
+    "course_name": "計算機概論AD",
+    "english_course_name": "Introduction to Computer Science",
+    "credits": "3/3",
+    "teacher": [
+        "吳賢財"
+    ],
+    "classroom": [
+        "理工二館C203",
+        "理工二館C203",
+        "理工二館C203"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105188141",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105188141",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        },
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING"
+        }
+    ]
+}

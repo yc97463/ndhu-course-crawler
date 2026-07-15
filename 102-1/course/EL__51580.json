@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__51580",
+    "sql_id": "102138276",
+    "course_name": "寫作教學法研究",
+    "english_course_name": "Research on Teaching Writing",
+    "credits": "3/3",
+    "teacher": [
+        "曾月紅"
+    ],
+    "classroom": [
+        "文A306",
+        "文A306",
+        "文A306"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102138276",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102138276",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

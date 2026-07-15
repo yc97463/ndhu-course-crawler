@@ -1,0 +1,29 @@
+{
+    "course_id": "MUS_56100",
+    "sql_id": "115165113",
+    "course_name": "爵士演奏（四）",
+    "english_course_name": "否",
+    "credits": "Private Lesson - Jazz Major（Ⅳ）",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "許聰義",
+        "魏廣晧"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115165113",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115165113",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_22100",
+    "sql_id": "100237775",
+    "course_name": "現代戲劇選讀",
+    "english_course_name": "Selections of Modern Drama",
+    "credits": "3/3",
+    "teacher": [
+        "秦嘉嫄"
+    ],
+    "classroom": [
+        "文B105",
+        "文B105",
+        "文B105"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        },
+        {
+            "day": "四",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100237775",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100237775",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

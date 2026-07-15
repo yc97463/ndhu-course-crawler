@@ -1,0 +1,37 @@
+{
+    "course_id": "EAM_53300",
+    "sql_id": "114299532",
+    "course_name": "國際與比較高等教育研究",
+    "english_course_name": "Studies of International and Comparative Higher Education",
+    "credits": "3/3",
+    "teacher": [
+        "林念臻"
+    ],
+    "classroom": [
+        "教育學院C242",
+        "教育學院C242",
+        "教育學院C242"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114299532",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114299532",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

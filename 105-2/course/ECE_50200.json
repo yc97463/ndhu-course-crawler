@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_50200",
+    "sql_id": "105208660",
+    "course_name": "質性研究",
+    "english_course_name": "Qualitative Research",
+    "credits": "3/3",
+    "teacher": [
+        "蘇育代"
+    ],
+    "classroom": [
+        "教育學院D313",
+        "教育學院D313",
+        "教育學院D313"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105208660",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105208660",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

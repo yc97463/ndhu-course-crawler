@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__57000",
+    "sql_id": "104208127",
+    "course_name": "企業研究方法",
+    "english_course_name": "Business Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "熊欣華"
+    ],
+    "classroom": [
+        "管理學院A103",
+        "管理學院A103",
+        "管理學院A103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104208127",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104208127",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

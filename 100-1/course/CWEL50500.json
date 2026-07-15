@@ -1,0 +1,37 @@
+{
+    "course_id": "CWEL50500",
+    "sql_id": "100101428",
+    "course_name": "研究方法和論文寫作",
+    "english_course_name": "Research Methodology and Essay Writing",
+    "credits": "3/3",
+    "teacher": [
+        "陳鏡羽"
+    ],
+    "classroom": [
+        "文D204",
+        "文D204",
+        "文D204"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100101428",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100101428",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

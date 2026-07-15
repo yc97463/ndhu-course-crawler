@@ -1,0 +1,33 @@
+{
+    "course_id": "SPE_41520",
+    "sql_id": "102170111",
+    "course_name": "個案研究",
+    "english_course_name": "Case Study",
+    "credits": "2/2",
+    "teacher": [
+        "林玟秀",
+        "鍾莉娟"
+    ],
+    "classroom": [
+        "教A104",
+        "教A104"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102170111",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102170111",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

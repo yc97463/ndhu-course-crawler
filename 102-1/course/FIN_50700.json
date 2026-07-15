@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_50700",
+    "sql_id": "102154432",
+    "course_name": "固定收益證券",
+    "english_course_name": "Fixed-Income Securities",
+    "credits": "3/3",
+    "teacher": [
+        "黃瑞卿"
+    ],
+    "classroom": [
+        "管D111",
+        "管D111",
+        "管D111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102154432",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102154432",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

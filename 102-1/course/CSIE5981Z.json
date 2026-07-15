@@ -1,0 +1,39 @@
+{
+    "course_id": "CSIE5981Z",
+    "sql_id": "102187344",
+    "course_name": "資訊分享管理技術",
+    "english_course_name": "Information sharing technology",
+    "credits": "3/3",
+    "teacher": [
+        "李官陵",
+        "羅壽之",
+        "彭勝龍"
+    ],
+    "classroom": [
+        "工A337",
+        "工A337",
+        "工A337"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102187344",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102187344",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__2514AB",
+    "sql_id": "110167756",
+    "course_name": "英文作文（二）（上）AB",
+    "english_course_name": "English Composition (II), 1st semester",
+    "credits": "3/3",
+    "teacher": [
+        "施雅純"
+    ],
+    "classroom": [
+        "人社一館D115",
+        "人社一館D115",
+        "人社一館D115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110167756",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110167756",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

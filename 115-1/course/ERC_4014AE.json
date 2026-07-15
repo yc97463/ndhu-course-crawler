@@ -1,0 +1,28 @@
+{
+    "course_id": "ERC_4014AE",
+    "sql_id": "115196765",
+    "course_name": "專題指導(一)AE",
+    "english_course_name": "否",
+    "credits": "Graduation Project I",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "林素珍"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115196765",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115196765",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

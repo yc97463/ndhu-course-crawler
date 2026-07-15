@@ -1,0 +1,28 @@
+{
+    "course_id": "EE__6002AD",
+    "sql_id": "115148422",
+    "course_name": "論文研究AD",
+    "english_course_name": "否",
+    "credits": "Thesis",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "陳俊全"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115148422",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115148422",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING"
+        }
+    ]
+}

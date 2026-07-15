@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__M0150",
+    "sql_id": "110128354",
+    "course_name": "人力資源管理",
+    "english_course_name": "Human resources Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳膺郁"
+    ],
+    "classroom": [
+        "管理學院C136",
+        "管理學院C136",
+        "管理學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110128354",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110128354",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

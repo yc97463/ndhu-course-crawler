@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_30100",
+    "sql_id": "104292252",
+    "course_name": "田野工作",
+    "english_course_name": "Fieldwork",
+    "credits": "3/3",
+    "teacher": [
+        "李宜澤"
+    ],
+    "classroom": [
+        "原民院A213",
+        "原民院A213",
+        "原民院A213"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104292252",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104292252",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6365AB",
+    "sql_id": "106136067",
+    "course_name": "中華民國憲法AB",
+    "english_course_name": "Constitution of The Republic of China",
+    "credits": "3/3",
+    "teacher": [
+        "石世豪"
+    ],
+    "classroom": [
+        "人社一館A107",
+        "人社一館A107",
+        "人社一館A107"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106136067",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106136067",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

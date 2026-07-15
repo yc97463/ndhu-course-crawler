@@ -1,0 +1,43 @@
+{
+    "course_id": "NRES5400AB",
+    "sql_id": "102192123",
+    "course_name": "專題討論AB",
+    "english_course_name": "seminar",
+    "credits": "2/3",
+    "teacher": [
+        "李光中",
+        "許世璋",
+        "張成華",
+        "梁明煌",
+        "宋秉明",
+        "楊懿如",
+        "顧瑜君"
+    ],
+    "classroom": [
+        "環A128",
+        "環A128",
+        "環A128"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102192123",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102192123",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "NRES30160",
+    "sql_id": "108192688",
+    "course_name": "專題研究（二）",
+    "english_course_name": "Independent Study (II)",
+    "credits": "1/1",
+    "teacher": [
+        "楊懿如",
+        "吳海音",
+        "許育誠",
+        "楊悠娟",
+        "林祥偉",
+        "黃國靖",
+        "李漢榮"
+    ],
+    "classroom": [
+        "環境學院A128"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108192688",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108192688",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

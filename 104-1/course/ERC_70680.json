@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_70680",
+    "sql_id": "104192108",
+    "course_name": "多元文化公民權研究",
+    "english_course_name": "Studies in Multicultural Citizenship and Human Rights",
+    "credits": "3/3",
+    "teacher": [
+        "謝若蘭"
+    ],
+    "classroom": [
+        "原民院A313",
+        "原民院A313",
+        "原民院A313"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104192108",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104192108",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

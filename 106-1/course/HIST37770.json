@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37770",
+    "sql_id": "106188355",
+    "course_name": "全球化的世界現代史",
+    "english_course_name": "Modern World History: A Perspective of Globalization",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億"
+    ],
+    "classroom": [
+        "人社三館C112",
+        "人社三館C112",
+        "人社三館C112"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106188355",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106188355",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__M0230",
+    "sql_id": "103181940",
+    "course_name": "創新與技術策略",
+    "english_course_name": "Strategic Management of Technology and Innovation",
+    "credits": "3/3",
+    "teacher": [
+        "洪新民"
+    ],
+    "classroom": [
+        "管C115",
+        "管C115",
+        "管C115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103181940",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103181940",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

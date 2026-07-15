@@ -1,0 +1,38 @@
+{
+    "course_id": "UPOL10100",
+    "sql_id": "105213269",
+    "course_name": "國際貿易法",
+    "english_course_name": "International Trade Law",
+    "credits": "3/3",
+    "teacher": [
+        "徐揮彥",
+        "洪嘉瑜"
+    ],
+    "classroom": [
+        "人社二館B107",
+        "人社二館B107",
+        "人社二館B107"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105213269",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105213269",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程::UNDERGRADUATE PROGRAM OF LAW"
+        }
+    ]
+}

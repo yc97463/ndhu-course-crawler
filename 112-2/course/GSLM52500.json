@@ -1,0 +1,38 @@
+{
+    "course_id": "GSLM52500",
+    "sql_id": "112216633",
+    "course_name": "網路分析與應用",
+    "english_course_name": "Network Analysis and Applications",
+    "credits": "3/3",
+    "teacher": [
+        "陳正杰",
+        "陳怡君"
+    ],
+    "classroom": [
+        "管理學院C110",
+        "管理學院C110",
+        "管理學院C110"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112216633",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112216633",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}

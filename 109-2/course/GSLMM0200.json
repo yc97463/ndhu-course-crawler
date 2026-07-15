@@ -1,0 +1,37 @@
+{
+    "course_id": "GSLMM0200",
+    "sql_id": "109226300",
+    "course_name": "國際行銷管理",
+    "english_course_name": "International Marketing Management",
+    "credits": "3/3",
+    "teacher": [
+        "夏締青"
+    ],
+    "classroom": [
+        "管理學院A119",
+        "管理學院A119",
+        "管理學院A119"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109226300",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109226300",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}

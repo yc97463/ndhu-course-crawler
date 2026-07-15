@@ -1,0 +1,32 @@
+{
+    "course_id": "YY__14870",
+    "sql_id": "106124759",
+    "course_name": "體育(三)_肢體潛能開發",
+    "english_course_name": "physical education of Body Movement Potentials Development 1",
+    "credits": "1/2",
+    "teacher": [
+        "陳怡靜"
+    ],
+    "classroom": [
+        "D區舞蹈教室",
+        "D區舞蹈教室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106124759",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106124759",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

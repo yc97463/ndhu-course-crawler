@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_40850",
+    "sql_id": "103141960",
+    "course_name": "應用文及習作",
+    "english_course_name": "Practical Writing (with Writing Practice)",
+    "credits": "3/3",
+    "teacher": [
+        "溫光華"
+    ],
+    "classroom": [
+        "共A107",
+        "共A107",
+        "共A107"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103141960",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103141960",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

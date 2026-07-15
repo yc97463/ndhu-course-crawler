@@ -1,0 +1,39 @@
+{
+    "course_id": "COE_71700",
+    "sql_id": "108275858",
+    "course_name": "教育革新專題研究",
+    "english_course_name": "Research Seminar on Educational Reform",
+    "credits": "3/3",
+    "teacher": [
+        "白亦方",
+        "張德勝",
+        "羅寶鳳"
+    ],
+    "classroom": [
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108275858",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108275858",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

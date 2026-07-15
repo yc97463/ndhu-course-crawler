@@ -1,0 +1,67 @@
+{
+    "course_id": "PE__5260Z",
+    "sql_id": "101544825",
+    "course_name": "動力學的生物力學應用",
+    "english_course_name": "Application of Dynamics in Biomechanics",
+    "credits": "2/2",
+    "teacher": [
+        "王令儀"
+    ],
+    "classroom": [
+        "教C136",
+        "教C136",
+        "教C136",
+        "教C136",
+        "教C136",
+        "教C136",
+        "教C136",
+        "教C136",
+        "教C136"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "7"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101544825",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101544825",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

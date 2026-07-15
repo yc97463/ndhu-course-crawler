@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2350AB",
+    "sql_id": "103120286",
+    "course_name": "大提琴（主修）（3）AB",
+    "english_course_name": "Cello（Major）（Ⅲ）",
+    "credits": "1/1",
+    "teacher": [
+        "莊心怡"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103120286",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103120286",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

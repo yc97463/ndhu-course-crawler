@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__4010AA",
+    "sql_id": "110180620",
+    "course_name": "美學AA",
+    "english_course_name": "Aesthetics",
+    "credits": "3/3",
+    "teacher": [
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110180620",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110180620",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

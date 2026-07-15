@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_29280",
+    "sql_id": "104225206",
+    "course_name": "擊樂（副修）（四）",
+    "english_course_name": "Percussion （Minor）（Ⅳ）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "葉柏岑"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104225206",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104225206",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

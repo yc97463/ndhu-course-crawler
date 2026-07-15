@@ -1,0 +1,38 @@
+{
+    "course_id": "MBE_57890",
+    "sql_id": "109125921",
+    "course_name": "海洋學",
+    "english_course_name": "Oceanography",
+    "credits": "3/3",
+    "teacher": [
+        "劉弼仁",
+        "謝泓諺"
+    ],
+    "classroom": [
+        "一研1樓教室",
+        "一研1樓教室",
+        "一研1樓教室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109125921",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109125921",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

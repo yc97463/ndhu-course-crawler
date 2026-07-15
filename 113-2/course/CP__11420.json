@@ -1,0 +1,28 @@
+{
+    "course_id": "CP__11420",
+    "sql_id": "113204485",
+    "course_name": "心理學的社會實踐與創新（一）",
+    "english_course_name": "Social practice and innovation with psychology(Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "黎士鳴",
+        "林玟秀"
+    ],
+    "classroom": [
+        "人社一館D107"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113204485",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113204485",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

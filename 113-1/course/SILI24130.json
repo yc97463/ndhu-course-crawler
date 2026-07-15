@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI24130",
+    "sql_id": "113144157",
+    "course_name": "中西比較詩學",
+    "english_course_name": "Lectures in East-West Poetics",
+    "credits": "3/3",
+    "teacher": [
+        "許又方"
+    ],
+    "classroom": [
+        "人社一館-第二講堂",
+        "人社一館-第二講堂",
+        "人社一館-第二講堂"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113144157",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113144157",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

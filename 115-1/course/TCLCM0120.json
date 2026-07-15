@@ -1,0 +1,36 @@
+{
+    "course_id": "TCLCM0120",
+    "sql_id": "115117479",
+    "course_name": "台灣民間故事研究",
+    "english_course_name": "否",
+    "credits": "Research in Taiwanese Folktales",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "彭衍綸"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115117479",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115117479",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY"
+        }
+    ]
+}

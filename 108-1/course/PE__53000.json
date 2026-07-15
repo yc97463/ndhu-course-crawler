@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__53000",
+    "sql_id": "108177510",
+    "course_name": "適應體育專題研究",
+    "english_course_name": "Seminars in Adapted Physical Education",
+    "credits": "3/3",
+    "teacher": [
+        "尚憶薇"
+    ],
+    "classroom": [
+        "教育學院D309",
+        "教育學院D309",
+        "教育學院D309"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108177510",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108177510",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

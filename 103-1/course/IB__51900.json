@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__51900",
+    "sql_id": "103175178",
+    "course_name": "國際財務管理",
+    "english_course_name": "International Financial Management",
+    "credits": "3/3",
+    "teacher": [
+        "林達榮"
+    ],
+    "classroom": [
+        "管A115",
+        "管A115",
+        "管A115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103175178",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103175178",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

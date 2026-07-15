@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_3790AA",
+    "sql_id": "110143972",
+    "course_name": "爵士演奏(主修)(5)AA",
+    "english_course_name": "Jazz (Major)(Ⅴ)",
+    "credits": "1/1",
+    "teacher": [
+        "傅麥特"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110143972",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110143972",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

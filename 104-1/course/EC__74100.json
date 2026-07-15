@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__74100",
+    "sql_id": "104164748",
+    "course_name": "國際貿易理論與政策（一）",
+    "english_course_name": "International Trade Theory an Policy（I）",
+    "credits": "3/3",
+    "teacher": [
+        "林燕淑"
+    ],
+    "classroom": [
+        "人社一館D220",
+        "人社一館D220",
+        "人社一館D220"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104164748",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104164748",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

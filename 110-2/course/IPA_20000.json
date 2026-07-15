@@ -1,0 +1,37 @@
+{
+    "course_id": "IPA_20000",
+    "sql_id": "110211189",
+    "course_name": "劇本導讀與創作",
+    "english_course_name": "Introduction to Script & Creation",
+    "credits": "3/3",
+    "teacher": [
+        "劉亮延"
+    ],
+    "classroom": [
+        "原B310",
+        "原B310",
+        "原B310"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110211189",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110211189",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民族樂舞與藝術學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS PERFORMANCE AND ARTS"
+        }
+    ]
+}
