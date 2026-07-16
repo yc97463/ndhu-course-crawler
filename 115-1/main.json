@@ -49151,6 +49151,38 @@
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
+    "TCAI10040": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "TCAI10040",
+        "sql_id": "115144457",
+        "course_name": "基礎程式設計(C++)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115144457",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115144457",
+        "class_time": "/一4/一5/一6",
+        "english_course_name": "否",
+        "credits": "Introduction to Programming (C++)",
+        "teacher": "3/3",
+        "classroom": "/待聘/陽明交通大學溫宏斌",
+        "offering_department": "洄瀾學院碩士班::MASTER",
+        "college": "洄瀾學院::COLLEGE OF HUILAN"
+    },
+    "TCAI50050": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "TCAI50050",
+        "sql_id": "115126206",
+        "course_name": "金融科技導論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115126206",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115126206",
+        "class_time": "/三4/三5/三6",
+        "english_course_name": "否",
+        "credits": "Introduction to FinTech",
+        "teacher": "3/3",
+        "classroom": "/臺灣大學張智星",
+        "offering_department": "洄瀾學院碩士班::MASTER",
+        "college": "洄瀾學院::COLLEGE OF HUILAN"
+    },
     "RVIS10460": {
         "campus": "壽豐校區",
         "department": "學一",
