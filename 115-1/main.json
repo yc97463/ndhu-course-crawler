@@ -203,7 +203,7 @@
         "english_course_name": "是",
         "credits": "Statistics with Recitation",
         "teacher": "3/3",
-        "classroom": "/待聘/臺灣大學李宗穎教授",
+        "classroom": "/陳玉佳/臺灣大學李宗穎教授",
         "offering_department": "理工學院學士班::BACHELOR",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -32703,6 +32703,22 @@
         "offering_department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
+    "DOL_1010AC": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "DOL_1010AC",
+        "sql_id": "115121002",
+        "course_name": "民法總則AC",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115121002",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115121002",
+        "class_time": "/二4/二5/二6",
+        "english_course_name": "否",
+        "credits": "Introduction of Civil",
+        "teacher": "3/3",
+        "classroom": "/待聘",
+        "offering_department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
     "DOL_10030": {
         "campus": "壽豐校區",
         "department": "學二",
@@ -49137,7 +49153,7 @@
     },
     "TCAI10040": {
         "campus": "壽豐校區",
-        "department": "碩士",
+        "department": "學二",
         "course_id": "TCAI10040",
         "sql_id": "115144457",
         "course_name": "基礎程式設計(C++)",

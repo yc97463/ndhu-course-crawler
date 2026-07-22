@@ -31,6 +31,10 @@
     "departments": [
         {
             "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "洄瀾學院學士班::BACHELOR"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
             "department": "洄瀾學院碩士班::MASTER"
         }
     ]
