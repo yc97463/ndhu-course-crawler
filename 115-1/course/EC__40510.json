@@ -1,0 +1,28 @@
+{
+    "course_id": "EC__40510",
+    "sql_id": "115113850",
+    "course_name": "進階專題研究(一)",
+    "english_course_name": "否",
+    "credits": "Advanced Independent Study (I)",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "待聘"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115113850",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115113850",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

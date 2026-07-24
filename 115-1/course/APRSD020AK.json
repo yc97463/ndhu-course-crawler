@@ -1,0 +1,29 @@
+{
+    "course_id": "APRSD020AK",
+    "sql_id": "115122977",
+    "course_name": "駐地研究AK",
+    "english_course_name": "是",
+    "credits": "Resident Research",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "洪嘉瑜",
+        "林世揚"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115122977",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115122977",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

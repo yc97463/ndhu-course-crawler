@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__D0090",
+    "sql_id": "115175704",
+    "course_name": "社會科學研究方法",
+    "english_course_name": "是",
+    "credits": "Social Sciences Research Methods",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳玉佳",
+        "余相賓"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115175704",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115175704",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

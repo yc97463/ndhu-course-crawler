@@ -1,0 +1,28 @@
+{
+    "course_id": "IB__M020AD",
+    "sql_id": "115137561",
+    "course_name": "引導研究AD",
+    "english_course_name": "是",
+    "credits": "Directed Research",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "楊國彬"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115137561",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115137561",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}
