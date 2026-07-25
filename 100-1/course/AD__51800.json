@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__51800",
+    "sql_id": "100122169",
+    "course_name": "介面設計與使用性研究",
+    "english_course_name": "Study of User Interface Design",
+    "credits": "3/3",
+    "teacher": [
+        "林彥呈"
+    ],
+    "classroom": [
+        "民C104",
+        "民C104",
+        "民C104"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100122169",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100122169",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}
