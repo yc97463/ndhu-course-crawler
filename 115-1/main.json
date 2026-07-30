@@ -17167,6 +17167,22 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "BM__6618Z": {
+        "campus": "壽豐校區",
+        "department": "碩專",
+        "course_id": "BM__6618Z",
+        "sql_id": "115105183",
+        "course_name": "企業參訪(二)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115105183",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115105183",
+        "class_time": "/五12",
+        "english_course_name": "否",
+        "credits": "Company Visit (II)",
+        "teacher": "1/1",
+        "classroom": "/陳淑玲",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "BM__6624Z": {
         "campus": "壽豐校區",
         "department": "碩專",
@@ -17180,6 +17196,22 @@
         "credits": "Topics on Business Management",
         "teacher": "2/2",
         "classroom": "/陳建男",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "BM__6628Z": {
+        "campus": "壽豐校區",
+        "department": "碩專",
+        "course_id": "BM__6628Z",
+        "sql_id": "115192734",
+        "course_name": "管理個案研究",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115192734",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115192734",
+        "class_time": "/日11",
+        "english_course_name": "否",
+        "credits": "Case Studies in Management",
+        "teacher": "1/1",
+        "classroom": "/陳雯虹",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -51900,22 +51932,6 @@
         "credits": "Vertically Integrated Projects (V)",
         "teacher": "2/2",
         "classroom": "/白益豪",
-        "offering_department": "通識課程::General courses",
-        "college": "校核心課程::University Core Curriculum"
-    },
-    "GC__65550": {
-        "campus": "壽豐校區",
-        "department": "校核心",
-        "course_id": "GC__65550",
-        "sql_id": "115148750",
-        "course_name": "初級程式設計-VBA",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115148750",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115148750",
-        "class_time": "/四5/四6",
-        "english_course_name": "否",
-        "credits": "Programming in VBA",
-        "teacher": "2/2",
-        "classroom": "/待聘",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
