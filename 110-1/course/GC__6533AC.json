@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6533AC",
+    "sql_id": "110134366",
+    "course_name": "虛擬實境AC",
+    "english_course_name": "Virtual Reality",
+    "credits": "3/3",
+    "teacher": [
+        "陳文盛"
+    ],
+    "classroom": [
+        "理工二館E307",
+        "理工二館E307",
+        "理工二館E307"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110134366",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110134366",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
