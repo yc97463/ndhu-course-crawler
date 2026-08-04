@@ -43,7 +43,7 @@
         "english_course_name": "否",
         "credits": "Calculus(I)",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/吳侊儒",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1211,7 +1211,7 @@
         "english_course_name": "是",
         "credits": "Calculus(I)",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/艾尼克",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1435,7 +1435,7 @@
         "english_course_name": "否",
         "credits": "Introduction to Probability",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/王家禮",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1451,7 +1451,7 @@
         "english_course_name": "否",
         "credits": "Introduction to Probability",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/王家禮",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1467,7 +1467,7 @@
         "english_course_name": "否",
         "credits": "Actuarial Science",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/李耘天",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1483,7 +1483,7 @@
         "english_course_name": "否",
         "credits": "Actuarial Science",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/李耘天",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -1775,12 +1775,12 @@
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "AM__40730": {
+    "AM__4073AA": {
         "campus": "其它",
         "department": "學三",
-        "course_id": "AM__40730",
+        "course_id": "AM__4073AA",
         "sql_id": "115171315",
-        "course_name": "專題製作",
+        "course_name": "專題製作AA",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115171315",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115171315",
         "class_time": "/與教師另行約定",
@@ -1788,6 +1788,22 @@
         "credits": "Research Project",
         "teacher": "3/3",
         "classroom": "/郭大衛",
+        "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "AM__4073AB": {
+        "campus": "其它",
+        "department": "學三",
+        "course_id": "AM__4073AB",
+        "sql_id": "115196550",
+        "course_name": "專題製作AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115196550",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115196550",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Research Project",
+        "teacher": "3/3",
+        "classroom": "/黃灝勻",
         "offering_department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -6331,7 +6347,7 @@
         "english_course_name": "是",
         "credits": "Very Large Integrated Circuit Design",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/紀新洲",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -7707,7 +7723,7 @@
         "english_course_name": "否",
         "credits": "Very Large Integrated Circuit Design",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/紀新洲",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -7723,7 +7739,7 @@
         "english_course_name": "是",
         "credits": "Very Large Integrated Circuit Design",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/紀新洲",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -7931,7 +7947,7 @@
         "english_course_name": "是",
         "credits": "Very Large Integrated Circuit Design",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/紀新洲",
         "offering_department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10047,6 +10063,22 @@
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "EE__7129AL": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "EE__7129AL",
+        "sql_id": "115137441",
+        "course_name": "專題研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115137441",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115137441",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Independent Study",
+        "teacher": "2/2",
+        "classroom": "/劉子齊",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "EE__71310": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -10236,6 +10268,22 @@
         "credits": "Dissertation",
         "teacher": "3/3",
         "classroom": "/謝長倭",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "EE__D003AL": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "EE__D003AL",
+        "sql_id": "115179155",
+        "course_name": "博士論文AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115179155",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115179155",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Dissertation",
+        "teacher": "3/3",
+        "classroom": "/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10527,6 +10575,22 @@
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "EE__6001AL": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "EE__6001AL",
+        "sql_id": "115136668",
+        "course_name": "引導研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115136668",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115136668",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Directed Study",
+        "teacher": "2/2",
+        "classroom": "/劉子齊",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "EE__M0010": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -10716,6 +10780,22 @@
         "credits": "Directed Study",
         "teacher": "2/2",
         "classroom": "/謝長倭",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
+    "EE__M005AL": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "EE__M005AL",
+        "sql_id": "115103430",
+        "course_name": "引導研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115103430",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115103430",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Directed Study",
+        "teacher": "2/2",
+        "classroom": "/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -10911,6 +10991,22 @@
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "EE__6002AL": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "EE__6002AL",
+        "sql_id": "115166730",
+        "course_name": "論文研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115166730",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115166730",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Thesis",
+        "teacher": "2/2",
+        "classroom": "/劉子齊",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "EE__M0030": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -11103,6 +11199,22 @@
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "EE__M006AL": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "EE__M006AL",
+        "sql_id": "115188023",
+        "course_name": "論文研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115188023",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115188023",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Thesis",
+        "teacher": "2/2",
+        "classroom": "/劉子齊",
+        "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "EE__M0200": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -11227,7 +11339,7 @@
         "english_course_name": "否",
         "credits": "Electronics (II)",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -11419,7 +11531,7 @@
         "english_course_name": "否",
         "credits": "Special Topics in Electrical Engineering Lab.(I)",
         "teacher": "1/3",
-        "classroom": "/黃家華/陳美娟/張伯浩/陳俊全/謝欣然/陳震宇/林群傑/劉耿銘/吳柏宏/謝長倭/翁若敏",
+        "classroom": "/黃家華/陳美娟/張伯浩/陳俊全/謝欣然/陳震宇/林群傑/劉耿銘/吳柏宏/謝長倭/翁若敏/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -11499,7 +11611,7 @@
         "english_course_name": "否",
         "credits": "IC Layout Design Laboratory",
         "teacher": "1/0:3",
-        "classroom": "/待聘",
+        "classroom": "/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -11515,7 +11627,7 @@
         "english_course_name": "否",
         "credits": "IC Layout Design Laboratory",
         "teacher": "1/0:3",
-        "classroom": "/待聘",
+        "classroom": "/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -12331,7 +12443,7 @@
         "english_course_name": "是",
         "credits": "Journal club (Ⅰ)",
         "teacher": "1/1",
-        "classroom": "/待聘",
+        "classroom": "/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -12651,7 +12763,7 @@
         "english_course_name": "是",
         "credits": "Journal club (Ⅰ)",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -12955,7 +13067,7 @@
         "english_course_name": "否",
         "credits": "Introduction of Biomedical",
         "teacher": "1/1",
-        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/待聘",
+        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -12971,7 +13083,7 @@
         "english_course_name": "否",
         "credits": "Genetics",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13019,7 +13131,7 @@
         "english_course_name": "否",
         "credits": "Cell Biology Laboratory",
         "teacher": "1/0:3",
-        "classroom": "/待聘",
+        "classroom": "/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13067,7 +13179,7 @@
         "english_course_name": "否",
         "credits": "Undergraduate Research(I)",
         "teacher": "1/2",
-        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/待聘",
+        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13083,7 +13195,7 @@
         "english_course_name": "否",
         "credits": "Undergraduate Research(Ⅲ)",
         "teacher": "1/2",
-        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/待聘",
+        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -13227,7 +13339,7 @@
         "english_course_name": "否",
         "credits": "Undergraduate Research(Ⅴ)",
         "teacher": "1/2",
-        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/待聘",
+        "classroom": "/李佳洪/林哲緯/袁大鈞/張瑞宜/傅詩宸/彭致文/黃靖惠/謝函芸/蘇玟珉/陳志冠",
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -16511,6 +16623,22 @@
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "BM__M002AN": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "BM__M002AN",
+        "sql_id": "115112576",
+        "course_name": "引導研究AN",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115112576",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115112576",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Directed Study",
+        "teacher": "1/1",
+        "classroom": "/Octavina",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "BM__M009AA": {
         "campus": "其它",
         "department": "碩士",
@@ -16844,6 +16972,38 @@
         "credits": "Supply Chain Management",
         "teacher": "3/3",
         "classroom": "/陳怡君",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "BM__M0140": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "BM__M0140",
+        "sql_id": "115171512",
+        "course_name": "全面品質管理",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115171512",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115171512",
+        "class_time": "/三9/三10/三11",
+        "english_course_name": "是",
+        "credits": "Total Quality Management",
+        "teacher": "3/3",
+        "classroom": "/Octavina",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "BM__M0170": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "BM__M0170",
+        "sql_id": "115139359",
+        "course_name": "應用統計分析",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115139359",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115139359",
+        "class_time": "/一4/一5/一6",
+        "english_course_name": "是",
+        "credits": "Applied Statistical Analysis",
+        "teacher": "3/3",
+        "classroom": "/Octavina",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -17307,7 +17467,7 @@
         "english_course_name": "否",
         "credits": "Business Law",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/鄭敦宇",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -18795,7 +18955,7 @@
         "english_course_name": "否",
         "credits": "Business Law",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/湯文章",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -19851,7 +20011,7 @@
         "english_course_name": "否",
         "credits": "Business Law",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/湯文章",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -20395,7 +20555,7 @@
         "english_course_name": "否",
         "credits": "Business Law",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/湯文章",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -20491,7 +20651,7 @@
         "english_course_name": "否",
         "credits": "Multimedia Systems",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/蔡思楷",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -20635,7 +20795,7 @@
         "english_course_name": "否",
         "credits": "Human-Computer Interaction and User Behavior",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/蔡思楷",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -20699,7 +20859,7 @@
         "english_course_name": "否",
         "credits": "Innovative Technology Management and Trend Analysis",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/蔡思楷",
         "offering_department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -21579,7 +21739,7 @@
         "english_course_name": "否",
         "credits": "Business Law",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/湯文章",
         "offering_department": "財務金融學系::DEPARTMENT OF FINANCE",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -21595,7 +21755,7 @@
         "english_course_name": "否",
         "credits": "Business Law",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/鄭敦宇",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -22127,6 +22287,22 @@
         "offering_department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "GSLMM019AD": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "GSLMM019AD",
+        "sql_id": "115128971",
+        "course_name": "引導研究AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115128971",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115128971",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Directed Study",
+        "teacher": "1/1",
+        "classroom": "/Octavina",
+        "offering_department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "GSLMM021AA": {
         "campus": "其它",
         "department": "碩士",
@@ -22204,6 +22380,38 @@
         "credits": "Global Logistics Management",
         "teacher": "3/3",
         "classroom": "/陳正杰",
+        "offering_department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "GSLMM0030": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "GSLMM0030",
+        "sql_id": "115157577",
+        "course_name": "應用統計分析",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115157577",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115157577",
+        "class_time": "/一4/一5/一6",
+        "english_course_name": "是",
+        "credits": "Applied Statistical Analysis",
+        "teacher": "3/3",
+        "classroom": "/Octavina",
+        "offering_department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "GSLMM0220": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "GSLMM0220",
+        "sql_id": "115179636",
+        "course_name": "全面品質管理",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115179636",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115179636",
+        "class_time": "/三9/三10/三11",
+        "english_course_name": "是",
+        "credits": "Total Quality Management",
+        "teacher": "3/3",
+        "classroom": "/Octavina",
         "offering_department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -23339,7 +23547,7 @@
         "english_course_name": "否",
         "credits": "Topics in Cross-Cultural Comparison",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/孟柱億",
         "offering_department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -23483,7 +23691,7 @@
         "english_course_name": "否",
         "credits": "Topics in Cross-Cultural Comparison",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/孟柱億",
         "offering_department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -26779,7 +26987,7 @@
         "english_course_name": "否",
         "credits": "Internship(Ⅰ)",
         "teacher": "3/0:6",
-        "classroom": "/黎士鳴/待聘",
+        "classroom": "/黎士鳴/蔡宗延",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -26795,7 +27003,7 @@
         "english_course_name": "否",
         "credits": "Internship(Ⅰ)",
         "teacher": "3/0:6",
-        "classroom": "/黎士鳴/待聘",
+        "classroom": "/黎士鳴/陳貴柱",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32571,7 +32779,7 @@
         "english_course_name": "否",
         "credits": "Seminar on Labor Law",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/梁閔閔",
         "offering_department": "法律學系::DEPARTMENT OF LAW",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32731,7 +32939,7 @@
         "english_course_name": "否",
         "credits": "Introduction of Civil",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/梁閔閔",
         "offering_department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32923,7 +33131,7 @@
         "english_course_name": "否",
         "credits": "Independent Study",
         "teacher": "1/1",
-        "classroom": "/待聘",
+        "classroom": "/梁閔閔",
         "offering_department": "法律學系::DEPARTMENT OF LAW",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -33499,7 +33707,7 @@
         "english_course_name": "是",
         "credits": "Seminar",
         "teacher": "1/2",
-        "classroom": "/李俊鴻/洪耀明",
+        "classroom": "/洪耀明",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -34411,7 +34619,7 @@
         "english_course_name": "是",
         "credits": "Protected and Conserved Areas and Community Participation",
         "teacher": "3/3",
-        "classroom": "/李光中",
+        "classroom": "/李光中/孫夏天",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -40139,7 +40347,7 @@
         "english_course_name": "否",
         "credits": "General Principles of Education",
         "teacher": "2/2",
-        "classroom": "/李真文",
+        "classroom": "/張毓仁",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -40411,7 +40619,7 @@
         "english_course_name": "否",
         "credits": "Sociology of Education",
         "teacher": "2/2",
-        "classroom": "/李真文",
+        "classroom": "/李文",
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43435,7 +43643,7 @@
         "english_course_name": "否",
         "credits": "Educational Administration and Management Writing in Practice",
         "teacher": "2/2",
-        "classroom": "/簡梅瑩/潘文福/陳成宏/張志明/范熾文/紀惠英/蘇鈺楠/吳新傑/林念臻/尚憶薇/李真文/張文權/陳慧華/黎士鳴/傲予莫那 Awi．Mona/范耕維/呂傑華",
+        "classroom": "/簡梅瑩/潘文福/陳成宏/張志明/范熾文/紀惠英/蘇鈺楠/吳新傑/林念臻/尚憶薇/李文/張文權/陳慧華/黎士鳴/傲予莫那 Awi．Mona/范耕維/呂傑華",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43611,7 +43819,7 @@
         "english_course_name": "否",
         "credits": "Dissertation Guidance",
         "teacher": "1/1",
-        "classroom": "/李明憲/李真文/劉佩雲/陳世文",
+        "classroom": "/李明憲/李文/劉佩雲/陳世文",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44379,7 +44587,7 @@
         "english_course_name": "否",
         "credits": "Educational Research Methods",
         "teacher": "3/3",
-        "classroom": "/高台茜/李真文",
+        "classroom": "/高台茜/李文",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44395,7 +44603,7 @@
         "english_course_name": "否",
         "credits": "Directed Individual Study",
         "teacher": "1/1",
-        "classroom": "/李明憲/李真文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
+        "classroom": "/李明憲/李文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44411,7 +44619,7 @@
         "english_course_name": "否",
         "credits": "Thesis Guidance",
         "teacher": "2/2",
-        "classroom": "/李真文/李崗/林意雪/高台茜/高金成/劉明洲/劉唯玉",
+        "classroom": "/李文/李崗/林意雪/高台茜/高金成/劉明洲/劉唯玉",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44763,7 +44971,7 @@
         "english_course_name": "否",
         "credits": "Thesis Guidance",
         "teacher": "2/2",
-        "classroom": "/李明憲/李真文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉/謝顥音",
+        "classroom": "/李明憲/李文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉/謝顥音",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44779,7 +44987,7 @@
         "english_course_name": "否",
         "credits": "Directed Individual Study",
         "teacher": "1/1",
-        "classroom": "/李明憲/李真文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
+        "classroom": "/李明憲/李文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44827,7 +45035,7 @@
         "english_course_name": "否",
         "credits": "Seminar in Human Potential Development",
         "teacher": "3/3",
-        "classroom": "/李崗/李明憲/高金成",
+        "classroom": "/李崗/李明憲/高金成/鄧善娟",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -45099,7 +45307,7 @@
         "english_course_name": "否",
         "credits": "Teaching Practicum in Elementary School(II)",
         "teacher": "4/4",
-        "classroom": "/李真文/許貞雯/郭書蓁/陳宜旻",
+        "classroom": "/李文/許貞雯/郭書蓁/陳宜旻",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -46635,7 +46843,7 @@
         "english_course_name": "否",
         "credits": "Doctoral Dissertation",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/Sifo Lakaw",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -46795,7 +47003,7 @@
         "english_course_name": "否",
         "credits": "Dissertation Seminar",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/Sifo Lakaw",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -47067,7 +47275,7 @@
         "english_course_name": "否",
         "credits": "Thesis Research",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/Sifo Lakaw",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -47099,7 +47307,7 @@
         "english_course_name": "否",
         "credits": "Indigenous Education on Language and Culture",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/Sifo Lakaw",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -50543,12 +50751,12 @@
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
-    "GC__62890": {
+    "GC__6289AA": {
         "campus": "壽豐校區",
         "department": "校核心",
-        "course_id": "GC__62890",
+        "course_id": "GC__6289AA",
         "sql_id": "115146144",
-        "course_name": "普通數學",
+        "course_name": "普通數學AA",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115146144",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115146144",
         "class_time": "/一8/一9/一10",
@@ -50556,6 +50764,22 @@
         "credits": "General Mathematics",
         "teacher": "3/3",
         "classroom": "/王立中",
+        "offering_department": "通識課程::General courses",
+        "college": "校核心課程::University Core Curriculum"
+    },
+    "GC__6289AB": {
+        "campus": "壽豐校區",
+        "department": "校核心",
+        "course_id": "GC__6289AB",
+        "sql_id": "115187003",
+        "course_name": "普通數學AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115187003",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115187003",
+        "class_time": "/三9/三10/四4",
+        "english_course_name": "是",
+        "credits": "General Mathematics",
+        "teacher": "3/3",
+        "classroom": "/艾尼克",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -51263,15 +51487,31 @@
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
-    "GC__64640": {
+    "GC__6464AA": {
         "campus": "壽豐校區",
         "department": "校核心",
-        "course_id": "GC__64640",
+        "course_id": "GC__6464AA",
         "sql_id": "115145555",
-        "course_name": "初級程式設計-R語言",
+        "course_name": "初級程式設計-R語言AA",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115145555",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115145555",
         "class_time": "/一5/一6",
+        "english_course_name": "否",
+        "credits": "Fundamental Computer Programming-R Language",
+        "teacher": "2/2",
+        "classroom": "/張烜瀚",
+        "offering_department": "通識課程::General courses",
+        "college": "校核心課程::University Core Curriculum"
+    },
+    "GC__6464AB": {
+        "campus": "壽豐校區",
+        "department": "校核心",
+        "course_id": "GC__6464AB",
+        "sql_id": "115175178",
+        "course_name": "初級程式設計-R語言AB",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115175178",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115175178",
+        "class_time": "/四5/四6",
         "english_course_name": "否",
         "credits": "Fundamental Computer Programming-R Language",
         "teacher": "2/2",
@@ -55403,7 +55643,7 @@
         "english_course_name": "否",
         "credits": "Sociology of Education",
         "teacher": "2/2",
-        "classroom": "/李真文",
+        "classroom": "/李文",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -55451,7 +55691,7 @@
         "english_course_name": "否",
         "credits": "Sociology of Education",
         "teacher": "2/2",
-        "classroom": "/李真文",
+        "classroom": "/李文",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -55787,7 +56027,7 @@
         "english_course_name": "否",
         "credits": "Introduction to Education",
         "teacher": "2/2",
-        "classroom": "/李真文",
+        "classroom": "/李文",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
