@@ -23051,7 +23051,7 @@
         "english_course_name": "是",
         "credits": "Advanced International Tourism and Recreation Management",
         "teacher": "3/3",
-        "classroom": "/陳上迪/賴來新/李介祿/徐暘展",
+        "classroom": "/陳上迪/李介祿/徐暘展",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -23068,22 +23068,6 @@
         "credits": "Special Topics in Marketing for Hospitality & Tourism",
         "teacher": "3/3",
         "classroom": "/徐暘展",
-        "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
-        "college": "管理學院::COLLEGE OF MANAGEMENT"
-    },
-    "TRLS51960": {
-        "campus": "壽豐校區",
-        "department": "碩士",
-        "course_id": "TRLS51960",
-        "sql_id": "115174724",
-        "course_name": "休閒遊憩方案企劃與評量",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115174724",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115174724",
-        "class_time": "/三4/三5/三6",
-        "english_course_name": "否",
-        "credits": "Leisure and Recreation Program Development and Evaluation",
-        "teacher": "3/3",
-        "classroom": "/賴來新",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -23195,7 +23179,7 @@
         "english_course_name": "否",
         "credits": "Service Learning (Ⅰ)",
         "teacher": "1/1",
-        "classroom": "/賴來新/賴柏欣",
+        "classroom": "/賴柏欣",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -23243,7 +23227,7 @@
         "english_course_name": "否",
         "credits": "Recreation Activities Leadership",
         "teacher": "3/3",
-        "classroom": "/賴來新",
+        "classroom": "/待聘",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -26667,7 +26651,7 @@
         "english_course_name": "否",
         "credits": "Independent Study",
         "teacher": "2/2",
-        "classroom": "/陳元朋/陳進金",
+        "classroom": "/陳元朋/劉慧",
         "offering_department": "歷史學系::DEPARTMENT OF HISTORY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -26811,7 +26795,7 @@
         "english_course_name": "否",
         "credits": "Counseling Practicum",
         "teacher": "2/0:4",
-        "classroom": "/王沂釗/余振民/待聘",
+        "classroom": "/王沂釗/余振民/待聘(王淳弘)",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -26827,7 +26811,7 @@
         "english_course_name": "否",
         "credits": "Counseling Practicum",
         "teacher": "2/0:4",
-        "classroom": "/王沂釗/余振民/待聘",
+        "classroom": "/王沂釗/余振民/待聘(王淳弘)",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -26843,7 +26827,7 @@
         "english_course_name": "否",
         "credits": "Counseling Practicum",
         "teacher": "2/0:4",
-        "classroom": "/王沂釗/余振民/待聘",
+        "classroom": "/王沂釗/余振民/待聘(王淳弘)",
         "offering_department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -36939,7 +36923,7 @@
         "english_course_name": "否",
         "credits": "Metal forging and shaping",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/王夏滿",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -36971,7 +36955,7 @@
         "english_course_name": "否",
         "credits": "Fiber Image Formation",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/陳惠菊",
         "offering_department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -40619,7 +40603,7 @@
         "english_course_name": "否",
         "credits": "Sociology of Education",
         "teacher": "2/2",
-        "classroom": "/李文",
+        "classroom": "/李眞文",
         "offering_department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43643,7 +43627,7 @@
         "english_course_name": "否",
         "credits": "Educational Administration and Management Writing in Practice",
         "teacher": "2/2",
-        "classroom": "/簡梅瑩/潘文福/陳成宏/張志明/范熾文/紀惠英/蘇鈺楠/吳新傑/林念臻/尚憶薇/李文/張文權/陳慧華/黎士鳴/傲予莫那 Awi．Mona/范耕維/呂傑華",
+        "classroom": "/簡梅瑩/潘文福/陳成宏/張志明/范熾文/紀惠英/蘇鈺楠/吳新傑/林念臻/尚憶薇/李眞文/張文權/陳慧華/黎士鳴/傲予莫那 Awi．Mona/范耕維/呂傑華",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -43819,7 +43803,7 @@
         "english_course_name": "否",
         "credits": "Dissertation Guidance",
         "teacher": "1/1",
-        "classroom": "/李明憲/李文/劉佩雲/陳世文",
+        "classroom": "/李明憲/李眞文/劉佩雲/陳世文",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44587,7 +44571,7 @@
         "english_course_name": "否",
         "credits": "Educational Research Methods",
         "teacher": "3/3",
-        "classroom": "/高台茜/李文",
+        "classroom": "/高台茜/李眞文",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44603,7 +44587,7 @@
         "english_course_name": "否",
         "credits": "Directed Individual Study",
         "teacher": "1/1",
-        "classroom": "/李明憲/李文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
+        "classroom": "/李明憲/李眞文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44619,7 +44603,7 @@
         "english_course_name": "否",
         "credits": "Thesis Guidance",
         "teacher": "2/2",
-        "classroom": "/李文/李崗/林意雪/高台茜/高金成/劉明洲/劉唯玉",
+        "classroom": "/李眞文/李崗/林意雪/高台茜/高金成/劉明洲/劉唯玉",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44971,7 +44955,7 @@
         "english_course_name": "否",
         "credits": "Thesis Guidance",
         "teacher": "2/2",
-        "classroom": "/李明憲/李文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉/謝顥音",
+        "classroom": "/李明憲/李眞文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉/謝顥音",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -44987,7 +44971,7 @@
         "english_course_name": "否",
         "credits": "Directed Individual Study",
         "teacher": "1/1",
-        "classroom": "/李明憲/李文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
+        "classroom": "/李明憲/李眞文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -45307,7 +45291,7 @@
         "english_course_name": "否",
         "credits": "Teaching Practicum in Elementary School(II)",
         "teacher": "4/4",
-        "classroom": "/李文/許貞雯/郭書蓁/陳宜旻",
+        "classroom": "/李眞文/許貞雯/郭書蓁/陳宜旻",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -49387,7 +49371,7 @@
         "english_course_name": "否",
         "credits": "Introduction to Programming (C++)",
         "teacher": "3/3",
-        "classroom": "/待聘/陽明交通大學溫宏斌",
+        "classroom": "/陳文盛/陽明交通大學溫宏斌",
         "offering_department": "洄瀾學院碩士班::MASTER",
         "college": "洄瀾學院::COLLEGE OF HUILAN"
     },
@@ -55643,7 +55627,7 @@
         "english_course_name": "否",
         "credits": "Sociology of Education",
         "teacher": "2/2",
-        "classroom": "/李文",
+        "classroom": "/李謹妏",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -55691,7 +55675,7 @@
         "english_course_name": "否",
         "credits": "Sociology of Education",
         "teacher": "2/2",
-        "classroom": "/李文",
+        "classroom": "/李眞文",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -55915,7 +55899,7 @@
         "english_course_name": "否",
         "credits": "Instructional Materials and Methods of Physical Education for Health and Physical Education Area in Secondary School 1",
         "teacher": "2/2",
-        "classroom": "/李宏盈/待聘",
+        "classroom": "/李宏盈/王正宇",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -55979,7 +55963,7 @@
         "english_course_name": "否",
         "credits": "Instructional Methods and Materials in Civics and Social Sciences 1",
         "teacher": "2/2",
-        "classroom": "/羅晉/待聘",
+        "classroom": "/羅晉/王錦慧",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -56027,7 +56011,7 @@
         "english_course_name": "否",
         "credits": "Introduction to Education",
         "teacher": "2/2",
-        "classroom": "/李文",
+        "classroom": "/李眞文",
         "offering_department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
