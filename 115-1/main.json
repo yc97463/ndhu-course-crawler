@@ -5864,7 +5864,7 @@
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115115289",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115115289",
         "class_time": "/四3/四4",
-        "english_course_name": "否",
+        "english_course_name": "是",
         "credits": "Physical Education (I)",
         "teacher": "1/2",
         "classroom": "/張嘉珍",
@@ -14120,7 +14120,7 @@
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115113322",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115113322",
         "class_time": "/五3/五4",
-        "english_course_name": "否",
+        "english_course_name": "是",
         "credits": "Physical Education (I)",
         "teacher": "1/2",
         "classroom": "/張嘉珍",
@@ -14859,7 +14859,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/邱鉦倫",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -20075,7 +20075,7 @@
         "english_course_name": "否",
         "credits": "Tax Accounting",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/陳文彬",
         "offering_department": "會計學系::DEPARTMENT OF ACCOUNTING",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -20139,7 +20139,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/陳冠榮",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -21019,7 +21019,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/林蔚然(待聘)",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -22427,7 +22427,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/邱鉦倫",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -27375,22 +27375,6 @@
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
-    "EC__D0150": {
-        "campus": "其它",
-        "department": "博士",
-        "course_id": "EC__D0150",
-        "sql_id": "115152739",
-        "course_name": "論文研究",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115152739",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115152739",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "是",
-        "credits": "Independent Study (II)",
-        "teacher": "2/2",
-        "classroom": "/張銘仁",
-        "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
     "EC__D015AA": {
         "campus": "其它",
         "department": "博士",
@@ -27403,7 +27387,7 @@
         "english_course_name": "是",
         "credits": "Independent Study (II)",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/張銘仁",
         "offering_department": "經濟學系::DEPARTMENT OF ECONOMICS",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -41339,7 +41323,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/陳冠榮",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -43675,7 +43659,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/蔡政洋",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -45339,7 +45323,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/蔡政洋",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -48507,7 +48491,7 @@
         "english_course_name": "否",
         "credits": "Chinese Language Ability and Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/胡詩專",
         "offering_department": "中文課程::Chinese courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -55563,7 +55547,7 @@
         "english_course_name": "否",
         "credits": "Career Planning and Vocational Education/Training",
         "teacher": "2/2",
-        "classroom": "/范熾文/待聘",
+        "classroom": "/范熾文/呂善成",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -55643,7 +55627,7 @@
         "english_course_name": "否",
         "credits": "Educational Psychology",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/王鴻哲",
         "offering_department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
