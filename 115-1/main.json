@@ -31535,22 +31535,6 @@
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
-    "PUAD5953AH": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "PUAD5953AH",
-        "sql_id": "115133602",
-        "course_name": "專題研究（一）AH",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115133602",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115133602",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "否",
-        "credits": "Special-Topic Lecture Series（I）",
-        "teacher": "2/2",
-        "classroom": "/徐明莉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
     "PUAD5953AI": {
         "campus": "其它",
         "department": "碩士",
@@ -31692,22 +31676,6 @@
         "credits": "Special-Topic Lecture Series（II）",
         "teacher": "2/2",
         "classroom": "/羅晉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
-    "PUAD6028AH": {
-        "campus": "其它",
-        "department": "碩士",
-        "course_id": "PUAD6028AH",
-        "sql_id": "115188413",
-        "course_name": "專題研究（二）AH",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115188413",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115188413",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "否",
-        "credits": "Special-Topic Lecture Series（II）",
-        "teacher": "2/2",
-        "classroom": "/徐明莉",
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -31887,22 +31855,6 @@
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
-    "PUAD5957AH": {
-        "campus": "其它",
-        "department": "碩專",
-        "course_id": "PUAD5957AH",
-        "sql_id": "115105607",
-        "course_name": "專題研究（一）AH",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115105607",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115105607",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "否",
-        "credits": "Special-Topic Lecture Series（I）",
-        "teacher": "2/2",
-        "classroom": "/徐明莉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
     "PUAD5957AI": {
         "campus": "其它",
         "department": "碩專",
@@ -32060,22 +32012,6 @@
         "credits": "Special-Topic Lecture Series（II）",
         "teacher": "2/2",
         "classroom": "/羅晉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
-    "PUAD6029AH": {
-        "campus": "其它",
-        "department": "碩專",
-        "course_id": "PUAD6029AH",
-        "sql_id": "115196033",
-        "course_name": "專題研究（二）AH",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115196033",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115196033",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "否",
-        "credits": "Special-Topic Lecture Series（II）",
-        "teacher": "2/2",
-        "classroom": "/徐明莉",
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32239,22 +32175,6 @@
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
-    "PA__22070": {
-        "campus": "壽豐校區",
-        "department": "學二",
-        "course_id": "PA__22070",
-        "sql_id": "115107280",
-        "course_name": "社會政策分析",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115107280",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115107280",
-        "class_time": "/二4/二5/二6",
-        "english_course_name": "否",
-        "credits": "Social Policy Analysis",
-        "teacher": "3/3",
-        "classroom": "/徐明莉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
     "PA__22080": {
         "campus": "壽豐校區",
         "department": "學二",
@@ -32268,22 +32188,6 @@
         "credits": "Information Management of Public Administration",
         "teacher": "3/3",
         "classroom": "/羅晉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
-    "PA__30010": {
-        "campus": "壽豐校區",
-        "department": "學三",
-        "course_id": "PA__30010",
-        "sql_id": "115143477",
-        "course_name": "人事行政",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115143477",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115143477",
-        "class_time": "/二9/二10",
-        "english_course_name": "否",
-        "credits": "Human Resource Management and Public Service",
-        "teacher": "2/2",
-        "classroom": "/徐明莉",
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -32460,22 +32364,6 @@
         "credits": "Practices and Learning of Public and Social Services",
         "teacher": "1/1",
         "classroom": "/羅晉",
-        "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
-        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
-    },
-    "PA__4002AH": {
-        "campus": "其它",
-        "department": "學四",
-        "course_id": "PA__4002AH",
-        "sql_id": "115130745",
-        "course_name": "實習與演練AH",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115130745",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115130745",
-        "class_time": "/與教師另行約定",
-        "english_course_name": "否",
-        "credits": "Practices and Learning of Public and Social Services",
-        "teacher": "1/1",
-        "classroom": "/徐明莉",
         "offering_department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -35199,6 +35087,22 @@
         "offering_department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
+    "IMB_7160AJ": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "IMB_7160AJ",
+        "sql_id": "115115385",
+        "course_name": "專題研究AJ",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115115385",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115115385",
+        "class_time": "/二2/三2/四2",
+        "english_course_name": "否",
+        "credits": "Thesis Research",
+        "teacher": "3/3",
+        "classroom": "/呂明毅",
+        "offering_department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY",
+        "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
+    },
     "IMB_70200": {
         "campus": "其它",
         "department": "博士",
@@ -35388,6 +35292,22 @@
         "credits": "Thesis Research",
         "teacher": "1/1",
         "classroom": "/張桂祥",
+        "offering_department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY",
+        "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
+    },
+    "MBE_5850AG": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "MBE_5850AG",
+        "sql_id": "115157248",
+        "course_name": "專題研究AG",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115157248",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115157248",
+        "class_time": "/一2",
+        "english_course_name": "否",
+        "credits": "Thesis Research",
+        "teacher": "1/1",
+        "classroom": "/呂明毅",
         "offering_department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -40795,7 +40715,7 @@
         "english_course_name": "否",
         "credits": "Teaching Practicum in Elementary School",
         "teacher": "5/5",
-        "classroom": "/待聘/陳成宏",
+        "classroom": "/陳成宏/梁金盛",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -40811,7 +40731,7 @@
         "english_course_name": "否",
         "credits": "Teaching Practicum in Elementary School",
         "teacher": "5/5",
-        "classroom": "/林念臻/待聘",
+        "classroom": "/林念臻/陳立宇/李珮琪/林琬雅/李昕潔/曾玉如/林亭君",
         "offering_department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -45503,6 +45423,22 @@
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
+    "PE__51700": {
+        "campus": "壽豐校區",
+        "department": "碩士",
+        "course_id": "PE__51700",
+        "sql_id": "115118000",
+        "course_name": "體育統計與實驗設計",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115118000",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115118000",
+        "class_time": "/三9/三10/三11",
+        "english_course_name": "否",
+        "credits": "Statistical Methods and Design of Experiments in Physical Education",
+        "teacher": "3/3",
+        "classroom": "/王令儀",
+        "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
     "PE__51910": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -45532,22 +45468,6 @@
         "credits": "Seminars in Adapted Physical Education",
         "teacher": "3/3",
         "classroom": "/尚憶薇",
-        "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
-        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
-    },
-    "PE__54500": {
-        "campus": "壽豐校區",
-        "department": "碩士",
-        "course_id": "PE__54500",
-        "sql_id": "115160265",
-        "course_name": "骨骼系統生物力學",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115160265",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115160265",
-        "class_time": "/三9/三10/三11",
-        "english_course_name": "否",
-        "credits": "Biomechanics of Skeletal System",
-        "teacher": "3/3",
-        "classroom": "/王令儀",
         "offering_department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -48187,7 +48107,7 @@
         "english_course_name": "否",
         "credits": "Indigenous Languages Writing AA",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/素伊．多夕",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48203,7 +48123,7 @@
         "english_course_name": "否",
         "credits": "Indigenous Languages Writing AB",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/余榮德",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48219,7 +48139,7 @@
         "english_course_name": "否",
         "credits": "Building Indigenous Language Environmentnvironments in Triba1 Communities",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/湯愛玉",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48235,7 +48155,7 @@
         "english_course_name": "否",
         "credits": "Learning and Experiencing Indigenous Co mmunities",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/李佩容",
         "offering_department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -48427,7 +48347,7 @@
         "english_course_name": "否",
         "credits": "Theatre Practice",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/朱克遠",
         "offering_department": "原住民族樂舞與藝術學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS PERFORMANCE AND ARTS",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -49195,7 +49115,7 @@
         "english_course_name": "否",
         "credits": "Constitution and Indigenous Administration and Regulations",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/高德義",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -49227,7 +49147,7 @@
         "english_course_name": "否",
         "credits": "The Practices of Ethnic Cultures",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/浦忠成",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
@@ -50895,22 +50815,6 @@
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
-    "GC__63330": {
-        "campus": "壽豐校區",
-        "department": "校核心",
-        "course_id": "GC__63330",
-        "sql_id": "115174677",
-        "course_name": "行政學概要",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115174677",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115174677",
-        "class_time": "/三9/三10/三11",
-        "english_course_name": "否",
-        "credits": "Introduction to Public Administration",
-        "teacher": "3/3",
-        "classroom": "/徐明莉",
-        "offering_department": "通識課程::General courses",
-        "college": "校核心課程::University Core Curriculum"
-    },
     "GC__63360": {
         "campus": "壽豐校區",
         "department": "校核心",
@@ -50924,22 +50828,6 @@
         "credits": "Cinema and Society",
         "teacher": "3/3",
         "classroom": "/吳儀鳳",
-        "offering_department": "通識課程::General courses",
-        "college": "校核心課程::University Core Curriculum"
-    },
-    "GC__6337AA": {
-        "campus": "壽豐校區",
-        "department": "校核心",
-        "course_id": "GC__6337AA",
-        "sql_id": "115150064",
-        "course_name": "政治學入門AA",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115150064",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115150064",
-        "class_time": "/三4/三5/三6",
-        "english_course_name": "否",
-        "credits": "Introduction to Political Science",
-        "teacher": "3/3",
-        "classroom": "/徐明莉",
         "offering_department": "通識課程::General courses",
         "college": "校核心課程::University Core Curriculum"
     },
@@ -56043,7 +55931,7 @@
         "english_course_name": "否",
         "credits": "Teaching Materials and Methods for Preschoolers with Special Needs I",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/曾恕璇/李淑玲",
         "offering_department": "特教學前學程::EDUACTION PROGRAM FOR PRESCHOOL SPECIAL EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -56059,7 +55947,7 @@
         "english_course_name": "否",
         "credits": "Teaching Materials and Methods for Preschoolers with Special Needs II",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/曾恕璇/李淑玲",
         "offering_department": "特教學前學程::EDUACTION PROGRAM FOR PRESCHOOL SPECIAL EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },
@@ -56075,7 +55963,7 @@
         "english_course_name": "否",
         "credits": "Identification and Assessment in Special Education",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/劉芝泲",
         "offering_department": "特教學前學程::EDUACTION PROGRAM FOR PRESCHOOL SPECIAL EDUCATION",
         "college": "師資培育中心::CENTER FOR TEACHER EDUCATION"
     },

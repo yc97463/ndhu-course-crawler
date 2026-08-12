@@ -1,9 +1,9 @@
 {
-    "course_id": "PE__54500",
-    "sql_id": "115160265",
-    "course_name": "骨骼系統生物力學",
+    "course_id": "PE__51700",
+    "sql_id": "115118000",
+    "course_name": "體育統計與實驗設計",
     "english_course_name": "否",
-    "credits": "Biomechanics of Skeletal System",
+    "credits": "Statistical Methods and Design of Experiments in Physical Education",
     "teacher": [
         "3",
         "3"
@@ -25,8 +25,8 @@
             "period": "11"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115160265",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115160265",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115118000",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115118000",
     "departments": [
         {
             "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
