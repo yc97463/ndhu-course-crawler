@@ -1,0 +1,38 @@
+{
+    "course_id": "HASSM0250",
+    "sql_id": "103188701",
+    "course_name": "亞太地區人口地理專題",
+    "english_course_name": "Topics of Population Geography in the Asia-Pacific Area",
+    "credits": "3/3",
+    "teacher": [
+        "郭俊麟",
+        "葉韻翠"
+    ],
+    "classroom": [
+        "文B317",
+        "文B317",
+        "文B317"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103188701",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103188701",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

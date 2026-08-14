@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_2004AA",
+    "sql_id": "103119457",
+    "course_name": "政治社會學AA",
+    "english_course_name": "Political Sociology",
+    "credits": "3/3",
+    "teacher": [
+        "張宏輝"
+    ],
+    "classroom": [
+        "共B107",
+        "共B107",
+        "共B107"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103119457",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103119457",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}
