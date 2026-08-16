@@ -1,0 +1,27 @@
+{
+    "course_id": "ISAT5130AG",
+    "sql_id": "102258238",
+    "course_name": "引導研究（二）AG",
+    "english_course_name": "Supervised Research（二）",
+    "credits": "1/1",
+    "teacher": [
+        "蔣明珊"
+    ],
+    "classroom": [
+        "教D431"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102258238",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102258238",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}
