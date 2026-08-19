@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_5041ZJ",
+    "sql_id": "103106628",
+    "course_name": "專題研究ZJ",
+    "english_course_name": "Independent Study",
+    "credits": "3/3",
+    "teacher": [
+        "林素珍"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "7"
+        },
+        {
+            "day": "日",
+            "period": "8"
+        },
+        {
+            "day": "日",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103106628",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103106628",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "course_id": "NRES5400AI",
+    "sql_id": "114183767",
+    "course_name": "專題討論AI",
+    "english_course_name": "seminar",
+    "credits": "2/3",
+    "teacher": [
+        "孫義方",
+        "陳毓昀"
+    ],
+    "classroom": [
+        "環境學院A146",
+        "環境學院A146",
+        "環境學院A146"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114183767",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114183767",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

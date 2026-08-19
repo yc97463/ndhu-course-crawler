@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__21120",
+    "sql_id": "103208153",
+    "course_name": "民間歌曲概論",
+    "english_course_name": "Introduction of folk songs",
+    "credits": "3/3",
+    "teacher": [
+        "許牧慈"
+    ],
+    "classroom": [
+        "學B102",
+        "學B102",
+        "學B102"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103208153",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103208153",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

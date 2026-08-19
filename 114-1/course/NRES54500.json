@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES54500",
+    "sql_id": "114116011",
+    "course_name": "碳中和之永續策略",
+    "english_course_name": "Sustainable Strategies for Carbon Neutrality",
+    "credits": "3/3",
+    "teacher": [
+        "洪耀明"
+    ],
+    "classroom": [
+        "環境學院A146",
+        "環境學院A146",
+        "環境學院A146"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114116011",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114116011",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

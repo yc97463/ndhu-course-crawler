@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_53170",
+    "sql_id": "101230910",
+    "course_name": "代間關係研究",
+    "english_course_name": "Research on Intergenerational Relationship",
+    "credits": "3/3",
+    "teacher": [
+        "張明麗"
+    ],
+    "classroom": [
+        "教D312",
+        "教D312",
+        "教D312"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101230910",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101230910",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

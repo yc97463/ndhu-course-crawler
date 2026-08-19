@@ -1,0 +1,40 @@
+{
+    "course_id": "GC__62840",
+    "sql_id": "101228300",
+    "course_name": "管理菁英專題講座",
+    "english_course_name": "Seminar of Managerial Elites",
+    "credits": "2/2",
+    "teacher": [
+        "彭玉樹",
+        "林金龍",
+        "陳啟斌",
+        "吳宗瓊",
+        "祝道松",
+        "蕭育仁",
+        "溫日華",
+        "吳政翰",
+        "姚維仁"
+    ],
+    "classroom": [
+        "學A101",
+        "學A101"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101228300",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101228300",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "DOL_20010",
+    "sql_id": "112200219",
+    "course_name": "國際人權法",
+    "english_course_name": "International Human Rights Law",
+    "credits": "3/3",
+    "teacher": [
+        "徐揮彥"
+    ],
+    "classroom": [
+        "藝術學院A116",
+        "藝術學院A116",
+        "藝術學院A116"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112200219",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112200219",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系::DEPARTMENT OF LAW"
+        }
+    ]
+}

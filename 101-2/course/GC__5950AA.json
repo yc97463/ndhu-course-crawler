@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__5950AA",
+    "sql_id": "101274641",
+    "course_name": "社區服務與學習AA",
+    "english_course_name": "Service and learning in community",
+    "credits": "2/2",
+    "teacher": [
+        "黃瑞卿",
+        "邱于霖"
+    ],
+    "classroom": [
+        "工C309",
+        "工C309"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101274641",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101274641",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
