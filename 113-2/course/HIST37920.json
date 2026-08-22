@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37920",
+    "sql_id": "113235612",
+    "course_name": "十到十五世紀歐洲史",
+    "english_course_name": "Europe in the Later Middle Ages",
+    "credits": "3/3",
+    "teacher": [
+        "劉慧"
+    ],
+    "classroom": [
+        "人社三館C108",
+        "人社三館C108",
+        "人社三館C108"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113235612",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113235612",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

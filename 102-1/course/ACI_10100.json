@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_10100",
+    "sql_id": "102111255",
+    "course_name": "藝術創意產業概論",
+    "english_course_name": "Introduction to Arts and Creative Industries",
+    "credits": "3/3",
+    "teacher": [
+        "邱淑宜"
+    ],
+    "classroom": [
+        "理A209",
+        "理A209",
+        "理A209"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102111255",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102111255",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

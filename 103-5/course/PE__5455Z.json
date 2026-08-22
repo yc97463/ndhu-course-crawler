@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5455Z",
+    "sql_id": "103595677",
+    "course_name": "運動處方與健康管理",
+    "english_course_name": "Sport Prescription and Health management",
+    "credits": "2/2",
+    "teacher": [
+        "陳福士"
+    ],
+    "classroom": [
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103595677",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103595677",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

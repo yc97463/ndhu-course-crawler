@@ -1,0 +1,37 @@
+{
+    "course_id": "ISAT50000",
+    "sql_id": "112105126",
+    "course_name": "特殊教育研究法",
+    "english_course_name": "Special Education Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "洪清一"
+    ],
+    "classroom": [
+        "教育學院D230",
+        "教育學院D230",
+        "教育學院D230"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "7"
+        },
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112105126",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112105126",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__10600",
+    "sql_id": "106296214",
+    "course_name": "音樂概論",
+    "english_course_name": "Introduction of Music",
+    "credits": "3/3",
+    "teacher": [
+        "程緯華"
+    ],
+    "classroom": [
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "二",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106296214",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106296214",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

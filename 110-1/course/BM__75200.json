@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__75200",
+    "sql_id": "110171615",
+    "course_name": "高等資訊管理專題",
+    "english_course_name": "Topics on Advanced Information Management",
+    "credits": "3/3",
+    "teacher": [
+        "邱素文"
+    ],
+    "classroom": [
+        "管理學院C109",
+        "管理學院C109",
+        "管理學院C109"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110171615",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110171615",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

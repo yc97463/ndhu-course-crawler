@@ -1,0 +1,37 @@
+{
+    "course_id": "GSLM53600",
+    "sql_id": "101233184",
+    "course_name": "生產與作業管理",
+    "english_course_name": "Production and Operations Management",
+    "credits": "3/3",
+    "teacher": [
+        "黃郁文"
+    ],
+    "classroom": [
+        "管D135",
+        "管D135",
+        "管D135"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101233184",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101233184",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}

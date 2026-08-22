@@ -1,0 +1,36 @@
+{
+    "course_id": "BM__66270",
+    "sql_id": "115173217",
+    "course_name": "全球經營管理",
+    "english_course_name": "否",
+    "credits": "Global Business Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "林容璟"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115173217",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115173217",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

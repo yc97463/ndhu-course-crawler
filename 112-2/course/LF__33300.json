@@ -1,0 +1,37 @@
+{
+    "course_id": "LF__33300",
+    "sql_id": "112233613",
+    "course_name": "生物嫁接技術與生醫應用",
+    "english_course_name": "Bioconjugate Techniques and Biomedical Applications",
+    "credits": "3/3",
+    "teacher": [
+        "李佳洪"
+    ],
+    "classroom": [
+        "理工三館D102",
+        "理工三館D102",
+        "理工三館D102"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112233613",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112233613",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "生命科學系::DEPARTMENT OF LIFE SCIENCE"
+        }
+    ]
+}

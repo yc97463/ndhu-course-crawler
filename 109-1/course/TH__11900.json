@@ -1,0 +1,32 @@
+{
+    "course_id": "TH__11900",
+    "sql_id": "109166500",
+    "course_name": "國民小學社會教材教法",
+    "english_course_name": "Teaching Materials and Methods of Social Science in the Elementary School",
+    "credits": "2/2",
+    "teacher": [
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院B108",
+        "教育學院B108"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "13"
+        },
+        {
+            "day": "四",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109166500",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109166500",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+        }
+    ]
+}

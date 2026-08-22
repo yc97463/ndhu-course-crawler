@@ -1,0 +1,27 @@
+{
+    "course_id": "TCSL7003AA",
+    "sql_id": "114108385",
+    "course_name": "論文研究AA",
+    "english_course_name": "Thesis Study",
+    "credits": "1/1",
+    "teacher": [
+        "朱嘉雯"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114108385",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114108385",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE"
+        }
+    ]
+}

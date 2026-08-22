@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLS2015AB",
+    "sql_id": "100247173",
+    "course_name": "觀光人力資源管理AB",
+    "english_course_name": "Human Resources Management in Tourism",
+    "credits": "3/3",
+    "teacher": [
+        "麥康妮"
+    ],
+    "classroom": [
+        "管D211",
+        "管D211",
+        "管D211"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100247173",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100247173",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

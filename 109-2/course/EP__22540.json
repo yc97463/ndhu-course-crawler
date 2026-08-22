@@ -1,0 +1,27 @@
+{
+    "course_id": "EP__22540",
+    "sql_id": "109274342",
+    "course_name": "中等語文領域英語文專長教學實習2",
+    "english_course_name": "Instructional Practice for English Language Are 2",
+    "credits": "1/1",
+    "teacher": [
+        "嚴愛群"
+    ],
+    "classroom": [
+        "教育學院C142"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "16"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109274342",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109274342",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION"
+        }
+    ]
+}

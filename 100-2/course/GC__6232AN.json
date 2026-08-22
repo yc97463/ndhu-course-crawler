@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6232AN",
+    "sql_id": "100266668",
+    "course_name": "中文能力與教養AN",
+    "english_course_name": "Chinese language ability and education",
+    "credits": "3/3",
+    "teacher": [
+        "蔡可欣"
+    ],
+    "classroom": [
+        "文B113",
+        "文B113",
+        "文B113"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100266668",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100266668",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

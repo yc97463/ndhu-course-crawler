@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__67770",
+    "sql_id": "112147005",
+    "course_name": "繪本賞析與創作",
+    "english_course_name": "Picture Book Appreciation and Creation",
+    "credits": "3/3",
+    "teacher": [
+        "徐秀菊"
+    ],
+    "classroom": [
+        "人社三館D103",
+        "人社三館D103",
+        "人社三館D103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112147005",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112147005",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

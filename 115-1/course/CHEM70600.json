@@ -1,0 +1,32 @@
+{
+    "course_id": "CHEM70600",
+    "sql_id": "115137574",
+    "course_name": "專題討論",
+    "english_course_name": "是",
+    "credits": "Seminar",
+    "teacher": [
+        "1",
+        "2"
+    ],
+    "classroom": [
+        "劉鎮維"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115137574",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115137574",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "化學系::DEPARTMENT OF CHEMISTRY"
+        }
+    ]
+}

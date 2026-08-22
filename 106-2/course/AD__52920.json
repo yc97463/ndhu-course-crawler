@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__52920",
+    "sql_id": "106225015",
+    "course_name": "繪畫創作研究(三)",
+    "english_course_name": "Study of Painting Studio III",
+    "credits": "3/3",
+    "teacher": [
+        "湯運添"
+    ],
+    "classroom": [
+        "原民院D103",
+        "原民院D103",
+        "原民院D103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106225015",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106225015",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

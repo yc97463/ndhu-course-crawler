@@ -1,0 +1,36 @@
+{
+    "course_id": "SL__18850",
+    "sql_id": "112141542",
+    "course_name": "服務學習(二)_教行系",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "1/2",
+    "teacher": [
+        "簡梅瑩"
+    ],
+    "classroom": [
+        "教育學院B124",
+        "教育學院B124"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112141542",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112141542",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

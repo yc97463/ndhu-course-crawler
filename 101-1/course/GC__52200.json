@@ -1,0 +1,32 @@
+{
+    "course_id": "GC__52200",
+    "sql_id": "101144045",
+    "course_name": "鋼琴彈奏入門與欣賞",
+    "english_course_name": "Piano Playing and Music Appreciation",
+    "credits": "2/2",
+    "teacher": [
+        "林世悠"
+    ],
+    "classroom": [
+        "教-音樂教室",
+        "教-音樂教室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101144045",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101144045",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

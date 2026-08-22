@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__1010AA",
+    "sql_id": "112191925",
+    "course_name": "素描AA",
+    "english_course_name": "Drawing",
+    "credits": "3/3",
+    "teacher": [
+        "湯運添"
+    ],
+    "classroom": [
+        "藝術學院A437",
+        "藝術學院A437",
+        "藝術學院A437"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112191925",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112191925",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

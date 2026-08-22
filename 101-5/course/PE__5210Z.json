@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5210Z",
+    "sql_id": "101556510",
+    "course_name": "「健康與體育」領域課程設計",
+    "english_course_name": "Advanced curriculum design of health and physical education in elementary school",
+    "credits": "2/2",
+    "teacher": [
+        "徐月琴"
+    ],
+    "classroom": [
+        "教D309",
+        "教D309",
+        "教D309",
+        "教D309"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101556510",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101556510",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

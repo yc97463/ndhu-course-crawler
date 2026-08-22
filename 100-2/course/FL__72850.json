@@ -1,0 +1,37 @@
+{
+    "course_id": "FL__72850",
+    "sql_id": "100282759",
+    "course_name": "文化研究",
+    "english_course_name": "Cultural Studies",
+    "credits": "3/3",
+    "teacher": [
+        "秦嘉嫄"
+    ],
+    "classroom": [
+        "文A314",
+        "文A314",
+        "文A314"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100282759",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100282759",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

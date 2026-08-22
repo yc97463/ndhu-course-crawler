@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_51900",
+    "sql_id": "100220911",
+    "course_name": "媒體、社會與文化",
+    "english_course_name": "Media, Society and Culture",
+    "credits": "3/3",
+    "teacher": [
+        "孫嘉穗"
+    ],
+    "classroom": [
+        "文B205",
+        "文B205",
+        "文B205"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100220911",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100220911",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會暨公共行政學系::DEPARTMENT OF SOCIOLOGY AND PUBLIC AFFAIRS"
+        }
+    ]
+}

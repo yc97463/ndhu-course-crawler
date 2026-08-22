@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_40160",
+    "sql_id": "109125842",
+    "course_name": "原住民族生態智慧",
+    "english_course_name": "Indigenous Ecological Knowledge",
+    "credits": "3/3",
+    "teacher": [
+        "李宜澤"
+    ],
+    "classroom": [
+        "原民院B106",
+        "原民院B106",
+        "原民院B106"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109125842",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109125842",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

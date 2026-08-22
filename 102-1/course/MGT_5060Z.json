@@ -1,0 +1,37 @@
+{
+    "course_id": "MGT_5060Z",
+    "sql_id": "102108052",
+    "course_name": "企業研究方法",
+    "english_course_name": "Business Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "彭玉樹"
+    ],
+    "classroom": [
+        "管D118",
+        "管D118",
+        "管D118"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102108052",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102108052",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

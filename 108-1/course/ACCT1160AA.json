@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT1160AA",
+    "sql_id": "108100062",
+    "course_name": "會計學原理(一)AA",
+    "english_course_name": "Accounting Principle（Ⅰ）",
+    "credits": "3/3",
+    "teacher": [
+        "張益誠"
+    ],
+    "classroom": [
+        "管理學院C135",
+        "管理學院C135",
+        "管理學院C135"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108100062",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108100062",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

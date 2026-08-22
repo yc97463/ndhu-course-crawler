@@ -1,0 +1,27 @@
+{
+    "course_id": "IM__3330AC",
+    "sql_id": "104261653",
+    "course_name": "資訊管理專題（二）AC",
+    "english_course_name": "Information Management Topic(II)",
+    "credits": "1/1",
+    "teacher": [
+        "劉英和"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104261653",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104261653",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "MUS_38110",
+    "sql_id": "111222421",
+    "course_name": "小編制爵士樂團(六)",
+    "english_course_name": "Jazz Combo (VI)",
+    "credits": "1/1",
+    "teacher": [
+        "蔡雯慧"
+    ],
+    "classroom": [
+        "藝術學院B321",
+        "藝術學院B321"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111222421",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111222421",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "course_id": "MUS_5130AB",
+    "sql_id": "115168748",
+    "course_name": "鋼琴（三）AB",
+    "english_course_name": "否",
+    "credits": "Piano(III)",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "孫建如"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115168748",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115168748",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

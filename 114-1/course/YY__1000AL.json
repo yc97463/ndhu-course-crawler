@@ -1,0 +1,46 @@
+{
+    "course_id": "YY__1000AL",
+    "sql_id": "114120500",
+    "course_name": "體育(一)AL",
+    "english_course_name": "Physical Education (I)",
+    "credits": "1/2",
+    "teacher": [
+        "朱文正"
+    ],
+    "classroom": [
+        "A區高爾夫球場",
+        "D區桌球室",
+        "A區高爾夫球場",
+        "D區桌球室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114120500",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114120500",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "體育中心::PHYSICAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "體育課程::Physical education courses"
+        }
+    ]
+}

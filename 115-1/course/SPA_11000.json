@@ -1,0 +1,36 @@
+{
+    "course_id": "SPA_11000",
+    "sql_id": "115139698",
+    "course_name": "華人社會研究",
+    "english_course_name": "否",
+    "credits": "Understanding Chinese Society: From A Sociological Perspective",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "莊致嘉"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115139698",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115139698",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

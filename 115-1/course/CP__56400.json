@@ -1,0 +1,36 @@
+{
+    "course_id": "CP__56400",
+    "sql_id": "115137250",
+    "course_name": "敘事治療研究",
+    "english_course_name": "否",
+    "credits": "Seminar in Narrative Therapy",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "王沂釗"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115137250",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115137250",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

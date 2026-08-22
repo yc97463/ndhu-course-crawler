@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLS52020",
+    "sql_id": "105173926",
+    "course_name": "全球觀光發展與環境特論",
+    "english_course_name": "Environmental issues in global tourism development",
+    "credits": "3/3",
+    "teacher": [
+        "陳麗如"
+    ],
+    "classroom": [
+        "管理學院C236",
+        "管理學院C236",
+        "管理學院C236"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105173926",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105173926",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63040",
+    "sql_id": "102277134",
+    "course_name": "文化人類學概論",
+    "english_course_name": "Introduction to Cultural Anthropology",
+    "credits": "3/3",
+    "teacher": [
+        "羅正心"
+    ],
+    "classroom": [
+        "民A313",
+        "民A313",
+        "民A313"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102277134",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102277134",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

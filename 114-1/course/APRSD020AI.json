@@ -1,0 +1,27 @@
+{
+    "course_id": "APRSD020AI",
+    "sql_id": "114161061",
+    "course_name": "駐地研究AI",
+    "english_course_name": "Resident Research",
+    "credits": "1/1",
+    "teacher": [
+        "嚴愛群"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114161061",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114161061",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_14300",
+    "sql_id": "114260784",
+    "course_name": "長號（主修）（2）",
+    "english_course_name": "Trombone（Major）（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "呂彥輝"
+    ],
+    "classroom": [
+        "藝術學院教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114260784",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114260784",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "MSF_10470",
+    "sql_id": "115105628",
+    "course_name": "大數據決策支援系統",
+    "english_course_name": "是",
+    "credits": "Big Data Decision Support System",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "邱素文"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115105628",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115105628",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

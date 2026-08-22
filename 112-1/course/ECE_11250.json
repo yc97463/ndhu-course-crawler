@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_11250",
+    "sql_id": "112117424",
+    "course_name": "幼兒健康與安全",
+    "english_course_name": "Health and Safety for Young Children",
+    "credits": "3/3",
+    "teacher": [
+        "林建亨"
+    ],
+    "classroom": [
+        "教育學院B111",
+        "教育學院B111",
+        "教育學院B111"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112117424",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112117424",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_20350",
+    "sql_id": "112261296",
+    "course_name": "纖維圖像構成",
+    "english_course_name": "Fiber Image Formation",
+    "credits": "3/3",
+    "teacher": [
+        "張秀蔥"
+    ],
+    "classroom": [
+        "藝術工坊102",
+        "藝術工坊102",
+        "藝術工坊102"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112261296",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112261296",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

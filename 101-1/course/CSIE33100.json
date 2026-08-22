@@ -1,0 +1,37 @@
+{
+    "course_id": "CSIE33100",
+    "sql_id": "101114372",
+    "course_name": "網際網路通訊協定",
+    "english_course_name": "Internet Protocols",
+    "credits": "3/3",
+    "teacher": [
+        "黃振榮"
+    ],
+    "classroom": [
+        "工B305",
+        "工B305",
+        "工B305"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101114372",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101114372",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

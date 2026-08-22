@@ -1,0 +1,37 @@
+{
+    "course_id": "IIE_58100",
+    "sql_id": "104138813",
+    "course_name": "財務經濟學(一)",
+    "english_course_name": "Financial Economics (Ⅰ)",
+    "credits": "3/3",
+    "teacher": [
+        "李同龢"
+    ],
+    "classroom": [
+        "人社一館D220",
+        "人社一館D220",
+        "人社一館D220"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104138813",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104138813",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

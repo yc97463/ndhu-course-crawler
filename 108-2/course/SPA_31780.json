@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_31780",
+    "sql_id": "108285861",
+    "course_name": "社會福利概論",
+    "english_course_name": "Introduction to Social",
+    "credits": "3/3",
+    "teacher": [
+        "陳素梅"
+    ],
+    "classroom": [
+        "人社二館D105",
+        "人社二館D105",
+        "人社二館D105"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108285861",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108285861",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

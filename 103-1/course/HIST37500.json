@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37500",
+    "sql_id": "103153276",
+    "course_name": "港澳史",
+    "english_course_name": "The History of Hongkong and Macao",
+    "credits": "3/3",
+    "teacher": [
+        "黃熾霖"
+    ],
+    "classroom": [
+        "文A107",
+        "文A107",
+        "文A107"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103153276",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103153276",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

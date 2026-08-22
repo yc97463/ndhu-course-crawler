@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI20100",
+    "sql_id": "104237358",
+    "course_name": "現代華文小說選讀",
+    "english_course_name": "Selected Readings in Modern Sinophone Fiction",
+    "credits": "3/3",
+    "teacher": [
+        "李進益"
+    ],
+    "classroom": [
+        "人社一館A419",
+        "人社一館A419",
+        "人社一館A419"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104237358",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104237358",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

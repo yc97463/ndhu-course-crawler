@@ -1,0 +1,36 @@
+{
+    "course_id": "MEMA50600",
+    "sql_id": "115188409",
+    "course_name": "多元文化教育導論",
+    "english_course_name": "否",
+    "credits": "Introduction of Multicultural Education",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "廉兮"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115188409",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115188409",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院多元文化教育碩士班::MASTER PROGRAM OF MULTICULTURAL EDUCATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "DI__5350AM",
+    "sql_id": "107274779",
+    "course_name": "專題研究（二）AM",
+    "english_course_name": "Independent Study (Ⅱ)",
+    "credits": "3/3",
+    "teacher": [
+        "簡月真"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "4"
+        },
+        {
+            "day": "日",
+            "period": "5"
+        },
+        {
+            "day": "日",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107274779",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107274779",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

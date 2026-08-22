@@ -1,0 +1,41 @@
+{
+    "course_id": "PHYS1010AE",
+    "sql_id": "110188053",
+    "course_name": "普通物理實驗(一)AE",
+    "english_course_name": "General Physics Laboratory (I)",
+    "credits": "1/0:3",
+    "teacher": [
+        "葉旺奇"
+    ],
+    "classroom": [
+        "理工一館C407",
+        "理工一館C407",
+        "理工一館C407"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110188053",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110188053",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        },
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}
