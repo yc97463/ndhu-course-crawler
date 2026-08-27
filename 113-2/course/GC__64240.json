@@ -1,0 +1,35 @@
+{
+    "course_id": "GC__64240",
+    "sql_id": "113248083",
+    "course_name": "實踐取向自主學習(二)",
+    "english_course_name": "Pratically Orientated Self-Learning II",
+    "credits": "1/1",
+    "teacher": [
+        "顧瑜君"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113248083",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113248083",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

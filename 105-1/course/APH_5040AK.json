@@ -1,0 +1,37 @@
+{
+    "course_id": "APH_5040AK",
+    "sql_id": "105114350",
+    "course_name": "引導研究(一)AK",
+    "english_course_name": "Independent Study (I)",
+    "credits": "3/3",
+    "teacher": [
+        "黃玉林"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "7"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105114350",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105114350",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        }
+    ]
+}

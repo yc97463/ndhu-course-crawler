@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5474ZH",
+    "sql_id": "104553403",
+    "course_name": "論文研究ZH",
+    "english_course_name": "Independent Study",
+    "credits": "2/2",
+    "teacher": [
+        "陳福士"
+    ],
+    "classroom": [
+        "教育學院C340",
+        "教育學院C340",
+        "教育學院C340",
+        "教育學院C340"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        },
+        {
+            "day": "六",
+            "period": "2"
+        },
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104553403",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104553403",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

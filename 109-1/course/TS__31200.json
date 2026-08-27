@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__31200",
+    "sql_id": "109143848",
+    "course_name": "區域地理學",
+    "english_course_name": "Regional Geography",
+    "credits": "3/3",
+    "teacher": [
+        "葉爾建"
+    ],
+    "classroom": [
+        "人社三館C120",
+        "人社三館C120",
+        "人社三館C120"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109143848",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109143848",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

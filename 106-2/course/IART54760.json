@@ -1,0 +1,37 @@
+{
+    "course_id": "IART54760",
+    "sql_id": "106203749",
+    "course_name": "劇場藝術專題",
+    "english_course_name": "Theatre Art",
+    "credits": "3/3",
+    "teacher": [
+        "劉亮延"
+    ],
+    "classroom": [
+        "原民院A327",
+        "原民院A327",
+        "原民院A327"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106203749",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106203749",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

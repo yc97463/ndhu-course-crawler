@@ -1,0 +1,28 @@
+{
+    "course_id": "IB__5806AJ",
+    "sql_id": "115102528",
+    "course_name": "專題研究AJ",
+    "english_course_name": "是",
+    "credits": "Independent Study",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "夏締青"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115102528",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115102528",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

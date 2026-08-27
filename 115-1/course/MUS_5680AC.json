@@ -1,0 +1,28 @@
+{
+    "course_id": "MUS_5680AC",
+    "sql_id": "115183727",
+    "course_name": "管樂(一)AC",
+    "english_course_name": "否",
+    "credits": "Flute (I)",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "待聘"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115183727",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115183727",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

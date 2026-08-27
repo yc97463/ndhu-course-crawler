@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_20170",
+    "sql_id": "110148447",
+    "course_name": "展覽策劃與實務",
+    "english_course_name": "Exhibit Planning and Practice",
+    "credits": "3/3",
+    "teacher": [
+        "林淑雅"
+    ],
+    "classroom": [
+        "藝術學院A226",
+        "藝術學院A226",
+        "藝術學院A226"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110148447",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110148447",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

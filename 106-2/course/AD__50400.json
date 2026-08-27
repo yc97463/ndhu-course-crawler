@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__50400",
+    "sql_id": "106207038",
+    "course_name": "美學研究",
+    "english_course_name": "Research in Aesthetics",
+    "credits": "3/3",
+    "teacher": [
+        "潘小雪"
+    ],
+    "classroom": [
+        "原民院C104",
+        "原民院C104",
+        "原民院C104"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106207038",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106207038",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__74500",
+    "sql_id": "111238472",
+    "course_name": "統計計算",
+    "english_course_name": "Statistical Computing",
+    "credits": "3/3",
+    "teacher": [
+        "吳韋瑩"
+    ],
+    "classroom": [
+        "理工一館B301",
+        "理工一館B301",
+        "理工一館B301"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111238472",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111238472",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

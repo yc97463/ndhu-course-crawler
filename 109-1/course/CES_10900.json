@@ -1,0 +1,37 @@
+{
+    "course_id": "CES_10900",
+    "sql_id": "109157196",
+    "course_name": "生態學",
+    "english_course_name": "Ecology",
+    "credits": "3/3",
+    "teacher": [
+        "孫義方"
+    ],
+    "classroom": [
+        "環境學院A124",
+        "環境學院A124",
+        "環境學院A124"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109157196",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109157196",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "環境學院學士班::BACHELOR"
+        }
+    ]
+}

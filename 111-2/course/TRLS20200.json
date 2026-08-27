@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLS20200",
+    "sql_id": "111257120",
+    "course_name": "觀光行政與法規",
+    "english_course_name": "Tourism Administration and Law",
+    "credits": "3/3",
+    "teacher": [
+        "徐暘展"
+    ],
+    "classroom": [
+        "管理學院D211",
+        "管理學院D211",
+        "管理學院D211"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111257120",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111257120",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "BM__40200",
+    "sql_id": "115156443",
+    "course_name": "服務行銷與管理",
+    "english_course_name": "否",
+    "credits": "Service Marketing and Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "巫喜瑞"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115156443",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115156443",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

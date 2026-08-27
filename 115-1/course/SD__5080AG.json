@@ -1,0 +1,28 @@
+{
+    "course_id": "SD__5080AG",
+    "sql_id": "115147675",
+    "course_name": "引導研究（一）AG",
+    "english_course_name": "否",
+    "credits": "Directed Individual Study（Ⅰ）",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "蔡侑霖"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115147675",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115147675",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

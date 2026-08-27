@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_10400",
+    "sql_id": "110192104",
+    "course_name": "應用素描",
+    "english_course_name": "Drawing",
+    "credits": "3/3",
+    "teacher": [
+        "莊臥龍"
+    ],
+    "classroom": [
+        "藝術學院A210",
+        "藝術學院A210",
+        "藝術學院A210"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110192104",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110192104",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

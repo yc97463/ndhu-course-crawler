@@ -1,0 +1,52 @@
+{
+    "course_id": "GC__54900",
+    "sql_id": "112298194",
+    "course_name": "西班牙語(一)",
+    "english_course_name": "Spanish﹝Ⅰ﹞",
+    "credits": "3/3",
+    "teacher": [
+        "王秀琦"
+    ],
+    "classroom": [
+        "理工二館C405",
+        "理工二館C405",
+        "理工二館C405",
+        "理工二館C405",
+        "理工二館C405",
+        "理工二館C405"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112298194",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112298194",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

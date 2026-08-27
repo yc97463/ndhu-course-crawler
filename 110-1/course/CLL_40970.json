@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_40970",
+    "sql_id": "110123889",
+    "course_name": "訓詁學",
+    "english_course_name": "Chinese Semantics",
+    "credits": "3/3",
+    "teacher": [
+        "魏慈德"
+    ],
+    "classroom": [
+        "人社一館A318",
+        "人社一館A318",
+        "人社一館A318"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110123889",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110123889",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "MBE_53400",
+    "sql_id": "107102090",
+    "course_name": "魚類生物多樣性",
+    "english_course_name": "Fish biodiversity",
+    "credits": "2/2",
+    "teacher": [
+        "張至維",
+        "謝泓諺"
+    ],
+    "classroom": [
+        "一研1樓教室",
+        "一研1樓教室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107102090",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107102090",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

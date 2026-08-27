@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__57760",
+    "sql_id": "113278180",
+    "course_name": "會展行銷",
+    "english_course_name": "MICE Marketing",
+    "credits": "3/3",
+    "teacher": [
+        "欒錦榮"
+    ],
+    "classroom": [
+        "管理學院A221",
+        "管理學院A221",
+        "管理學院A221"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        },
+        {
+            "day": "五",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113278180",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113278180",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

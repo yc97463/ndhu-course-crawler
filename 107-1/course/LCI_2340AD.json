@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_2340AD",
+    "sql_id": "107126852",
+    "course_name": "族語（一）AD",
+    "english_course_name": "Tribal Languages（I）",
+    "credits": "2/3",
+    "teacher": [
+        "余榮德"
+    ],
+    "classroom": [
+        "原民院A351",
+        "原民院A351",
+        "原民院A351"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107126852",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107126852",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}
