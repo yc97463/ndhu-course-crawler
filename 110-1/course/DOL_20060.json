@@ -1,0 +1,36 @@
+{
+    "course_id": "DOL_20060",
+    "sql_id": "110133590",
+    "course_name": "保險法",
+    "english_course_name": "Insurance Law",
+    "credits": "2/2",
+    "teacher": [
+        "莊錦秀"
+    ],
+    "classroom": [
+        "人社二館B107",
+        "人社二館B107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110133590",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110133590",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系::DEPARTMENT OF LAW"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系原住民專班::DEPARTMENT OF LAW (INDIGENOUS LAW PROGRAM)"
+        }
+    ]
+}

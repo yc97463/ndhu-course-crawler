@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5220Z",
+    "sql_id": "100559302",
+    "course_name": "統計與實驗設計",
+    "english_course_name": "Advanced Statistical Method and Design of Experiments",
+    "credits": "2/2",
+    "teacher": [
+        "林如瀚"
+    ],
+    "classroom": [
+        "體育102",
+        "體育102",
+        "體育102",
+        "體育102"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100559302",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100559302",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

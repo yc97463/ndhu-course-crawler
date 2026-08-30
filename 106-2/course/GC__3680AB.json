@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__3680AB",
+    "sql_id": "106279452",
+    "course_name": "法語(一)AB",
+    "english_course_name": "French(I)",
+    "credits": "3/3",
+    "teacher": [
+        "李建程"
+    ],
+    "classroom": [
+        "理工二館B212",
+        "理工二館B212",
+        "理工二館B212"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106279452",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106279452",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

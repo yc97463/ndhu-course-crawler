@@ -1,0 +1,28 @@
+{
+    "course_id": "CSIE5520AJ",
+    "sql_id": "115148693",
+    "course_name": "論文寫作(一)AJ",
+    "english_course_name": "否",
+    "credits": "Thesis Writing(Ⅰ)",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "李官陵"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115148693",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115148693",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

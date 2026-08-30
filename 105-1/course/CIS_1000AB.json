@@ -1,0 +1,37 @@
+{
+    "course_id": "CIS_1000AB",
+    "sql_id": "105161350",
+    "course_name": "台灣原住民族概論AB",
+    "english_course_name": "Introduction to Taiwan's Indigenous Peoples",
+    "credits": "3/3",
+    "teacher": [
+        "楊政賢"
+    ],
+    "classroom": [
+        "原民院A223",
+        "原民院A223",
+        "原民院A223"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105161350",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105161350",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院學士班::BACHELOR"
+        }
+    ]
+}

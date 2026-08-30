@@ -1,0 +1,37 @@
+{
+    "course_id": "MBE_57700",
+    "sql_id": "111157880",
+    "course_name": "浮游動物分類學",
+    "english_course_name": "Taxonomy of Zooplankton",
+    "credits": "3/3",
+    "teacher": [
+        "謝泓諺"
+    ],
+    "classroom": [
+        "一研1樓教室",
+        "一研1樓教室",
+        "一研1樓教室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111157880",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111157880",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

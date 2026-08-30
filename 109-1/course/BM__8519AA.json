@@ -1,0 +1,27 @@
+{
+    "course_id": "BM__8519AA",
+    "sql_id": "109126583",
+    "course_name": "論文研究AA",
+    "english_course_name": "Dissertation Guidance",
+    "credits": "1/1",
+    "teacher": [
+        "侯佳利"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109126583",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109126583",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

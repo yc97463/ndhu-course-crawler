@@ -1,0 +1,34 @@
+{
+    "course_id": "CP__58210",
+    "sql_id": "109278814",
+    "course_name": "諮商心理實習(下)C",
+    "english_course_name": "Counseling Practicum",
+    "credits": "1/0:2",
+    "teacher": [
+        "王純娟",
+        "陳淑瓊",
+        "劉志如"
+    ],
+    "classroom": [
+        "人社二館B101",
+        "人社二館B101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "7"
+        },
+        {
+            "day": "一",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109278814",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109278814",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

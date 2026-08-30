@@ -1,0 +1,52 @@
+{
+    "course_id": "CLL_5447Z",
+    "sql_id": "103559033",
+    "course_name": "寫字教學研究",
+    "english_course_name": "Research on Teaching Literal Writing",
+    "credits": "3/3",
+    "teacher": [
+        "李秀華"
+    ],
+    "classroom": [
+        "文D219",
+        "文D219",
+        "文D219",
+        "文D219",
+        "文D219",
+        "文D219"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        },
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103559033",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103559033",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "IB__3190AG",
+    "sql_id": "107252755",
+    "course_name": "國際企業專題(二)AG",
+    "english_course_name": "Project for Department of International Business（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "夏締青"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107252755",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107252755",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

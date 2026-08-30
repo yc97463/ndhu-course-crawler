@@ -1,0 +1,37 @@
+{
+    "course_id": "IDSW30000",
+    "sql_id": "111220022",
+    "course_name": "原住民族政策",
+    "english_course_name": "Indigenous Policy",
+    "credits": "3/3",
+    "teacher": [
+        "陳張培倫"
+    ],
+    "classroom": [
+        "原民院A222",
+        "原民院A222",
+        "原民院A222"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111220022",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111220022",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

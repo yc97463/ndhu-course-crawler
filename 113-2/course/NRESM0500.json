@@ -1,0 +1,27 @@
+{
+    "course_id": "NRESM0500",
+    "sql_id": "113270035",
+    "course_name": "專題演講",
+    "english_course_name": "Colloquium",
+    "credits": "0/1",
+    "teacher": [
+        "李俊鴻"
+    ],
+    "classroom": [
+        "環境學院-階梯教室B119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113270035",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113270035",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

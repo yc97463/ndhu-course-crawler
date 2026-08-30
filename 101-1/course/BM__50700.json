@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__50700",
+    "sql_id": "101167757",
+    "course_name": "組織理論與管理",
+    "english_course_name": "Organization Theory and Management",
+    "credits": "3/3",
+    "teacher": [
+        "林家五"
+    ],
+    "classroom": [
+        "管A103",
+        "管A103",
+        "管A103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101167757",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101167757",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

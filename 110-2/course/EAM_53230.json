@@ -1,0 +1,37 @@
+{
+    "course_id": "EAM_53230",
+    "sql_id": "110273569",
+    "course_name": "教育科技專題研究",
+    "english_course_name": "Research Seminar on Educational Technology",
+    "credits": "3/3",
+    "teacher": [
+        "張志明"
+    ],
+    "classroom": [
+        "教育學院C136",
+        "教育學院C136",
+        "教育學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110273569",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110273569",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

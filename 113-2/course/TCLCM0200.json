@@ -1,0 +1,37 @@
+{
+    "course_id": "TCLCM0200",
+    "sql_id": "113268254",
+    "course_name": "現代書藝研究",
+    "english_course_name": "Research in Contemporary Calligraphic Art",
+    "credits": "3/3",
+    "teacher": [
+        "廖慶華"
+    ],
+    "classroom": [
+        "藝術學院A260",
+        "藝術學院A260",
+        "藝術學院A260"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113268254",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113268254",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY"
+        }
+    ]
+}

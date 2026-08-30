@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__20800",
+    "sql_id": "103149665",
+    "course_name": "東南亞區域地理",
+    "english_course_name": "Geography of Southeast Asia",
+    "credits": "3/3",
+    "teacher": [
+        "葉韻翠"
+    ],
+    "classroom": [
+        "共A105",
+        "共A105",
+        "共A105"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103149665",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103149665",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "BM__6623Z",
+    "sql_id": "114122058",
+    "course_name": "人力資源管理研討",
+    "english_course_name": "Seminar in Human Resource Management",
+    "credits": "2/2",
+    "teacher": [
+        "陳淑玲",
+        "李怡慧"
+    ],
+    "classroom": [
+        "管理學院D118",
+        "管理學院D118"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "7"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114122058",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114122058",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

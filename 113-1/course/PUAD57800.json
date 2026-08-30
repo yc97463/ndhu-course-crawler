@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD57800",
+    "sql_id": "113151341",
+    "course_name": "區域政經統合專題研究",
+    "english_course_name": "Seminar in Regional Integration",
+    "credits": "3/3",
+    "teacher": [
+        "賴昀辰"
+    ],
+    "classroom": [
+        "人社二館D209",
+        "人社二館D209",
+        "人社二館D209"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113151341",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113151341",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__50600",
+    "sql_id": "103175442",
+    "course_name": "高等心理病理學總論",
+    "english_course_name": "Advanced comprehensive psychopathology",
+    "credits": "3/3",
+    "teacher": [
+        "蔣世光"
+    ],
+    "classroom": [
+        "文D203",
+        "文D203",
+        "文D203"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103175442",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103175442",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

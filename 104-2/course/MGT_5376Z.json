@@ -1,0 +1,37 @@
+{
+    "course_id": "MGT_5376Z",
+    "sql_id": "104249447",
+    "course_name": "餐旅經營管理專論",
+    "english_course_name": "Advanced Studies in Hospitality Management",
+    "credits": "3/3",
+    "teacher": [
+        "張景煜"
+    ],
+    "classroom": [
+        "管理學院A107",
+        "管理學院A107",
+        "管理學院A107"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104249447",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104249447",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

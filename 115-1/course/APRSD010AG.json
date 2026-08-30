@@ -1,0 +1,28 @@
+{
+    "course_id": "APRSD010AG",
+    "sql_id": "115103247",
+    "course_name": "獨立研究AG",
+    "english_course_name": "是",
+    "credits": "Independent Research",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "MARKUS PORSCHE-LUDWIG"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115103247",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115103247",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

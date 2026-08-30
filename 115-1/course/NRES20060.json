@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES20060",
+    "sql_id": "115183246",
+    "course_name": "自然資源經營管理",
+    "english_course_name": "否",
+    "credits": "Natural Resources Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "戴興盛",
+        "吳海音"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115183246",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115183246",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

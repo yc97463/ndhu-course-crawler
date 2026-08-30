@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI40080",
+    "sql_id": "103161733",
+    "course_name": "影視劇本寫作",
+    "english_course_name": "Script Writing: Film and Television",
+    "credits": "3/3",
+    "teacher": [
+        "李依倩"
+    ],
+    "classroom": [
+        "文B203",
+        "文B203",
+        "文B203"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103161733",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103161733",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

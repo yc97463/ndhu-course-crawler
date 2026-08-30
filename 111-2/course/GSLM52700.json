@@ -1,0 +1,37 @@
+{
+    "course_id": "GSLM52700",
+    "sql_id": "111287706",
+    "course_name": "倉儲規劃與營運系統",
+    "english_course_name": "Warehouse Planning and Operations Systems",
+    "credits": "3/3",
+    "teacher": [
+        "陳怡君"
+    ],
+    "classroom": [
+        "管理學院C215",
+        "管理學院C215",
+        "管理學院C215"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111287706",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111287706",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}

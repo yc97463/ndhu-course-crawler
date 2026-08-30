@@ -1,0 +1,28 @@
+{
+    "course_id": "MGT_5428AB",
+    "sql_id": "115168700",
+    "course_name": "學位研究指導AB",
+    "english_course_name": "否",
+    "credits": "Graduate Research Supervision",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "王廷升"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115168700",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115168700",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "course_id": "HASS30030",
+    "sql_id": "108106184",
+    "course_name": "田野探查與報導",
+    "english_course_name": "Fieldwork and Report",
+    "credits": "3/3",
+    "teacher": [
+        "呂傑華",
+        "莊致嘉",
+        "蔡侑霖"
+    ],
+    "classroom": [
+        "專業教室",
+        "專業教室",
+        "專業教室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "13"
+        },
+        {
+            "day": "六",
+            "period": "14"
+        },
+        {
+            "day": "六",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108106184",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108106184",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT40120",
+    "sql_id": "100278897",
+    "course_name": "審計學(下)",
+    "english_course_name": "Auditing (II)",
+    "credits": "3/3",
+    "teacher": [
+        "張益誠"
+    ],
+    "classroom": [
+        "管C135",
+        "管C135",
+        "管C135"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100278897",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100278897",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

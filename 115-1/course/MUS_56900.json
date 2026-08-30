@@ -1,0 +1,36 @@
+{
+    "course_id": "MUS_56900",
+    "sql_id": "115166670",
+    "course_name": "管擊樂教學法",
+    "english_course_name": "否",
+    "credits": "Winds and Percussion Pedagogy",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "待聘"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115166670",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115166670",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "course_id": "HASS1004AB",
+    "sql_id": "104264867",
+    "course_name": "統計學(二)AB",
+    "english_course_name": "Statistics(Ⅱ)",
+    "credits": "3/3",
+    "teacher": [
+        "莊致嘉"
+    ],
+    "classroom": [
+        "理工二館PC1(E108)",
+        "理工二館PC1(E108)",
+        "理工二館PC1(E108)"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104264867",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104264867",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院學士班::BACHELOR"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "BM__7790AB",
+    "sql_id": "104232311",
+    "course_name": "專題研究(三)AB",
+    "english_course_name": "Special Topic for Research（III）",
+    "credits": "1/1",
+    "teacher": [
+        "侯佳利"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104232311",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104232311",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

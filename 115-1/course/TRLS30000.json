@@ -1,0 +1,36 @@
+{
+    "course_id": "TRLS30000",
+    "sql_id": "115120841",
+    "course_name": "觀光與休閒地理學",
+    "english_course_name": "否",
+    "credits": "Geography of Tourism and Leisure",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "李易儒"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115120841",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115120841",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

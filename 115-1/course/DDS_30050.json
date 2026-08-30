@@ -1,0 +1,36 @@
+{
+    "course_id": "DDS_30050",
+    "sql_id": "115169518",
+    "course_name": "社會工作管理",
+    "english_course_name": "否",
+    "credits": "Social Work Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "日宏煜"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115169518",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115169518",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__21500",
+    "sql_id": "103287613",
+    "course_name": "統計學(二)",
+    "english_course_name": "Statistics(II)",
+    "credits": "3/3",
+    "teacher": [
+        "黃瑞卿"
+    ],
+    "classroom": [
+        "管D111",
+        "管D111",
+        "管D111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103287613",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103287613",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

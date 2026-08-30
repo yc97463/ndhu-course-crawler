@@ -1,0 +1,32 @@
+{
+    "course_id": "CDPD30700",
+    "sql_id": "100216615",
+    "course_name": "創造思考教學",
+    "english_course_name": "Creative Teaching and Multiple Assessment",
+    "credits": "2/2",
+    "teacher": [
+        "劉佩雲"
+    ],
+    "classroom": [
+        "教B309",
+        "教B309"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100216615",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100216615",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "課程設計與潛能開發學系::DEPARTMENT OF CURRICULUM DESIGN AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

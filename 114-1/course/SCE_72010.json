@@ -1,0 +1,37 @@
+{
+    "course_id": "SCE_72010",
+    "sql_id": "114110295",
+    "course_name": "化學專題研究",
+    "english_course_name": "Advanced Research in Chemistry",
+    "credits": "3/3",
+    "teacher": [
+        "蔡仁哲"
+    ],
+    "classroom": [
+        "教育學院D325",
+        "教育學院D325",
+        "教育學院D325"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114110295",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114110295",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

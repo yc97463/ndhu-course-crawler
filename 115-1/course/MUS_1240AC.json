@@ -1,0 +1,28 @@
+{
+    "course_id": "MUS_1240AC",
+    "sql_id": "115154663",
+    "course_name": "小提琴（主修）（1）AC",
+    "english_course_name": "否",
+    "credits": "Violin（Major）（Ⅰ）",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "王銘哲"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115154663",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115154663",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

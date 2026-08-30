@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_22440",
+    "sql_id": "111172959",
+    "course_name": "人文思維與文學想像",
+    "english_course_name": "Humanistic Thinking and Literary Imagination",
+    "credits": "3/3",
+    "teacher": [
+        "劉慧珍"
+    ],
+    "classroom": [
+        "人社二館-第五講堂B013",
+        "人社二館-第五講堂B013",
+        "人社二館-第五講堂B013"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111172959",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111172959",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

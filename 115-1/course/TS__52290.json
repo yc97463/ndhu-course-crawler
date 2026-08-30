@@ -1,0 +1,33 @@
+{
+    "course_id": "TS__52290",
+    "sql_id": "115198126",
+    "course_name": "專題設計實務研討(一)",
+    "english_course_name": "否",
+    "credits": "Practical Seminar on Project Design(I)",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "林潤華",
+        "潘繼道"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115198126",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115198126",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

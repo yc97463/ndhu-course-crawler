@@ -1,0 +1,36 @@
+{
+    "course_id": "BM__41100",
+    "sql_id": "115118713",
+    "course_name": "市場分析與行銷策略",
+    "english_course_name": "否",
+    "credits": "Marketing Analysis and Marketing Strategies",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "廖苡全"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115118713",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115118713",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

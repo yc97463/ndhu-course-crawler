@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__32600",
+    "sql_id": "114104092",
+    "course_name": "大數據決策支援系統",
+    "english_course_name": "Big Data Decision Support System",
+    "credits": "3/3",
+    "teacher": [
+        "邱素文"
+    ],
+    "classroom": [
+        "管理學院B103",
+        "管理學院B103",
+        "管理學院B103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114104092",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114104092",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

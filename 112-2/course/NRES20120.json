@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES20120",
+    "sql_id": "112208468",
+    "course_name": "環境經濟學",
+    "english_course_name": "Environmental Economics",
+    "credits": "3/3",
+    "teacher": [
+        "戴興盛"
+    ],
+    "classroom": [
+        "環境學院A128",
+        "環境學院A128",
+        "環境學院A128"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112208468",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112208468",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

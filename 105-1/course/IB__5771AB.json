@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__5771AB",
+    "sql_id": "105128195",
+    "course_name": "論文研究(二)AB",
+    "english_course_name": "Thesis (II)",
+    "credits": "3/3",
+    "teacher": [
+        "陳啟斌"
+    ],
+    "classroom": [
+        "教師研究室",
+        "教師研究室",
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "1"
+        },
+        {
+            "day": "日",
+            "period": "2"
+        },
+        {
+            "day": "日",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105128195",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105128195",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}
