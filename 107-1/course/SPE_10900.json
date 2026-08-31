@@ -1,0 +1,32 @@
+{
+    "course_id": "SPE_10900",
+    "sql_id": "107150029",
+    "course_name": "特殊需求兒童音樂與律動",
+    "english_course_name": "Music and Rhythm for Exceptional Children",
+    "credits": "2/2",
+    "teacher": [
+        "黃榮真"
+    ],
+    "classroom": [
+        "教育學院C131",
+        "教育學院C131"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107150029",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107150029",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

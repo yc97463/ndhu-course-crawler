@@ -1,0 +1,46 @@
+{
+    "course_id": "ACCT1041AB",
+    "sql_id": "107113459",
+    "course_name": "中級會計學(上)AB",
+    "english_course_name": "Intermediate Accounting (I)",
+    "credits": "4/4",
+    "teacher": [
+        "黃德芬"
+    ],
+    "classroom": [
+        "管理學院B111",
+        "管理學院B111",
+        "管理學院B111",
+        "管理學院B111"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107113459",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107113459",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}
