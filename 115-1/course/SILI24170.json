@@ -1,0 +1,36 @@
+{
+    "course_id": "SILI24170",
+    "sql_id": "115169198",
+    "course_name": "當代華文推理敘事",
+    "english_course_name": "否",
+    "credits": "Modern Sinophone Mystery Narrative",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "金儒農"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115169198",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115169198",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學與創作學系::DEPARTMENT OF SINOPHONE LITERATURES AND CREATIVE WRITING"
+        }
+    ]
+}

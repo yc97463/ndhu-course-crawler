@@ -1,0 +1,36 @@
+{
+    "course_id": "IM__3340AA",
+    "sql_id": "115120727",
+    "course_name": "資料庫程式設計與管理AA",
+    "english_course_name": "否",
+    "credits": "Database Programming and Administration",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "侯佳利"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115120727",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115120727",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

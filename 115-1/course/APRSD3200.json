@@ -1,0 +1,36 @@
+{
+    "course_id": "APRSD3200",
+    "sql_id": "115138834",
+    "course_name": "發展研究與實踐",
+    "english_course_name": "是",
+    "credits": "Development Studies and Practice",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "吳宜瑾"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115138834",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115138834",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

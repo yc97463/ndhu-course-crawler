@@ -1,0 +1,36 @@
+{
+    "course_id": "RVIS30020",
+    "sql_id": "115164978",
+    "course_name": "職業實習（一）",
+    "english_course_name": "否",
+    "credits": "Vocational Internship (I)",
+    "teacher": [
+        "3",
+        "0:3"
+    ],
+    "classroom": [
+        "蔣念祖"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115164978",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115164978",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "BM__3200AA",
+    "sql_id": "115162839",
+    "course_name": "創新與知識管理AA",
+    "english_course_name": "否",
+    "credits": "Innovation and Knowledge Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳淑玲"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162839",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162839",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

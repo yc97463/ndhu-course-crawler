@@ -1,0 +1,36 @@
+{
+    "course_id": "TRLS40040",
+    "sql_id": "115131543",
+    "course_name": "融合性休閒遊憩",
+    "english_course_name": "否",
+    "credits": "Inclusive recreation",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳上迪"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115131543",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115131543",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}
