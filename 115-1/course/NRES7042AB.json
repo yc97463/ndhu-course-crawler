@@ -1,7 +1,7 @@
 {
-    "course_id": "NRES70420",
-    "sql_id": "115138296",
-    "course_name": "專題研究",
+    "course_id": "NRES7042AB",
+    "sql_id": "115126512",
+    "course_name": "專題研究AB",
     "english_course_name": "是",
     "credits": "Independent Study",
     "teacher": [
@@ -9,7 +9,7 @@
         "2"
     ],
     "classroom": [
-        "戴興盛"
+        "李光中"
     ],
     "class_time": [
         {
@@ -21,8 +21,8 @@
             "period": "10"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115138296",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115138296",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115126512",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115126512",
     "departments": [
         {
             "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
