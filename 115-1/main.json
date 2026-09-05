@@ -2047,6 +2047,22 @@
         "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "CHEM72200": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "CHEM72200",
+        "sql_id": "115186117",
+        "course_name": "農藥殘留分析",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115186117",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115186117",
+        "class_time": "/二4/二5/二6",
+        "english_course_name": "否",
+        "credits": "Pesticide Residues Analysis",
+        "teacher": "3/3",
+        "classroom": "/江政剛",
+        "offering_department": "化學系::DEPARTMENT OF CHEMISTRY",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "CHEM5000AA": {
         "campus": "壽豐校區",
         "department": "碩士",
@@ -23903,6 +23919,22 @@
         "offering_department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
+    "APRSD010AO": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "APRSD010AO",
+        "sql_id": "115173637",
+        "course_name": "獨立研究AO",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115173637",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115173637",
+        "class_time": "/二2",
+        "english_course_name": "是",
+        "credits": "Independent Research",
+        "teacher": "1/1",
+        "classroom": "/傲予莫那 Awi．Mona",
+        "offering_department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES",
+        "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
+    },
     "APRSD020AA": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -34267,7 +34299,7 @@
         "english_course_name": "是",
         "credits": "Independent Study",
         "teacher": "2/2",
-        "classroom": "/待聘",
+        "classroom": "/洪耀明",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -39263,6 +39295,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "NUS_38400": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "NUS_38400",
+        "sql_id": "115162591",
+        "course_name": "低音提琴(主修)(5)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162591",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162591",
+        "class_time": "/三1",
+        "english_course_name": "否",
+        "credits": "Double Bass (Major) (V)",
+        "teacher": "1/1",
+        "classroom": "/武錚",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_40620": {
         "campus": "壽豐校區",
         "department": "學四",
@@ -43884,6 +43932,22 @@
         "credits": "Directed Individual Study (Ⅰ)",
         "teacher": "1/1",
         "classroom": "/林坤燦",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
+    "COE_7414AD": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "COE_7414AD",
+        "sql_id": "115115567",
+        "course_name": "引導研究(一)AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115115567",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115115567",
+        "class_time": "/五6",
+        "english_course_name": "否",
+        "credits": "Directed Individual Study (Ⅰ)",
+        "teacher": "1/1",
+        "classroom": "/張明麗",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -49167,6 +49231,22 @@
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
+    "DDS_40040": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "DDS_40040",
+        "sql_id": "115158282",
+        "course_name": "族群與飲食文化",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115158282",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115158282",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "否",
+        "credits": "Ethnic and Culinary Culture",
+        "teacher": "3/3",
+        "classroom": "/張容嘉",
+        "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
     "CIS_10900": {
         "campus": "壽豐校區",
         "department": "學二",
@@ -49516,22 +49596,6 @@
         "credits": "Social Work Practicum (II)",
         "teacher": "3/0:6",
         "classroom": "/鄭期緯",
-        "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
-        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
-    },
-    "DDS_40040": {
-        "campus": "壽豐校區",
-        "department": "學四",
-        "course_id": "DDS_40040",
-        "sql_id": "115158282",
-        "course_name": "族群與飲食文化",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115158282",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115158282",
-        "class_time": "/一9/一10/一11",
-        "english_course_name": "否",
-        "credits": "Ethnic and Culinary Culture",
-        "teacher": "3/3",
-        "classroom": "/張容嘉",
         "offering_department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
