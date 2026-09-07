@@ -38443,7 +38443,7 @@
         "english_course_name": "否",
         "credits": "Jazz Combo (Undergraduate)",
         "teacher": "1/2",
-        "classroom": "/蔡雯慧",
+        "classroom": "/林華勁",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -39280,17 +39280,17 @@
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
     "MUS_45800": {
-        "campus": "壽豐校區",
+        "campus": "其它",
         "department": "學三",
         "course_id": "MUS_45800",
         "sql_id": "115157183",
         "course_name": "音樂職涯實務",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115157183",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115157183",
-        "class_time": "/四3/四4",
+        "class_time": "/暑假上課",
         "english_course_name": "否",
         "credits": "Music Career Practicum",
-        "teacher": "2/2",
+        "teacher": "2/0:4",
         "classroom": "/王麗倩",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
