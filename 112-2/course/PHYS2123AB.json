@@ -1,0 +1,27 @@
+{
+    "course_id": "PHYS2123AB",
+    "sql_id": "112299168",
+    "course_name": "力學演習(一)AB",
+    "english_course_name": "Mechanics recitation (I)",
+    "credits": "1/1",
+    "teacher": [
+        "黃玉林"
+    ],
+    "classroom": [
+        "理工一館-第二講堂A109"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112299168",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112299168",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        }
+    ]
+}

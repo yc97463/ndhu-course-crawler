@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_30170",
+    "sql_id": "112203923",
+    "course_name": "勞工問題",
+    "english_course_name": "Labor Issues",
+    "credits": "3/3",
+    "teacher": [
+        "黃愛珍"
+    ],
+    "classroom": [
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112203923",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112203923",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

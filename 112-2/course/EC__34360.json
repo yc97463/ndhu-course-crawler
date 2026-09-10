@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__34360",
+    "sql_id": "112294186",
+    "course_name": "文字探勘",
+    "english_course_name": "Text Mining",
+    "credits": "3/3",
+    "teacher": [
+        "林金龍"
+    ],
+    "classroom": [
+        "管理學院A119",
+        "管理學院A119",
+        "管理學院A119"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112294186",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112294186",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}
