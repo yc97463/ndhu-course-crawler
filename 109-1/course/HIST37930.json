@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37930",
+    "sql_id": "109182088",
+    "course_name": "戰爭與社會",
+    "english_course_name": "Man and Society in War",
+    "credits": "3/3",
+    "teacher": [
+        "劉芳瑜"
+    ],
+    "classroom": [
+        "人社三館C108",
+        "人社三館C108",
+        "人社三館C108"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109182088",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109182088",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

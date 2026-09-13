@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_10500",
+    "sql_id": "109158593",
+    "course_name": "金工藝術設計（一）",
+    "english_course_name": "Goldsmith Design（I）",
+    "credits": "3/3",
+    "teacher": [
+        "呂浴珊"
+    ],
+    "classroom": [
+        "原民院A123",
+        "原民院A123",
+        "原民院A123"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109158593",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109158593",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

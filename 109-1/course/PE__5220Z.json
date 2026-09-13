@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5220Z",
+    "sql_id": "109171810",
+    "course_name": "統計與實驗設計",
+    "english_course_name": "Statistics and Experimental Design",
+    "credits": "2/2",
+    "teacher": [
+        "徐偉庭"
+    ],
+    "classroom": [
+        "教育學院C136",
+        "教育學院C136",
+        "教育學院C136",
+        "教育學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109171810",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109171810",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

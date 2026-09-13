@@ -1,0 +1,32 @@
+{
+    "course_id": "PA__20120",
+    "sql_id": "109163478",
+    "course_name": "環境影響評估概論",
+    "english_course_name": "Introduction to Environmental Impact Assessment",
+    "credits": "2/2",
+    "teacher": [
+        "王鴻濬"
+    ],
+    "classroom": [
+        "人社一館B203",
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109163478",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109163478",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}
