@@ -1,0 +1,29 @@
+{
+    "course_id": "AD__4210AC",
+    "sql_id": "112283800",
+    "course_name": "專題製作(二)AC",
+    "english_course_name": "Special Topics (II)",
+    "credits": "1/1",
+    "teacher": [
+        "田名璋",
+        "林永利",
+        "黃成永"
+    ],
+    "classroom": [
+        "藝術學院A335"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112283800",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112283800",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

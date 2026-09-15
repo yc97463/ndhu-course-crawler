@@ -1,0 +1,53 @@
+{
+    "course_id": "BM__22000",
+    "sql_id": "112210494",
+    "course_name": "報告與簡報技巧",
+    "english_course_name": "Presentation Skills",
+    "credits": "2/2",
+    "teacher": [
+        "林孟德",
+        "陳建男"
+    ],
+    "classroom": [
+        "管理學院C141",
+        "管理學院C141",
+        "管理學院C141",
+        "管理學院C141",
+        "管理學院C141",
+        "管理學院C141"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112210494",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112210494",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

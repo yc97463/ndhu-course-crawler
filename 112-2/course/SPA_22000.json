@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_22000",
+    "sql_id": "112273169",
+    "course_name": "文化社會學",
+    "english_course_name": "Sociology of Culture",
+    "credits": "3/3",
+    "teacher": [
+        "張宏輝"
+    ],
+    "classroom": [
+        "人社二館D105",
+        "人社二館D105",
+        "人社二館D105"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112273169",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112273169",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

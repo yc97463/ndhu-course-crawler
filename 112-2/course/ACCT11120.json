@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT11120",
+    "sql_id": "112231469",
+    "course_name": "成本與管理會計(下)",
+    "english_course_name": "Cost and Management Accounting (II)",
+    "credits": "3/3",
+    "teacher": [
+        "黃德芬"
+    ],
+    "classroom": [
+        "管理學院B111",
+        "管理學院B111",
+        "管理學院B111"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112231469",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112231469",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}
