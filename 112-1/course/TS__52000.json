@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__52000",
+    "sql_id": "112175181",
+    "course_name": "戰後臺灣小說研究",
+    "english_course_name": "Studies on Modern Taiwanese Fictions",
+    "credits": "3/3",
+    "teacher": [
+        "郭澤寬"
+    ],
+    "classroom": [
+        "人社三館D301",
+        "人社三館D301",
+        "人社三館D301"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        },
+        {
+            "day": "三",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112175181",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112175181",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

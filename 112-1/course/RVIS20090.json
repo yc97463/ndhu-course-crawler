@@ -1,0 +1,42 @@
+{
+    "course_id": "RVIS20090",
+    "sql_id": "112144528",
+    "course_name": "政治學導論：比較各國政治",
+    "english_course_name": "Introduction to Political Science",
+    "credits": "2/2",
+    "teacher": [
+        "彭立忠"
+    ],
+    "classroom": [
+        "洄瀾學院B107",
+        "洄瀾學院B107",
+        "洄瀾學院B107",
+        "洄瀾學院B107"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112144528",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112144528",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

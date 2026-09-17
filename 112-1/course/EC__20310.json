@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__20310",
+    "sql_id": "112195160",
+    "course_name": "總體經濟學(上)",
+    "english_course_name": "Macroeconomics (I)",
+    "credits": "3/3",
+    "teacher": [
+        "洪嘉瑜"
+    ],
+    "classroom": [
+        "人社二館B109",
+        "人社二館B109",
+        "人社二館B109"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112195160",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112195160",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

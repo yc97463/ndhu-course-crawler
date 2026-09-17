@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__5250Z",
+    "sql_id": "100109271",
+    "course_name": "財務管理研討",
+    "english_course_name": "",
+    "credits": "3/3",
+    "teacher": [
+        "蕭朝興"
+    ],
+    "classroom": [
+        "文二講堂",
+        "文二講堂",
+        "文二講堂"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100109271",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100109271",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

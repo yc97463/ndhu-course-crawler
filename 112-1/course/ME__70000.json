@@ -1,0 +1,37 @@
+{
+    "course_id": "ME__70000",
+    "sql_id": "112191676",
+    "course_name": "教育與社會科學方法論",
+    "english_course_name": "Education and Social Sciences Methodology",
+    "credits": "3/3",
+    "teacher": [
+        "張瀠之"
+    ],
+    "classroom": [
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112191676",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112191676",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

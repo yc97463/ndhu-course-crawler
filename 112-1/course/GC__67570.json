@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__67570",
+    "sql_id": "112123410",
+    "course_name": "創客入門–智慧生活裝置實作",
+    "english_course_name": "Makers Beginning - Smart Living Device Implementation",
+    "credits": "3/3",
+    "teacher": [
+        "陳文盛"
+    ],
+    "classroom": [
+        "理工二館D309",
+        "理工二館D309",
+        "理工二館D309"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112123410",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112123410",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

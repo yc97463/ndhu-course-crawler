@@ -1,0 +1,37 @@
+{
+    "course_id": "DKM_50200",
+    "sql_id": "100178156",
+    "course_name": "電子商務專題",
+    "english_course_name": "Special Issues on Electronic Commerce",
+    "credits": "3/3",
+    "teacher": [
+        "邱素文"
+    ],
+    "classroom": [
+        "管A202",
+        "管A202",
+        "管A202"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100178156",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100178156",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

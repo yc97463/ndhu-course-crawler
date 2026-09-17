@@ -1,0 +1,41 @@
+{
+    "course_id": "GC__6232AB",
+    "sql_id": "112193921",
+    "course_name": "中文能力與涵養AB",
+    "english_course_name": "Chinese language ability and education",
+    "credits": "3/3",
+    "teacher": [
+        "謝明陽"
+    ],
+    "classroom": [
+        "人社一館A318",
+        "人社一館A318",
+        "人社一館A318"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112193921",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112193921",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

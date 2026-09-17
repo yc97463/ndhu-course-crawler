@@ -1,0 +1,41 @@
+{
+    "course_id": "IB__2140AB",
+    "sql_id": "100154144",
+    "course_name": "統計學(一)AB",
+    "english_course_name": "Statistics（Ⅰ）",
+    "credits": "3/3",
+    "teacher": [
+        "趙維雄"
+    ],
+    "classroom": [
+        "理B101",
+        "理B101",
+        "理A210"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100154144",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100154144",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

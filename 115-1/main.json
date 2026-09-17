@@ -3551,6 +3551,22 @@
         "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
+    "PHYS1010AM": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "PHYS1010AM",
+        "sql_id": "115101372",
+        "course_name": "普通物理實驗(一)AM",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115101372",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115101372",
+        "class_time": "/三13/三14/三15",
+        "english_course_name": "否",
+        "credits": "General Physics Laboratory (I)",
+        "teacher": "1/0:3",
+        "classroom": "/戴德昌",
+        "offering_department": "物理學系::DEPARTMENT OF PHYSICS",
+        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
+    },
     "PHYS3252AA": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -9551,22 +9567,6 @@
         "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
-    "BMM_33610": {
-        "campus": "壽豐校區",
-        "department": "學四",
-        "course_id": "BMM_33610",
-        "sql_id": "115174247",
-        "course_name": "醫學新知導論",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115174247",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115174247",
-        "class_time": "/二8/二9/二10",
-        "english_course_name": "否",
-        "credits": "Introduction to Medical Innovations",
-        "teacher": "3/3",
-        "classroom": "/黃靖惠",
-        "offering_department": "生化暨分子醫學科學系::DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR MEDICINE",
-        "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
-    },
     "BMM_41460": {
         "campus": "壽豐校區",
         "department": "學四",
@@ -12012,6 +12012,22 @@
         "credits": "Independent Study",
         "teacher": "2/2",
         "classroom": "/廖苡全",
+        "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
+    "BM__M009AL": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "BM__M009AL",
+        "sql_id": "115151248",
+        "course_name": "專題研究AL",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115151248",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115151248",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Independent Study",
+        "teacher": "2/2",
+        "classroom": "/陳膺郁",
         "offering_department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -23951,6 +23967,22 @@
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
+    "NRES@0230": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "NRES@0230",
+        "sql_id": "115130525",
+        "course_name": "研究方法特論(四)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115130525",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115130525",
+        "class_time": "/一9/一10/一11",
+        "english_course_name": "否",
+        "credits": "Special Topics on Research Methods(IV)",
+        "teacher": "3/3",
+        "classroom": "/許世璋",
+        "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
+        "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
+    },
     "NRES71310": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -33263,6 +33295,22 @@
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
+    "SCE_71920": {
+        "campus": "壽豐校區",
+        "department": "博士",
+        "course_id": "SCE_71920",
+        "sql_id": "115113254",
+        "course_name": "科學史特論",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115113254",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115113254",
+        "class_time": "/五3/五4/五5",
+        "english_course_name": "否",
+        "credits": "Advanced Issues in History of Science",
+        "teacher": "3/3",
+        "classroom": "/蔣佳玲",
+        "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
+        "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
+    },
     "SCE_71980": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -34043,7 +34091,7 @@
         "english_course_name": "否",
         "credits": "Teaching Practicum in Elementary School(II)",
         "teacher": "4/4",
-        "classroom": "/李眞文/許貞雯/郭書蓁/陳宜旻",
+        "classroom": "/李眞文/許貞雯/郭書蓁/張詠瑄",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -34059,7 +34107,7 @@
         "english_course_name": "否",
         "credits": "Teaching Practicum in Elementary School(II)",
         "teacher": "4/4",
-        "classroom": "/高金成/周子宇/謝世婷/張玉真",
+        "classroom": "/高金成/周子宇/謝世婷/賴榮興",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },

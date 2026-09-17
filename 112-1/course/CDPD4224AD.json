@@ -1,0 +1,27 @@
+{
+    "course_id": "CDPD4224AD",
+    "sql_id": "112157406",
+    "course_name": "專題研究IAD",
+    "english_course_name": "Thematic Research(I)",
+    "credits": "1/1",
+    "teacher": [
+        "高台茜"
+    ],
+    "classroom": [
+        "教育學院C114"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112157406",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112157406",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

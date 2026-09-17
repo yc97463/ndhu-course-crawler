@@ -1,0 +1,32 @@
+{
+    "course_id": "RVIS20110",
+    "sql_id": "112169551",
+    "course_name": "自主學習專題",
+    "english_course_name": "Topics in Independent Study",
+    "credits": "2/2",
+    "teacher": [
+        "張蘭石"
+    ],
+    "classroom": [
+        "洄瀾學院B105",
+        "洄瀾學院B105"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112169551",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112169551",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "course_id": "GC__63940",
+    "sql_id": "107376603",
+    "course_name": "英語閱讀與詮釋",
+    "english_course_name": "English Reading Comprehension",
+    "credits": "2/2",
+    "teacher": [
+        "吳佩儀"
+    ],
+    "classroom": [
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113",
+        "人社三館D113"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107376603",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107376603",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
