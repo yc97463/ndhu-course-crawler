@@ -1,0 +1,36 @@
+{
+    "course_id": "MBT_56820",
+    "sql_id": "115158318",
+    "course_name": "水生生物冷凍保存",
+    "english_course_name": "是",
+    "credits": "Cryopreservation of Aquatic Species",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "林家興"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115158318",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115158318",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

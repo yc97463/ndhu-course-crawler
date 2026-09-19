@@ -1,0 +1,36 @@
+{
+    "course_id": "PUAD6022Z",
+    "sql_id": "115100468",
+    "course_name": "政策影響評估專題",
+    "english_course_name": "否",
+    "credits": "Special Topic on Public Policy Evaluation",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "王鴻濬"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115100468",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115100468",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

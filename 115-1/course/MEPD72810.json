@@ -1,0 +1,36 @@
+{
+    "course_id": "MEPD72810",
+    "sql_id": "115145911",
+    "course_name": "語言文化與社會專題",
+    "english_course_name": "否",
+    "credits": "Seminar on Language, Culture, and Society",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "謝顥音"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115145911",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115145911",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院多元文化教育博士班::PH.D. PROGRAM OF MULTICULTURAL EDUCATION"
+        }
+    ]
+}

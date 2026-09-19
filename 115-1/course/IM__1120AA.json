@@ -1,0 +1,36 @@
+{
+    "course_id": "IM__1120AA",
+    "sql_id": "115142646",
+    "course_name": "初階程式設計AA",
+    "english_course_name": "否",
+    "credits": "Program Design",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "劉英和"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115142646",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115142646",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

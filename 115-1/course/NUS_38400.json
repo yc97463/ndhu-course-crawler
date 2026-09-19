@@ -1,0 +1,28 @@
+{
+    "course_id": "NUS_38400",
+    "sql_id": "115162591",
+    "course_name": "低音提琴(主修)(5)",
+    "english_course_name": "否",
+    "credits": "Double Bass (Major) (V)",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "武錚"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162591",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162591",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

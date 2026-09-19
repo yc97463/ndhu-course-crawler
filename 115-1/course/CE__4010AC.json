@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__4010AC",
+    "sql_id": "115152087",
+    "course_name": "教育社會學AC",
+    "english_course_name": "否",
+    "credits": "Sociology of Education",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "林俊瑩"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115152087",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115152087",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

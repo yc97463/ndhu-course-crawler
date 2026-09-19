@@ -1,0 +1,36 @@
+{
+    "course_id": "AD__22700",
+    "sql_id": "115107141",
+    "course_name": "立體設計",
+    "english_course_name": "否",
+    "credits": "Three-Dimensional Design",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "林永利"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115107141",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115107141",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

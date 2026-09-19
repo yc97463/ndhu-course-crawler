@@ -1,0 +1,36 @@
+{
+    "course_id": "PA__30250",
+    "sql_id": "115182157",
+    "course_name": "公共政策",
+    "english_course_name": "否",
+    "credits": "Public Policy",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "魯炳炎"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115182157",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115182157",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "MBE_57780",
+    "sql_id": "115133022",
+    "course_name": "海洋生物博物館初階實務",
+    "english_course_name": "否",
+    "credits": "Museum Practice for Marine Biology",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "李世緯"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115133022",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115133022",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

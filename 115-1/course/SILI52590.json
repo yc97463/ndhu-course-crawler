@@ -1,0 +1,36 @@
+{
+    "course_id": "SILI52590",
+    "sql_id": "115179748",
+    "course_name": "海洋文學與文化專題",
+    "english_course_name": "否",
+    "credits": "Oceanic Literature and Cultural Studies",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "顏訥"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115179748",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115179748",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學與創作學系::DEPARTMENT OF SINOPHONE LITERATURES AND CREATIVE WRITING"
+        }
+    ]
+}

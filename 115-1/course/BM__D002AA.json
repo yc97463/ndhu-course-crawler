@@ -1,0 +1,28 @@
+{
+    "course_id": "BM__D002AA",
+    "sql_id": "115157820",
+    "course_name": "專題研究AA",
+    "english_course_name": "是",
+    "credits": "Independent Study",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "巫喜瑞"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115157820",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115157820",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

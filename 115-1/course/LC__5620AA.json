@@ -1,0 +1,40 @@
+{
+    "course_id": "LC__5620AA",
+    "sql_id": "115162525",
+    "course_name": "英語電影語言與文化AA",
+    "english_course_name": "否",
+    "credits": "Language and Culture in English Movies",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "林融慕"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162525",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162525",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "語言中心::LANGUAGE CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "英語課程::English courses"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "IM__M0080",
+    "sql_id": "115151669",
+    "course_name": "衍生性金融商品",
+    "english_course_name": "是",
+    "credits": "Derivatives",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "王詩韻"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115151669",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115151669",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

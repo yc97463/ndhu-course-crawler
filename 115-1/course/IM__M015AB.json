@@ -1,0 +1,28 @@
+{
+    "course_id": "IM__M015AB",
+    "sql_id": "115170033",
+    "course_name": "專題研究AB",
+    "english_course_name": "是",
+    "credits": "Independent Study",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "邱素文"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115170033",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115170033",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "course_id": "IM__1000AB",
+    "sql_id": "115151416",
+    "course_name": "計算機概論AB",
+    "english_course_name": "否",
+    "credits": "Introduction to Computer Science",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳光和"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115151416",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115151416",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "RVIS10520",
+    "sql_id": "115139258",
+    "course_name": "社會與人文家族專題課（一）",
+    "english_course_name": "否",
+    "credits": "Science Topical Studies in Social Science and Humanities（I）",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "張蘭石",
+        "蔣念祖"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115139258",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115139258",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

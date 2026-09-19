@@ -1,0 +1,36 @@
+{
+    "course_id": "TCSL70190",
+    "sql_id": "115140006",
+    "course_name": "華語教學語法專題",
+    "english_course_name": "否",
+    "credits": "Topics in Pedagogical Grammar of Chinese as a Second Language",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "何寶璋"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115140006",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115140006",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE"
+        }
+    ]
+}

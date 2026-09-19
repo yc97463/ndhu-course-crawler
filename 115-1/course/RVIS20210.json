@@ -1,0 +1,36 @@
+{
+    "course_id": "RVIS20210",
+    "sql_id": "115104247",
+    "course_name": "企業社會責任",
+    "english_course_name": "否",
+    "credits": "Corporate Social Responsibility",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "蔣念祖"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115104247",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115104247",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

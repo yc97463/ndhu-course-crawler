@@ -1,0 +1,36 @@
+{
+    "course_id": "HIST11000",
+    "sql_id": "115168808",
+    "course_name": "臺灣通史(一)",
+    "english_course_name": "否",
+    "credits": "History of Taiwan(Ⅰ)",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳鴻圖"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115168808",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115168808",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "course_id": "MUS_1130AD",
+    "sql_id": "115107273",
+    "course_name": "鋼琴（副修）（一）AD",
+    "english_course_name": "否",
+    "credits": "Piano（Minor）（Ⅰ）",
+    "teacher": [
+        "0.5",
+        "0.5"
+    ],
+    "classroom": [
+        "彭翠萍"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115107273",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115107273",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "COE_74600",
+    "sql_id": "115122600",
+    "course_name": "環境控制輔助科技與改善生活品質專題研究",
+    "english_course_name": "否",
+    "credits": "Advanced Seminar on Assistive Technology for Environment Control",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "施清祥"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115122600",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115122600",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

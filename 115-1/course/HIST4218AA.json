@@ -1,0 +1,33 @@
+{
+    "course_id": "HIST4218AA",
+    "sql_id": "115137027",
+    "course_name": "專題報告AA",
+    "english_course_name": "否",
+    "credits": "Independent Study",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "劉芳瑜",
+        "黃熾霖"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115137027",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115137027",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

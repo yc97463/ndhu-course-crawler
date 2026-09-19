@@ -1,0 +1,36 @@
+{
+    "course_id": "FIN_5030AB",
+    "sql_id": "115153704",
+    "course_name": "引導研究AB",
+    "english_course_name": "否",
+    "credits": "Directed Study",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "池祥萱"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115153704",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115153704",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

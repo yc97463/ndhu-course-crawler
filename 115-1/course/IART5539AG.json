@@ -1,0 +1,28 @@
+{
+    "course_id": "IART5539AG",
+    "sql_id": "115125027",
+    "course_name": "專題研究AG",
+    "english_course_name": "否",
+    "credits": "Independent Study",
+    "teacher": [
+        "2",
+        "2"
+    ],
+    "classroom": [
+        "郭文昌"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115125027",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115125027",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}
