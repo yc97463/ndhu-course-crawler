@@ -16415,6 +16415,22 @@
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "TRLS5060AD": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "TRLS5060AD",
+        "sql_id": "115178967",
+        "course_name": "引導研究AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115178967",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115178967",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Directed Study",
+        "teacher": "1/1",
+        "classroom": "/賴柏欣",
+        "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "TRLS5060AI": {
         "campus": "其它",
         "department": "碩士",
@@ -16715,7 +16731,7 @@
         "english_course_name": "否",
         "credits": "Recreation Activities Leadership",
         "teacher": "3/3",
-        "classroom": "/待聘",
+        "classroom": "/連貫傑",
         "offering_department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
@@ -24031,6 +24047,22 @@
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
+    "NRES7042AH": {
+        "campus": "其它",
+        "department": "博士",
+        "course_id": "NRES7042AH",
+        "sql_id": "115166622",
+        "course_name": "專題研究AH",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115166622",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115166622",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Independent Study",
+        "teacher": "2/2",
+        "classroom": "/李俊鴻",
+        "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
+        "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
+    },
     "NRES71250": {
         "campus": "壽豐校區",
         "department": "博士",
@@ -28479,6 +28511,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "MUS_38400": {
+        "campus": "壽豐校區",
+        "department": "學三",
+        "course_id": "MUS_38400",
+        "sql_id": "115162591",
+        "course_name": "低音提琴(主修)(5)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162591",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162591",
+        "class_time": "/三1",
+        "english_course_name": "否",
+        "credits": "Double Bass (Major) (V)",
+        "teacher": "1/1",
+        "classroom": "/武錚",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_40200": {
         "campus": "壽豐校區",
         "department": "學三",
@@ -28508,22 +28556,6 @@
         "credits": "Music Career Practicum",
         "teacher": "2/0:4",
         "classroom": "/王麗倩",
-        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
-        "college": "藝術學院::COLLEGE OF THE ARTS"
-    },
-    "NUS_38400": {
-        "campus": "壽豐校區",
-        "department": "學三",
-        "course_id": "NUS_38400",
-        "sql_id": "115162591",
-        "course_name": "低音提琴(主修)(5)",
-        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162591",
-        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162591",
-        "class_time": "/三1",
-        "english_course_name": "否",
-        "credits": "Double Bass (Major) (V)",
-        "teacher": "1/1",
-        "classroom": "/武錚",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -32827,7 +32859,7 @@
         "english_course_name": "否",
         "credits": "Directed Individual Study",
         "teacher": "1/1",
-        "classroom": "/李明憲/高台茜/張德勝/劉明洲/劉唯玉/謝顥音/林意雪",
+        "classroom": "/李明憲/張德勝/劉明洲/劉唯玉/謝顥音/林意雪/李崗",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -33419,7 +33451,7 @@
         "english_course_name": "是",
         "credits": "Directed Individual Study",
         "teacher": "1/1",
-        "classroom": "/張德勝/高金成",
+        "classroom": "/張德勝/高金成/林意雪/高台茜/謝顥音/金榮泰",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -33819,7 +33851,7 @@
         "english_course_name": "否",
         "credits": "Thesis Guidance",
         "teacher": "2/2",
-        "classroom": "/李明憲/李眞文/李崗/林意雪/高台茜/高金成/張德勝/劉佩雲/劉明洲/劉唯玉/謝顥音",
+        "classroom": "/李明憲/李眞文/李崗/林意雪/張德勝/劉佩雲/劉明洲/謝顥音",
         "offering_department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT",
         "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION"
     },
@@ -35772,6 +35804,22 @@
         "credits": "Graduation Project I",
         "teacher": "2/2",
         "classroom": "/林明 Wagi Payan",
+        "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
+        "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
+    },
+    "ERC_4014AD": {
+        "campus": "其它",
+        "department": "學四",
+        "course_id": "ERC_4014AD",
+        "sql_id": "115112744",
+        "course_name": "專題指導(一)AD",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115112744",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115112744",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "否",
+        "credits": "Graduation Project I",
+        "teacher": "2/2",
+        "classroom": "/林徐達",
         "offering_department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES",
         "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES"
     },
