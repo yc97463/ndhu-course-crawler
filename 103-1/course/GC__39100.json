@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__39100",
+    "sql_id": "103152043",
+    "course_name": "社區創意行動方案設計",
+    "english_course_name": "creative action project for community",
+    "credits": "3/3",
+    "teacher": [
+        "顏嘉成"
+    ],
+    "classroom": [
+        "環A136",
+        "環A136",
+        "環A136"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103152043",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103152043",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

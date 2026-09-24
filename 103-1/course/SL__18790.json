@@ -22,6 +22,10 @@
         {
             "college": "管理學院::COLLEGE OF MANAGEMENT",
             "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
         }
     ]
 }

@@ -1,0 +1,41 @@
+{
+    "course_id": "GC__2590AB",
+    "sql_id": "103125235",
+    "course_name": "材料世界AB",
+    "english_course_name": "Materials World",
+    "credits": "2/2",
+    "teacher": [
+        "陳俊良",
+        "翁明壽",
+        "吳慶成",
+        "張文固",
+        "魏茂國",
+        "傅彥培",
+        "田禮嘉",
+        "余英松",
+        "紀渥德",
+        "林育賢"
+    ],
+    "classroom": [
+        "工二講堂B101",
+        "工二講堂B101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103125235",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103125235",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

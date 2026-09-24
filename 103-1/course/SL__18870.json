@@ -23,6 +23,10 @@
         {
             "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
             "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
         }
     ]
 }

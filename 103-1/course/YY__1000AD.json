@@ -27,6 +27,10 @@
         {
             "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
             "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
         }
     ]
 }
