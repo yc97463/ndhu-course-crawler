@@ -1,0 +1,27 @@
+{
+    "course_id": "DKM_51200",
+    "sql_id": "104176906",
+    "course_name": "論文研討(三)",
+    "english_course_name": "Seminar on Information Management（III）",
+    "credits": "1/1",
+    "teacher": [
+        "葉國暉"
+    ],
+    "classroom": [
+        "管理學院C222"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104176906",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104176906",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

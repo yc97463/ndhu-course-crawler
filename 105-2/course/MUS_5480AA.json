@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5480AA",
+    "sql_id": "105229250",
+    "course_name": "絃樂(四)AA",
+    "english_course_name": "Violin/Viola (IV)",
+    "credits": "1/1",
+    "teacher": [
+        "柯宥帆"
+    ],
+    "classroom": [
+        "就師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105229250",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105229250",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

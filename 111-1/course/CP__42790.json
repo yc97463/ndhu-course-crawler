@@ -1,0 +1,42 @@
+{
+    "course_id": "CP__42790",
+    "sql_id": "111171713",
+    "course_name": "學校輔導工作實習",
+    "english_course_name": "practicum of School Guidance",
+    "credits": "2/0:4",
+    "teacher": [
+        "王沂釗"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111171713",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111171713",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

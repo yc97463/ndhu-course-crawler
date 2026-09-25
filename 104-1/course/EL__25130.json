@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__25130",
+    "sql_id": "104138780",
+    "course_name": "英語教學概論",
+    "english_course_name": "Introduction to ESL/EFL Teaching",
+    "credits": "3/3",
+    "teacher": [
+        "嚴愛群"
+    ],
+    "classroom": [
+        "人社二館B213",
+        "人社二館B213",
+        "人社二館B213"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104138780",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104138780",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

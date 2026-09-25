@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2720AC",
+    "sql_id": "105295192",
+    "course_name": "鋼琴（主修）（4）AC",
+    "english_course_name": "Piano（Major）（Ⅳ）",
+    "credits": "1/1",
+    "teacher": [
+        "王麗君"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105295192",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105295192",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

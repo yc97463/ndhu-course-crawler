@@ -1,0 +1,37 @@
+{
+    "course_id": "EE__40200",
+    "sql_id": "105280922",
+    "course_name": "網路實驗",
+    "english_course_name": "Network Laboratory",
+    "credits": "1/0:3",
+    "teacher": [
+        "陳震宇"
+    ],
+    "classroom": [
+        "理工二館B202",
+        "理工二館B202",
+        "理工二館B202"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105280922",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105280922",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING"
+        }
+    ]
+}

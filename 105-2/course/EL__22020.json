@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__22020",
+    "sql_id": "105242682",
+    "course_name": "法文（一）（下）",
+    "english_course_name": "French ( I ), 2nd Semester",
+    "credits": "3/3",
+    "teacher": [
+        "呂約伯"
+    ],
+    "classroom": [
+        "人社二館B103",
+        "人社二館B103",
+        "人社二館B103"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105242682",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105242682",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

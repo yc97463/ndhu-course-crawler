@@ -1,0 +1,32 @@
+{
+    "course_id": "MUS_29620",
+    "sql_id": "111199015",
+    "course_name": "法文語韻與法文藝術歌曲 (二)",
+    "english_course_name": "French Diction And Art Songs (II)",
+    "credits": "2/2",
+    "teacher": [
+        "羅安娜"
+    ],
+    "classroom": [
+        "藝術學院B120",
+        "藝術學院B120"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111199015",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111199015",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

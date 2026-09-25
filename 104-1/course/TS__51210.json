@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__51210",
+    "sql_id": "104147340",
+    "course_name": "臺灣劇場研究",
+    "english_course_name": "Studies on Theatrical Arts of Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "郭澤寬"
+    ],
+    "classroom": [
+        "人社一館B206",
+        "人社一館B206",
+        "人社一館B206"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104147340",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104147340",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

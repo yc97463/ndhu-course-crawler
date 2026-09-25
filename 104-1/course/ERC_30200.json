@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_30200",
+    "sql_id": "104118280",
+    "course_name": "藝術與社會",
+    "english_course_name": "The Arts and Society",
+    "credits": "3/3",
+    "teacher": [
+        "盧玉珍"
+    ],
+    "classroom": [
+        "原民院A213",
+        "原民院A213",
+        "原民院A213"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104118280",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104118280",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "course_id": "SL__18670",
+    "sql_id": "111141179",
+    "course_name": "服務學習(二)_臺灣系",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "郭俊麟"
+    ],
+    "classroom": [
+        "藝術學院-電腦教室A138"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111141179",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111141179",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

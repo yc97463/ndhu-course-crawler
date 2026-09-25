@@ -1,0 +1,37 @@
+{
+    "course_id": "SPE_2120AA",
+    "sql_id": "104120693",
+    "course_name": "特殊教育學生評量AA",
+    "english_course_name": "Identification and Assessment in Special Education",
+    "credits": "3/3",
+    "teacher": [
+        "廖永堃"
+    ],
+    "classroom": [
+        "教育學院C131",
+        "教育學院C131",
+        "教育學院C131"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104120693",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104120693",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

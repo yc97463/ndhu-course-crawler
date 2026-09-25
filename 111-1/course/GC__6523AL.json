@@ -1,0 +1,27 @@
+{
+    "course_id": "GC__6523AL",
+    "sql_id": "111165311",
+    "course_name": "垂直整合專題(一)AL",
+    "english_course_name": "Vertically Integrated Projects (I)",
+    "credits": "1/1",
+    "teacher": [
+        "陳淑瓊"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "16"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111165311",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111165311",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

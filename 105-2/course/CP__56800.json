@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__56800",
+    "sql_id": "105274502",
+    "course_name": "多元文化諮商研究",
+    "english_course_name": "Seminar in Multicultural Counseling",
+    "credits": "3/3",
+    "teacher": [
+        "陳淑瓊"
+    ],
+    "classroom": [
+        "人社一館D203",
+        "人社一館D203",
+        "人社一館D203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105274502",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105274502",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}
