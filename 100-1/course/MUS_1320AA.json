@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1320AA",
+    "sql_id": "100192286",
+    "course_name": "大提琴（副修）（一）AA",
+    "english_course_name": "Cello（Minor）（Ⅰ）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "莊心怡"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100192286",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100192286",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

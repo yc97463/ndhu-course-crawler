@@ -1,0 +1,32 @@
+{
+    "course_id": "GC__65550",
+    "sql_id": "111266850",
+    "course_name": "初級程式設計-VBA",
+    "english_course_name": "Programming in VBA",
+    "credits": "2/2",
+    "teacher": [
+        "楊舜博"
+    ],
+    "classroom": [
+        "理工二館PC1(E108)",
+        "理工二館PC1(E108)"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111266850",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111266850",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

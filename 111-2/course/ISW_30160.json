@@ -1,0 +1,38 @@
+{
+    "course_id": "ISW_30160",
+    "sql_id": "111252615",
+    "course_name": "長期照顧概論",
+    "english_course_name": "Introduction to long-term care",
+    "credits": "3/3",
+    "teacher": [
+        "日宏煜",
+        "張希文 Lenglengman Rovaniyaw"
+    ],
+    "classroom": [
+        "原民院A327",
+        "原民院A327",
+        "原民院A327"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111252615",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111252615",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族社會工作學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS SOCIAL WORK"
+        }
+    ]
+}

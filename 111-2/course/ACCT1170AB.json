@@ -1,0 +1,41 @@
+{
+    "course_id": "ACCT1170AB",
+    "sql_id": "111240731",
+    "course_name": "會計學原理(二)AB",
+    "english_course_name": "Accounting Principle (II)",
+    "credits": "3/3",
+    "teacher": [
+        "謝佩蓁"
+    ],
+    "classroom": [
+        "管理學院C141",
+        "管理學院C141",
+        "管理學院C141"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111240731",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111240731",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

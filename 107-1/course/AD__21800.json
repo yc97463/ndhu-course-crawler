@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__21800",
+    "sql_id": "107117971",
+    "course_name": "色彩學",
+    "english_course_name": "Color Theory",
+    "credits": "3/3",
+    "teacher": [
+        "洪莫愁"
+    ],
+    "classroom": [
+        "環解中心C102",
+        "環解中心C102",
+        "環解中心C102"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107117971",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107117971",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

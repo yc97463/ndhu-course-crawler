@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__37200",
+    "sql_id": "100158257",
+    "course_name": "認識博物館",
+    "english_course_name": "Introduction to Museums",
+    "credits": "3/3",
+    "teacher": [
+        "賴昭文"
+    ],
+    "classroom": [
+        "民階梯(一)",
+        "民階梯(一)",
+        "民階梯(一)"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100158257",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100158257",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

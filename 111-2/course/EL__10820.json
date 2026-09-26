@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__10820",
+    "sql_id": "111264757",
+    "course_name": "西洋文學概論（二）",
+    "english_course_name": "Backgrounds of Western Literature (II)",
+    "credits": "3/3",
+    "teacher": [
+        "蔡淑芬"
+    ],
+    "classroom": [
+        "人社二館B103",
+        "人社二館B103",
+        "人社二館B103"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111264757",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111264757",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

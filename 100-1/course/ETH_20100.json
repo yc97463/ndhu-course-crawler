@@ -1,0 +1,27 @@
+{
+    "course_id": "ETH_20100",
+    "sql_id": "100181774",
+    "course_name": "教學實習",
+    "english_course_name": "Educational Practicum",
+    "credits": "1/1",
+    "teacher": [
+        "潘文富"
+    ],
+    "classroom": [
+        "共A105"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100181774",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100181774",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "卓越儲備教師增能學程"
+        }
+    ]
+}

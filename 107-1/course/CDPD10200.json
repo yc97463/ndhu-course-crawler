@@ -1,0 +1,40 @@
+{
+    "course_id": "CDPD10200",
+    "sql_id": "107132522",
+    "course_name": "閱讀科技導論",
+    "english_course_name": "Introduction to reading, science and technology",
+    "credits": "3/3",
+    "teacher": [
+        "林意雪",
+        "蔣佳玲",
+        "李暉",
+        "劉明洲"
+    ],
+    "classroom": [
+        "教育學院C223",
+        "教育學院C223",
+        "教育學院C223"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107132522",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107132522",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "course_id": "COE_55200",
+    "sql_id": "107175758",
+    "course_name": "質性研究",
+    "english_course_name": "Qualitative Research",
+    "credits": "3/3",
+    "teacher": [
+        "周水珍"
+    ],
+    "classroom": [
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        },
+        {
+            "day": "六",
+            "period": "12"
+        },
+        {
+            "day": "六",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107175758",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107175758",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

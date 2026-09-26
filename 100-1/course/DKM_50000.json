@@ -1,0 +1,27 @@
+{
+    "course_id": "DKM_50000",
+    "sql_id": "100131366",
+    "course_name": "論文研討(一)",
+    "english_course_name": "Seminar on Information Management（I）",
+    "credits": "1/1",
+    "teacher": [
+        "江志卿"
+    ],
+    "classroom": [
+        "理B302"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100131366",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100131366",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2938AA",
+    "sql_id": "111234631",
+    "course_name": "爵士演奏(主修)(4)AA",
+    "english_course_name": "Jazz (Major)(Ⅳ)",
+    "credits": "1/1",
+    "teacher": [
+        "魏廣晧"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111234631",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111234631",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

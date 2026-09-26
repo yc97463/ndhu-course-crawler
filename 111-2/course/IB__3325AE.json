@@ -1,0 +1,27 @@
+{
+    "course_id": "IB__3325AE",
+    "sql_id": "111289558",
+    "course_name": "國際企業專題AE",
+    "english_course_name": "Project in International Business",
+    "credits": "1/1",
+    "teacher": [
+        "夏締青"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111289558",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111289558",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

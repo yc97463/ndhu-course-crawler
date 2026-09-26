@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES53830",
+    "sql_id": "100156108",
+    "course_name": "生態經濟學",
+    "english_course_name": "Ecological Economics",
+    "credits": "3/3",
+    "teacher": [
+        "李俊鴻"
+    ],
+    "classroom": [
+        "理B303",
+        "理B303",
+        "理B303"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100156108",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100156108",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

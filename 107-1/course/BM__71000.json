@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__71000",
+    "sql_id": "107193078",
+    "course_name": "組織理論研究",
+    "english_course_name": "Seminar in Organization Theory",
+    "credits": "3/3",
+    "teacher": [
+        "陳雯虹"
+    ],
+    "classroom": [
+        "管理學院C136",
+        "管理學院C136",
+        "管理學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107193078",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107193078",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

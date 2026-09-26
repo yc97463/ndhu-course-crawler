@@ -1,0 +1,37 @@
+{
+    "course_id": "VAE_53400",
+    "sql_id": "111212774",
+    "course_name": "流行文化與創意",
+    "english_course_name": "Popular Culture and Creativity",
+    "credits": "3/3",
+    "teacher": [
+        "郭令權"
+    ],
+    "classroom": [
+        "藝術學院A218",
+        "藝術學院A218",
+        "藝術學院A218"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111212774",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111212774",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

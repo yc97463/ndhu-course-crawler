@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__3890AA",
+    "sql_id": "100105620",
+    "course_name": "廣告與消費者心理AA",
+    "english_course_name": "Advertising and Consumer Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "陳俋綱"
+    ],
+    "classroom": [
+        "工A437",
+        "工A437",
+        "工A437"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100105620",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100105620",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
