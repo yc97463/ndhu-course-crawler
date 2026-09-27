@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST27580",
+    "sql_id": "108171471",
+    "course_name": "十到十三世紀的中國政治與人物",
+    "english_course_name": "Politics and People: 10th to 13th-Century China",
+    "credits": "3/3",
+    "teacher": [
+        "陳元朋"
+    ],
+    "classroom": [
+        "人社三館B130",
+        "人社三館B130",
+        "人社三館B130"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108171471",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108171471",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

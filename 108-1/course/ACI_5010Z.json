@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_5010Z",
+    "sql_id": "108142222",
+    "course_name": "專題企劃",
+    "english_course_name": "Project Proposal Writing",
+    "credits": "3/3",
+    "teacher": [
+        "萬煜瑤"
+    ],
+    "classroom": [
+        "原民院A327",
+        "原民院A327",
+        "原民院A327"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108142222",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108142222",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

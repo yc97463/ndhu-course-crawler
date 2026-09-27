@@ -1,0 +1,27 @@
+{
+    "course_id": "CSIE7120AO",
+    "sql_id": "108106973",
+    "course_name": "論文研究(十一)AO",
+    "english_course_name": "Thesis (XI)",
+    "credits": "1/1",
+    "teacher": [
+        "賴寶蓮"
+    ],
+    "classroom": [
+        "研討室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108106973",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108106973",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

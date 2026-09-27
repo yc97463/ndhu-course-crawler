@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__21130",
+    "sql_id": "108116820",
+    "course_name": "當代台語對話",
+    "english_course_name": "Conversation of Contemporary Taiwanese Hokkien",
+    "credits": "3/3",
+    "teacher": [
+        "康培德"
+    ],
+    "classroom": [
+        "人社三館C116",
+        "人社三館C116",
+        "人社三館C116"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108116820",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108116820",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

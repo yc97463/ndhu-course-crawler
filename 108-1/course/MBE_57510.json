@@ -1,0 +1,37 @@
+{
+    "course_id": "MBE_57510",
+    "sql_id": "108119496",
+    "course_name": "環境汙染生物累積特論",
+    "english_course_name": "Bioaccumulation of Environmental Pollutents",
+    "credits": "3/3",
+    "teacher": [
+        "柯風溪"
+    ],
+    "classroom": [
+        "一研1樓教室",
+        "一研1樓教室",
+        "一研1樓教室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "11"
+        },
+        {
+            "day": "五",
+            "period": "12"
+        },
+        {
+            "day": "五",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108119496",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108119496",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

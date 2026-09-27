@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_20110",
+    "sql_id": "108164633",
+    "course_name": "性別與健康",
+    "english_course_name": "Gender and Health",
+    "credits": "3/3",
+    "teacher": [
+        "梁莉芳"
+    ],
+    "classroom": [
+        "人社二館B201",
+        "人社二館B201",
+        "人社二館B201"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108164633",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108164633",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

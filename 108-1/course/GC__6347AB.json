@@ -1,0 +1,35 @@
+{
+    "course_id": "GC__6347AB",
+    "sql_id": "108102968",
+    "course_name": "認識宇宙AB",
+    "english_course_name": "Exploration of the universe",
+    "credits": "2/2",
+    "teacher": [
+        "李大興",
+        "劉承邦",
+        "紀信昌",
+        "葉振斌"
+    ],
+    "classroom": [
+        "理工一館-第一講堂A108",
+        "理工一館-第一講堂A108"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108102968",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108102968",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}
