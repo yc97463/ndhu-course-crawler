@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__2050AC",
+    "sql_id": "105234696",
+    "course_name": "國音及說話AC",
+    "english_course_name": "Chinese Phonology and Speech",
+    "credits": "2/2",
+    "teacher": [
+        "巫俊勳"
+    ],
+    "classroom": [
+        "教育學院B124",
+        "教育學院B124"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105234696",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105234696",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

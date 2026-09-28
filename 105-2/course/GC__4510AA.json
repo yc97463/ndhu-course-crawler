@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__4510AA",
+    "sql_id": "105258361",
+    "course_name": "媒體素養AA",
+    "english_course_name": "Media Literacy",
+    "credits": "3/3",
+    "teacher": [
+        "黃毓超"
+    ],
+    "classroom": [
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105258361",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105258361",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

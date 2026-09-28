@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__1232AB",
+    "sql_id": "105215653",
+    "course_name": "英文作文（一）（下）AB",
+    "english_course_name": "English Composition (I), 2nd semester",
+    "credits": "3/3",
+    "teacher": [
+        "陳淑玲"
+    ],
+    "classroom": [
+        "人社一館D204",
+        "人社一館D204",
+        "人社一館D204"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105215653",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105215653",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

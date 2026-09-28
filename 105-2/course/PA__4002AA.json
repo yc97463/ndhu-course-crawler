@@ -1,0 +1,27 @@
+{
+    "course_id": "PA__4002AA",
+    "sql_id": "105211127",
+    "course_name": "實習與演練AA",
+    "english_course_name": "Practices and Learning of Public and Social Services",
+    "credits": "1/1",
+    "teacher": [
+        "高長"
+    ],
+    "classroom": [
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105211127",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105211127",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

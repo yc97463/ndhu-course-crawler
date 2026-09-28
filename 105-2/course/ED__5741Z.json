@@ -1,0 +1,54 @@
+{
+    "course_id": "ED__5741Z",
+    "sql_id": "105257689",
+    "course_name": "創新教學與評量研究",
+    "english_course_name": "Study on Innovation teaching and assessment",
+    "credits": "3/3",
+    "teacher": [
+        "劉明洲",
+        "李暉",
+        "蕭昭君"
+    ],
+    "classroom": [
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        },
+        {
+            "day": "六",
+            "period": "12"
+        },
+        {
+            "day": "六",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105257689",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105257689",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

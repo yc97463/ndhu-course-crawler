@@ -1,0 +1,32 @@
+{
+    "course_id": "FL__5181AA",
+    "sql_id": "105211817",
+    "course_name": "論文研究(二)AA",
+    "english_course_name": "Thesis Guidance（Ⅱ）",
+    "credits": "2/2",
+    "teacher": [
+        "劉惠萍"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "15"
+        },
+        {
+            "day": "三",
+            "period": "16"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105211817",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105211817",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

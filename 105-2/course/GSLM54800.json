@@ -1,0 +1,33 @@
+{
+    "course_id": "GSLM54800",
+    "sql_id": "105289734",
+    "course_name": "專題討論：運籌管理講座（二)",
+    "english_course_name": "Seminar in Logistics Managemant (II)",
+    "credits": "1/2",
+    "teacher": [
+        "陳正杰",
+        "溫日華"
+    ],
+    "classroom": [
+        "管理學院A103",
+        "管理學院A103"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105289734",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105289734",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "運籌管理研究所::GRADUATE INSTITUTE OF LOGISTICS MANAGEMENT"
+        }
+    ]
+}
