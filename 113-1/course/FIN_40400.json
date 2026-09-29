@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_40400",
+    "sql_id": "113188100",
+    "course_name": "行為財務學",
+    "english_course_name": "Behavioral Finance",
+    "credits": "3/3",
+    "teacher": [
+        "翁胤哲"
+    ],
+    "classroom": [
+        "管理學院C103",
+        "管理學院C103",
+        "管理學院C103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113188100",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113188100",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

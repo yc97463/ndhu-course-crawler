@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_73790",
+    "sql_id": "113120639",
+    "course_name": "跨文化研究與應用",
+    "english_course_name": "Research and Application of Cross-Cultures",
+    "credits": "3/3",
+    "teacher": [
+        "林意雪"
+    ],
+    "classroom": [
+        "教育學院B329",
+        "教育學院B329",
+        "教育學院B329"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113120639",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113120639",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -12991,6 +12991,22 @@
         "offering_department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS",
         "college": "管理學院::COLLEGE OF MANAGEMENT"
     },
+    "IB__M020AP": {
+        "campus": "其它",
+        "department": "碩士",
+        "course_id": "IB__M020AP",
+        "sql_id": "115152044",
+        "course_name": "引導研究AP",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115152044",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115152044",
+        "class_time": "/與教師另行約定",
+        "english_course_name": "是",
+        "credits": "Directed Research",
+        "teacher": "1/1",
+        "classroom": "/Octavina",
+        "offering_department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS",
+        "college": "管理學院::COLLEGE OF MANAGEMENT"
+    },
     "IB__M021AJ": {
         "campus": "其它",
         "department": "碩士",

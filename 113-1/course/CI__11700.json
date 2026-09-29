@@ -1,0 +1,37 @@
+{
+    "course_id": "CI__11700",
+    "sql_id": "113182063",
+    "course_name": "族群研究概論",
+    "english_course_name": "Introduction to Ethnic Studies",
+    "credits": "3/3",
+    "teacher": [
+        "羅永清"
+    ],
+    "classroom": [
+        "原民院A206",
+        "原民院A206",
+        "原民院A206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113182063",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113182063",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

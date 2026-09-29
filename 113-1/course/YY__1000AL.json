@@ -1,0 +1,44 @@
+{
+    "course_id": "YY__1000AL",
+    "sql_id": "113101706",
+    "course_name": "體育(一)AL",
+    "english_course_name": "Physical Education (I)",
+    "credits": "1/2",
+    "teacher": [
+        "許文豪"
+    ],
+    "classroom": [
+        "體育館網球場",
+        "體育館網球場"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113101706",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113101706",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "體育中心::PHYSICAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "體育課程::Physical education courses"
+        }
+    ]
+}

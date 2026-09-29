@@ -1,0 +1,52 @@
+{
+    "course_id": "IPA_40300",
+    "sql_id": "113175311",
+    "course_name": "專業實習",
+    "english_course_name": "Professional Internship",
+    "credits": "3/0:6",
+    "teacher": [
+        "巴奈‧母路"
+    ],
+    "classroom": [
+        "原民院A323",
+        "原民院A323",
+        "原民院A323",
+        "原民院A323",
+        "原民院A323",
+        "原民院A323"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "2"
+        },
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "一",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113175311",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113175311",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民族樂舞與藝術學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS PERFORMANCE AND ARTS"
+        }
+    ]
+}

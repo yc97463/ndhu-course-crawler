@@ -1,0 +1,45 @@
+{
+    "course_id": "GC__6365AA",
+    "sql_id": "113148319",
+    "course_name": "中華民國憲法AA",
+    "english_course_name": "Constitution of The Republic of China",
+    "credits": "3/3",
+    "teacher": [
+        "石世豪"
+    ],
+    "classroom": [
+        "人社二館-第二講堂B007",
+        "人社二館-第二講堂B007",
+        "人社二館-第二講堂B007"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113148319",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113148319",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

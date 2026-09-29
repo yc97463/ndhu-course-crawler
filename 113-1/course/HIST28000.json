@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST28000",
+    "sql_id": "113112215",
+    "course_name": "中國宗教史",
+    "english_course_name": "History of Chinese Religion",
+    "credits": "3/3",
+    "teacher": [
+        "陳藝勻"
+    ],
+    "classroom": [
+        "人社三館B130",
+        "人社三館B130",
+        "人社三館B130"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113112215",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113112215",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

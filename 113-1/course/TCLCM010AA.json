@@ -1,0 +1,27 @@
+{
+    "course_id": "TCLCM010AA",
+    "sql_id": "113186852",
+    "course_name": "論文研究AA",
+    "english_course_name": "Thesis Study",
+    "credits": "1/1",
+    "teacher": [
+        "朱嘉雯"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113186852",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113186852",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院華語文教學暨書法國際碩士班::INTERNATIONAL MASTER PROGRAM OF TEACHING CHINESE AND CALLIGRAPHY"
+        }
+    ]
+}

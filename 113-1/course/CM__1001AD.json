@@ -1,0 +1,38 @@
+{
+    "course_id": "CM__1001AD",
+    "sql_id": "113123026",
+    "course_name": "企業倫理講座AD",
+    "english_course_name": "Business Ethics Seminar",
+    "credits": "2/2",
+    "teacher": [
+        "陳建男",
+        "李易儒",
+        "呂進瑞"
+    ],
+    "classroom": [
+        "管理學院-第二講堂D124",
+        "管理學院-第二講堂D124"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113123026",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113123026",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

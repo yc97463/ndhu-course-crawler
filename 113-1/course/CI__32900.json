@@ -1,0 +1,42 @@
+{
+    "course_id": "CI__32900",
+    "sql_id": "113103585",
+    "course_name": "原住民族影像",
+    "english_course_name": "Indigenous Images",
+    "credits": "3/4",
+    "teacher": [
+        "傅可恩"
+    ],
+    "classroom": [
+        "原民院B106",
+        "原民院B106",
+        "原民院B106",
+        "原民院B106"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113103585",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113103585",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

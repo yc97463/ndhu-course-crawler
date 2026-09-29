@@ -1,0 +1,37 @@
+{
+    "course_id": "IS__D1070",
+    "sql_id": "113184514",
+    "course_name": "原住民族與區域專題研究",
+    "english_course_name": "Indigenous Peoples and Regional Studies",
+    "credits": "3/3",
+    "teacher": [
+        "包?娜"
+    ],
+    "classroom": [
+        "原民院A318",
+        "原民院A318",
+        "原民院A318"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113184514",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113184514",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院原住民族研究國際博士班::INTERNATIONAL PH. D. PROGRAM OF INDIGENOUS STUDIES"
+        }
+    ]
+}
