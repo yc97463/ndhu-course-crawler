@@ -1,7 +1,7 @@
 {
-    "course_id": "TH__11500",
-    "sql_id": "102321838",
-    "course_name": "教育社會學",
+    "course_id": "TH__1150AB",
+    "sql_id": "100359515",
+    "course_name": "教育社會學AB",
     "english_course_name": "Sociology of Education",
     "credits": "2/2",
     "teacher": [
@@ -31,12 +31,12 @@
             "period": "11"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102321838",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102321838",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100359515",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100359515",
     "departments": [
         {
             "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
-            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+            "department": "小學教育"
         }
     ]
 }

@@ -1,0 +1,62 @@
+{
+    "course_id": "CBTH00040",
+    "sql_id": "111323576",
+    "course_name": "跨領域教材教法(雙語教學課程)",
+    "english_course_name": "Interdisciplinary Teaching Methods",
+    "credits": "2/2",
+    "teacher": [
+        "蘇育代"
+    ],
+    "classroom": [
+        "教育學院B108",
+        "教育學院B108",
+        "教育學院B108",
+        "教育學院B108",
+        "教育學院B108",
+        "教育學院B108",
+        "教育學院B108",
+        "教育學院B108"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111323576",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111323576",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+        }
+    ]
+}

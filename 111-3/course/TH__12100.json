@@ -1,17 +1,17 @@
 {
     "course_id": "TH__12100",
-    "sql_id": "102310374",
+    "sql_id": "111368286",
     "course_name": "健康與體育",
     "english_course_name": "Health and Physical Education",
     "credits": "2/2",
     "teacher": [
-        "楊昌斌"
+        "張木山"
     ],
     "classroom": [
-        "教B108",
-        "教B108",
-        "教B108",
-        "教B108"
+        "教育學院B124",
+        "教育學院B124",
+        "教育學院B124",
+        "教育學院B124"
     ],
     "class_time": [
         {
@@ -31,8 +31,8 @@
             "period": "11"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102310374",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102310374",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111368286",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111368286",
     "departments": [
         {
             "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",

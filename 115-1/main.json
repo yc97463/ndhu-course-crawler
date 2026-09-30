@@ -7979,7 +7979,7 @@
         "english_course_name": "否",
         "credits": "Special Topics in Electrical Engineering Lab.(I)",
         "teacher": "1/3",
-        "classroom": "/黃家華/陳美娟/張伯浩/陳俊全/謝欣然/陳震宇/林群傑/劉耿銘/吳柏宏/謝長倭/翁若敏/劉子齊",
+        "classroom": "/黃家華/陳美娟/謝欣然/陳震宇/林群傑/劉耿銘/吳柏宏/謝長倭/翁若敏/劉子齊",
         "offering_department": "電機工程學系::DEPARTMENT OF ELECTRICAL ENGINEERING",
         "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING"
     },
@@ -17035,7 +17035,7 @@
         "english_course_name": "否",
         "credits": "Thesis Study",
         "teacher": "1/1",
-        "classroom": "/李正芬/邱凡芸/何寶璋/朱嘉雯",
+        "classroom": "/李正芬",
         "offering_department": "人文社會科學學院華語文教學國際博士班::INTERNATIONAL PH.D. PROGRAM OF TEACHING CHINESE AS A SECOND LANGUAGE",
         "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES"
     },
@@ -23963,7 +23963,7 @@
         "english_course_name": "否",
         "credits": "The Capstone Project Report on Agroecology",
         "teacher": "1/1",
-        "classroom": "/待聘",
+        "classroom": "/吳海音/蔡建福",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -25131,7 +25131,7 @@
         "english_course_name": "否",
         "credits": "Independent Study (I)",
         "teacher": "1/1",
-        "classroom": "/吳海音",
+        "classroom": "/洪耀明/林祥偉",
         "offering_department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
     },
@@ -25402,7 +25402,7 @@
         "class_time": "/三5/三6",
         "english_course_name": "否",
         "credits": "Seminar",
-        "teacher": "1/1",
+        "teacher": "1/2",
         "classroom": "/呂美津",
         "offering_department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY",
         "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY"
@@ -27807,6 +27807,22 @@
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
+    "MUS_18300": {
+        "campus": "壽豐校區",
+        "department": "學一",
+        "course_id": "MUS_18300",
+        "sql_id": "115132949",
+        "course_name": "爵士電貝斯/低音大提琴 (副修) (一)",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115132949",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115132949",
+        "class_time": "/二1",
+        "english_course_name": "否",
+        "credits": "Jazz Bass (Minor) (I)",
+        "teacher": "0.5/0.5",
+        "classroom": "/山田洋平",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
     "MUS_18380": {
         "campus": "壽豐校區",
         "department": "學一",
@@ -27932,6 +27948,22 @@
         "credits": "History of Western Music (I)",
         "teacher": "2/2",
         "classroom": "/劉馬利",
+        "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
+        "college": "藝術學院::COLLEGE OF THE ARTS"
+    },
+    "MUS_20200": {
+        "campus": "壽豐校區",
+        "department": "學二",
+        "course_id": "MUS_20200",
+        "sql_id": "115166877",
+        "course_name": "小提琴（主修）（3）",
+        "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115166877",
+        "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115166877",
+        "class_time": "/五1",
+        "english_course_name": "否",
+        "credits": "Violin（Major）（Ⅲ）",
+        "teacher": "1/1",
+        "classroom": "/沈克恕",
         "offering_department": "音樂學系::DEPARTMENT OF MUSIC",
         "college": "藝術學院::COLLEGE OF THE ARTS"
     },
@@ -28263,7 +28295,7 @@
         "course_name": "室內樂擊樂/絃樂 (一)",
         "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115182940",
         "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115182940",
-        "class_time": "/三14/三15",
+        "class_time": "/三15/三16",
         "english_course_name": "否",
         "credits": "Chamber Music Percussion/String (I)",
         "teacher": "1/2",
