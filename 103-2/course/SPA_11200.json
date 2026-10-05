@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_11200",
+    "sql_id": "103266860",
+    "course_name": "質性研究法",
+    "english_course_name": "Qualitative Research",
+    "credits": "3/3",
+    "teacher": [
+        "田島真弓"
+    ],
+    "classroom": [
+        "共B107",
+        "共B107",
+        "共B107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103266860",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103266860",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

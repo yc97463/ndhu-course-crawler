@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST2670AB",
+    "sql_id": "103249807",
+    "course_name": "歷史英文AB",
+    "english_course_name": "English for History",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億"
+    ],
+    "classroom": [
+        "文A318",
+        "文A318",
+        "文A318"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103249807",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103249807",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

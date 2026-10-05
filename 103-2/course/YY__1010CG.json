@@ -1,0 +1,36 @@
+{
+    "course_id": "YY__1010CG",
+    "sql_id": "103255739",
+    "course_name": "體育(二)CG",
+    "english_course_name": "Physical Education﹝Ⅱ﹞",
+    "credits": "1/2",
+    "teacher": [
+        "黃陞中"
+    ],
+    "classroom": [
+        "D區體育館主場",
+        "D區體育館主場"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "11"
+        },
+        {
+            "day": "五",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103255739",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103255739",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

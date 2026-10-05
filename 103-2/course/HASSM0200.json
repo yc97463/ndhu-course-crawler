@@ -1,0 +1,37 @@
+{
+    "course_id": "HASSM0200",
+    "sql_id": "103283075",
+    "course_name": "亞太地區文化資產",
+    "english_course_name": "Heritage in an Asian and Pacific Context",
+    "credits": "3/3",
+    "teacher": [
+        "康培德"
+    ],
+    "classroom": [
+        "人社一館B317",
+        "人社一館B317",
+        "人社一館B317"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103283075",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103283075",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

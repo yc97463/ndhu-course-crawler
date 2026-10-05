@@ -1,0 +1,37 @@
+{
+    "course_id": "UPOL10020",
+    "sql_id": "103273631",
+    "course_name": "刑法分則",
+    "english_course_name": "Criminal law: Specific parts",
+    "credits": "3/3",
+    "teacher": [
+        "湯文章"
+    ],
+    "classroom": [
+        "共六講堂B015",
+        "共六講堂B015",
+        "共六講堂B015"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "7"
+        },
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103273631",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103273631",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程::UNDERGRADUATE PROGRAM OF LAW"
+        }
+    ]
+}

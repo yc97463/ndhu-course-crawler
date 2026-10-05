@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES52800",
+    "sql_id": "103211556",
+    "course_name": "植物生物技術與組織培養",
+    "english_course_name": "Plant Biotechnology and Tissue Culture",
+    "credits": "3/3",
+    "teacher": [
+        "周志青"
+    ],
+    "classroom": [
+        "環B160",
+        "環B160",
+        "環B160"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103211556",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103211556",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}
