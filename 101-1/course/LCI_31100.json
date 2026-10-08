@@ -1,0 +1,38 @@
+{
+    "course_id": "LCI_31100",
+    "sql_id": "101189948",
+    "course_name": "族語傳播與媒體應用",
+    "english_course_name": "The Application of the Mass Media for Ethnic-Language Broadcasting",
+    "credits": "3/3",
+    "teacher": [
+        "董克景",
+        "戴明雄"
+    ],
+    "classroom": [
+        "民A212",
+        "民A212",
+        "民A212"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101189948",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101189948",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

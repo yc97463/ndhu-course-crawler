@@ -1,0 +1,52 @@
+{
+    "course_id": "ECE_5060Z",
+    "sql_id": "101134054",
+    "course_name": "高等統計與實驗設計",
+    "english_course_name": "Advanced Statistics and Experimental Design",
+    "credits": "3/3",
+    "teacher": [
+        "林俊瑩"
+    ],
+    "classroom": [
+        "五守樓208教室",
+        "五守樓208教室",
+        "五守樓208教室",
+        "五守樓208教室",
+        "五守樓208教室",
+        "五守樓208教室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101134054",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101134054",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

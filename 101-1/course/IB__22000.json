@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__22000",
+    "sql_id": "101175150",
+    "course_name": "國際貿易實務",
+    "english_course_name": "International Trade Practice",
+    "credits": "3/3",
+    "teacher": [
+        "高月霞"
+    ],
+    "classroom": [
+        "管A119",
+        "管A119",
+        "管A119"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101175150",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101175150",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

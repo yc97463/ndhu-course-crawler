@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI30510",
+    "sql_id": "101111053",
+    "course_name": "華文文學選(二)歐美華文文學",
+    "english_course_name": "Selected Readings in Sinophone Literature (Ⅱ) Europe and America",
+    "credits": "3/3",
+    "teacher": [
+        "劉秀美"
+    ],
+    "classroom": [
+        "文A107",
+        "文A107",
+        "文A107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101111053",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101111053",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

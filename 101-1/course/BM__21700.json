@@ -1,0 +1,27 @@
+{
+    "course_id": "BM__21700",
+    "sql_id": "101147311",
+    "course_name": "專題討論：企業專題講座(一)",
+    "english_course_name": "Seminar in Business Management Pratice (Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "陳筱華"
+    ],
+    "classroom": [
+        "管D118"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101147311",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101147311",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

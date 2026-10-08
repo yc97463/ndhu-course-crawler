@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_3184AB",
+    "sql_id": "101155125",
+    "course_name": "產業社會學AB",
+    "english_course_name": "Industrial Sociology",
+    "credits": "3/3",
+    "teacher": [
+        "田島真弓"
+    ],
+    "classroom": [
+        "共A103",
+        "共A103",
+        "共A103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101155125",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101155125",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會暨公共行政學系::DEPARTMENT OF SOCIOLOGY AND PUBLIC AFFAIRS"
+        }
+    ]
+}

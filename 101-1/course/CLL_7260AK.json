@@ -1,0 +1,32 @@
+{
+    "course_id": "CLL_7260AK",
+    "sql_id": "101173545",
+    "course_name": "專題研究（三）AK",
+    "english_course_name": "Independent Study（III）",
+    "credits": "2/2",
+    "teacher": [
+        "許學仁"
+    ],
+    "classroom": [
+        "文D219",
+        "文D219"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "8"
+        },
+        {
+            "day": "日",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101173545",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101173545",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}
