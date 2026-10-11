@@ -1,0 +1,37 @@
+{
+    "course_id": "PE__51800",
+    "sql_id": "105264627",
+    "course_name": "運動媒體專題研究",
+    "english_course_name": "Advanced Media Technology in Sport",
+    "credits": "3/3",
+    "teacher": [
+        "邱建章"
+    ],
+    "classroom": [
+        "教育學院B331",
+        "教育學院B331",
+        "教育學院B331"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105264627",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105264627",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

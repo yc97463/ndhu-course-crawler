@@ -1,0 +1,27 @@
+{
+    "course_id": "SILI3060AA",
+    "sql_id": "105282052",
+    "course_name": "專題製作AA",
+    "english_course_name": "Special Topics",
+    "credits": "1/1",
+    "teacher": [
+        "魏貽君"
+    ],
+    "classroom": [
+        "人社一館A107"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105282052",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105282052",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

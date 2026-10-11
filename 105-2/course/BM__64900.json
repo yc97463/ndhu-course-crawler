@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__64900",
+    "sql_id": "105283712",
+    "course_name": "工商心理學",
+    "english_course_name": "Industrial and Commercial Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "林家五"
+    ],
+    "classroom": [
+        "管理學院D118",
+        "管理學院D118",
+        "管理學院D118"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105283712",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105283712",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

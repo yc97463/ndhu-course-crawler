@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_25000",
+    "sql_id": "105284718",
+    "course_name": "聲樂（副修）（四）",
+    "english_course_name": "Voice（Minor）（Ⅳ）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "彭興讓"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105284718",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105284718",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}
