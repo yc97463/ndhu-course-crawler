@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_52600",
+    "sql_id": "106136444",
+    "course_name": "宋代文學專題研究",
+    "english_course_name": "Seminar in Song Literature",
+    "credits": "3/3",
+    "teacher": [
+        "張蜀蕙"
+    ],
+    "classroom": [
+        "人社一館D219",
+        "人社一館D219",
+        "人社一館D219"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106136444",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106136444",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

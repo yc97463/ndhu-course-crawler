@@ -1,0 +1,41 @@
+{
+    "course_id": "AD__2120AB",
+    "sql_id": "106141344",
+    "course_name": "電腦繪畫AB",
+    "english_course_name": "Computer Graphic Arts",
+    "credits": "3/3",
+    "teacher": [
+        "湯運添"
+    ],
+    "classroom": [
+        "原民院C121",
+        "原民院C121",
+        "原民院C121"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106141344",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106141344",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        },
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}
