@@ -1,0 +1,52 @@
+{
+    "course_id": "ISAT5342Z",
+    "sql_id": "101512249",
+    "course_name": "融合教育研究",
+    "english_course_name": "Seminar on Inclusive Education",
+    "credits": "3/3",
+    "teacher": [
+        "林坤燦"
+    ],
+    "classroom": [
+        "教A104",
+        "教A104",
+        "教A104",
+        "教A104",
+        "教A104",
+        "教A104"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        },
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101512249",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101512249",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}
