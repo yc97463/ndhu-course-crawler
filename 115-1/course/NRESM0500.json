@@ -1,12 +1,12 @@
 {
     "course_id": "NRESM0500",
-    "sql_id": "115171027",
+    "sql_id": "115144701",
     "course_name": "專題演講",
     "english_course_name": "是",
     "credits": "Colloquium",
     "teacher": [
         "0",
-        "1"
+        "0"
     ],
     "classroom": [
         "洪耀明"
@@ -17,8 +17,8 @@
             "period": "7"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115171027",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115171027",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115144701",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115144701",
     "departments": [
         {
             "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",

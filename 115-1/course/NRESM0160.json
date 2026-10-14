@@ -1,6 +1,6 @@
 {
     "course_id": "NRESM0160",
-    "sql_id": "115115246",
+    "sql_id": "115138460",
     "course_name": "碩士論文",
     "english_course_name": "是",
     "credits": "Master Thesis",
@@ -17,8 +17,8 @@
             "period": "教師另行約定"
         }
     ],
-    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115115246",
-    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115115246",
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115138460",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115138460",
     "departments": [
         {
             "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
