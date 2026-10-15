@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_B0180",
+    "sql_id": "111126828",
+    "course_name": "中級會計學(一)",
+    "english_course_name": "Intermediate Accounting(I)",
+    "credits": "3/3",
+    "teacher": [
+        "孫文琦"
+    ],
+    "classroom": [
+        "管理學院C109",
+        "管理學院C109",
+        "管理學院C109"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111126828",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111126828",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

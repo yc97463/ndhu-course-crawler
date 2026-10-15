@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_22000",
+    "sql_id": "100155221",
+    "course_name": "媒介概論",
+    "english_course_name": "Introduction of Media",
+    "credits": "3/3",
+    "teacher": [
+        "孫嘉穗"
+    ],
+    "classroom": [
+        "民A338",
+        "民A338",
+        "民A338"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100155221",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100155221",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IAED10010",
+    "sql_id": "111181344",
+    "course_name": "原住民族議題",
+    "english_course_name": "Indigenous Issues",
+    "credits": "3/3",
+    "teacher": [
+        "陳張培倫"
+    ],
+    "classroom": [
+        "原民院A223",
+        "原民院A223",
+        "原民院A223"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111181344",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111181344",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

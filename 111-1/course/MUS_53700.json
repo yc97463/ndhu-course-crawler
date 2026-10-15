@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_53700",
+    "sql_id": "111108047",
+    "course_name": "絃樂(二)",
+    "english_course_name": "Violin/Viola/Cello (II)",
+    "credits": "1/1",
+    "teacher": [
+        "張佳馨"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111108047",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111108047",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

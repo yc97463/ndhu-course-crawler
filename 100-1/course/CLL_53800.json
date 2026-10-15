@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_53800",
+    "sql_id": "100160390",
+    "course_name": "清代詩學專題研究",
+    "english_course_name": "Seminar studies in Poems",
+    "credits": "3/3",
+    "teacher": [
+        "蔣寅"
+    ],
+    "classroom": [
+        "共A107",
+        "共A107",
+        "共A107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100160390",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100160390",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

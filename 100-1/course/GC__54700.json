@@ -1,0 +1,38 @@
+{
+    "course_id": "GC__54700",
+    "sql_id": "100192386",
+    "course_name": "中英雙語新聞廣播實務",
+    "english_course_name": "Chinese-English Bilingual News Broadcasting",
+    "credits": "3/3",
+    "teacher": [
+        "林千里",
+        "吳采璋"
+    ],
+    "classroom": [
+        "工B212",
+        "工B212",
+        "工B212"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100192386",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100192386",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

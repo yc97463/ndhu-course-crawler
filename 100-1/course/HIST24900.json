@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST24900",
+    "sql_id": "100140578",
+    "course_name": "臺灣歷史人物分析",
+    "english_course_name": "Analysis of Taiwan Historical Figures",
+    "credits": "3/3",
+    "teacher": [
+        "陳進金"
+    ],
+    "classroom": [
+        "文D205",
+        "文D205",
+        "文D205"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100140578",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100140578",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

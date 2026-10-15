@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST36000",
+    "sql_id": "100101419",
+    "course_name": "環境與歷史",
+    "english_course_name": "Environment and History",
+    "credits": "3/3",
+    "teacher": [
+        "蔣竹山"
+    ],
+    "classroom": [
+        "共D105",
+        "共D105",
+        "共D105"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100101419",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100101419",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "HASSM0070",
+    "sql_id": "100134066",
+    "course_name": "地理資訊系統",
+    "english_course_name": "Geographic Information Systems",
+    "credits": "3/3",
+    "teacher": [
+        "波率斯˙波特諾夫"
+    ],
+    "classroom": [
+        "文B316",
+        "文B316",
+        "文B316"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100134066",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100134066",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

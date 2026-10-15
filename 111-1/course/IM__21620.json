@@ -1,0 +1,27 @@
+{
+    "course_id": "IM__21620",
+    "sql_id": "111163524",
+    "course_name": "資管產學名家面對面",
+    "english_course_name": "Dialogue with information management masters",
+    "credits": "1/1",
+    "teacher": [
+        "江志卿"
+    ],
+    "classroom": [
+        "管理學院B119"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111163524",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111163524",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

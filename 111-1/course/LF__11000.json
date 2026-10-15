@@ -1,0 +1,35 @@
+{
+    "course_id": "LF__11000",
+    "sql_id": "111101888",
+    "course_name": "生命科學導論",
+    "english_course_name": "Introduction to Life Sciences",
+    "credits": "1/1",
+    "teacher": [
+        "彭致文",
+        "李佳洪",
+        "林國知",
+        "袁大鈞",
+        "張瑞宜",
+        "陳季緯",
+        "彭國証",
+        "劉振倫",
+        "蘇玟珉"
+    ],
+    "classroom": [
+        "理工一館-第一講堂A108"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111101888",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111101888",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "生命科學系::DEPARTMENT OF LIFE SCIENCE"
+        }
+    ]
+}

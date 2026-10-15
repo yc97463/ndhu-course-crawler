@@ -1,0 +1,52 @@
+{
+    "course_id": "FL__53600",
+    "sql_id": "100193402",
+    "course_name": "文化詮釋與批判",
+    "english_course_name": "Cultural Interpretation and Criticism",
+    "credits": "3/3",
+    "teacher": [
+        "林明德"
+    ],
+    "classroom": [
+        "共A209",
+        "共A209",
+        "共A209",
+        "共A209",
+        "共A209",
+        "共A209"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100193402",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100193402",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

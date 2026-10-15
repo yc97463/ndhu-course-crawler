@@ -1,0 +1,29 @@
+{
+    "course_id": "MGT_5370Z",
+    "sql_id": "100178570",
+    "course_name": "高階管理特論 (五)",
+    "english_course_name": "Special Topics in Advanced Management (Ⅴ)",
+    "credits": "1/1",
+    "teacher": [
+        "彭玉樹",
+        "郭平欣",
+        "褚志鵬"
+    ],
+    "classroom": [
+        "共B209"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100178570",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100178570",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

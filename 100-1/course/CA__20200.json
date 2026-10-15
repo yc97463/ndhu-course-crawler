@@ -1,0 +1,38 @@
+{
+    "course_id": "CA__20200",
+    "sql_id": "100187061",
+    "course_name": "台灣藝術史",
+    "english_course_name": "history of Taiwan arts",
+    "credits": "3/3",
+    "teacher": [
+        "蔡文慶",
+        "林世悠"
+    ],
+    "classroom": [
+        "民A201",
+        "民A201",
+        "民A201"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100187061",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100187061",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

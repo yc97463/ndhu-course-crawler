@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD5560Z",
+    "sql_id": "100117036",
+    "course_name": "政策網絡與管理研究",
+    "english_course_name": "Studies in Policy Networks and Policy Management",
+    "credits": "3/3",
+    "teacher": [
+        "朱鎮明"
+    ],
+    "classroom": [
+        "文B203",
+        "文B203",
+        "文B203"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100117036",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100117036",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政研究所::GRADUATE INSTITUTE OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

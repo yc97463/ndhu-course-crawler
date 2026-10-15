@@ -1,0 +1,37 @@
+{
+    "course_id": "IIE_59700",
+    "sql_id": "100192318",
+    "course_name": "健康經濟分析(一)",
+    "english_course_name": "Health Economic Analysis(Ⅰ)",
+    "credits": "3/3",
+    "teacher": [
+        "尤素娟"
+    ],
+    "classroom": [
+        "文D205",
+        "文D205",
+        "文D205"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100192318",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100192318",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

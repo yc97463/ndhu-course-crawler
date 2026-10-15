@@ -1,0 +1,42 @@
+{
+    "course_id": "LCI_3350AE",
+    "sql_id": "100118446",
+    "course_name": "族語（三）AE",
+    "english_course_name": "Tribal Languages（III）",
+    "credits": "2/4",
+    "teacher": [
+        "戴明雄"
+    ],
+    "classroom": [
+        "民A347",
+        "民A347",
+        "民A347",
+        "民A347"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "12"
+        },
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100118446",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100118446",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}
