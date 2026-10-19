@@ -1,0 +1,31 @@
+{
+    "course_id": "SL__18810",
+    "sql_id": "106159432",
+    "course_name": "服務學習(二)_資管系",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "侯佳利"
+    ],
+    "classroom": [
+        "管理學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106159432",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106159432",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

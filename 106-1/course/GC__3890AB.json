@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__3890AB",
+    "sql_id": "106146113",
+    "course_name": "廣告與消費者心理AB",
+    "english_course_name": "Advertising and Consumer Psychology",
+    "credits": "3/3",
+    "teacher": [
+        "吳佳燕"
+    ],
+    "classroom": [
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106146113",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106146113",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

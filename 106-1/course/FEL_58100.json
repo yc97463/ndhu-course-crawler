@@ -1,0 +1,37 @@
+{
+    "course_id": "FEL_58100",
+    "sql_id": "106176016",
+    "course_name": "原住民族法專題研究",
+    "english_course_name": "Seminar on Indigenous Law",
+    "credits": "3/3",
+    "teacher": [
+        "傲予莫那 Awi．Mona"
+    ],
+    "classroom": [
+        "人社一館B204",
+        "人社一館B204",
+        "人社一館B204"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        },
+        {
+            "day": "六",
+            "period": "5"
+        },
+        {
+            "day": "六",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106176016",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106176016",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "財經法律研究所::GRADUATE INSTITUTE OF FINANCIAL AND ECONOMIC LAW"
+        }
+    ]
+}

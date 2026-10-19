@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI10730",
+    "sql_id": "106131256",
+    "course_name": "華文文學作品讀法(上)",
+    "english_course_name": "Critical Approaches to Sinophone Literary Texts(I)",
+    "credits": "3/3",
+    "teacher": [
+        "游宗蓉"
+    ],
+    "classroom": [
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106131256",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106131256",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}
