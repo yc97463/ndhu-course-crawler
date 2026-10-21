@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__10700",
+    "sql_id": "109281651",
+    "course_name": "藝術經濟",
+    "english_course_name": "Art Economical",
+    "credits": "3/3",
+    "teacher": [
+        "林昭宏"
+    ],
+    "classroom": [
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109281651",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109281651",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

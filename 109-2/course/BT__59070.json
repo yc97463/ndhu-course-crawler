@@ -1,0 +1,37 @@
+{
+    "course_id": "BT__59070",
+    "sql_id": "109200958",
+    "course_name": "脂質化學與代謝",
+    "english_course_name": "Lipid chemistry and metabolism",
+    "credits": "3/3",
+    "teacher": [
+        "蘇玟珉"
+    ],
+    "classroom": [
+        "理工三館B203",
+        "理工三館B203",
+        "理工三館B203"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "13"
+        },
+        {
+            "day": "四",
+            "period": "14"
+        },
+        {
+            "day": "四",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109200958",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109200958",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "生命科學系::DEPARTMENT OF LIFE SCIENCE"
+        }
+    ]
+}

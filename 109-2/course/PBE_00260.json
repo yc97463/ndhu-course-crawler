@@ -1,0 +1,42 @@
+{
+    "course_id": "PBE_00260",
+    "sql_id": "109267301",
+    "course_name": "特殊教育導論",
+    "english_course_name": "Introduction to Special Education",
+    "credits": "2/2",
+    "teacher": [
+        "謝佳諺"
+    ],
+    "classroom": [
+        "教育學院B111",
+        "教育學院B111",
+        "教育學院B111",
+        "教育學院B111"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "12"
+        },
+        {
+            "day": "六",
+            "period": "13"
+        },
+        {
+            "day": "六",
+            "period": "14"
+        },
+        {
+            "day": "六",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109267301",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109267301",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

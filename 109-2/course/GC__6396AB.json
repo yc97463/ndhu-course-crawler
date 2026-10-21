@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6396AB",
+    "sql_id": "109240240",
+    "course_name": "印尼語(一)AB",
+    "english_course_name": "Indonesian (I)",
+    "credits": "3/3",
+    "teacher": [
+        "Rini Sipahutar"
+    ],
+    "classroom": [
+        "理工一館A208",
+        "理工一館A208",
+        "理工一館A208"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109240240",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109240240",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

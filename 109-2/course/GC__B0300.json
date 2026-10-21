@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__B0300",
+    "sql_id": "109272173",
+    "course_name": "基礎華語",
+    "english_course_name": "Fundamental Chinese",
+    "credits": "3/3",
+    "teacher": [
+        "張育欣"
+    ],
+    "classroom": [
+        "人社三館C112",
+        "人社三館C112",
+        "人社三館C112"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109272173",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109272173",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

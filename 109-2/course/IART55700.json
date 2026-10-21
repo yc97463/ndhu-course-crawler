@@ -1,0 +1,40 @@
+{
+    "course_id": "IART55700",
+    "sql_id": "109256257",
+    "course_name": "平面媒材創作專題（二）",
+    "english_course_name": "Advanced Two Dimensional Design(II)",
+    "credits": "3/3",
+    "teacher": [
+        "萬煜瑤"
+    ],
+    "classroom": [
+        "原民院A123",
+        "原民院A327",
+        "原民院A123",
+        "原民院A327",
+        "原民院A123",
+        "原民院A327"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109256257",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109256257",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

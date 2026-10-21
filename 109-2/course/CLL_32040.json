@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_32040",
+    "sql_id": "109238906",
+    "course_name": "尚書",
+    "english_course_name": "Shang-Shu",
+    "credits": "3/3",
+    "teacher": [
+        "程克雅"
+    ],
+    "classroom": [
+        "人社一館A318",
+        "人社一館A318",
+        "人社一館A318"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        },
+        {
+            "day": "三",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109238906",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109238906",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

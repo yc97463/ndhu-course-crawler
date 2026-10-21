@@ -1,0 +1,37 @@
+{
+    "course_id": "SCE_71980",
+    "sql_id": "109283155",
+    "course_name": "科學課程設計與發展",
+    "english_course_name": "Curriculum Design and Development in Science Education",
+    "credits": "3/3",
+    "teacher": [
+        "蔡其瑞"
+    ],
+    "classroom": [
+        "教育學院B329",
+        "教育學院B329",
+        "教育學院B329"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109283155",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109283155",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

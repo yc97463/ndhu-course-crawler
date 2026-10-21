@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT11220",
+    "sql_id": "109275373",
+    "course_name": "高級會計學(下)",
+    "english_course_name": "Advanced Accounting (II)",
+    "credits": "3/3",
+    "teacher": [
+        "陳家慧"
+    ],
+    "classroom": [
+        "管理學院B119",
+        "管理學院B119",
+        "管理學院B119"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109275373",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109275373",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__33240",
+    "sql_id": "109214174",
+    "course_name": "生產技術與人工智慧",
+    "english_course_name": "Operation Technologies and Artificial Intelligence",
+    "credits": "3/3",
+    "teacher": [
+        "陳啟斌"
+    ],
+    "classroom": [
+        "管理學院A115",
+        "管理學院A115",
+        "管理學院A115"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109214174",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109214174",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}
