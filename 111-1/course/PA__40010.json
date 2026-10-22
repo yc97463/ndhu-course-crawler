@@ -1,0 +1,37 @@
+{
+    "course_id": "PA__40010",
+    "sql_id": "111155402",
+    "course_name": "行政法",
+    "english_course_name": "Administrative Law",
+    "credits": "3/3",
+    "teacher": [
+        "黃愛珍"
+    ],
+    "classroom": [
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109",
+        "教育學院-洋霞講堂A109"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111155402",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111155402",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

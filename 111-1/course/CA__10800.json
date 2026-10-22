@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__10800",
+    "sql_id": "111163070",
+    "course_name": "世界音樂",
+    "english_course_name": "World Musics",
+    "credits": "3/3",
+    "teacher": [
+        "林世悠"
+    ],
+    "classroom": [
+        "藝術學院C203",
+        "藝術學院C203",
+        "藝術學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111163070",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111163070",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

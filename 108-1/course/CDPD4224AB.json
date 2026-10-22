@@ -1,0 +1,27 @@
+{
+    "course_id": "CDPD4224AB",
+    "sql_id": "108184553",
+    "course_name": "專題研究IAB",
+    "english_course_name": "Thematic Research(I)",
+    "credits": "1/1",
+    "teacher": [
+        "古智雄"
+    ],
+    "classroom": [
+        "教育學院C111"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108184553",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108184553",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "SPE_41540",
+    "sql_id": "108190602",
+    "course_name": "資優學生獨立研究指導",
+    "english_course_name": "Independent Study of Supervision for Gifted Students",
+    "credits": "2/2",
+    "teacher": [
+        "洪清一"
+    ],
+    "classroom": [
+        "教育學院A106",
+        "教育學院A106"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108190602",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108190602",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

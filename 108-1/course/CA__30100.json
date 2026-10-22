@@ -1,0 +1,38 @@
+{
+    "course_id": "CA__30100",
+    "sql_id": "108191016",
+    "course_name": "人類文化與藝術資產概論",
+    "english_course_name": "Introduction to Human Intangible Cultural Heritage",
+    "credits": "3/3",
+    "teacher": [
+        "余慧君",
+        "陳怡方"
+    ],
+    "classroom": [
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151",
+        "原民院-階梯教室(二)A151"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108191016",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108191016",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "APH_5400AG",
+    "sql_id": "108177674",
+    "course_name": "獨立研究AG",
+    "english_course_name": "Independent Study",
+    "credits": "3/3",
+    "teacher": [
+        "陳企寧"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108177674",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108177674",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        }
+    ]
+}

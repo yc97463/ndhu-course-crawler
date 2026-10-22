@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST52120",
+    "sql_id": "108119038",
+    "course_name": "歷史記憶研究專題",
+    "english_course_name": "Seminar in Historical Memory Studies",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億"
+    ],
+    "classroom": [
+        "人社三館C210",
+        "人社三館C210",
+        "人社三館C210"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108119038",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108119038",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

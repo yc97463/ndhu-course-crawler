@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_5488Z",
+    "sql_id": "108178161",
+    "course_name": "飲食與族群",
+    "english_course_name": "Food and Ethnicity",
+    "credits": "3/3",
+    "teacher": [
+        "葉秀燕"
+    ],
+    "classroom": [
+        "原民院A313",
+        "原民院A313",
+        "原民院A313"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108178161",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108178161",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

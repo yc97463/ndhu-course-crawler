@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__5850AB",
+    "sql_id": "108180995",
+    "course_name": "獨立研究AB",
+    "english_course_name": "Independent Study",
+    "credits": "1/1",
+    "teacher": [
+        "劉効樺",
+        "劉志如",
+        "林繼偉",
+        "陳淑瓊",
+        "王純娟",
+        "王沂釗",
+        "周育如",
+        "高倜歐",
+        "蔣世光",
+        "李沐齊",
+        "翁士恆"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108180995",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108180995",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}
