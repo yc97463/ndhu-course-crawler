@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_42500",
+    "sql_id": "113224480",
+    "course_name": "小號（主修）（8）",
+    "english_course_name": "Trumpet（Major）（Ⅷ）",
+    "credits": "1/1",
+    "teacher": [
+        "謝琅琦"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113224480",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113224480",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

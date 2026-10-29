@@ -1,0 +1,37 @@
+{
+    "course_id": "IS__D1080",
+    "sql_id": "113243769",
+    "course_name": "原住民族人權專題研究",
+    "english_course_name": "Rights of Indigenous Peoples",
+    "credits": "3/3",
+    "teacher": [
+        "傲予莫那 Awi．Mona"
+    ],
+    "classroom": [
+        "原民院A318",
+        "原民院A318",
+        "原民院A318"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113243769",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113243769",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院原住民族研究國際博士班::INTERNATIONAL PH. D. PROGRAM OF INDIGENOUS STUDIES"
+        }
+    ]
+}

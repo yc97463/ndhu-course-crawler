@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_54940",
+    "sql_id": "113277175",
+    "course_name": "區域研究與治理專題",
+    "english_course_name": "Seminar on Regional Studies and Governance",
+    "credits": "3/3",
+    "teacher": [
+        "藍姆路‧卡造"
+    ],
+    "classroom": [
+        "原民院A218",
+        "原民院A218",
+        "原民院A218"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113277175",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113277175",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

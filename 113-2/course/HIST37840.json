@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37840",
+    "sql_id": "113264787",
+    "course_name": "國共關係史",
+    "english_course_name": "History of KMT-CCP Relations",
+    "credits": "3/3",
+    "teacher": [
+        "陳進金"
+    ],
+    "classroom": [
+        "人社三館C108",
+        "人社三館C108",
+        "人社三館C108"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113264787",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113264787",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

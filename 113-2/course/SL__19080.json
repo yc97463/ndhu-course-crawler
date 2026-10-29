@@ -1,0 +1,39 @@
+{
+    "course_id": "SL__19080",
+    "sql_id": "113241220",
+    "course_name": "服務學習(一)_數位行銷班",
+    "english_course_name": "Service Learning (I)",
+    "credits": "1/1",
+    "teacher": [
+        "鄭辰明"
+    ],
+    "classroom": [
+        "管理學院C109"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113241220",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113241220",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院數位行銷與服務創新國際學士班::BACHELOR PROGRAM OF DIGITAL MARKETING AND SERVICE INNOVATION"
+        },
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

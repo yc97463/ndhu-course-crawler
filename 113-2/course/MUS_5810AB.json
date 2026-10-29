@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5810AB",
+    "sql_id": "113263249",
+    "course_name": "獨立研究AB",
+    "english_course_name": "Independent Study",
+    "credits": "1/1",
+    "teacher": [
+        "王麗倩"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113263249",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113263249",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

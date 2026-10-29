@@ -1,0 +1,39 @@
+{
+    "course_id": "HES_50000",
+    "sql_id": "113249283",
+    "course_name": "專題討論",
+    "english_course_name": "Seminar",
+    "credits": "2/3",
+    "teacher": [
+        "吳海音",
+        "洪耀明",
+        "李俊鴻"
+    ],
+    "classroom": [
+        "環境學院A124",
+        "環境學院A124",
+        "環境學院A124"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113249283",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113249283",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "人文與環境碩士學位學程::MASTER OF HUMANITY AND ENVIRONMENTAL SCIENCE PROGRAM"
+        }
+    ]
+}

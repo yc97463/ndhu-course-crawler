@@ -1,0 +1,30 @@
+{
+    "course_id": "AD__3282AB",
+    "sql_id": "113266413",
+    "course_name": "專題企劃AB",
+    "english_course_name": "Special Topics Project",
+    "credits": "1/1",
+    "teacher": [
+        "黃琡雅",
+        "黃成永",
+        "廖慶華",
+        "吳偉谷"
+    ],
+    "classroom": [
+        "藝術學院A128"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113266413",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113266413",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}
