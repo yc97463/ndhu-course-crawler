@@ -1,0 +1,37 @@
+{
+    "course_id": "DDS_40090",
+    "sql_id": "114146004",
+    "course_name": "國際原住民族發展實務",
+    "english_course_name": "Global Indigenous Development Practice",
+    "credits": "3/3",
+    "teacher": [
+        "高怡安Wasiq Silan"
+    ],
+    "classroom": [
+        "原民院A222",
+        "原民院A222",
+        "原民院A222"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114146004",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114146004",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}

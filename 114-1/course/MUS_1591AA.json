@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1591AA",
+    "sql_id": "114153517",
+    "course_name": "爵士鼓 (主修) (1)AA",
+    "english_course_name": "Drum Set (Major) (I)",
+    "credits": "1/1",
+    "teacher": [
+        "林偉中"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114153517",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114153517",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

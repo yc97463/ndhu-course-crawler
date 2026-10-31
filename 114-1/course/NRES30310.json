@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES30310",
+    "sql_id": "114110693",
+    "course_name": "森林生態系統動態與碳循環：原理、模型與量化",
+    "english_course_name": "Forest Ecosystem Dynamics and Carbon Cycling： Principles, Models, and Quantification",
+    "credits": "3/3",
+    "teacher": [
+        "張世杰"
+    ],
+    "classroom": [
+        "環境學院A155",
+        "環境學院A155",
+        "環境學院A155"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114110693",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114110693",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

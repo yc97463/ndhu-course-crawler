@@ -1,0 +1,37 @@
+{
+    "course_id": "APRSD2700",
+    "sql_id": "114189751",
+    "course_name": "地域研究專題",
+    "english_course_name": "Seminar on Area Studies",
+    "credits": "3/3",
+    "teacher": [
+        "金枓哲"
+    ],
+    "classroom": [
+        "人社一館D108",
+        "人社一館D108",
+        "人社一館D108"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114189751",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114189751",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院亞太區域研究博士班::PH.D. PROGRAM OF ASIA-PACIFIC REGIONAL STUDIES"
+        }
+    ]
+}

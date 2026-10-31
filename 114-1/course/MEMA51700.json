@@ -1,0 +1,37 @@
+{
+    "course_id": "MEMA51700",
+    "sql_id": "114188156",
+    "course_name": "認同與差異",
+    "english_course_name": "Identity and Difference",
+    "credits": "3/3",
+    "teacher": [
+        "張瀠之"
+    ],
+    "classroom": [
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114188156",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114188156",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院多元文化教育碩士班::MASTER PROGRAM OF MULTICULTURAL EDUCATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_5005Z",
+    "sql_id": "114133060",
+    "course_name": "立體複合媒材創作專題",
+    "english_course_name": "Advanced Three Dimensional Design",
+    "credits": "3/3",
+    "teacher": [
+        "郭文昌"
+    ],
+    "classroom": [
+        "藝術學院A218",
+        "藝術學院A218",
+        "藝術學院A218"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "4"
+        },
+        {
+            "day": "日",
+            "period": "5"
+        },
+        {
+            "day": "日",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114133060",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114133060",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

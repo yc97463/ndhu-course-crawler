@@ -1,0 +1,28 @@
+{
+    "course_id": "CES_30010",
+    "sql_id": "114143969",
+    "course_name": "自然資源與環境實習",
+    "english_course_name": "Internship of Natural Resources and Environmental Studies",
+    "credits": "3/0:6",
+    "teacher": [
+        "楊悠娟",
+        "林祥偉"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "暑",
+            "period": "假上課"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114143969",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114143969",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "環境暨海洋學院學士班::BACHELOR"
+        }
+    ]
+}

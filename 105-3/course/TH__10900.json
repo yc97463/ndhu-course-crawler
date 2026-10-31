@@ -1,0 +1,42 @@
+{
+    "course_id": "TH__10900",
+    "sql_id": "105322362",
+    "course_name": "班級經營",
+    "english_course_name": "Classroom Management",
+    "credits": "2/2",
+    "teacher": [
+        "游可如"
+    ],
+    "classroom": [
+        "教育學院-階梯教室(一)C128",
+        "教育學院-階梯教室(一)C128",
+        "教育學院-階梯教室(一)C128",
+        "教育學院-階梯教室(一)C128"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105322362",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105322362",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+        }
+    ]
+}

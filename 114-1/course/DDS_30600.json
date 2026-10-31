@@ -1,0 +1,37 @@
+{
+    "course_id": "DDS_30600",
+    "sql_id": "114196887",
+    "course_name": "社會運動",
+    "english_course_name": "Social movements",
+    "credits": "3/3",
+    "teacher": [
+        "李政政"
+    ],
+    "classroom": [
+        "原民院A222",
+        "原民院A222",
+        "原民院A222"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114196887",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114196887",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族發展與社會工作學系::DEPARTMENT OF INDIGENOUS DEVELOPMENT AND SOCIAL WORK"
+        }
+    ]
+}

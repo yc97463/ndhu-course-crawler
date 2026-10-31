@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES71310",
+    "sql_id": "114180548",
+    "course_name": "研究方法特論(三)",
+    "english_course_name": "Special Topics on Research Methods(III)",
+    "credits": "3/3",
+    "teacher": [
+        "李光中"
+    ],
+    "classroom": [
+        "環境學院A159",
+        "環境學院A159",
+        "環境學院A159"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114180548",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114180548",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

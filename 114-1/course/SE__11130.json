@@ -1,0 +1,38 @@
+{
+    "course_id": "SE__11130",
+    "sql_id": "114153238",
+    "course_name": "股票投資分析與程式設計",
+    "english_course_name": "Stock investment analysis and programming",
+    "credits": "3/3",
+    "teacher": [
+        "賴志宏",
+        "翁胤哲"
+    ],
+    "classroom": [
+        "理工二館D301",
+        "理工二館D301",
+        "理工二館D301"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114153238",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114153238",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "理工學院學士班::BACHELOR"
+        }
+    ]
+}

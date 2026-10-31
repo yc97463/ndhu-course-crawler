@@ -1,0 +1,45 @@
+{
+    "course_id": "GC__65330",
+    "sql_id": "114140536",
+    "course_name": "中級程式設計-虛擬實境",
+    "english_course_name": "Intermediate Computer Programming -Virtual Reality",
+    "credits": "3/3",
+    "teacher": [
+        "陳文盛"
+    ],
+    "classroom": [
+        "理工二館E307",
+        "理工二館E307",
+        "理工二館E307"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114140536",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114140536",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "course_id": "EC__40500",
+    "sql_id": "114151711",
+    "course_name": "經濟學門專業實習",
+    "english_course_name": "Economics Professional Practicum",
+    "credits": "2/0:4",
+    "teacher": [
+        "林奇蓉"
+    ],
+    "classroom": [
+        "人社二館D410",
+        "人社二館D410",
+        "人社二館D410",
+        "人社二館D410"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        },
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114151711",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114151711",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

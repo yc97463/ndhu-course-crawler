@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5150AB",
+    "sql_id": "114127325",
+    "course_name": "聲樂（一）AB",
+    "english_course_name": "Voice(I)",
+    "credits": "1/1",
+    "teacher": [
+        "彭興讓"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114127325",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114127325",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_31200",
+    "sql_id": "114113403",
+    "course_name": "創意產業專案管理",
+    "english_course_name": "Project Management of Creative Industries",
+    "credits": "3/3",
+    "teacher": [
+        "常靜潔"
+    ],
+    "classroom": [
+        "藝術學院A320",
+        "藝術學院A320",
+        "藝術學院A320"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114113403",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114113403",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}
