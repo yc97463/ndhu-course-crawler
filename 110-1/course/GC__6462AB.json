@@ -1,0 +1,32 @@
+{
+    "course_id": "GC__6462AB",
+    "sql_id": "110185215",
+    "course_name": "初級程式設計-PythonAB",
+    "english_course_name": "Fundamental Computer Programming-Python",
+    "credits": "2/2",
+    "teacher": [
+        "賴志宏"
+    ],
+    "classroom": [
+        "理工二館-第四講堂A307",
+        "理工二館-第四講堂A307"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110185215",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110185215",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

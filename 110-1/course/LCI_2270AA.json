@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_2270AA",
+    "sql_id": "110115069",
+    "course_name": "新聞採訪與寫作AA",
+    "english_course_name": "News Reporting and Writing",
+    "credits": "3/3",
+    "teacher": [
+        "黃毓超"
+    ],
+    "classroom": [
+        "原民院A212",
+        "原民院A212",
+        "原民院A212"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110115069",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110115069",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

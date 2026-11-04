@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__30710",
+    "sql_id": "110104141",
+    "course_name": "德文（二）（上）",
+    "english_course_name": "German ( II ), 1st Semester",
+    "credits": "3/3",
+    "teacher": [
+        "朱淑慧"
+    ],
+    "classroom": [
+        "人社一館D204",
+        "人社一館D204",
+        "人社一館D204"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110104141",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110104141",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

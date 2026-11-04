@@ -1,0 +1,27 @@
+{
+    "course_id": "ISAT5120AA",
+    "sql_id": "110116762",
+    "course_name": "引導研究（一）AA",
+    "english_course_name": "Supervised Research(1)",
+    "credits": "1/1",
+    "teacher": [
+        "洪清一"
+    ],
+    "classroom": [
+        "教D428"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110116762",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110116762",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}
