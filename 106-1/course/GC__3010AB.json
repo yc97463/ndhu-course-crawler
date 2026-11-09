@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__3010AB",
+    "sql_id": "106194465",
+    "course_name": "性別教育AB",
+    "english_course_name": "Gender Education",
+    "credits": "3/3",
+    "teacher": [
+        "蕭昭君"
+    ],
+    "classroom": [
+        "教育學院B129",
+        "教育學院B129",
+        "教育學院B129"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106194465",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106194465",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

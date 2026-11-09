@@ -1,0 +1,27 @@
+{
+    "course_id": "RVIS10240",
+    "sql_id": "111285766",
+    "course_name": "班級經營與專題規劃（二）",
+    "english_course_name": "Class Management and Project Planning: Chapter ２",
+    "credits": "1/1",
+    "teacher": [
+        "陳復"
+    ],
+    "classroom": [
+        "人社三館C120"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111285766",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111285766",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

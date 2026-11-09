@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_4150AB",
+    "sql_id": "112100777",
+    "course_name": "小提琴（主修）（7）AB",
+    "english_course_name": "Violin（Major）(Ⅶ）",
+    "credits": "1/1",
+    "teacher": [
+        "沈克恕"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112100777",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112100777",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "course_id": "AM__2090AB",
+    "sql_id": "107165452",
+    "course_name": "高等微積分(二)AB",
+    "english_course_name": "Advanced Calculus (II)",
+    "credits": "4/4",
+    "teacher": [
+        "周君彥"
+    ],
+    "classroom": [
+        "理工一館A307",
+        "理工一館A307",
+        "理工一館A307",
+        "理工一館A307"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107165452",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107165452",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

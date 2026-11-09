@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_29690",
+    "sql_id": "113187820",
+    "course_name": "爵士人聲 (副修) (四)",
+    "english_course_name": "Jazz Vocal (Minor) (IV)",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "蔡雯慧"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113187820",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113187820",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

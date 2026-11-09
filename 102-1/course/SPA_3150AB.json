@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_3150AB",
+    "sql_id": "102169899",
+    "course_name": "公共政策AB",
+    "english_course_name": "Public Policy",
+    "credits": "3/3",
+    "teacher": [
+        "羅晉"
+    ],
+    "classroom": [
+        "共B103",
+        "共B103",
+        "共B103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102169899",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102169899",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

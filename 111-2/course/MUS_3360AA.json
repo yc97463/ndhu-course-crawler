@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_3360AA",
+    "sql_id": "111209220",
+    "course_name": "長號（主修）（6）AA",
+    "english_course_name": "Trombone（Major）（Ⅵ）",
+    "credits": "1/1",
+    "teacher": [
+        "呂彥輝"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111209220",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111209220",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

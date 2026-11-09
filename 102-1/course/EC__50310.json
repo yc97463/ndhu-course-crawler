@@ -1,0 +1,27 @@
+{
+    "course_id": "EC__50310",
+    "sql_id": "102168584",
+    "course_name": "經濟數學導論",
+    "english_course_name": "Refresher in Mathematics for Economist",
+    "credits": "1/1",
+    "teacher": [
+        "郭平欣"
+    ],
+    "classroom": [
+        "文A318"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102168584",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102168584",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

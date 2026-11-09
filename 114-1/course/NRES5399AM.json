@@ -1,0 +1,27 @@
+{
+    "course_id": "NRES5399AM",
+    "sql_id": "114116253",
+    "course_name": "獨立研究AM",
+    "english_course_name": "Independent Study",
+    "credits": "2/2",
+    "teacher": [
+        "許育誠"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114116253",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114116253",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

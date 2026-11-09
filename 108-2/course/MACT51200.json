@@ -1,0 +1,37 @@
+{
+    "course_id": "MACT51200",
+    "sql_id": "108275686",
+    "course_name": "高等審計學",
+    "english_course_name": "Advanced Auditing: Theory and Practice",
+    "credits": "3/3",
+    "teacher": [
+        "高茂峰"
+    ],
+    "classroom": [
+        "管理學院D109",
+        "管理學院D109",
+        "管理學院D109"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108275686",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108275686",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

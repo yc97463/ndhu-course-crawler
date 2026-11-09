@@ -1,0 +1,37 @@
+{
+    "course_id": "IIE_59900",
+    "sql_id": "100145427",
+    "course_name": "財務經濟學(三)",
+    "english_course_name": "Financial Economics(Ⅲ)",
+    "credits": "3/3",
+    "teacher": [
+        "蕭朝興"
+    ],
+    "classroom": [
+        "管C221",
+        "管C221",
+        "管C221"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100145427",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100145427",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

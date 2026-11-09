@@ -1,0 +1,27 @@
+{
+    "course_id": "SD__5090AG",
+    "sql_id": "111269551",
+    "course_name": "引導研究(二)AG",
+    "english_course_name": "Directed Individual Study（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "李正芬"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111269551",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111269551",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

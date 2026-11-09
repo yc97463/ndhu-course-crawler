@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__30700",
+    "sql_id": "103161673",
+    "course_name": "基礎雕塑",
+    "english_course_name": "Basic Sculpture",
+    "credits": "3/3",
+    "teacher": [
+        "吳偉谷"
+    ],
+    "classroom": [
+        "藝坊111",
+        "藝坊111",
+        "藝坊111"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103161673",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103161673",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

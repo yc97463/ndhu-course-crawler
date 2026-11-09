@@ -1,0 +1,42 @@
+{
+    "course_id": "NRES5400AB",
+    "sql_id": "103203329",
+    "course_name": "專題討論AB",
+    "english_course_name": "seminar",
+    "credits": "2/3",
+    "teacher": [
+        "楊悠娟",
+        "張文彥",
+        "張有和",
+        "劉瑩三",
+        "蔡金河",
+        "顏君毅"
+    ],
+    "classroom": [
+        "環A136",
+        "環A136",
+        "環A136"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103203329",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103203329",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

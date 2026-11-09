@@ -1,0 +1,27 @@
+{
+    "course_id": "CA__11000",
+    "sql_id": "109103524",
+    "course_name": "藝術管理-財務管控與成本分析",
+    "english_course_name": "Art Management—Financial Management and Cost Analysis",
+    "credits": "1/1",
+    "teacher": [
+        "曾慧珍"
+    ],
+    "classroom": [
+        "環解中心C102"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109103524",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109103524",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

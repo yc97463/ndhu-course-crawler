@@ -1,0 +1,28 @@
+{
+    "course_id": "BM__5390AM",
+    "sql_id": "115121349",
+    "course_name": "專題研究AM",
+    "english_course_name": "否",
+    "credits": "Independent Study",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "余相賓"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115121349",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115121349",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

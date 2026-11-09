@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__65620",
+    "sql_id": "110129860",
+    "course_name": "俄語(二)",
+    "english_course_name": "Russian (II)",
+    "credits": "3/3",
+    "teacher": [
+        "Suchok Nadzeya"
+    ],
+    "classroom": [
+        "理工二館A429",
+        "理工二館A429",
+        "理工二館A429"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110129860",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110129860",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

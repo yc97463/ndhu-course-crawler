@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_10900",
+    "sql_id": "110271589",
+    "course_name": "草木染創作(一)",
+    "english_course_name": "Nature Dyeing (I)",
+    "credits": "3/3",
+    "teacher": [
+        "張秀蔥"
+    ],
+    "classroom": [
+        "藝術工坊102",
+        "藝術工坊102",
+        "藝術工坊102"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110271589",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110271589",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

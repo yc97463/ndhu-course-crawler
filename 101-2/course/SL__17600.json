@@ -1,0 +1,31 @@
+{
+    "course_id": "SL__17600",
+    "sql_id": "101274682",
+    "course_name": "服務學習(一)_臺灣系",
+    "english_course_name": "Service Learning (Ⅰ)",
+    "credits": "0/1",
+    "teacher": [
+        "林潤華"
+    ],
+    "classroom": [
+        "共四講堂"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101274682",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101274682",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

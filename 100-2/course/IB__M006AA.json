@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__M006AA",
+    "sql_id": "100263040",
+    "course_name": "論文研究(一)AA",
+    "english_course_name": "ThesisⅠ",
+    "credits": "3/3",
+    "teacher": [
+        "張國忠"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "13"
+        },
+        {
+            "day": "日",
+            "period": "14"
+        },
+        {
+            "day": "日",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100263040",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100263040",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

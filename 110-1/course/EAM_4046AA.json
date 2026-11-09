@@ -1,0 +1,37 @@
+{
+    "course_id": "EAM_4046AA",
+    "sql_id": "110125306",
+    "course_name": "教育行政管理與寫作實務AA",
+    "english_course_name": "Educational Administration and Management Writing in Practice",
+    "credits": "2/2",
+    "teacher": [
+        "簡梅瑩",
+        "張志明",
+        "陳成宏",
+        "紀惠英",
+        "呂傑華",
+        "張威克"
+    ],
+    "classroom": [
+        "教育學院B313",
+        "教育學院B313"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        },
+        {
+            "day": "二",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110125306",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110125306",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

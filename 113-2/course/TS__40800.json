@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__40800",
+    "sql_id": "113243887",
+    "course_name": "地方文史編撰",
+    "english_course_name": "Compilation of Local Gazette",
+    "credits": "3/3",
+    "teacher": [
+        "潘繼道"
+    ],
+    "classroom": [
+        "人社三館C120",
+        "人社三館C120",
+        "人社三館C120"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113243887",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113243887",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

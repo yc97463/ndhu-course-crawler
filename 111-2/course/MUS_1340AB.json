@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1340AB",
+    "sql_id": "111201328",
+    "course_name": "鋼琴（主修）（2）AB",
+    "english_course_name": "Piano（Major）（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "孫建如"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111201328",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111201328",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

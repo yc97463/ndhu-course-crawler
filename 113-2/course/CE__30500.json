@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__30500",
+    "sql_id": "113206673",
+    "course_name": "國民小學健康與體育教材教法",
+    "english_course_name": "Teaching Materials and Methods of Health and Physical Education in Elementary School",
+    "credits": "2/2",
+    "teacher": [
+        "邱建章"
+    ],
+    "classroom": [
+        "教育學院B112",
+        "教育學院B112"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113206673",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113206673",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

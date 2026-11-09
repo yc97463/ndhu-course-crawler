@@ -1,0 +1,41 @@
+{
+    "course_id": "IB__3210AB",
+    "sql_id": "113123914",
+    "course_name": "創業管理AB",
+    "english_course_name": "Entrepreneurship",
+    "credits": "3/3",
+    "teacher": [
+        "洪新民"
+    ],
+    "classroom": [
+        "管理學院A107",
+        "管理學院A107",
+        "管理學院A107"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113123914",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113123914",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

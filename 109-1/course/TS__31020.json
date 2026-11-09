@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__31020",
+    "sql_id": "109158275",
+    "course_name": "南島文化史",
+    "english_course_name": "History of Austronesian Cultures",
+    "credits": "3/3",
+    "teacher": [
+        "潘繼道"
+    ],
+    "classroom": [
+        "人社三館C120",
+        "人社三館C120",
+        "人社三館C120"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109158275",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109158275",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

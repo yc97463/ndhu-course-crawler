@@ -1,0 +1,37 @@
+{
+    "course_id": "MEPD80010",
+    "sql_id": "113217508",
+    "course_name": "環境與教育",
+    "english_course_name": "Environment and Education",
+    "credits": "3/3",
+    "teacher": [
+        "張瀠之"
+    ],
+    "classroom": [
+        "教育學院C108",
+        "教育學院C108",
+        "教育學院C108"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113217508",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113217508",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院多元文化教育博士班::PH.D. PROGRAM OF MULTICULTURAL EDUCATION"
+        }
+    ]
+}

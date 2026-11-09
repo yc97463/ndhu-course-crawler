@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_20300",
+    "sql_id": "112184473",
+    "course_name": "織品應用與造形設計",
+    "english_course_name": "Textile Application Design",
+    "credits": "3/3",
+    "teacher": [
+        "吳明峰"
+    ],
+    "classroom": [
+        "藝術學院A338",
+        "藝術學院A338",
+        "藝術學院A338"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112184473",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112184473",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

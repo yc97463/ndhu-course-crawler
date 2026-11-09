@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__11200",
+    "sql_id": "111253681",
+    "course_name": "水彩創作",
+    "english_course_name": "Studio in Watercolor",
+    "credits": "3/3",
+    "teacher": [
+        "胡朝景"
+    ],
+    "classroom": [
+        "藝術學院A258",
+        "藝術學院A258",
+        "藝術學院A258"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111253681",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111253681",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

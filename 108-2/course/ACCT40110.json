@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT40110",
+    "sql_id": "108269863",
+    "course_name": "審計學(上)",
+    "english_course_name": "Auditing (I)",
+    "credits": "3/3",
+    "teacher": [
+        "高茂峰"
+    ],
+    "classroom": [
+        "管理學院B119",
+        "管理學院B119",
+        "管理學院B119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108269863",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108269863",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

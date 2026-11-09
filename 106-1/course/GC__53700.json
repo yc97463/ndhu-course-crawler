@@ -1,0 +1,35 @@
+{
+    "course_id": "GC__53700",
+    "sql_id": "106188148",
+    "course_name": "大學入門",
+    "english_course_name": "The Goal of University Education",
+    "credits": "2/2",
+    "teacher": [
+        "邱紫文",
+        "陳筱華",
+        "袁大鈞",
+        "楊昌斌"
+    ],
+    "classroom": [
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106188148",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106188148",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

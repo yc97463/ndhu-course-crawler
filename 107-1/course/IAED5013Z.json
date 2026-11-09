@@ -1,0 +1,52 @@
+{
+    "course_id": "IAED5013Z",
+    "sql_id": "107160327",
+    "course_name": "社會工作實習（一）",
+    "english_course_name": "Social Work FIeld Practicum (Ⅰ)",
+    "credits": "3/3:3",
+    "teacher": [
+        "黃盈豪"
+    ],
+    "classroom": [
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "10"
+        },
+        {
+            "day": "日",
+            "period": "11"
+        },
+        {
+            "day": "日",
+            "period": "12"
+        },
+        {
+            "day": "日",
+            "period": "13"
+        },
+        {
+            "day": "日",
+            "period": "14"
+        },
+        {
+            "day": "日",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107160327",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107160327",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

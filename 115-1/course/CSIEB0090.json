@@ -1,0 +1,36 @@
+{
+    "course_id": "CSIEB0090",
+    "sql_id": "115173074",
+    "course_name": "電子電路學",
+    "english_course_name": "是",
+    "credits": "Electric and Electronic Circuits",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "張意政"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115173074",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115173074",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

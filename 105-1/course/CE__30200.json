@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__30200",
+    "sql_id": "105108266",
+    "course_name": "國民小學社會教材教法",
+    "english_course_name": "Teaching Materials Methods of Social Studies in Elementary School",
+    "credits": "2/2",
+    "teacher": [
+        "陳添球"
+    ],
+    "classroom": [
+        "教育學院B117",
+        "教育學院B117"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105108266",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105108266",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

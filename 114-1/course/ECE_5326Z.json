@@ -1,0 +1,31 @@
+{
+    "course_id": "ECE_5326Z",
+    "sql_id": "114187192",
+    "course_name": "論文研究(一)",
+    "english_course_name": "Thesis(Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "林俊瑩",
+        "陳慧華",
+        "張素貞",
+        "林鳳貞",
+        "張凱程"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114187192",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114187192",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

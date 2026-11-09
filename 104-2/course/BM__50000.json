@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__50000",
+    "sql_id": "104254228",
+    "course_name": "財務管理",
+    "english_course_name": "Financial Management",
+    "credits": "3/3",
+    "teacher": [
+        "呂進瑞"
+    ],
+    "classroom": [
+        "管理學院A103",
+        "管理學院A103",
+        "管理學院A103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104254228",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104254228",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

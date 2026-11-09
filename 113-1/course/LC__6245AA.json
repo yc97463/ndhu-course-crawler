@@ -1,0 +1,40 @@
+{
+    "course_id": "LC__6245AA",
+    "sql_id": "113177786",
+    "course_name": "英詩賞析AA",
+    "english_course_name": "Appreciating Poems in English",
+    "credits": "2/2",
+    "teacher": [
+        "林融慕"
+    ],
+    "classroom": [
+        "人社一館B107",
+        "人社一館B107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113177786",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113177786",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "語言中心::LANGUAGE CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "英語課程::English courses"
+        }
+    ]
+}

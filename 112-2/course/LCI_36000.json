@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_36000",
+    "sql_id": "112207111",
+    "course_name": "部落文化英語",
+    "english_course_name": "English for Formosan Ethnic Cultures",
+    "credits": "3/3",
+    "teacher": [
+        "湯愛玉"
+    ],
+    "classroom": [
+        "原民院A212",
+        "原民院A212",
+        "原民院A212"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112207111",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112207111",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

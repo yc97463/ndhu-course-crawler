@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__84840",
+    "sql_id": "103140811",
+    "course_name": "遊客行為分析",
+    "english_course_name": "Visitor Behavior Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "麥康妮"
+    ],
+    "classroom": [
+        "管C236",
+        "管C236",
+        "管C236"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103140811",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103140811",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

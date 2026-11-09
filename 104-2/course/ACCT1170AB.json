@@ -1,0 +1,41 @@
+{
+    "course_id": "ACCT1170AB",
+    "sql_id": "104244106",
+    "course_name": "會計學原理(二)AB",
+    "english_course_name": "Accounting Principle (II)",
+    "credits": "3/3",
+    "teacher": [
+        "姚維仁"
+    ],
+    "classroom": [
+        "管理學院C135",
+        "管理學院C135",
+        "管理學院C135"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104244106",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104244106",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

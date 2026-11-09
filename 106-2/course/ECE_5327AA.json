@@ -1,0 +1,27 @@
+{
+    "course_id": "ECE_5327AA",
+    "sql_id": "106245830",
+    "course_name": "論文研究(二)AA",
+    "english_course_name": "Thesis(Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "石明英"
+    ],
+    "classroom": [
+        "教D409室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106245830",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106245830",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

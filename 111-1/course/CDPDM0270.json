@@ -1,0 +1,33 @@
+{
+    "course_id": "CDPDM0270",
+    "sql_id": "111180302",
+    "course_name": "論文研究",
+    "english_course_name": "Thesis Guidance",
+    "credits": "2/2",
+    "teacher": [
+        "高台茜",
+        "廉兮"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111180302",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111180302",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

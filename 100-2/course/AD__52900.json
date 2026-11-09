@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__52900",
+    "sql_id": "100220043",
+    "course_name": "設計評價研究",
+    "english_course_name": "Study of Design Evaluation",
+    "credits": "3/3",
+    "teacher": [
+        "林彥呈"
+    ],
+    "classroom": [
+        "民C104",
+        "民C104",
+        "民C104"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100220043",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100220043",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

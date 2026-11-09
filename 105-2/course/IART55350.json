@@ -1,0 +1,37 @@
+{
+    "course_id": "IART55350",
+    "sql_id": "105244471",
+    "course_name": "立體複合媒材創作專題（二）",
+    "english_course_name": "Advanced Three Dimensional Materials Design（Ⅱ）",
+    "credits": "3/3",
+    "teacher": [
+        "林淑雅"
+    ],
+    "classroom": [
+        "原民院A327",
+        "原民院A327",
+        "原民院A327"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105244471",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105244471",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

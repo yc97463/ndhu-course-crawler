@@ -1,0 +1,37 @@
+{
+    "course_id": "ERAC53500",
+    "sql_id": "104280128",
+    "course_name": "族群、性別與階級",
+    "english_course_name": "Ethnicity, Gender, and Class",
+    "credits": "3/3",
+    "teacher": [
+        "賴淑娟"
+    ],
+    "classroom": [
+        "原民院A218",
+        "原民院A218",
+        "原民院A218"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104280128",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104280128",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

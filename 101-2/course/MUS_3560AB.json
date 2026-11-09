@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_3560AB",
+    "sql_id": "101272559",
+    "course_name": "聲樂（主修）（6）AB",
+    "english_course_name": "Voice（Major）（Ⅵ）",
+    "credits": "1/1",
+    "teacher": [
+        "陳美晴"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101272559",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101272559",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

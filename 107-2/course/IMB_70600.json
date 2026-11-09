@@ -1,0 +1,41 @@
+{
+    "course_id": "IMB_70600",
+    "sql_id": "107241573",
+    "course_name": "海洋學特論",
+    "english_course_name": "Advanced Oceanography",
+    "credits": "3/3",
+    "teacher": [
+        "孟培傑",
+        "張至維",
+        "張桂祥",
+        "劉弼仁",
+        "謝泓諺"
+    ],
+    "classroom": [
+        "二研R2002",
+        "二研R2002",
+        "二研R2002"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107241573",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107241573",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

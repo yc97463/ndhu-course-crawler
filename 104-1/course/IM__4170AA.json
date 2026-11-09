@@ -1,0 +1,27 @@
+{
+    "course_id": "IM__4170AA",
+    "sql_id": "104190510",
+    "course_name": "資訊管理專題（三）AA",
+    "english_course_name": "Information Management Topic(III)",
+    "credits": "1/1",
+    "teacher": [
+        "許芳銘"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104190510",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104190510",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

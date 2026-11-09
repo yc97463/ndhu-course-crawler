@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_40200",
+    "sql_id": "109171382",
+    "course_name": "文創市場開發",
+    "english_course_name": "Business Development in Cultural Industries",
+    "credits": "3/3",
+    "teacher": [
+        "郭令權"
+    ],
+    "classroom": [
+        "原民院A323",
+        "原民院A323",
+        "原民院A323"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109171382",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109171382",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

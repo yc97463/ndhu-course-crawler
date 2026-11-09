@@ -1,0 +1,33 @@
+{
+    "course_id": "EP__22230",
+    "sql_id": "113121463",
+    "course_name": "中等健康與體育領域體育專長教材教法1",
+    "english_course_name": "Instructional Materials and Methods of Physical Education for Health and Physical Education Area in Secondary School 1",
+    "credits": "2/2",
+    "teacher": [
+        "王正宇",
+        "尚憶薇"
+    ],
+    "classroom": [
+        "教育學院C136",
+        "教育學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113121463",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113121463",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION"
+        }
+    ]
+}

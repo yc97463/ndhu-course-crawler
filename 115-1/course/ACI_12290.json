@@ -1,0 +1,36 @@
+{
+    "course_id": "ACI_12290",
+    "sql_id": "115149427",
+    "course_name": "文化傳播與藝術傳達",
+    "english_course_name": "否",
+    "credits": "Cultural Communication and Artistic Expression",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "黃星達"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115149427",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115149427",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

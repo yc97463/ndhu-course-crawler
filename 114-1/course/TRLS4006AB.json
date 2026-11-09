@@ -1,0 +1,41 @@
+{
+    "course_id": "TRLS4006AB",
+    "sql_id": "114148234",
+    "course_name": "觀光遊憩衝擊AB",
+    "english_course_name": "Tourism and Recreation Impacts",
+    "credits": "3/3",
+    "teacher": [
+        "李介祿"
+    ],
+    "classroom": [
+        "管理學院D211",
+        "管理學院D211",
+        "管理學院D211"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114148234",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114148234",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

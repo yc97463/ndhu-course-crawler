@@ -1,0 +1,37 @@
+{
+    "course_id": "CIS_22000",
+    "sql_id": "110211057",
+    "course_name": "文化行政",
+    "english_course_name": "Cultural Administration",
+    "credits": "3/3",
+    "teacher": [
+        "巴奈‧母路"
+    ],
+    "classroom": [
+        "原民院A323",
+        "原民院A323",
+        "原民院A323"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110211057",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110211057",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院學士班::BACHELOR"
+        }
+    ]
+}

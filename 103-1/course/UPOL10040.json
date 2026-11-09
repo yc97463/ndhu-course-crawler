@@ -1,0 +1,37 @@
+{
+    "course_id": "UPOL10040",
+    "sql_id": "103134608",
+    "course_name": "智慧財產權法",
+    "english_course_name": "Intellectual Property Rights Law",
+    "credits": "3/3",
+    "teacher": [
+        "張郁齡"
+    ],
+    "classroom": [
+        "共六講堂B015",
+        "共六講堂B015",
+        "共六講堂B015"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103134608",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103134608",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程::UNDERGRADUATE PROGRAM OF LAW"
+        }
+    ]
+}

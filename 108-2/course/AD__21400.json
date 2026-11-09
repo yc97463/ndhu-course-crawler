@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__21400",
+    "sql_id": "108252297",
+    "course_name": "素材與造型",
+    "english_course_name": "Art Media and Construction",
+    "credits": "3/3",
+    "teacher": [
+        "吳偉谷"
+    ],
+    "classroom": [
+        "藝術工坊111",
+        "藝術工坊111",
+        "藝術工坊111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108252297",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108252297",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

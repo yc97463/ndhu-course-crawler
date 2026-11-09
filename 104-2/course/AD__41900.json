@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__41900",
+    "sql_id": "104235339",
+    "course_name": "室內設計",
+    "english_course_name": "Interior Design",
+    "credits": "3/3",
+    "teacher": [
+        "李駿成"
+    ],
+    "classroom": [
+        "藝術工坊109",
+        "藝術工坊109",
+        "藝術工坊109"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104235339",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104235339",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__2020AG",
+    "sql_id": "111250754",
+    "course_name": "管理學AG",
+    "english_course_name": "Introduction to Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳建男"
+    ],
+    "classroom": [
+        "管理學院B103",
+        "管理學院B103",
+        "管理學院B103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111250754",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111250754",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

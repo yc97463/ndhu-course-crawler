@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__53700",
+    "sql_id": "100107288",
+    "course_name": "大學入門-新鮮人新視野",
+    "english_course_name": "Introduction to University Studies ：New Vision of Freshman",
+    "credits": "2/2",
+    "teacher": [
+        "邱紫文",
+        "戴興盛",
+        "楊昌斌",
+        "許俊才Kui Kasirisir",
+        "黃菁洳",
+        "邱建章"
+    ],
+    "classroom": [
+        "工四講堂",
+        "工四講堂"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100107288",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100107288",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "MSF_10040",
+    "sql_id": "108158264",
+    "course_name": "組織行為",
+    "english_course_name": "Organizational Behavior",
+    "credits": "3/3",
+    "teacher": [
+        "陳膺郁"
+    ],
+    "classroom": [
+        "管理學院C109",
+        "管理學院C109",
+        "管理學院C109"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108158264",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108158264",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院管理科學與財金國際學士學位學程::BACHELOR PROGRAM OF MANAGEMENT SCIENCE AND FINANCE (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

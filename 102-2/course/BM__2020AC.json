@@ -1,0 +1,41 @@
+{
+    "course_id": "BM__2020AC",
+    "sql_id": "102266422",
+    "course_name": "管理學AC",
+    "english_course_name": "Introduction to Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳雯虹"
+    ],
+    "classroom": [
+        "管B111",
+        "管B111",
+        "管B111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102266422",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102266422",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

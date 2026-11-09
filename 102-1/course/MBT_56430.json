@@ -1,0 +1,37 @@
+{
+    "course_id": "MBT_56430",
+    "sql_id": "102123660",
+    "course_name": "藥效評估概論",
+    "english_course_name": "Introduction of Pharmaceutical Function",
+    "credits": "3/3",
+    "teacher": [
+        "呂美津"
+    ],
+    "classroom": [
+        "二研一樓會議室",
+        "二研一樓會議室",
+        "二研一樓會議室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102123660",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102123660",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物科技研究所::GRADUATE INSTITUTE OF MARINE BIOTECHNOLOGY"
+        }
+    ]
+}

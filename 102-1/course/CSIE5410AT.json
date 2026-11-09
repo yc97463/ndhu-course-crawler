@@ -1,0 +1,27 @@
+{
+    "course_id": "CSIE5410AT",
+    "sql_id": "102145051",
+    "course_name": "引導研究(一)AT",
+    "english_course_name": "Independent Study（I）",
+    "credits": "1/1",
+    "teacher": [
+        "陳旻秀"
+    ],
+    "classroom": [
+        "A325"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102145051",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102145051",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

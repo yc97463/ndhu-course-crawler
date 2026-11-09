@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_74000",
+    "sql_id": "103103516",
+    "course_name": "課程改革專題研究",
+    "english_course_name": "Research Seminar on Curriculum Reform",
+    "credits": "3/3",
+    "teacher": [
+        "白亦方"
+    ],
+    "classroom": [
+        "教D113",
+        "教D113",
+        "教D113"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103103516",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103103516",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "課程設計與潛能開發學系::DEPARTMENT OF CURRICULUM DESIGN AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

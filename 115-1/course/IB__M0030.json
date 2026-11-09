@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__M0030",
+    "sql_id": "115152486",
+    "course_name": "跨文化管理",
+    "english_course_name": "是",
+    "credits": "Cross-Cultural Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "夏締青",
+        "鄭辰明"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115152486",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115152486",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "SOC_20020",
+    "sql_id": "115125531",
+    "course_name": "社會學理論（一）",
+    "english_course_name": "否",
+    "credits": "Sociological Theory(I)",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "蔡侑霖"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115125531",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115125531",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

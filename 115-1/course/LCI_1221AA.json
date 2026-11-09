@@ -1,0 +1,36 @@
+{
+    "course_id": "LCI_1221AA",
+    "sql_id": "115162384",
+    "course_name": "基礎攝影與影像處理AA",
+    "english_course_name": "否",
+    "credits": "Photography and Image Editing",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "楊鈞凱"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162384",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162384",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

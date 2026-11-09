@@ -1,0 +1,36 @@
+{
+    "course_id": "IB__50500",
+    "sql_id": "115185373",
+    "course_name": "國際企業管理",
+    "english_course_name": "否",
+    "credits": "International Business Management",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳柏元"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115185373",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115185373",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

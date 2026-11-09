@@ -1,0 +1,37 @@
+{
+    "course_id": "IIE_58300",
+    "sql_id": "111213167",
+    "course_name": "總體經濟分析(二)",
+    "english_course_name": "Macroeconomic Analysis（II）",
+    "credits": "3/3",
+    "teacher": [
+        "林忠樑"
+    ],
+    "classroom": [
+        "人社二館D406",
+        "人社二館D406",
+        "人社二館D406"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111213167",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111213167",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

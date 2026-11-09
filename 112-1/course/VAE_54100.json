@@ -1,0 +1,37 @@
+{
+    "course_id": "VAE_54100",
+    "sql_id": "112134439",
+    "course_name": "工藝與設計整合實務",
+    "english_course_name": "Craft and Design Partnership",
+    "credits": "3/3",
+    "teacher": [
+        "萬煜瑤"
+    ],
+    "classroom": [
+        "藝術學院A218",
+        "藝術學院A218",
+        "藝術學院A218"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112134439",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112134439",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

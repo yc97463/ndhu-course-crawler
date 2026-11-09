@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI5252AB",
+    "sql_id": "106264687",
+    "course_name": "華文文學專題（三）中國大陸文學AB",
+    "english_course_name": "Seminar in Sinophone Literature (Ⅵ) Mainland China",
+    "credits": "3/3",
+    "teacher": [
+        "張寶云"
+    ],
+    "classroom": [
+        "人社一館B115",
+        "人社一館B115",
+        "人社一館B115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106264687",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106264687",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD58700",
+    "sql_id": "100151622",
+    "course_name": "大陸區域經濟發展",
+    "english_course_name": "Regional Economic Development of Mainland China",
+    "credits": "3/3",
+    "teacher": [
+        "許源派"
+    ],
+    "classroom": [
+        "文D221",
+        "文D221",
+        "文D221"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100151622",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100151622",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政研究所::GRADUATE INSTITUTE OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

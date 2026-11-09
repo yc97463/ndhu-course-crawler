@@ -1,0 +1,37 @@
+{
+    "course_id": "IAED5042AB",
+    "sql_id": "112193753",
+    "course_name": "專題研究AB",
+    "english_course_name": "Independent Study",
+    "credits": "3/3",
+    "teacher": [
+        "莊曉霞"
+    ],
+    "classroom": [
+        "教師研究室",
+        "教師研究室",
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        },
+        {
+            "day": "一",
+            "period": "2"
+        },
+        {
+            "day": "一",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112193753",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112193753",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

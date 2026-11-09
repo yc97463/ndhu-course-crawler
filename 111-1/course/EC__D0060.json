@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__D0060",
+    "sql_id": "111114721",
+    "course_name": "資料科學",
+    "english_course_name": "Data Science",
+    "credits": "3/3",
+    "teacher": [
+        "李同龢"
+    ],
+    "classroom": [
+        "人社二館B213",
+        "人社二館B213",
+        "人社二館B213"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111114721",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111114721",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

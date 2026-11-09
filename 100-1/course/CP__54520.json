@@ -1,0 +1,35 @@
+{
+    "course_id": "CP__54520",
+    "sql_id": "100107056",
+    "course_name": "諮商心理實習(下)社區",
+    "english_course_name": "/",
+    "credits": "1/0:2",
+    "teacher": [
+        "王純娟",
+        "林繼偉",
+        "陳淑瓊",
+        "劉志如"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100107056",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100107056",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

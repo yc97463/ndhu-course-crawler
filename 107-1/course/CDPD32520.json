@@ -1,0 +1,33 @@
+{
+    "course_id": "CDPD32520",
+    "sql_id": "107102314",
+    "course_name": "運算思維與創意問題解決",
+    "english_course_name": "Computational Thinking and Creative Problem Solving",
+    "credits": "2/2",
+    "teacher": [
+        "劉明洲",
+        "賴志宏"
+    ],
+    "classroom": [
+        "教育學院PC2(B220)",
+        "教育學院PC2(B220)"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107102314",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107102314",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

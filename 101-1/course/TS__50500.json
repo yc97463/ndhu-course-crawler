@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__50500",
+    "sql_id": "101145050",
+    "course_name": "日治時期臺灣文學研究",
+    "english_course_name": "Studies on Literature of Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "李進益"
+    ],
+    "classroom": [
+        "文B206",
+        "文B206",
+        "文B206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101145050",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101145050",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "MBE_56900",
+    "sql_id": "102250188",
+    "course_name": "水族博物館學",
+    "english_course_name": "Aquariology",
+    "credits": "2/2",
+    "teacher": [
+        "呂明毅",
+        "劉弼仁"
+    ],
+    "classroom": [
+        "R2002",
+        "R2002"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102250188",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102250188",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物多樣性及演化研究所::GRADUATE INSTITUTE OF MARINE BIODIVERSITY AND EVOLUTIONARY BIOLOGY"
+        }
+    ]
+}

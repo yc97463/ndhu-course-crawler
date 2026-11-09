@@ -1,0 +1,27 @@
+{
+    "course_id": "BM__M002AD",
+    "sql_id": "104227065",
+    "course_name": "專題研究(一)AD",
+    "english_course_name": "Special Topics for Research (I)",
+    "credits": "1/1",
+    "teacher": [
+        "陳筱華"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104227065",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104227065",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

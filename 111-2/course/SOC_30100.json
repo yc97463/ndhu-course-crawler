@@ -1,0 +1,37 @@
+{
+    "course_id": "SOC_30100",
+    "sql_id": "111266039",
+    "course_name": "技術與社會",
+    "english_course_name": "Technology and Society",
+    "credits": "3/3",
+    "teacher": [
+        "張宏輝"
+    ],
+    "classroom": [
+        "人社二館D105",
+        "人社二館D105",
+        "人社二館D105"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111266039",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111266039",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

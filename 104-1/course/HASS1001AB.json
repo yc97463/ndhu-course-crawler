@@ -1,0 +1,41 @@
+{
+    "course_id": "HASS1001AB",
+    "sql_id": "104190398",
+    "course_name": "文學作品讀法(上)AB",
+    "english_course_name": "Critical Approaches to Literary Texts, 1st Semester",
+    "credits": "3/3",
+    "teacher": [
+        "嚴愛群"
+    ],
+    "classroom": [
+        "理工二館E105",
+        "理工二館E105",
+        "理工二館E105"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104190398",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104190398",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院學士班::BACHELOR"
+        },
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

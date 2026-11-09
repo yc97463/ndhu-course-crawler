@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__33240",
+    "sql_id": "108288524",
+    "course_name": "生產與運籌管理",
+    "english_course_name": "Production and Logistic Management",
+    "credits": "3/3",
+    "teacher": [
+        "陳啟斌"
+    ],
+    "classroom": [
+        "管理學院C122",
+        "管理學院C122",
+        "管理學院C122"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108288524",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108288524",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

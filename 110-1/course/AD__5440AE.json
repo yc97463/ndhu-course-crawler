@@ -1,0 +1,27 @@
+{
+    "course_id": "AD__5440AE",
+    "sql_id": "110135229",
+    "course_name": "專題研究AE",
+    "english_course_name": "Special Topic Study",
+    "credits": "1/1",
+    "teacher": [
+        "湯運添"
+    ],
+    "classroom": [
+        "藝術學院A464"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110135229",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110135229",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

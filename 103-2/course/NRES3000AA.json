@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES3000AA",
+    "sql_id": "103205419",
+    "course_name": "統計學AA",
+    "english_course_name": "Statistics",
+    "credits": "3/3",
+    "teacher": [
+        "陳毓昀"
+    ],
+    "classroom": [
+        "工PC2(E112)",
+        "工PC2(E112)",
+        "工PC2(E112)"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103205419",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103205419",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

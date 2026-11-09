@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5467Z",
+    "sql_id": "103557717",
+    "course_name": "電腦資料處理與分析",
+    "english_course_name": "Computer Data Processing and Analysis",
+    "credits": "2/2",
+    "teacher": [
+        "林如瀚"
+    ],
+    "classroom": [
+        "教PC2(B220)",
+        "教PC2(B220)",
+        "教PC2(B220)",
+        "教PC2(B220)"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103557717",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103557717",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

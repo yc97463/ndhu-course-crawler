@@ -1,0 +1,37 @@
+{
+    "course_id": "ES__51200",
+    "sql_id": "109139154",
+    "course_name": "高等岩石學",
+    "english_course_name": "Advanced Petrology",
+    "credits": "3/3",
+    "teacher": [
+        "蔡金河"
+    ],
+    "classroom": [
+        "環境學院B158",
+        "環境學院B158",
+        "環境學院B158"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109139154",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109139154",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

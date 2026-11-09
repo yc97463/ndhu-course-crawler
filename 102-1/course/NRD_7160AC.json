@@ -1,0 +1,33 @@
+{
+    "course_id": "NRD_7160AC",
+    "sql_id": "102178082",
+    "course_name": "專題研究（三）AC",
+    "english_course_name": "Independent Study (III)",
+    "credits": "2/2",
+    "teacher": [
+        "林祥偉",
+        "陳紫娥"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "11"
+        },
+        {
+            "day": "五",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102178082",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102178082",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

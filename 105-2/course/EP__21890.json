@@ -1,0 +1,33 @@
+{
+    "course_id": "EP__21890",
+    "sql_id": "105205422",
+    "course_name": "中等學校-公民與社會科教學實習",
+    "english_course_name": "Practicum in Civics and Social Science",
+    "credits": "2/2",
+    "teacher": [
+        "陳進金",
+        "黃雯娟"
+    ],
+    "classroom": [
+        "人社一館D205",
+        "人社一館D205"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105205422",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105205422",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "中等教育::EDUCATION PROGRAM FOR SECONDARY TEACHER EDUCATION"
+        }
+    ]
+}

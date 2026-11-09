@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD5955Z",
+    "sql_id": "110108836",
+    "course_name": "電子治理研究專題",
+    "english_course_name": "Studies in Electronic Governance",
+    "credits": "3/3",
+    "teacher": [
+        "羅晉"
+    ],
+    "classroom": [
+        "人社二館D209",
+        "人社二館D209",
+        "人社二館D209"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110108836",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110108836",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

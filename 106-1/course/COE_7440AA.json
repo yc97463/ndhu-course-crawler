@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_7440AA",
+    "sql_id": "106173768",
+    "course_name": "專題研究(三)AA",
+    "english_course_name": "Independent Study (Ⅲ)",
+    "credits": "3/3",
+    "teacher": [
+        "尚憶薇"
+    ],
+    "classroom": [
+        "教育學院C341",
+        "教育學院C341",
+        "教育學院C341"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106173768",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106173768",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "course_id": "LCI_2360AI",
+    "sql_id": "100221390",
+    "course_name": "族語（二）AI",
+    "english_course_name": "Tribal Languages（II）",
+    "credits": "2/4",
+    "teacher": [
+        "朱明蘭"
+    ],
+    "classroom": [
+        "民A351",
+        "民A351",
+        "民A351",
+        "民A351"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100221390",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100221390",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

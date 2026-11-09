@@ -1,0 +1,27 @@
+{
+    "course_id": "FIN_5030AC",
+    "sql_id": "105123520",
+    "course_name": "專題研究(一)AC",
+    "english_course_name": "Special Topic for Research(I)",
+    "credits": "1/1",
+    "teacher": [
+        "李明龍"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105123520",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105123520",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

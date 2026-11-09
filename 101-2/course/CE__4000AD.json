@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__4000AD",
+    "sql_id": "101245132",
+    "course_name": "發展心理學AD",
+    "english_course_name": "Development Psychology",
+    "credits": "2/2",
+    "teacher": [
+        "林俊瑩"
+    ],
+    "classroom": [
+        "教B111",
+        "教B111"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101245132",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101245132",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

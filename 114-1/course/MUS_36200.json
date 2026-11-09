@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_36200",
+    "sql_id": "114180141",
+    "course_name": "擊樂（主修）（5）",
+    "english_course_name": "Percussion （Major）（Ⅴ）",
+    "credits": "1/1",
+    "teacher": [
+        "洪于雯"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114180141",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114180141",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

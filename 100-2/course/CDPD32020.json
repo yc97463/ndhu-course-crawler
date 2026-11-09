@@ -1,0 +1,33 @@
+{
+    "course_id": "CDPD32020",
+    "sql_id": "100265347",
+    "course_name": "性別與科技",
+    "english_course_name": "Gender, Science, and Technology",
+    "credits": "2/2",
+    "teacher": [
+        "蔣佳玲",
+        "王采薇"
+    ],
+    "classroom": [
+        "教B129",
+        "教B129"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100265347",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100265347",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "課程設計與潛能開發學系::DEPARTMENT OF CURRICULUM DESIGN AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "course_id": "ECE_32570",
+    "sql_id": "100266855",
+    "course_name": "蒙特梭利教育實務(下)",
+    "english_course_name": "Practice in Montessori Method II",
+    "credits": "2/2",
+    "teacher": [
+        "王筱篁"
+    ],
+    "classroom": [
+        "教C231",
+        "教D107",
+        "教C231",
+        "教D107"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100266855",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100266855",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

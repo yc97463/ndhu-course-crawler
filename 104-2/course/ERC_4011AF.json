@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_4011AF",
+    "sql_id": "104253057",
+    "course_name": "多元族群專題指導AF",
+    "english_course_name": "Independent Study (ethnic study)",
+    "credits": "3/3",
+    "teacher": [
+        "范麗娟"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        },
+        {
+            "day": "六",
+            "period": "2"
+        },
+        {
+            "day": "六",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104253057",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104253057",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

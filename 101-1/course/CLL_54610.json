@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_54610",
+    "sql_id": "101110100",
+    "course_name": "唐宋詞專題研究",
+    "english_course_name": "Seminar in Tang and Song Ci Poetry",
+    "credits": "3/3",
+    "teacher": [
+        "劉漢初"
+    ],
+    "classroom": [
+        "文D203",
+        "文D203",
+        "文D203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101110100",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101110100",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

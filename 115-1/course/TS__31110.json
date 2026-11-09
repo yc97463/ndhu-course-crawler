@@ -1,0 +1,36 @@
+{
+    "course_id": "TS__31110",
+    "sql_id": "115107706",
+    "course_name": "臺灣宗教文化資產",
+    "english_course_name": "否",
+    "credits": "Cultural Heritages of Religion in Taiwan",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "李世偉"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115107706",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115107706",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

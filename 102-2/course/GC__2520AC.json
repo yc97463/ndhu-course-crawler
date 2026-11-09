@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__2520AC",
+    "sql_id": "102265535",
+    "course_name": "英語文學名著選讀AC",
+    "english_course_name": "Selected Readings in English Masterpieces",
+    "credits": "3/3",
+    "teacher": [
+        "沈乃慧"
+    ],
+    "classroom": [
+        "共B209",
+        "共B209",
+        "共B209"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102265535",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102265535",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

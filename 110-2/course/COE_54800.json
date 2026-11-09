@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_54800",
+    "sql_id": "110213121",
+    "course_name": "數位學習研究",
+    "english_course_name": "Study on e-Learning",
+    "credits": "3/3",
+    "teacher": [
+        "高台茜"
+    ],
+    "classroom": [
+        "教育學院C108",
+        "教育學院C108",
+        "教育學院C108"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110213121",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110213121",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

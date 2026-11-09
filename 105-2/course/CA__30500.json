@@ -1,0 +1,37 @@
+{
+    "course_id": "CA__30500",
+    "sql_id": "105277353",
+    "course_name": "當代藝術思潮",
+    "english_course_name": "Contemporary Thoughts in Arts",
+    "credits": "3/3",
+    "teacher": [
+        "潘小雪"
+    ],
+    "classroom": [
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105277353",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105277353",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

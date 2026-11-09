@@ -1,0 +1,38 @@
+{
+    "course_id": "CES_10400",
+    "sql_id": "107180840",
+    "course_name": "環境科學概論",
+    "english_course_name": "Introduction to Environmental Science",
+    "credits": "3/3",
+    "teacher": [
+        "蘇銘千",
+        "吳海音"
+    ],
+    "classroom": [
+        "環境學院A124",
+        "環境學院A124",
+        "環境學院A124"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107180840",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107180840",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "環境學院學士班::BACHELOR"
+        }
+    ]
+}

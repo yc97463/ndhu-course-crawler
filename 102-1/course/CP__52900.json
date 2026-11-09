@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__52900",
+    "sql_id": "102163888",
+    "course_name": "高等心理治療學特論：婚姻與家族治療",
+    "english_course_name": "Advanced topics in psychotherapy:Marriage and Family Therapy",
+    "credits": "3/3",
+    "teacher": [
+        "劉彥君"
+    ],
+    "classroom": [
+        "工C303",
+        "工C303",
+        "工C303"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102163888",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102163888",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

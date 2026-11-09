@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__1000AD",
+    "sql_id": "101148291",
+    "course_name": "教育心理學AD",
+    "english_course_name": "Educational Psychology",
+    "credits": "2/2",
+    "teacher": [
+        "張明麗"
+    ],
+    "classroom": [
+        "教B111",
+        "教B111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101148291",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101148291",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

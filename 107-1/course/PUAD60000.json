@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD60000",
+    "sql_id": "107164778",
+    "course_name": "當代政治哲學研究",
+    "english_course_name": "Studies in Modern Political Philosophy",
+    "credits": "3/3",
+    "teacher": [
+        "石忠山"
+    ],
+    "classroom": [
+        "人社一館B203",
+        "人社一館B203",
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107164778",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107164778",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

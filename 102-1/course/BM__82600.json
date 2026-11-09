@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__82600",
+    "sql_id": "102195203",
+    "course_name": "研究哲學與方法論",
+    "english_course_name": "Research Philosophy and Methodology",
+    "credits": "3/3",
+    "teacher": [
+        "麥康妮"
+    ],
+    "classroom": [
+        "管B203",
+        "管B203",
+        "管B203"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "13"
+        },
+        {
+            "day": "一",
+            "period": "14"
+        },
+        {
+            "day": "一",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102195203",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102195203",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

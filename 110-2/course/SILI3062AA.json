@@ -1,0 +1,42 @@
+{
+    "course_id": "SILI3062AA",
+    "sql_id": "110278661",
+    "course_name": "文化創意產業學程實習AA",
+    "english_course_name": "Program of Cultural Creative Industries Internship",
+    "credits": "2/0:4",
+    "teacher": [
+        "楊翠"
+    ],
+    "classroom": [
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206",
+        "人社一館D206"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        },
+        {
+            "day": "五",
+            "period": "2"
+        },
+        {
+            "day": "六",
+            "period": "1"
+        },
+        {
+            "day": "六",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110278661",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110278661",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

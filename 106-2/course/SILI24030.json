@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI24030",
+    "sql_id": "106248506",
+    "course_name": "社會科學研究方法",
+    "english_course_name": "Social Science Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "魏貽君"
+    ],
+    "classroom": [
+        "人社一館B115",
+        "人社一館B115",
+        "人社一館B115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106248506",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106248506",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

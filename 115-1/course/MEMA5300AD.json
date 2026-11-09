@@ -1,0 +1,28 @@
+{
+    "course_id": "MEMA5300AD",
+    "sql_id": "115160218",
+    "course_name": "論文研究AD",
+    "english_course_name": "否",
+    "credits": "Dissertation Seminar",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "張瀠之"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115160218",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115160218",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院多元文化教育碩士班::MASTER PROGRAM OF MULTICULTURAL EDUCATION"
+        }
+    ]
+}

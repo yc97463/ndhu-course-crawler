@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__2120AB",
+    "sql_id": "104190861",
+    "course_name": "教育議題專題AB",
+    "english_course_name": "Special topics in Education",
+    "credits": "2/2",
+    "teacher": [
+        "林坤燦"
+    ],
+    "classroom": [
+        "教育學院A104",
+        "教育學院A104"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104190861",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104190861",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

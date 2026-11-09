@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__67720",
+    "sql_id": "112161096",
+    "course_name": "格稜蘭骨架蒙皮舟製作",
+    "english_course_name": "Make skin on frame Greenland kayak",
+    "credits": "3/3",
+    "teacher": [
+        "溫志榮"
+    ],
+    "classroom": [
+        "戶外",
+        "戶外",
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112161096",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112161096",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__54200",
+    "sql_id": "107168884",
+    "course_name": "當代藝術思潮批評研究",
+    "english_course_name": "Study and Criticism of Contemporary Issues in Arts",
+    "credits": "3/3",
+    "teacher": [
+        "潘小雪"
+    ],
+    "classroom": [
+        "原民院C104",
+        "原民院C104",
+        "原民院C104"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107168884",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107168884",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "course_id": "HASSM0020",
+    "sql_id": "100263183",
+    "course_name": "臺灣史",
+    "english_course_name": "Taiwanese History",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億",
+        "康培德"
+    ],
+    "classroom": [
+        "文B317",
+        "文B317",
+        "文B317"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100263183",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100263183",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

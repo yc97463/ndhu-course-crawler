@@ -1,0 +1,32 @@
+{
+    "course_id": "GC__58200",
+    "sql_id": "112294681",
+    "course_name": "直笛吹奏入門與欣賞",
+    "english_course_name": "Brilliant recorder music-basic recorder program",
+    "credits": "2/2",
+    "teacher": [
+        "陳燕玲"
+    ],
+    "classroom": [
+        "藝術學院C227",
+        "藝術學院C227"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112294681",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112294681",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

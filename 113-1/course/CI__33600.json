@@ -1,0 +1,37 @@
+{
+    "course_id": "CI__33600",
+    "sql_id": "113103578",
+    "course_name": "原住民族傳統生活技能與工藝",
+    "english_course_name": "Traditional Indigenous Crafts and Life Skills",
+    "credits": "3/3",
+    "teacher": [
+        "賴淑娟"
+    ],
+    "classroom": [
+        "原民院A206",
+        "原民院A206",
+        "原民院A206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113103578",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113103578",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

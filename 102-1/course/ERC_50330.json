@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_50330",
+    "sql_id": "102112570",
+    "course_name": "文化資產",
+    "english_course_name": "Cultural Heritage",
+    "credits": "3/3",
+    "teacher": [
+        "李招瑩"
+    ],
+    "classroom": [
+        "民A218",
+        "民A218",
+        "民A218"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102112570",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102112570",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "DKM_52500",
+    "sql_id": "104271780",
+    "course_name": "搜尋引擎",
+    "english_course_name": "Web Search Engines",
+    "credits": "3/3",
+    "teacher": [
+        "陳林志"
+    ],
+    "classroom": [
+        "管理學院C222",
+        "管理學院C222",
+        "管理學院C222"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104271780",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104271780",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "DKM_52100",
+    "sql_id": "104214081",
+    "course_name": "多變量分析",
+    "english_course_name": "Multivariate Data Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "江志卿"
+    ],
+    "classroom": [
+        "管理學院C222",
+        "管理學院C222",
+        "管理學院C222"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104214081",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104214081",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

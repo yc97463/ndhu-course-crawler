@@ -1,0 +1,35 @@
+{
+    "course_id": "GC__6539AH",
+    "sql_id": "113246454",
+    "course_name": "垂直整合專題(二)AH",
+    "english_course_name": "Vertically Integrated Projects (II)",
+    "credits": "1/1",
+    "teacher": [
+        "白益豪"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113246454",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113246454",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

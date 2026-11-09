@@ -1,0 +1,41 @@
+{
+    "course_id": "GC__58400",
+    "sql_id": "114115307",
+    "course_name": "台灣鳥獸誌",
+    "english_course_name": "Introduction to The Mammals and Birds of Taiwan",
+    "credits": "2/2",
+    "teacher": [
+        "吳海音",
+        "許育誠"
+    ],
+    "classroom": [
+        "環境學院A128",
+        "環境學院A128"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114115307",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114115307",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

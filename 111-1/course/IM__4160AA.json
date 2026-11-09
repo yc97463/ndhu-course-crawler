@@ -1,0 +1,40 @@
+{
+    "course_id": "IM__4160AA",
+    "sql_id": "111138088",
+    "course_name": "人工智慧AA",
+    "english_course_name": "Artificial Intelligence",
+    "credits": "3/3",
+    "teacher": [
+        "侯佳利"
+    ],
+    "classroom": [
+        "管理學院C203",
+        "管理學院C209",
+        "管理學院C203",
+        "管理學院C209",
+        "管理學院C203",
+        "管理學院C209"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111138088",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111138088",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

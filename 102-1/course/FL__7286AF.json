@@ -1,0 +1,33 @@
+{
+    "course_id": "FL__7286AF",
+    "sql_id": "102102420",
+    "course_name": "專題研究(三)AF",
+    "english_course_name": "Independent Study（III）",
+    "credits": "2/2",
+    "teacher": [
+        "徐福全",
+        "陳德光"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        },
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102102420",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102102420",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

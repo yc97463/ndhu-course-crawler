@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_74680",
+    "sql_id": "106122327",
+    "course_name": "歲時民俗文化研究",
+    "english_course_name": "Research of Chinese Festival Folklore",
+    "credits": "3/3",
+    "teacher": [
+        "肖放"
+    ],
+    "classroom": [
+        "人社一館D219",
+        "人社一館D219",
+        "人社一館D219"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106122327",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106122327",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

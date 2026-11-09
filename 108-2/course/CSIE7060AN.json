@@ -1,0 +1,37 @@
+{
+    "course_id": "CSIE7060AN",
+    "sql_id": "108206674",
+    "course_name": "論文研究(二)AN",
+    "english_course_name": "Thesis (Ⅱ)",
+    "credits": "3/3",
+    "teacher": [
+        "顏士淨"
+    ],
+    "classroom": [
+        "研討室",
+        "研討室",
+        "研討室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "8"
+        },
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108206674",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108206674",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

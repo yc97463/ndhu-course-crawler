@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__53000",
+    "sql_id": "102268138",
+    "course_name": "臨床晤談",
+    "english_course_name": "Clinical Interview",
+    "credits": "3/3",
+    "teacher": [
+        "劉彥君"
+    ],
+    "classroom": [
+        "工C209",
+        "工C209",
+        "工C209"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102268138",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102268138",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

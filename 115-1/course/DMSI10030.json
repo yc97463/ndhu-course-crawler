@@ -1,0 +1,36 @@
+{
+    "course_id": "DMSI10030",
+    "sql_id": "115135637",
+    "course_name": "計算機概論",
+    "english_course_name": "是",
+    "credits": "Introduction to Computer Science",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "張烜瀚"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115135637",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115135637",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院數位行銷與服務創新國際學士班::BACHELOR PROGRAM OF DIGITAL MARKETING AND SERVICE INNOVATION"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "PA__10080",
+    "sql_id": "112101713",
+    "course_name": "政治學",
+    "english_course_name": "Political Science",
+    "credits": "3/3",
+    "teacher": [
+        "魯炳炎"
+    ],
+    "classroom": [
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112101713",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112101713",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

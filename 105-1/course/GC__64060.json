@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__64060",
+    "sql_id": "105126637",
+    "course_name": "企業管理與經營模擬",
+    "english_course_name": "Business Administration and Operation Simulation",
+    "credits": "3/3",
+    "teacher": [
+        "彭玉樹"
+    ],
+    "classroom": [
+        "管理學院-第二講堂D124",
+        "管理學院-第二講堂D124",
+        "管理學院-第二講堂D124"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105126637",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105126637",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

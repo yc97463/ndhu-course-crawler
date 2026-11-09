@@ -1,0 +1,35 @@
+{
+    "course_id": "GC__63420",
+    "sql_id": "106243152",
+    "course_name": "資訊管理原理與應用",
+    "english_course_name": "Principle and Application of Information Management",
+    "credits": "2/2",
+    "teacher": [
+        "侯佳利",
+        "劉英和",
+        "江志卿",
+        "葉國暉"
+    ],
+    "classroom": [
+        "管理學院-第一講堂B210",
+        "管理學院-第一講堂B210"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106243152",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106243152",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

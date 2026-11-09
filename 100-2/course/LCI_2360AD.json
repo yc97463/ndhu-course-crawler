@@ -1,0 +1,42 @@
+{
+    "course_id": "LCI_2360AD",
+    "sql_id": "100200116",
+    "course_name": "族語（二）AD",
+    "english_course_name": "Tribal Languages（II）",
+    "credits": "2/4",
+    "teacher": [
+        "呂必賢"
+    ],
+    "classroom": [
+        "民A239",
+        "民A239",
+        "民A239",
+        "民A239"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100200116",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100200116",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

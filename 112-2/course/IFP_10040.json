@@ -1,0 +1,42 @@
+{
+    "course_id": "IFP_10040",
+    "sql_id": "112258079",
+    "course_name": "華語閱讀",
+    "english_course_name": "Chinese Reading",
+    "credits": "4/4",
+    "teacher": [
+        "郭乃禎"
+    ],
+    "classroom": [
+        "人社三館B104",
+        "人社三館B104",
+        "人社三館B104",
+        "人社三館B104"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "二",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112258079",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112258079",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

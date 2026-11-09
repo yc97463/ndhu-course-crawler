@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__10110",
+    "sql_id": "114134436",
+    "course_name": "文學作品讀法(一)",
+    "english_course_name": "Critical Approaches to Literary Texts(I)",
+    "credits": "3/3",
+    "teacher": [
+        "許甄倚"
+    ],
+    "classroom": [
+        "人社二館-第五講堂B013",
+        "人社二館-第五講堂B013",
+        "人社二館-第五講堂B013"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114134436",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114134436",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

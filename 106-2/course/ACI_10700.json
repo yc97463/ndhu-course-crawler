@@ -1,0 +1,52 @@
+{
+    "course_id": "ACI_10700",
+    "sql_id": "106242433",
+    "course_name": "琉璃藝術創作（一）",
+    "english_course_name": "Lazurite Arts (I)",
+    "credits": "3/3",
+    "teacher": [
+        "許金烺"
+    ],
+    "classroom": [
+        "原民院A123",
+        "原民院A123",
+        "原民院A123",
+        "原民院A123",
+        "原民院A123",
+        "原民院A123"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        },
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "12"
+        },
+        {
+            "day": "四",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106242433",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106242433",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

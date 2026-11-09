@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT31710",
+    "sql_id": "113265381",
+    "course_name": "衍生性金融商品會計",
+    "english_course_name": "Accounting for Financial Instruments",
+    "credits": "3/3",
+    "teacher": [
+        "許芙瑄"
+    ],
+    "classroom": [
+        "管理學院C135",
+        "管理學院C135",
+        "管理學院C135"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113265381",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113265381",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

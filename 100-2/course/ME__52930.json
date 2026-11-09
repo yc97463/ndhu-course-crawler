@@ -1,0 +1,37 @@
+{
+    "course_id": "ME__52930",
+    "sql_id": "100244646",
+    "course_name": "實踐取向研究",
+    "english_course_name": "Praxis-Oriented Research",
+    "credits": "3/3",
+    "teacher": [
+        "廉兮"
+    ],
+    "classroom": [
+        "教C114",
+        "教C114",
+        "教C114"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100244646",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100244646",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "課程設計與潛能開發學系::DEPARTMENT OF CURRICULUM DESIGN AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

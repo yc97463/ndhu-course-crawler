@@ -1,0 +1,37 @@
+{
+    "course_id": "UPOL10200",
+    "sql_id": "105158738",
+    "course_name": "國際法",
+    "english_course_name": "International Law",
+    "credits": "3/3",
+    "teacher": [
+        "徐揮彥"
+    ],
+    "classroom": [
+        "人社一館-第二講堂",
+        "人社一館-第二講堂",
+        "人社一館-第二講堂"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105158738",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105158738",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學士學位學程::UNDERGRADUATE PROGRAM OF LAW"
+        }
+    ]
+}

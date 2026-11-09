@@ -1,0 +1,41 @@
+{
+    "course_id": "HASS10050",
+    "sql_id": "112134928",
+    "course_name": "人文學經典導讀",
+    "english_course_name": "Classics in Humanities",
+    "credits": "3/3",
+    "teacher": [
+        "張蜀蕙",
+        "許又方",
+        "蔡淑芬",
+        "劉慧",
+        "黃宣衛"
+    ],
+    "classroom": [
+        "人社二館-第三講堂B009",
+        "人社二館-第三講堂B009",
+        "人社二館-第三講堂B009"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112134928",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112134928",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "人文社會科學學院學士班::BACHELOR"
+        }
+    ]
+}

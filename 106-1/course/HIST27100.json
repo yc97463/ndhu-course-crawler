@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST27100",
+    "sql_id": "106106155",
+    "course_name": "中國史學史",
+    "english_course_name": "The History of Chinese Historiography",
+    "credits": "3/3",
+    "teacher": [
+        "陳元朋"
+    ],
+    "classroom": [
+        "人社三館C112",
+        "人社三館C112",
+        "人社三館C112"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106106155",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106106155",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

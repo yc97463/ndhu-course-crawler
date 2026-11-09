@@ -1,0 +1,33 @@
+{
+    "course_id": "CSIE60800",
+    "sql_id": "100287840",
+    "course_name": "專題討論（四）",
+    "english_course_name": "Seminar（IV）",
+    "credits": "1/2",
+    "teacher": [
+        "楊慶隆",
+        "周世杰"
+    ],
+    "classroom": [
+        "工四講堂",
+        "工四講堂"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100287840",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100287840",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

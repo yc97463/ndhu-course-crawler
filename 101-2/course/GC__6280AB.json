@@ -1,0 +1,36 @@
+{
+    "course_id": "GC__6280AB",
+    "sql_id": "101249690",
+    "course_name": "演說與辯論(下)AB",
+    "english_course_name": "Speech and Debate, 2nd semester",
+    "credits": "2/2",
+    "teacher": [
+        "水晶"
+    ],
+    "classroom": [
+        "文D204",
+        "文D204"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101249690",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101249690",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

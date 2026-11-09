@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__51720",
+    "sql_id": "103116214",
+    "course_name": "Phonics 教學",
+    "english_course_name": "Letter-sound knowledge, phonics, and word comprehension: from empirical evidence to teaching practice",
+    "credits": "3/3",
+    "teacher": [
+        "鄭育霖"
+    ],
+    "classroom": [
+        "文D204",
+        "文D204",
+        "文D204"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103116214",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103116214",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

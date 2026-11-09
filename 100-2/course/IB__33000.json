@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__33000",
+    "sql_id": "100275778",
+    "course_name": "創業行銷",
+    "english_course_name": "Entrepreneurial Marketing",
+    "credits": "3/3",
+    "teacher": [
+        "邱郁仁"
+    ],
+    "classroom": [
+        "管C122",
+        "管C122",
+        "管C122"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100275778",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100275778",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

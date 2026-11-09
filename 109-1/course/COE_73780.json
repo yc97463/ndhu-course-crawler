@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_73780",
+    "sql_id": "109110180",
+    "course_name": "教學哲學專題研究",
+    "english_course_name": "Research Seminar on Instructional Philosophy",
+    "credits": "3/3",
+    "teacher": [
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院C114",
+        "教育學院C114",
+        "教育學院C114"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109110180",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109110180",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__51000",
+    "sql_id": "100180334",
+    "course_name": "造型創作(一)",
+    "english_course_name": "Sculpture Studio I",
+    "credits": "3/3",
+    "teacher": [
+        "鄭梃甄"
+    ],
+    "classroom": [
+        "民C121",
+        "民C121",
+        "民C121"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100180334",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100180334",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

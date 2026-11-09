@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5475Z",
+    "sql_id": "104547106",
+    "course_name": "運動技術指導法專題研究",
+    "english_course_name": "Special Topics in Sport Techniques",
+    "credits": "2/2",
+    "teacher": [
+        "楊昌斌"
+    ],
+    "classroom": [
+        "教育學院C431-1",
+        "教育學院C431-1",
+        "教育學院C431-1",
+        "教育學院C431-1"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104547106",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104547106",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

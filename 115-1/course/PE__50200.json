@@ -1,0 +1,36 @@
+{
+    "course_id": "PE__50200",
+    "sql_id": "115172218",
+    "course_name": "體育研究法",
+    "english_course_name": "否",
+    "credits": "Research Methods in Physical Education",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "徐偉庭"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115172218",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115172218",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

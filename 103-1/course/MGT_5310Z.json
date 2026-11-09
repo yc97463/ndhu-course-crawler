@@ -1,0 +1,27 @@
+{
+    "course_id": "MGT_5310Z",
+    "sql_id": "103104533",
+    "course_name": "高階管理特論 (一)",
+    "english_course_name": "Special Topics in Advanced Management (I)",
+    "credits": "1/1",
+    "teacher": [
+        "張巧真"
+    ],
+    "classroom": [
+        "管A107"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103104533",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103104533",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院高階經營管理碩士在職專班::EXECUTIVE MASTER PROGRAM OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

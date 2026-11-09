@@ -1,0 +1,41 @@
+{
+    "course_id": "CIS_1070AB",
+    "sql_id": "102204728",
+    "course_name": "世界原住民族通論AB",
+    "english_course_name": "Introduction to the Indigenous Peoples of the World",
+    "credits": "3/3",
+    "teacher": [
+        "謝若蘭"
+    ],
+    "classroom": [
+        "民A206",
+        "民A206",
+        "民A206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102204728",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102204728",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院學士班::BACHELOR"
+        },
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "CSIEM0020",
+    "sql_id": "109173474",
+    "course_name": "專題講座(一)",
+    "english_course_name": "Special Topic Lecture (Ⅰ)",
+    "credits": "1/2",
+    "teacher": [
+        "顏士淨",
+        "吳秀陽"
+    ],
+    "classroom": [
+        "理工二館-第四講堂A307",
+        "理工二館-第四講堂A307"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109173474",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109173474",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

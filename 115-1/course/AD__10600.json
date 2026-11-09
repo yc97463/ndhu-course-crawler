@@ -1,0 +1,36 @@
+{
+    "course_id": "AD__10600",
+    "sql_id": "115113280",
+    "course_name": "水彩",
+    "english_course_name": "否",
+    "credits": "Watercolor",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "胡朝景"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115113280",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115113280",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

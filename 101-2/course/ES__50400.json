@@ -1,0 +1,37 @@
+{
+    "course_id": "ES__50400",
+    "sql_id": "101211391",
+    "course_name": "沈積體系",
+    "english_course_name": "Sedimentology",
+    "credits": "3/3",
+    "teacher": [
+        "顏君毅"
+    ],
+    "classroom": [
+        "環A159",
+        "環A159",
+        "環A159"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101211391",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101211391",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

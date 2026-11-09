@@ -1,0 +1,37 @@
+{
+    "course_id": "IDSW50740",
+    "sql_id": "110258870",
+    "course_name": "原住民族自治專題",
+    "english_course_name": "Seminar on Indigenous Self-Government",
+    "credits": "3/3",
+    "teacher": [
+        "陳張培倫"
+    ],
+    "classroom": [
+        "原民院A317",
+        "原民院A317",
+        "原民院A317"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110258870",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110258870",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族事務與發展學系::DEPARTMENT OF INDIGENOUS AFFAIRS AND DEVELOPMENT"
+        }
+    ]
+}

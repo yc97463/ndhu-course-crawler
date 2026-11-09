@@ -1,0 +1,37 @@
+{
+    "course_id": "CDPD22470",
+    "sql_id": "106216431",
+    "course_name": "閱讀理解教學",
+    "english_course_name": "Teaching Reading Comprehension",
+    "credits": "3/3",
+    "teacher": [
+        "劉佩雲"
+    ],
+    "classroom": [
+        "教育學院B309",
+        "教育學院B309",
+        "教育學院B309"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106216431",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106216431",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_3090AA",
+    "sql_id": "100247418",
+    "course_name": "基金管理AA",
+    "english_course_name": "Practicum in Portfolio Management",
+    "credits": "3/3",
+    "teacher": [
+        "侯介澤"
+    ],
+    "classroom": [
+        "管D111",
+        "管D111",
+        "管D111"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100247418",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100247418",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "OE__5302AE",
+    "sql_id": "107124114",
+    "course_name": "論文研究(一)AE",
+    "english_course_name": "Thesis(I)",
+    "credits": "2/2",
+    "teacher": [
+        "白益豪"
+    ],
+    "classroom": [
+        "實驗室",
+        "實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107124114",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107124114",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "光電工程學系::DEPARTMENT OF OPTO-ELECTRONIC ENGINEERING"
+        }
+    ]
+}

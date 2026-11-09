@@ -1,0 +1,40 @@
+{
+    "course_id": "ACCT3080AB",
+    "sql_id": "115180906",
+    "course_name": "會計資訊系統AB",
+    "english_course_name": "否",
+    "credits": "Accounting Information Systems",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "張益誠"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115180906",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115180906",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

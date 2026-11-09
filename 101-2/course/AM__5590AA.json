@@ -1,0 +1,32 @@
+{
+    "course_id": "AM__5590AA",
+    "sql_id": "101284895",
+    "course_name": "專題討論:應數講座(二)AA",
+    "english_course_name": "Colloquium : Lectures of Applied Mathematics (II)",
+    "credits": "1/1",
+    "teacher": [
+        "吳韋瑩"
+    ],
+    "classroom": [
+        "理B101",
+        "理B101"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101284895",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101284895",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

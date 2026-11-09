@@ -1,0 +1,41 @@
+{
+    "course_id": "IM__1120AB",
+    "sql_id": "108166757",
+    "course_name": "初階程式設計AB",
+    "english_course_name": "Program Design",
+    "credits": "3/3",
+    "teacher": [
+        "劉英和"
+    ],
+    "classroom": [
+        "管理學院B119",
+        "管理學院B119",
+        "管理學院B119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108166757",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108166757",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

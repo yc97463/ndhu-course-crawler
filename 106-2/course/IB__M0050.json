@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__M0050",
+    "sql_id": "106276878",
+    "course_name": "國際企業研究方法",
+    "english_course_name": "Seminar on International Business Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "夏締青"
+    ],
+    "classroom": [
+        "管理學院A115",
+        "管理學院A115",
+        "管理學院A115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106276878",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106276878",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

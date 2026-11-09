@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__52000",
+    "sql_id": "100100565",
+    "course_name": "管理經濟學",
+    "english_course_name": "Managerial Economics",
+    "credits": "3/3",
+    "teacher": [
+        "張巧真"
+    ],
+    "classroom": [
+        "管C115",
+        "管C115",
+        "管C115"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100100565",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100100565",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

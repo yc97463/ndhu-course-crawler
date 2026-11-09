@@ -1,0 +1,37 @@
+{
+    "course_id": "ISAT51900",
+    "sql_id": "106298364",
+    "course_name": "輔助科技與生活應用",
+    "english_course_name": "Assistive Technology and Daily Activities Living",
+    "credits": "3/3",
+    "teacher": [
+        "施清祥"
+    ],
+    "classroom": [
+        "教育學院D133",
+        "教育學院D133",
+        "教育學院D133"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106298364",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106298364",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

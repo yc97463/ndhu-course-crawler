@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__5550AA",
+    "sql_id": "104205266",
+    "course_name": "英語口語聽講（四）AA",
+    "english_course_name": "English Oral Training (IV)",
+    "credits": "1.5/3",
+    "teacher": [
+        "吳仙風"
+    ],
+    "classroom": [
+        "教育學院D213",
+        "教育學院D213",
+        "教育學院D213"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104205266",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104205266",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__51900",
+    "sql_id": "100253136",
+    "course_name": "廣義統計線性模型",
+    "english_course_name": "Generalized Linear Models",
+    "credits": "3/3",
+    "teacher": [
+        "曾玉玲"
+    ],
+    "classroom": [
+        "理B301",
+        "理B301",
+        "理A211"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100253136",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100253136",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

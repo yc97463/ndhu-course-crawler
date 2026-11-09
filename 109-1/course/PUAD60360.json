@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD60360",
+    "sql_id": "109126238",
+    "course_name": "歐洲問題研究專題",
+    "english_course_name": "Seminar on European Issues",
+    "credits": "3/3",
+    "teacher": [
+        "賴昀辰"
+    ],
+    "classroom": [
+        "人社二館D209",
+        "人社二館D209",
+        "人社二館D209"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109126238",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109126238",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

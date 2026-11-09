@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__2010AB",
+    "sql_id": "100177101",
+    "course_name": "國民小學語文教材教法-國語教材教法AB",
+    "english_course_name": "Teaching Materials and Methods of Language in Elementary School---Materials and Methods of teaching Mandarin",
+    "credits": "2/2",
+    "teacher": [
+        "李遠志"
+    ],
+    "classroom": [
+        "文D206",
+        "文D206"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100177101",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100177101",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "課程設計與潛能開發學系::DEPARTMENT OF CURRICULUM DESIGN AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

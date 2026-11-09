@@ -1,0 +1,52 @@
+{
+    "course_id": "CA__11700",
+    "sql_id": "113143537",
+    "course_name": "產業實習",
+    "english_course_name": "Vocational Internship",
+    "credits": "3/0:6",
+    "teacher": [
+        "田名璋"
+    ],
+    "classroom": [
+        "藝術學院A133",
+        "藝術學院A133",
+        "藝術學院A133",
+        "藝術學院A133",
+        "藝術學院A133",
+        "藝術學院A133"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        },
+        {
+            "day": "一",
+            "period": "2"
+        },
+        {
+            "day": "一",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "1"
+        },
+        {
+            "day": "二",
+            "period": "2"
+        },
+        {
+            "day": "二",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113143537",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113143537",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

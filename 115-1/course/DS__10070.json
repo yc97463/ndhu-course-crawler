@@ -1,0 +1,40 @@
+{
+    "course_id": "DS__10070",
+    "sql_id": "115101613",
+    "course_name": "初等分析",
+    "english_course_name": "是",
+    "credits": "Elements of Analysis",
+    "teacher": [
+        "4",
+        "4"
+    ],
+    "classroom": [
+        "周君彥"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115101613",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115101613",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "理工學院大數據科學國際學士班::BACHELOR DEGREE PROGRAM OF DATA SCIENCE"
+        }
+    ]
+}

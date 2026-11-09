@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_12230",
+    "sql_id": "108114183",
+    "course_name": "媒體概論",
+    "english_course_name": "Introduction to Media",
+    "credits": "3/3",
+    "teacher": [
+        "林俊偉"
+    ],
+    "classroom": [
+        "原民院A212",
+        "原民院A212",
+        "原民院A212"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108114183",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108114183",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "course_id": "LCI_2429AD",
+    "sql_id": "113257886",
+    "course_name": "族語閱讀AD",
+    "english_course_name": "Indigenous Languages Reading",
+    "credits": "2/2",
+    "teacher": [
+        "Sifo Lakaw"
+    ],
+    "classroom": [
+        "原民院A347",
+        "原民院A347"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113257886",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113257886",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

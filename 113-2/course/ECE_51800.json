@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_51800",
+    "sql_id": "113252809",
+    "course_name": "東台灣文化與教養觀",
+    "english_course_name": "Perspectives on Culture and Rearing in Eastern Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "張凱程"
+    ],
+    "classroom": [
+        "教育學院D313",
+        "教育學院D313",
+        "教育學院D313"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113252809",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113252809",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

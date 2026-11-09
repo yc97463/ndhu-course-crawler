@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__42700",
+    "sql_id": "102138279",
+    "course_name": "釉色表現",
+    "english_course_name": "Enamel Study",
+    "credits": "3/3",
+    "teacher": [
+        "吳偉谷"
+    ],
+    "classroom": [
+        "藝坊110",
+        "藝坊110",
+        "藝坊110"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102138279",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102138279",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

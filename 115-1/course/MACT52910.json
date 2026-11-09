@@ -1,0 +1,36 @@
+{
+    "course_id": "MACT52910",
+    "sql_id": "115162324",
+    "course_name": "行為會計學",
+    "english_course_name": "否",
+    "credits": "Behavioral Accounting",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "孫文琦"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115162324",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115162324",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

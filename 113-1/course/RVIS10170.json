@@ -1,0 +1,27 @@
+{
+    "course_id": "RVIS10170",
+    "sql_id": "113143397",
+    "course_name": "科學家族專題課（一）",
+    "english_course_name": "Science Topical Studies in Philosophy：Chapter １",
+    "credits": "1/1",
+    "teacher": [
+        "張蘭石"
+    ],
+    "classroom": [
+        "洄瀾學院B106"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113143397",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113143397",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "TRLS5060AF",
+    "sql_id": "106117003",
+    "course_name": "專題研究(一)AF",
+    "english_course_name": "Independent Study (I)",
+    "credits": "1/1",
+    "teacher": [
+        "遲恒昌"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106117003",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106117003",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

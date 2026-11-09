@@ -1,0 +1,37 @@
+{
+    "course_id": "ERAC58900",
+    "sql_id": "107286100",
+    "course_name": "歷史、記憶，與敘說",
+    "english_course_name": "History, Remembrance, and Narration",
+    "credits": "3/3",
+    "teacher": [
+        "林素珍"
+    ],
+    "classroom": [
+        "原民院A218",
+        "原民院A218",
+        "原民院A218"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107286100",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107286100",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

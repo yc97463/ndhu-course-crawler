@@ -1,0 +1,42 @@
+{
+    "course_id": "PE__5467Z",
+    "sql_id": "100516471",
+    "course_name": "電腦資料處理與分析",
+    "english_course_name": "Data Processing and Analysis of Computer",
+    "credits": "2/2",
+    "teacher": [
+        "林如瀚"
+    ],
+    "classroom": [
+        "電算406",
+        "電算406",
+        "電算406",
+        "電算406"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100516471",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100516471",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

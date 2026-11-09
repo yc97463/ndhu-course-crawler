@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_14500",
+    "sql_id": "105137650",
+    "course_name": "理論作曲（副修）（二）",
+    "english_course_name": "Music Theory & Composition （Minor）（Ⅱ）",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "洪于茜"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105137650",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105137650",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

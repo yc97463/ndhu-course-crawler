@@ -1,0 +1,27 @@
+{
+    "course_id": "FIN_3148AG",
+    "sql_id": "109270161",
+    "course_name": "財務金融專題AG",
+    "english_course_name": "Project in Finance",
+    "credits": "1/1",
+    "teacher": [
+        "侯介澤"
+    ],
+    "classroom": [
+        "管理學院C103"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109270161",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109270161",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

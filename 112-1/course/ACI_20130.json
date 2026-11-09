@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_20130",
+    "sql_id": "112109660",
+    "course_name": "藝術行銷導論",
+    "english_course_name": "Introduction to Arts Marketing",
+    "credits": "3/3",
+    "teacher": [
+        "林昭宏"
+    ],
+    "classroom": [
+        "藝術學院A128",
+        "藝術學院A128",
+        "藝術學院A128"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112109660",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112109660",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

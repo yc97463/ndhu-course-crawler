@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__6050AL",
+    "sql_id": "107231012",
+    "course_name": "論文研究(二)AL",
+    "english_course_name": "Thesis (II)",
+    "credits": "3/3",
+    "teacher": [
+        "黃淑琴"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "6"
+        },
+        {
+            "day": "六",
+            "period": "7"
+        },
+        {
+            "day": "六",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107231012",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107231012",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

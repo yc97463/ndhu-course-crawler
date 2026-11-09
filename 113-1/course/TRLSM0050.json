@@ -1,0 +1,37 @@
+{
+    "course_id": "TRLSM0050",
+    "sql_id": "113146390",
+    "course_name": "研究方法",
+    "english_course_name": "Research Methods",
+    "credits": "3/3",
+    "teacher": [
+        "陳上迪"
+    ],
+    "classroom": [
+        "管理學院C236",
+        "管理學院C236",
+        "管理學院C236"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113146390",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113146390",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

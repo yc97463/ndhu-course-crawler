@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__D0180",
+    "sql_id": "110243896",
+    "course_name": "環境經濟學",
+    "english_course_name": "Environmental Economics",
+    "credits": "3/3",
+    "teacher": [
+        "林慧菁"
+    ],
+    "classroom": [
+        "人社一館D220",
+        "人社一館D220",
+        "人社一館D220"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "11"
+        },
+        {
+            "day": "一",
+            "period": "12"
+        },
+        {
+            "day": "一",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110243896",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110243896",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

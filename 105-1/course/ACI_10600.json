@@ -1,0 +1,37 @@
+{
+    "course_id": "ACI_10600",
+    "sql_id": "105170372",
+    "course_name": "編織藝術創作(一）",
+    "english_course_name": "Weaving Art (I)",
+    "credits": "3/3",
+    "teacher": [
+        "馬芬妹"
+    ],
+    "classroom": [
+        "原民院C112",
+        "原民院C112",
+        "原民院C112"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105170372",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105170372",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

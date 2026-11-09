@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__33800",
+    "sql_id": "103160242",
+    "course_name": "財經軟體應用",
+    "english_course_name": "Application of Financial and Statistical Software",
+    "credits": "3/3",
+    "teacher": [
+        "羅德芬"
+    ],
+    "classroom": [
+        "教PC2(B220)",
+        "教PC2(B220)",
+        "教PC2(B220)"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103160242",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103160242",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

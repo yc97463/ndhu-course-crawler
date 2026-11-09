@@ -1,0 +1,37 @@
+{
+    "course_id": "COE_70300",
+    "sql_id": "108220350",
+    "course_name": "教育美學專題研究",
+    "english_course_name": "Research Seminar on Educational Aesthetics",
+    "credits": "3/3",
+    "teacher": [
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院B329",
+        "教育學院B329",
+        "教育學院B329"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108220350",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108220350",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

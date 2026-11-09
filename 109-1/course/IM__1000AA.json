@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__1000AA",
+    "sql_id": "109103905",
+    "course_name": "計算機概論AA",
+    "english_course_name": "Introduction to Computer Science",
+    "credits": "3/3",
+    "teacher": [
+        "許芳銘"
+    ],
+    "classroom": [
+        "管理學院B119",
+        "管理學院B119",
+        "管理學院B119"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109103905",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109103905",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

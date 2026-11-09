@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6090AA",
+    "sql_id": "100134664",
+    "course_name": "韓語(一)AA",
+    "english_course_name": "Korean(I)",
+    "credits": "3/3",
+    "teacher": [
+        "張介宗"
+    ],
+    "classroom": [
+        "工B412",
+        "工B412",
+        "工B412"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100134664",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100134664",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

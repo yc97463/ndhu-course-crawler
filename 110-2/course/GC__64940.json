@@ -1,0 +1,38 @@
+{
+    "course_id": "GC__64940",
+    "sql_id": "110229527",
+    "course_name": "無所不在的《莊子》：十種解讀方法",
+    "english_course_name": "Reading Zhuangzi: Ten approaches",
+    "credits": "3/3",
+    "teacher": [
+        "李正芬",
+        "李崗"
+    ],
+    "classroom": [
+        "教育學院B320",
+        "教育學院B320",
+        "教育學院B320"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "9"
+        },
+        {
+            "day": "四",
+            "period": "10"
+        },
+        {
+            "day": "四",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110229527",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110229527",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

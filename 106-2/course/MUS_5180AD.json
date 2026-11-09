@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5180AD",
+    "sql_id": "106232198",
+    "course_name": "獨立研究〈二〉AD",
+    "english_course_name": "Independent Study(II)",
+    "credits": "1/1",
+    "teacher": [
+        "沈克恕"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106232198",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106232198",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

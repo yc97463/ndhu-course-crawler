@@ -1,0 +1,29 @@
+{
+    "course_id": "TRLS40090",
+    "sql_id": "115147767",
+    "course_name": "服務學習(二)",
+    "english_course_name": "否",
+    "credits": "Service Learning (Ⅱ)",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "李介祿",
+        "林濰榕"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115147767",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115147767",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "觀光暨休閒遊憩學系::DEPARTMENT OF TOURISM, RECREATION AND LEISURE STUDIES"
+        }
+    ]
+}

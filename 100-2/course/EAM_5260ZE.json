@@ -1,0 +1,42 @@
+{
+    "course_id": "EAM_5260ZE",
+    "sql_id": "100227161",
+    "course_name": "論文研究(二)ZE",
+    "english_course_name": "Thesis Study II",
+    "credits": "2/2",
+    "teacher": [
+        "簡梅瑩"
+    ],
+    "classroom": [
+        "教C315",
+        "教C315",
+        "教C315",
+        "教C315"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "1"
+        },
+        {
+            "day": "日",
+            "period": "2"
+        },
+        {
+            "day": "日",
+            "period": "3"
+        },
+        {
+            "day": "日",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100227161",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100227161",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育行政與管理學系::DEPARTMENT OF EDUCATIONAL ADMINISTRATION AND MANAGEMENT"
+        }
+    ]
+}

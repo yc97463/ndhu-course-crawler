@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__58350",
+    "sql_id": "101285328",
+    "course_name": "高等心理病理學特論：分類與診斷 (III)",
+    "english_course_name": "Advanced Topics in Psychopathology:Classification & Diagnosis(III)",
+    "credits": "3/3",
+    "teacher": [
+        "高倜歐"
+    ],
+    "classroom": [
+        "共B101",
+        "共B101",
+        "共B101"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101285328",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101285328",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

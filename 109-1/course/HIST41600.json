@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST41600",
+    "sql_id": "109145791",
+    "course_name": "社會科學與歷史研究",
+    "english_course_name": "Social Sciences and Historic Studies",
+    "credits": "3/3",
+    "teacher": [
+        "陳彥良"
+    ],
+    "classroom": [
+        "人社三館C112",
+        "人社三館C112",
+        "人社三館C112"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109145791",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109145791",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

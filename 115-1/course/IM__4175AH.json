@@ -1,0 +1,28 @@
+{
+    "course_id": "IM__4175AH",
+    "sql_id": "115191349",
+    "course_name": "資訊管理專題AH",
+    "english_course_name": "否",
+    "credits": "Project in Information Management",
+    "teacher": [
+        "1",
+        "1"
+    ],
+    "classroom": [
+        "陳林志"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115191349",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115191349",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

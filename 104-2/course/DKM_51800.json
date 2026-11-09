@@ -1,0 +1,38 @@
+{
+    "course_id": "DKM_51800",
+    "sql_id": "104259675",
+    "course_name": "數位內容專題",
+    "english_course_name": "Digital Content",
+    "credits": "3/3",
+    "teacher": [
+        "劉英和",
+        "葉國暉"
+    ],
+    "classroom": [
+        "管理學院C210",
+        "管理學院C210",
+        "管理學院C210"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104259675",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104259675",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

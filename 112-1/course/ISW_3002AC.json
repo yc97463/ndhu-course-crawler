@@ -1,0 +1,52 @@
+{
+    "course_id": "ISW_3002AC",
+    "sql_id": "112101253",
+    "course_name": "社會工作實習(二)AC",
+    "english_course_name": "Social Work Practicum (II)",
+    "credits": "3/0:6",
+    "teacher": [
+        "賴兩陽"
+    ],
+    "classroom": [
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222",
+        "原民院A222"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        },
+        {
+            "day": "三",
+            "period": "2"
+        },
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "1"
+        },
+        {
+            "day": "五",
+            "period": "2"
+        },
+        {
+            "day": "五",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112101253",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112101253",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族社會工作學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS SOCIAL WORK"
+        }
+    ]
+}

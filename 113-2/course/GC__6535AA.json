@@ -1,0 +1,51 @@
+{
+    "course_id": "GC__6535AA",
+    "sql_id": "113219275",
+    "course_name": "心理學與生活AA",
+    "english_course_name": "Psychology and Life",
+    "credits": "3/3",
+    "teacher": [
+        "蔣世光",
+        "王純娟",
+        "藍玉玲",
+        "林繼偉",
+        "李沐齊",
+        "高倜歐",
+        "李慧芳"
+    ],
+    "classroom": [
+        "人社二館B101",
+        "人社二館B101",
+        "人社二館B101"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113219275",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113219275",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

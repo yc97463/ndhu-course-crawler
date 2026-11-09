@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__14600",
+    "sql_id": "103214780",
+    "course_name": "德語(二)",
+    "english_course_name": "German﹝Ⅱ﹞",
+    "credits": "3/3",
+    "teacher": [
+        "朱淑慧"
+    ],
+    "classroom": [
+        "工B212",
+        "工B212",
+        "工B212"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103214780",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103214780",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

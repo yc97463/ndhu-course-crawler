@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__62910",
+    "sql_id": "102226895",
+    "course_name": "中國文學名著選讀",
+    "english_course_name": "Selected Readings in Chinese Literature",
+    "credits": "3/3",
+    "teacher": [
+        "張啟超"
+    ],
+    "classroom": [
+        "工A437",
+        "工A437",
+        "工A437"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102226895",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102226895",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "course_id": "BM__78200",
+    "sql_id": "103149425",
+    "course_name": "專題討論:企業管理專題研討(三)",
+    "english_course_name": "Seminar on Business Administration Special Topic(Ⅲ)",
+    "credits": "1/2",
+    "teacher": [
+        "祝道松",
+        "陳正杰"
+    ],
+    "classroom": [
+        "教-階梯(一)C128",
+        "教-階梯(一)C128"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103149425",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103149425",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

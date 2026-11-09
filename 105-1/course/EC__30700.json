@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__30700",
+    "sql_id": "105136277",
+    "course_name": "產業經濟學",
+    "english_course_name": "Industrial Organization",
+    "credits": "3/3",
+    "teacher": [
+        "李娓瑋"
+    ],
+    "classroom": [
+        "人社一館A318",
+        "人社一館A318",
+        "人社一館A318"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105136277",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105136277",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

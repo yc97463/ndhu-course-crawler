@@ -1,0 +1,30 @@
+{
+    "course_id": "IB__31900",
+    "sql_id": "102266612",
+    "course_name": "國際企業專題(二)",
+    "english_course_name": "Project for Department of International Business（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "陳柏元",
+        "周慧君",
+        "夏締青",
+        "欒錦榮"
+    ],
+    "classroom": [
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102266612",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102266612",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

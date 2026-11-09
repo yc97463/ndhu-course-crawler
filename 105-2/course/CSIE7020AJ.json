@@ -1,0 +1,37 @@
+{
+    "course_id": "CSIE7020AJ",
+    "sql_id": "105247727",
+    "course_name": "引導研究(二)AJ",
+    "english_course_name": "Independent Study（II）",
+    "credits": "3/3",
+    "teacher": [
+        "彭勝龍"
+    ],
+    "classroom": [
+        "理工二館C309",
+        "理工二館C309",
+        "理工二館C309"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "1"
+        },
+        {
+            "day": "六",
+            "period": "2"
+        },
+        {
+            "day": "六",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105247727",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105247727",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "資訊工程學系::DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING"
+        }
+    ]
+}

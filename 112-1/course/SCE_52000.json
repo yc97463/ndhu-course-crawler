@@ -1,0 +1,37 @@
+{
+    "course_id": "SCE_52000",
+    "sql_id": "112151106",
+    "course_name": "科學學習心理學",
+    "english_course_name": "Psychology of Science Learning",
+    "credits": "3/3",
+    "teacher": [
+        "蔡仁哲"
+    ],
+    "classroom": [
+        "教育學院D325",
+        "教育學院D325",
+        "教育學院D325"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112151106",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112151106",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

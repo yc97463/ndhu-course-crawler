@@ -1,0 +1,38 @@
+{
+    "course_id": "CM__1001AA",
+    "sql_id": "112121063",
+    "course_name": "企業倫理講座AA",
+    "english_course_name": "Business Ethics Seminar",
+    "credits": "2/2",
+    "teacher": [
+        "欒錦榮",
+        "張益誠",
+        "侯佳利"
+    ],
+    "classroom": [
+        "管理學院-第二講堂D124",
+        "管理學院-第二講堂D124"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112121063",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112121063",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

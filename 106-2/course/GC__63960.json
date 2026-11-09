@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63960",
+    "sql_id": "106204670",
+    "course_name": "印尼語(一)",
+    "english_course_name": "Indonesian (I)",
+    "credits": "3/3",
+    "teacher": [
+        "AL ARDHA M.A"
+    ],
+    "classroom": [
+        "理工一館A314",
+        "理工一館A314",
+        "理工一館A314"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106204670",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106204670",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

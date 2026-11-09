@@ -1,0 +1,27 @@
+{
+    "course_id": "GC__64260",
+    "sql_id": "110220064",
+    "course_name": "實踐取向自主學習(四)",
+    "english_course_name": "Pratically Orientated Self-Learning IV",
+    "credits": "1/1",
+    "teacher": [
+        "張瓊文"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110220064",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110220064",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

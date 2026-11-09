@@ -1,0 +1,39 @@
+{
+    "course_id": "HES_50070",
+    "sql_id": "106284396",
+    "course_name": "環境測量與監測",
+    "english_course_name": "Environmental Measuring and Monitoring",
+    "credits": "3/3",
+    "teacher": [
+        "蘇銘千",
+        "裴家騏",
+        "張世杰"
+    ],
+    "classroom": [
+        "環境學院B162",
+        "環境學院B162",
+        "環境學院B162"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106284396",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106284396",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "人文與環境碩士學位學程::MASTER OF HUMANITY AND ENVIRONMENTAL SCIENCE PROGRAM"
+        }
+    ]
+}

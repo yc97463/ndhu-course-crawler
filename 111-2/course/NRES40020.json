@@ -1,0 +1,39 @@
+{
+    "course_id": "NRES40020",
+    "sql_id": "111260287",
+    "course_name": "水資源管理",
+    "english_course_name": "Environmental Science",
+    "credits": "3/3",
+    "teacher": [
+        "蘇銘千",
+        "林祥偉",
+        "李俊鴻"
+    ],
+    "classroom": [
+        "環境學院B145",
+        "環境學院B145",
+        "環境學院B145"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111260287",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111260287",
+    "departments": [
+        {
+            "college": "環境暨海洋學院::COLLEGE OF ENVIRONMENTAL STUDIES AND OCEANOGRAPHY",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

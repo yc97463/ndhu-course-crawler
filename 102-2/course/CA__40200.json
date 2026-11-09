@@ -1,0 +1,38 @@
+{
+    "course_id": "CA__40200",
+    "sql_id": "102290302",
+    "course_name": "藝術展演",
+    "english_course_name": "Art Performances",
+    "credits": "3/3",
+    "teacher": [
+        "林斐文",
+        "陳逸堅"
+    ],
+    "classroom": [
+        "學C103",
+        "學C103",
+        "學C103"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102290302",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102290302",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "course_id": "TH__12500",
+    "sql_id": "113335027",
+    "course_name": "音樂",
+    "english_course_name": "Music",
+    "credits": "2/2",
+    "teacher": [
+        "林世悠"
+    ],
+    "classroom": [
+        "藝術學院C203",
+        "藝術學院C203",
+        "藝術學院C203",
+        "藝術學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113335027",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113335027",
+    "departments": [
+        {
+            "college": "師資培育中心::CENTER FOR TEACHER EDUCATION",
+            "department": "小學教育::EDUCATION PROGRAM FOR ELEMENTARY TEACHER EDUCATION"
+        }
+    ]
+}

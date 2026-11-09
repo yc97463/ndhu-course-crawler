@@ -1,0 +1,37 @@
+{
+    "course_id": "HASSM0210",
+    "sql_id": "101250369",
+    "course_name": "檔案文獻",
+    "english_course_name": "Critical Use of Archives",
+    "credits": "3/3",
+    "teacher": [
+        "岳恆時"
+    ],
+    "classroom": [
+        "文B317",
+        "文B317",
+        "文B317"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101250369",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101250369",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "亞太區域研究組(全英授課)::MASTER PROGRAM OF ASIA-PACIFIC AREA STUDIES (INTERNATIONAL PROGRAM)"
+        }
+    ]
+}

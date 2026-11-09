@@ -1,0 +1,27 @@
+{
+    "course_id": "GC__64370",
+    "sql_id": "111168481",
+    "course_name": "實踐取向自主學習(十五)",
+    "english_course_name": "Pratically Orientated Self-Learning XV",
+    "credits": "1/1",
+    "teacher": [
+        "林意雪"
+    ],
+    "classroom": [
+        "戶外"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111168481",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111168481",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

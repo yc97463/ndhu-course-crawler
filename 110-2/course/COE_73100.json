@@ -1,0 +1,38 @@
+{
+    "course_id": "COE_73100",
+    "sql_id": "110227454",
+    "course_name": "數位學習專題研究",
+    "english_course_name": "Research Seminar on e-Learning",
+    "credits": "3/3",
+    "teacher": [
+        "劉明洲",
+        "高台茜"
+    ],
+    "classroom": [
+        "教育學院D113",
+        "教育學院D113",
+        "教育學院D113"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110227454",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110227454",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

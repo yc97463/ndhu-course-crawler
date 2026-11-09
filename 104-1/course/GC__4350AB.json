@@ -1,0 +1,33 @@
+{
+    "course_id": "GC__4350AB",
+    "sql_id": "104130122",
+    "course_name": "海洋探索AB",
+    "english_course_name": "Ocean Discovery",
+    "credits": "2/2",
+    "teacher": [
+        "劉弼仁",
+        "謝泓諺"
+    ],
+    "classroom": [
+        "暑假密集課程",
+        "暑假密集課程"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104130122",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104130122",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

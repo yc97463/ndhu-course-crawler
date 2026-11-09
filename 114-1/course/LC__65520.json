@@ -1,0 +1,45 @@
+{
+    "course_id": "LC__65520",
+    "sql_id": "114145698",
+    "course_name": "西洋神話故事選讀",
+    "english_course_name": "Reading in Western Mythology Story",
+    "credits": "3/3",
+    "teacher": [
+        "魏克倫"
+    ],
+    "classroom": [
+        "理工二館B212",
+        "理工二館B212",
+        "理工二館B212"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114145698",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114145698",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "語言中心::LANGUAGE CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "英語課程::English courses"
+        }
+    ]
+}

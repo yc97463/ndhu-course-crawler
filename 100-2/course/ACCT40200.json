@@ -1,0 +1,37 @@
+{
+    "course_id": "ACCT40200",
+    "sql_id": "100255750",
+    "course_name": "政府會計",
+    "english_course_name": "Government Accounting",
+    "credits": "3/3",
+    "teacher": [
+        "方建興"
+    ],
+    "classroom": [
+        "管C135",
+        "管C135",
+        "管C135"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100255750",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100255750",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

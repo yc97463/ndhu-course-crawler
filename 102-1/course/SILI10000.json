@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI10000",
+    "sql_id": "102120127",
+    "course_name": "華文文學導論（一）",
+    "english_course_name": "Introduction to Sinophone Literature(Ⅰ)",
+    "credits": "3/3",
+    "teacher": [
+        "劉秀美"
+    ],
+    "classroom": [
+        "文A419",
+        "文A419",
+        "文A419"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102120127",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102120127",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

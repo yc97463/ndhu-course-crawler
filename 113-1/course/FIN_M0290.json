@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_M0290",
+    "sql_id": "113158503",
+    "course_name": "應用統計分析",
+    "english_course_name": "Applied Statistical Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "池文海"
+    ],
+    "classroom": [
+        "管理學院C136",
+        "管理學院C136",
+        "管理學院C136"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113158503",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113158503",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "BM__84920",
+    "sql_id": "111293039",
+    "course_name": "休閒哲學專論",
+    "english_course_name": "Special Topics in Leisure Philosophy",
+    "credits": "3/3",
+    "teacher": [
+        "葉智魁"
+    ],
+    "classroom": [
+        "管理學院C236",
+        "管理學院C236",
+        "管理學院C236"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111293039",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111293039",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

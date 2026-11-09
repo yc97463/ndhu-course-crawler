@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5240AB",
+    "sql_id": "103223613",
+    "course_name": "聲樂（二）AB",
+    "english_course_name": "Voice(II)",
+    "credits": "1/1",
+    "teacher": [
+        "蘇秀華"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103223613",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103223613",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

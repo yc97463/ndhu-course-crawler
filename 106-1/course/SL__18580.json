@@ -1,0 +1,31 @@
+{
+    "course_id": "SL__18580",
+    "sql_id": "106164279",
+    "course_name": "服務學習(一)_族文系",
+    "english_course_name": "Service Learning (Ⅰ)",
+    "credits": "1/1",
+    "teacher": [
+        "盧玉珍"
+    ],
+    "classroom": [
+        "原民院A213"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106164279",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106164279",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

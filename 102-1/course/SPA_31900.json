@@ -1,0 +1,37 @@
+{
+    "course_id": "SPA_31900",
+    "sql_id": "102116477",
+    "course_name": "環境社會學",
+    "english_course_name": "Environmental Sociology",
+    "credits": "3/3",
+    "teacher": [
+        "何重誼"
+    ],
+    "classroom": [
+        "共A103",
+        "共A103",
+        "共A103"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102116477",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102116477",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        }
+    ]
+}

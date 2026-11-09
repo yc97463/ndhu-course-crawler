@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__5540AA",
+    "sql_id": "105250608",
+    "course_name": "英語口語聽講（二）AA",
+    "english_course_name": "English Oral Training (II)",
+    "credits": "1.5/3",
+    "teacher": [
+        "斯安竹"
+    ],
+    "classroom": [
+        "人社一館B107",
+        "人社一館B107",
+        "人社一館B107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105250608",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105250608",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

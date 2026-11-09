@@ -1,0 +1,37 @@
+{
+    "course_id": "IART53900",
+    "sql_id": "111260462",
+    "course_name": "平面媒材創作專題（一）",
+    "english_course_name": "Advanced Two Dimensional Design(Ⅰ)",
+    "credits": "3/3",
+    "teacher": [
+        "郭令權"
+    ],
+    "classroom": [
+        "藝術學院A218",
+        "藝術學院A218",
+        "藝術學院A218"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111260462",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111260462",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

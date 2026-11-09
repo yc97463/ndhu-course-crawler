@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__6396AA",
+    "sql_id": "109241656",
+    "course_name": "印尼語(一)AA",
+    "english_course_name": "Indonesian (I)",
+    "credits": "3/3",
+    "teacher": [
+        "Andreawan Honora"
+    ],
+    "classroom": [
+        "理工一館A314",
+        "理工一館A314",
+        "理工一館A314"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109241656",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109241656",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

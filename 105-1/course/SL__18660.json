@@ -1,0 +1,31 @@
+{
+    "course_id": "SL__18660",
+    "sql_id": "105156856",
+    "course_name": "服務學習(二)_社會系",
+    "english_course_name": "Service Learning (Ⅱ)",
+    "credits": "1/1",
+    "teacher": [
+        "呂傑華"
+    ],
+    "classroom": [
+        "人社二館B201"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105156856",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105156856",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "社會學系::DEPARTMENT OF SOCIOLOGY"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

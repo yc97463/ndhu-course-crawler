@@ -1,0 +1,32 @@
+{
+    "course_id": "ERC_5020Z",
+    "sql_id": "103202499",
+    "course_name": "論文寫作",
+    "english_course_name": "Thesis Writing",
+    "credits": "2/2",
+    "teacher": [
+        "賴淑娟"
+    ],
+    "classroom": [
+        "民A313",
+        "民A313"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "3"
+        },
+        {
+            "day": "六",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103202499",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103202499",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

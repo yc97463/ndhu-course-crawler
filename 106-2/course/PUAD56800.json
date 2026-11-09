@@ -1,0 +1,37 @@
+{
+    "course_id": "PUAD56800",
+    "sql_id": "106288880",
+    "course_name": "行政組織與管理",
+    "english_course_name": "Administrative Organization and Management",
+    "credits": "3/3",
+    "teacher": [
+        "朱鎮明"
+    ],
+    "classroom": [
+        "人社一館B203",
+        "人社一館B203",
+        "人社一館B203"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106288880",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106288880",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}

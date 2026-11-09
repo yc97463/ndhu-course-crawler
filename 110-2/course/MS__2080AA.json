@@ -1,0 +1,37 @@
+{
+    "course_id": "MS__2080AA",
+    "sql_id": "110201509",
+    "course_name": "材料熱力學(二)AA",
+    "english_course_name": "Thermodynamics of Materials（II）",
+    "credits": "3/3",
+    "teacher": [
+        "田禮嘉"
+    ],
+    "classroom": [
+        "理工二館-第一講堂A127",
+        "理工二館-第一講堂A127",
+        "理工二館-第一講堂A127"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110201509",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110201509",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "材料科學與工程學系::DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING"
+        }
+    ]
+}

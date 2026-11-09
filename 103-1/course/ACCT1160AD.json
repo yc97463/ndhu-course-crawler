@@ -1,0 +1,41 @@
+{
+    "course_id": "ACCT1160AD",
+    "sql_id": "103187607",
+    "course_name": "會計學原理(一)AD",
+    "english_course_name": "Accounting Principle（Ⅰ）",
+    "credits": "3/3",
+    "teacher": [
+        "陳妮雲"
+    ],
+    "classroom": [
+        "管A119",
+        "管A119",
+        "管A119"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103187607",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103187607",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        }
+    ]
+}

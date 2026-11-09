@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_73040",
+    "sql_id": "111177443",
+    "course_name": "民間文學原理與方法",
+    "english_course_name": "Theories and Research Methods of Folk Literature",
+    "credits": "3/3",
+    "teacher": [
+        "劉惠萍"
+    ],
+    "classroom": [
+        "人社一館D219",
+        "人社一館D219",
+        "人社一館D219"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111177443",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111177443",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

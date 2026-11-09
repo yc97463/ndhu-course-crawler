@@ -1,0 +1,37 @@
+{
+    "course_id": "EL__33000",
+    "sql_id": "107295703",
+    "course_name": "新英文文學",
+    "english_course_name": "New English Literatures",
+    "credits": "3/3",
+    "teacher": [
+        "陳淑玲"
+    ],
+    "classroom": [
+        "人社一館D221",
+        "人社一館D221",
+        "人社一館D221"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107295703",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107295703",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "英美語文學系::DEPARTMENT OF ENGLISH"
+        }
+    ]
+}

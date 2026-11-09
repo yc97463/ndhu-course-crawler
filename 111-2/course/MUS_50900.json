@@ -1,0 +1,38 @@
+{
+    "course_id": "MUS_50900",
+    "sql_id": "111207971",
+    "course_name": "歌劇專題研究",
+    "english_course_name": "Opera Seminar",
+    "credits": "3/3",
+    "teacher": [
+        "陳景貽",
+        "羅安娜"
+    ],
+    "classroom": [
+        "藝術學院B120",
+        "藝術學院B120",
+        "藝術學院B120"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111207971",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111207971",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

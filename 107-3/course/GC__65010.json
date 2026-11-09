@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__65010",
+    "sql_id": "107398928",
+    "course_name": "看見花蓮",
+    "english_course_name": "Exploration of Hualien",
+    "credits": "2/2",
+    "teacher": [
+        "邱紫文",
+        "董克景",
+        "楊懿如",
+        "朱嘉雯",
+        "王沂釗",
+        "許文豪"
+    ],
+    "classroom": [
+        "東華大學",
+        "東華大學"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107398928",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107398928",
+    "departments": [
+        {
+            "college": "暑期課程先修班::SUMMER PRE-COURSE CLASSES",
+            "department": "暑期先修學士班"
+        }
+    ]
+}

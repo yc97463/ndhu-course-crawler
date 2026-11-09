@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2946AB",
+    "sql_id": "105186596",
+    "course_name": "爵士演奏(副修)(四)AB",
+    "english_course_name": "Jazz( Minor)(Ⅳ)",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "山田洋平"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105186596",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105186596",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "course_id": "GC__10800",
+    "sql_id": "113155959",
+    "course_name": "西洋古典音樂賞析",
+    "english_course_name": "Appreciation of Western Classical Music",
+    "credits": "2/2",
+    "teacher": [
+        "徐作因"
+    ],
+    "classroom": [
+        "人社二館-第三講堂B009",
+        "人社二館-第三講堂B009"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113155959",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113155959",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "通識教育中心::GENERAL EDUCATION CENTER"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "校核心課程::University Core Curriculum"
+        },
+        {
+            "college": "校核心課程::University Core Curriculum",
+            "department": "通識課程::General courses"
+        }
+    ]
+}

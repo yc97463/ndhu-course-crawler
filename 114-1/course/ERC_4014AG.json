@@ -1,0 +1,27 @@
+{
+    "course_id": "ERC_4014AG",
+    "sql_id": "114180756",
+    "course_name": "專題指導(一)AG",
+    "english_course_name": "Graduation Project I",
+    "credits": "2/2",
+    "teacher": [
+        "賴淑娟"
+    ],
+    "classroom": [
+        "其他"
+    ],
+    "class_time": [
+        {
+            "day": "與",
+            "period": "教師另行約定"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114180756",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114180756",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

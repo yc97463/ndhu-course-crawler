@@ -1,0 +1,37 @@
+{
+    "course_id": "APH_5360AC",
+    "sql_id": "106204161",
+    "course_name": "論文研究(四)AC",
+    "english_course_name": "Independent Study (VI)",
+    "credits": "3/3",
+    "teacher": [
+        "張俊明"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106204161",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106204161",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "物理學系::DEPARTMENT OF PHYSICS"
+        }
+    ]
+}

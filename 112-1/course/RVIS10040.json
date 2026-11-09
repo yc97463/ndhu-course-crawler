@@ -1,0 +1,33 @@
+{
+    "course_id": "RVIS10040",
+    "sql_id": "112188914",
+    "course_name": "生態學導論：環境議題的探索",
+    "english_course_name": "Introduction to Ecology",
+    "credits": "2/2",
+    "teacher": [
+        "楊懿如",
+        "楊淳凱"
+    ],
+    "classroom": [
+        "洄瀾學院B105",
+        "洄瀾學院B105"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112188914",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112188914",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

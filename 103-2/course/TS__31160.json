@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__31160",
+    "sql_id": "103293367",
+    "course_name": "地名與空間分析",
+    "english_course_name": "Toponomy and Spatia Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "郭俊麟"
+    ],
+    "classroom": [
+        "工PC1(E108)",
+        "工PC1(E108)",
+        "工PC1(E108)"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103293367",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103293367",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

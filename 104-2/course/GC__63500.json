@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__63500",
+    "sql_id": "104275223",
+    "course_name": "東臺灣的族群與社會",
+    "english_course_name": "East Taiwan’s Tribal Group and Society",
+    "credits": "3/3",
+    "teacher": [
+        "林素珍"
+    ],
+    "classroom": [
+        "原民院A206",
+        "原民院A206",
+        "原民院A206"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104275223",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104275223",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

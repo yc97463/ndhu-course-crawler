@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_5240AA",
+    "sql_id": "114277036",
+    "course_name": "聲樂（二）AA",
+    "english_course_name": "Voice(II)",
+    "credits": "1/1",
+    "teacher": [
+        "陳景貽"
+    ],
+    "classroom": [
+        "藝術學院教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=114277036",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=114277036",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

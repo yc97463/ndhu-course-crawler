@@ -1,0 +1,37 @@
+{
+    "course_id": "CI__33300",
+    "sql_id": "107148053",
+    "course_name": "宗教人類學",
+    "english_course_name": "Anthropology of Religion",
+    "credits": "3/3",
+    "teacher": [
+        "羅正心"
+    ],
+    "classroom": [
+        "原民院A206",
+        "原民院A206",
+        "原民院A206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107148053",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107148053",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

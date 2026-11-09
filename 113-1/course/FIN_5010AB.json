@@ -1,0 +1,41 @@
+{
+    "course_id": "FIN_5010AB",
+    "sql_id": "113177244",
+    "course_name": "計量經濟學AB",
+    "english_course_name": "Econometrics",
+    "credits": "3/3",
+    "teacher": [
+        "李明龍"
+    ],
+    "classroom": [
+        "理工二館PC2(E112)",
+        "理工二館PC2(E112)",
+        "理工二館PC2(E112)"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113177244",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113177244",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "會計學系::DEPARTMENT OF ACCOUNTING"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

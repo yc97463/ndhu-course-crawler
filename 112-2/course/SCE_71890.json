@@ -1,0 +1,37 @@
+{
+    "course_id": "SCE_71890",
+    "sql_id": "112230628",
+    "course_name": "質性科學教育研究法",
+    "english_course_name": "Qualitative Research for Science Education",
+    "credits": "3/3",
+    "teacher": [
+        "蔣佳玲"
+    ],
+    "classroom": [
+        "教育學院B327",
+        "教育學院B327",
+        "教育學院B327"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "3"
+        },
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112230628",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112230628",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "教育與潛能開發學系::DEPARTMENT OF EDUCATION AND HUMAN POTENTIALS DEVELOPMENT"
+        }
+    ]
+}

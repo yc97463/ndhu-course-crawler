@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__19300",
+    "sql_id": "109205166",
+    "course_name": "新聞英語",
+    "english_course_name": "Journalistic English",
+    "credits": "3/3",
+    "teacher": [
+        "魏克倫"
+    ],
+    "classroom": [
+        "人社二館A103",
+        "人社二館A103",
+        "人社二館A103"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109205166",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109205166",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

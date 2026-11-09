@@ -1,0 +1,37 @@
+{
+    "course_id": "EC__50350",
+    "sql_id": "102182888",
+    "course_name": "計量經濟分析（四）",
+    "english_course_name": "Econometric Analysis (IV)",
+    "credits": "3/3",
+    "teacher": [
+        "陳建福"
+    ],
+    "classroom": [
+        "共D410",
+        "共D410",
+        "共D410"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102182888",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102182888",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "經濟學系::DEPARTMENT OF ECONOMICS"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "VAE_53600",
+    "sql_id": "102240652",
+    "course_name": "繪本創作與教學研究II",
+    "english_course_name": "Picture book Pedagogy II",
+    "credits": "3/3",
+    "teacher": [
+        "萬煜瑤"
+    ],
+    "classroom": [
+        "民A327",
+        "民A327",
+        "民A327"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102240652",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102240652",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}

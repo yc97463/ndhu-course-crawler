@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__5440Z",
+    "sql_id": "101158971",
+    "course_name": "國際財務管理",
+    "english_course_name": "International Financial Management",
+    "credits": "3/3",
+    "teacher": [
+        "池祥萱"
+    ],
+    "classroom": [
+        "管A107",
+        "管A107",
+        "管A107"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "9"
+        },
+        {
+            "day": "六",
+            "period": "10"
+        },
+        {
+            "day": "六",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101158971",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101158971",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

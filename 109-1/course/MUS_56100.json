@@ -1,0 +1,28 @@
+{
+    "course_id": "MUS_56100",
+    "sql_id": "109142223",
+    "course_name": "爵士演奏（四）",
+    "english_course_name": "Private Lesson - Jazz Major（Ⅳ）",
+    "credits": "1/1",
+    "teacher": [
+        "山田洋平",
+        "魏廣晧"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "2"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109142223",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109142223",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "course_id": "CE__2100AE",
+    "sql_id": "112206578",
+    "course_name": "教育哲學AE",
+    "english_course_name": "Philosophy of Education",
+    "credits": "2/2",
+    "teacher": [
+        "張威克"
+    ],
+    "classroom": [
+        "教育學院B117",
+        "教育學院B117"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112206578",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112206578",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院學士班::BACHELOR"
+        },
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}

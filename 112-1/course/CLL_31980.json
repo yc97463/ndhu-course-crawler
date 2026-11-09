@@ -1,0 +1,37 @@
+{
+    "course_id": "CLL_31980",
+    "sql_id": "112185368",
+    "course_name": "中國思想史(上)",
+    "english_course_name": "History of Chinese Thought（I）",
+    "credits": "3/3",
+    "teacher": [
+        "吳冠宏"
+    ],
+    "classroom": [
+        "人社一館A206",
+        "人社一館A206",
+        "人社一館A206"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112185368",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112185368",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

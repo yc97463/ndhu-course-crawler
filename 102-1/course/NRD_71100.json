@@ -1,0 +1,38 @@
+{
+    "course_id": "NRD_71100",
+    "sql_id": "102164935",
+    "course_name": "專題討論（三）",
+    "english_course_name": "Seminar III",
+    "credits": "1/2",
+    "teacher": [
+        "戴興盛",
+        "李俊鴻",
+        "陳紫娥",
+        "林祥偉",
+        "楊懿如",
+        "劉瑩三",
+        "李光中"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "六",
+            "period": "12"
+        },
+        {
+            "day": "六",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102164935",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102164935",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

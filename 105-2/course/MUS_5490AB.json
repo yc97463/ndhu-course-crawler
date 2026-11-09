@@ -1,0 +1,28 @@
+{
+    "course_id": "MUS_5490AB",
+    "sql_id": "105254132",
+    "course_name": "爵士演奏（二）AB",
+    "english_course_name": "Private Lesson - Jazz Major（Ⅱ）",
+    "credits": "1/1",
+    "teacher": [
+        "許郁瑛",
+        "魏廣晧"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105254132",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105254132",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

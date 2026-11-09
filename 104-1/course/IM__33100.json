@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__33100",
+    "sql_id": "104138470",
+    "course_name": "企業資源規劃系統程式設計",
+    "english_course_name": "SAP R/3 ABAP Programming",
+    "credits": "3/3",
+    "teacher": [
+        "侯佳利"
+    ],
+    "classroom": [
+        "管理學院C203",
+        "管理學院C203",
+        "管理學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104138470",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104138470",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

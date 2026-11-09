@@ -1,0 +1,37 @@
+{
+    "course_id": "ERC_70790",
+    "sql_id": "111284132",
+    "course_name": "遊戲人類學與教育研究",
+    "english_course_name": "Anthropology of Game and Education",
+    "credits": "3/3",
+    "teacher": [
+        "羅永清"
+    ],
+    "classroom": [
+        "原民院A313",
+        "原民院A313",
+        "原民院A313"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111284132",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111284132",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

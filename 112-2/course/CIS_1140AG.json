@@ -1,0 +1,42 @@
+{
+    "course_id": "CIS_1140AG",
+    "sql_id": "112204256",
+    "course_name": "族語（二）AG",
+    "english_course_name": "Indigenous Languages II",
+    "credits": "2/2",
+    "teacher": [
+        "摩奧．悟吉納"
+    ],
+    "classroom": [
+        "原民院A349",
+        "原民院A349",
+        "原民院A349",
+        "原民院A349"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112204256",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112204256",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民民族學院學士班::BACHELOR"
+        }
+    ]
+}

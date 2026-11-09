@@ -1,0 +1,36 @@
+{
+    "course_id": "MEPD71900",
+    "sql_id": "115176602",
+    "course_name": "批判教育論專題研究",
+    "english_course_name": "否",
+    "credits": "Seminar in Critical Pedagogy",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "廉兮"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "8"
+        },
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115176602",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115176602",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "花師教育學院多元文化教育博士班::PH.D. PROGRAM OF MULTICULTURAL EDUCATION"
+        }
+    ]
+}

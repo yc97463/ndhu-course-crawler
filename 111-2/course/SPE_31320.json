@@ -1,0 +1,32 @@
+{
+    "course_id": "SPE_31320",
+    "sql_id": "111289175",
+    "course_name": "資優學生心理輔導與情意教育",
+    "english_course_name": "The Education of Feeling and Counseling for Gifted Students",
+    "credits": "2/2",
+    "teacher": [
+        "蔣明珊"
+    ],
+    "classroom": [
+        "教育學院D213",
+        "教育學院D213"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "3"
+        },
+        {
+            "day": "三",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111289175",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111289175",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

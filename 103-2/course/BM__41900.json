@@ -1,0 +1,33 @@
+{
+    "course_id": "BM__41900",
+    "sql_id": "103253419",
+    "course_name": "企業參訪",
+    "english_course_name": "Company Visit",
+    "credits": "1/0:2",
+    "teacher": [
+        "陳建男",
+        "吳政翰"
+    ],
+    "classroom": [
+        "管D135",
+        "管D135"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        },
+        {
+            "day": "二",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103253419",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103253419",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

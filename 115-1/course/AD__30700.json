@@ -1,0 +1,36 @@
+{
+    "course_id": "AD__30700",
+    "sql_id": "115168106",
+    "course_name": "雕塑",
+    "english_course_name": "否",
+    "credits": "Sculpture",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "吳偉谷"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115168106",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115168106",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

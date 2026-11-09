@@ -1,0 +1,37 @@
+{
+    "course_id": "IM__33500",
+    "sql_id": "113172573",
+    "course_name": "應用軟體與資料分析實務",
+    "english_course_name": "Applied Software and Practice for Data Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "江志卿"
+    ],
+    "classroom": [
+        "管理學院C203",
+        "管理學院C203",
+        "管理學院C203"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113172573",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113172573",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

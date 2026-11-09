@@ -1,0 +1,37 @@
+{
+    "course_id": "ISAT50300",
+    "sql_id": "109168525",
+    "course_name": "輔助科技理論與實務",
+    "english_course_name": "Introduction to Assistive Technology",
+    "credits": "3/3",
+    "teacher": [
+        "楊熾康"
+    ],
+    "classroom": [
+        "教育學院D213",
+        "教育學院D213",
+        "教育學院D213"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "14"
+        },
+        {
+            "day": "三",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=109168525",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=109168525",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

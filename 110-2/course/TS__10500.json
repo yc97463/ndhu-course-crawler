@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__10500",
+    "sql_id": "110296236",
+    "course_name": "地理資訊系統",
+    "english_course_name": "Geographical Information System",
+    "credits": "3/3",
+    "teacher": [
+        "郭俊麟"
+    ],
+    "classroom": [
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015",
+        "人社二館-第六講堂B015"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110296236",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110296236",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

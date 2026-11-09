@@ -1,0 +1,37 @@
+{
+    "course_id": "IB__61300",
+    "sql_id": "111128670",
+    "course_name": "日式經營管理與案例研討",
+    "english_course_name": "Japanese Business Management & Case Discussions",
+    "credits": "3/3",
+    "teacher": [
+        "林達榮"
+    ],
+    "classroom": [
+        "管理學院C122",
+        "管理學院C122",
+        "管理學院C122"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111128670",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111128670",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

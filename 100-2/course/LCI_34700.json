@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_34700",
+    "sql_id": "100236149",
+    "course_name": "台灣原住民史",
+    "english_course_name": "History of Taiwan Indigenous Peoples",
+    "credits": "3/3",
+    "teacher": [
+        "童春發"
+    ],
+    "classroom": [
+        "民A338",
+        "民A338",
+        "民A338"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100236149",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100236149",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

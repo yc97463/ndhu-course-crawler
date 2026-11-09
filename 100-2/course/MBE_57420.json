@@ -1,0 +1,37 @@
+{
+    "course_id": "MBE_57420",
+    "sql_id": "100255778",
+    "course_name": "環境代謝體學特論(二)",
+    "english_course_name": "Special Topics on Environmental Metabolomics(II)",
+    "credits": "3/3",
+    "teacher": [
+        "唐川禾"
+    ],
+    "classroom": [
+        "R2002",
+        "R2002",
+        "R2002"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100255778",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100255778",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物多樣性及演化研究所::GRADUATE INSTITUTE OF MARINE BIODIVERSITY AND EVOLUTIONARY BIOLOGY"
+        }
+    ]
+}

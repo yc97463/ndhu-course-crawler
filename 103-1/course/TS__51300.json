@@ -1,0 +1,37 @@
+{
+    "course_id": "TS__51300",
+    "sql_id": "103184807",
+    "course_name": "文化研究理論與方法",
+    "english_course_name": "Theories and Methods in Cultural Studies",
+    "credits": "3/3",
+    "teacher": [
+        "郭澤寬"
+    ],
+    "classroom": [
+        "文B206",
+        "文B206",
+        "文B206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103184807",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103184807",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        }
+    ]
+}

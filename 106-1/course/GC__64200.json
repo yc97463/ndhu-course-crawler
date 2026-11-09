@@ -1,0 +1,37 @@
+{
+    "course_id": "GC__64200",
+    "sql_id": "106174172",
+    "course_name": "當代原住民族議題",
+    "english_course_name": "Contemporary Issues of Indigenous Peoples",
+    "credits": "3/3",
+    "teacher": [
+        "陳張培倫"
+    ],
+    "classroom": [
+        "人社二館-第三講堂B009",
+        "人社二館-第三講堂B009",
+        "人社二館-第三講堂B009"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106174172",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106174172",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

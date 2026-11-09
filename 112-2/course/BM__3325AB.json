@@ -1,0 +1,27 @@
+{
+    "course_id": "BM__3325AB",
+    "sql_id": "112270275",
+    "course_name": "企業管理專題AB",
+    "english_course_name": "Project in Business Administration",
+    "credits": "1/1",
+    "teacher": [
+        "陳淑玲"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=112270275",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=112270275",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}

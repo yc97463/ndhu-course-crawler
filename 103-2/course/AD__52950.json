@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__52950",
+    "sql_id": "103285661",
+    "course_name": "現代書藝研究",
+    "english_course_name": "The Study of Contemporary Calligraphic Art",
+    "credits": "3/3",
+    "teacher": [
+        "廖慶華"
+    ],
+    "classroom": [
+        "民C104",
+        "民C104",
+        "民C104"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103285661",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103285661",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

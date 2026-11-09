@@ -1,0 +1,38 @@
+{
+    "course_id": "NRESM0260",
+    "sql_id": "105122829",
+    "course_name": "氣候變化與永續發展專題",
+    "english_course_name": "Climate Change and Sustainability",
+    "credits": "3/3",
+    "teacher": [
+        "李宜澤",
+        "蘇銘千"
+    ],
+    "classroom": [
+        "環境學院A159",
+        "環境學院A159",
+        "環境學院A159"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=105122829",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=105122829",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

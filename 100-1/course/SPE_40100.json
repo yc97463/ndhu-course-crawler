@@ -1,0 +1,37 @@
+{
+    "course_id": "SPE_40100",
+    "sql_id": "100113898",
+    "course_name": "資源教室方案與經營",
+    "english_course_name": "Resource Room Program and Management",
+    "credits": "3/3",
+    "teacher": [
+        "廖永堃"
+    ],
+    "classroom": [
+        "教A106",
+        "教A106",
+        "教A106"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100113898",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100113898",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "特殊教育學系::DEPARTMENT OF SPECIAL EDUCATION"
+        }
+    ]
+}

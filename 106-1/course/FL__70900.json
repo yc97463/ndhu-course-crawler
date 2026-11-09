@@ -1,0 +1,37 @@
+{
+    "course_id": "FL__70900",
+    "sql_id": "106101506",
+    "course_name": "台灣民間故事研究",
+    "english_course_name": "Research on Taiwanese Folktales",
+    "credits": "3/3",
+    "teacher": [
+        "彭衍綸"
+    ],
+    "classroom": [
+        "人社一館D219",
+        "人社一館D219",
+        "人社一館D219"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "二",
+            "period": "13"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106101506",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106101506",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course_id": "ERAC5930Z",
+    "sql_id": "100165247",
+    "course_name": "北美洲原住民族研究專題",
+    "english_course_name": "Seminar in North America Indigenous Peoples’ Studies",
+    "credits": "3/3",
+    "teacher": [
+        "謝若蘭"
+    ],
+    "classroom": [
+        "民A313",
+        "民A313",
+        "民A313"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=100165247",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=100165247",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "族群關係與文化學系::DEPARTMENT OF ETHNIC RELATIONS AND CULTURES"
+        }
+    ]
+}

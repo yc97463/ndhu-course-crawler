@@ -1,0 +1,33 @@
+{
+    "course_id": "DOL_30190",
+    "sql_id": "113288771",
+    "course_name": "原住民族法實例演習",
+    "english_course_name": "Case analysis of Indigenous laws",
+    "credits": "2/2",
+    "teacher": [
+        "林秉嶔",
+        "李韋辰"
+    ],
+    "classroom": [
+        "人社二館B107",
+        "人社二館B107"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=113288771",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=113288771",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "法律學系::DEPARTMENT OF LAW"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "course_id": "IMB_7050AH",
+    "sql_id": "107279503",
+    "course_name": "專題研究(二)AH",
+    "english_course_name": "Thesis Research",
+    "credits": "3/6",
+    "teacher": [
+        "林家興"
+    ],
+    "classroom": [
+        "各實驗室",
+        "各實驗室",
+        "各實驗室",
+        "各實驗室",
+        "各實驗室",
+        "各實驗室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "11"
+        },
+        {
+            "day": "二",
+            "period": "12"
+        },
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107279503",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107279503",
+    "departments": [
+        {
+            "college": "海洋科學學院::COLLEGE OF MARINE SCIENCES",
+            "department": "海洋生物研究所::GRADUATE INSTITUTE OF MARINE BIOLOGY"
+        }
+    ]
+}

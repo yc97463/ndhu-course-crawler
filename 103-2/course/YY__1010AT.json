@@ -1,0 +1,36 @@
+{
+    "course_id": "YY__1010AT",
+    "sql_id": "103220203",
+    "course_name": "體育(二)AT",
+    "english_course_name": "Physical Education﹝Ⅱ﹞",
+    "credits": "1/2",
+    "teacher": [
+        "朱文正"
+    ],
+    "classroom": [
+        "D區體育館主場",
+        "D區體育館主場"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "3"
+        },
+        {
+            "day": "二",
+            "period": "4"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103220203",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103220203",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族社會工作學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS SOCIAL WORK"
+        },
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

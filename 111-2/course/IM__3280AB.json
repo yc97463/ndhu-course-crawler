@@ -1,0 +1,44 @@
+{
+    "course_id": "IM__3280AB",
+    "sql_id": "111240266",
+    "course_name": "企業資源規劃系統管理AB",
+    "english_course_name": "SAP R/3 ERP Basis Management",
+    "credits": "3/3",
+    "teacher": [
+        "侯佳利"
+    ],
+    "classroom": [
+        "管理學院C203",
+        "管理學院C209",
+        "管理學院C203",
+        "管理學院C209",
+        "管理學院C203",
+        "管理學院C209"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111240266",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111240266",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "管理學院學士班::BACHELOR"
+        },
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理學系::DEPARTMENT OF INFORMATION MANAGEMENT"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "course_id": "MUS_3768AB",
+    "sql_id": "115165332",
+    "course_name": "Midi入門與數位製譜AB",
+    "english_course_name": "否",
+    "credits": "Introduction to Midi and Digital Music Notation",
+    "teacher": [
+        "3",
+        "3"
+    ],
+    "classroom": [
+        "陳雋?"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=115165332",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=115165332",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        },
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

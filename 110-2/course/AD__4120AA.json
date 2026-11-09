@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__4120AA",
+    "sql_id": "110261172",
+    "course_name": "包裝設計AA",
+    "english_course_name": "Product Packing Design",
+    "credits": "3/3",
+    "teacher": [
+        "黃琡雅"
+    ],
+    "classroom": [
+        "藝術學院A362",
+        "藝術學院A362",
+        "藝術學院A362"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110261172",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110261172",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

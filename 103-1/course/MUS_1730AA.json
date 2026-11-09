@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_1730AA",
+    "sql_id": "103133044",
+    "course_name": "爵士演奏(副修)(一)AA",
+    "english_course_name": "Jazz(Minor)(Ⅰ)",
+    "credits": "0.5/0.5",
+    "teacher": [
+        "魏廣晧"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=103133044",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=103133044",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

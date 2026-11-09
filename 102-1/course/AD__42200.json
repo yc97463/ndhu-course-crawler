@@ -1,0 +1,37 @@
+{
+    "course_id": "AD__42200",
+    "sql_id": "102181776",
+    "course_name": "影像創作",
+    "english_course_name": "Image Creation",
+    "credits": "3/3",
+    "teacher": [
+        "韓毓琦"
+    ],
+    "classroom": [
+        "民C104",
+        "民C104",
+        "民C104"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "4"
+        },
+        {
+            "day": "五",
+            "period": "5"
+        },
+        {
+            "day": "五",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=102181776",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=102181776",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術與設計學系::DEPARTMENT OF ARTS AND DESIGN"
+        }
+    ]
+}

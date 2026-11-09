@@ -1,0 +1,33 @@
+{
+    "course_id": "PA__20040",
+    "sql_id": "106264835",
+    "course_name": "刑法概要",
+    "english_course_name": "Introduction to Criminal Law and Life",
+    "credits": "2/2",
+    "teacher": [
+        "籃健銘",
+        "林忠熙"
+    ],
+    "classroom": [
+        "人社二館D107",
+        "人社二館D107"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=106264835",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=106264835",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "公共行政學系::DEPARTMENT OF PUBLIC ADMINISTRATION"
+        }
+    ]
+}
