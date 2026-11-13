@@ -1,0 +1,27 @@
+{
+    "course_id": "GC__65110",
+    "sql_id": "108215429",
+    "course_name": "性別與媒體﹙初階﹚",
+    "english_course_name": "Gender and Media (I)",
+    "credits": "1/1",
+    "teacher": [
+        "孫嘉穗"
+    ],
+    "classroom": [
+        "待排"
+    ],
+    "class_time": [
+        {
+            "day": "日",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108215429",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108215429",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

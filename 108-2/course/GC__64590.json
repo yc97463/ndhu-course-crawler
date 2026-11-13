@@ -1,0 +1,38 @@
+{
+    "course_id": "GC__64590",
+    "sql_id": "108217076",
+    "course_name": "仿生與環境",
+    "english_course_name": "Biomimicry and Environment",
+    "credits": "3/3",
+    "teacher": [
+        "楊悠娟",
+        "曾賢德"
+    ],
+    "classroom": [
+        "理工二館E105",
+        "理工二館E105",
+        "理工二館E105"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "8"
+        },
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108217076",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108217076",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

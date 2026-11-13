@@ -1,0 +1,28 @@
+{
+    "course_id": "SILI5251AB",
+    "sql_id": "108206887",
+    "course_name": "編輯與策展實務（一）AB",
+    "english_course_name": "Editing and Curatorial Practice（Ⅰ）",
+    "credits": "1/1",
+    "teacher": [
+        "須文蔚",
+        "李進益"
+    ],
+    "classroom": [
+        "人社一館B115"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108206887",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108206887",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

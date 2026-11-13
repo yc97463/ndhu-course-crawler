@@ -1,0 +1,41 @@
+{
+    "course_id": "TS__3099AB",
+    "sql_id": "108244152",
+    "course_name": "東臺灣歷史文化AB",
+    "english_course_name": "History and Culture of East Taiwan",
+    "credits": "3/3",
+    "teacher": [
+        "潘繼道"
+    ],
+    "classroom": [
+        "人社三館C120",
+        "人社三館C120",
+        "人社三館C120"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108244152",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108244152",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "臺灣文化學系::DEPARTMENT OF TAIWAN AND REGIONAL STUDIES"
+        },
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術學院學士班::BACHELOR"
+        }
+    ]
+}

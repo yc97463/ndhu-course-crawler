@@ -1,0 +1,37 @@
+{
+    "course_id": "NRES30200",
+    "sql_id": "108246353",
+    "course_name": "海洋生態學",
+    "english_course_name": "Marine Ecology",
+    "credits": "3/3",
+    "teacher": [
+        "黃文彬"
+    ],
+    "classroom": [
+        "環境學院B145",
+        "環境學院B145",
+        "環境學院B145"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "9"
+        },
+        {
+            "day": "二",
+            "period": "10"
+        },
+        {
+            "day": "二",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=108246353",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=108246353",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}
