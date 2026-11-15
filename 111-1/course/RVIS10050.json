@@ -1,0 +1,42 @@
+{
+    "course_id": "RVIS10050",
+    "sql_id": "111150433",
+    "course_name": "心理學導論",
+    "english_course_name": "Introduction to Psychology",
+    "credits": "2/2",
+    "teacher": [
+        "張蘭石"
+    ],
+    "classroom": [
+        "理工一館A208",
+        "理工一館A208",
+        "理工一館A208",
+        "理工一館A208"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "三",
+            "period": "12"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111150433",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111150433",
+    "departments": [
+        {
+            "college": "洄瀾學院::COLLEGE OF HUILAN",
+            "department": "縱谷跨域書院學士學位學程::UNDERGRADUATE DEGREE PROGRAM OF RIFT VALLEY INTERDISCIPLINARY SHUYUAN"
+        }
+    ]
+}

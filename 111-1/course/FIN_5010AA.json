@@ -1,0 +1,37 @@
+{
+    "course_id": "FIN_5010AA",
+    "sql_id": "111173371",
+    "course_name": "計量經濟學AA",
+    "english_course_name": "Econometrics",
+    "credits": "3/3",
+    "teacher": [
+        "林金龍"
+    ],
+    "classroom": [
+        "管理學院D111",
+        "管理學院D111",
+        "管理學院D111"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "13"
+        },
+        {
+            "day": "二",
+            "period": "14"
+        },
+        {
+            "day": "二",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111173371",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111173371",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "財務金融學系::DEPARTMENT OF FINANCE"
+        }
+    ]
+}

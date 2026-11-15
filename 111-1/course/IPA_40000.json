@@ -1,0 +1,39 @@
+{
+    "course_id": "IPA_40000",
+    "sql_id": "111159299",
+    "course_name": "畢業製作(一)",
+    "english_course_name": "Graduation Project I",
+    "credits": "3/3",
+    "teacher": [
+        "王昱心",
+        "巴奈‧母路",
+        "劉亮延"
+    ],
+    "classroom": [
+        "原民院A323",
+        "原民院A323",
+        "原民院A323"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        },
+        {
+            "day": "五",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111159299",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111159299",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "原住民族樂舞與藝術學士學位學程::UNDERGRADUATE PROGRAM OF INDIGENOUS PERFORMANCE AND ARTS"
+        }
+    ]
+}

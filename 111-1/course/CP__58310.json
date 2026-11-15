@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__58310",
+    "sql_id": "111117679",
+    "course_name": "高等心理病理學特論：兒童與青少年",
+    "english_course_name": "Advanced topics in psychopathology：Children and Adolescence",
+    "credits": "3/3",
+    "teacher": [
+        "翁士恆"
+    ],
+    "classroom": [
+        "人社一館D203",
+        "人社一館D203",
+        "人社一館D203"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=111117679",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=111117679",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}
