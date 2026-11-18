@@ -1,0 +1,37 @@
+{
+    "course_id": "ECE_51300",
+    "sql_id": "107281675",
+    "course_name": "幼兒藝術領域研究",
+    "english_course_name": "Research on Children’s Arts",
+    "credits": "3/3",
+    "teacher": [
+        "傅建益"
+    ],
+    "classroom": [
+        "教D313室",
+        "教D313室",
+        "教D313室"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "13"
+        },
+        {
+            "day": "五",
+            "period": "14"
+        },
+        {
+            "day": "五",
+            "period": "15"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107281675",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107281675",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "幼兒教育學系::DEPARTMENT OF EARLY CHILDHOOD EDUCATION"
+        }
+    ]
+}

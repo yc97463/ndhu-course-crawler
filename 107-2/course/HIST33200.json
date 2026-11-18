@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST33200",
+    "sql_id": "107230267",
+    "course_name": "歷史與思想",
+    "english_course_name": "History and Thought",
+    "credits": "3/3",
+    "teacher": [
+        "黃熾霖"
+    ],
+    "classroom": [
+        "人社三館C112",
+        "人社三館C112",
+        "人社三館C112"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107230267",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107230267",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

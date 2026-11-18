@@ -1,0 +1,41 @@
+{
+    "course_id": "NRES20140",
+    "sql_id": "107234745",
+    "course_name": "生態田野調查",
+    "english_course_name": "Field Methods in Ecological Research",
+    "credits": "3/3",
+    "teacher": [
+        "許育誠",
+        "黃文彬",
+        "吳海音",
+        "黃國靖",
+        "楊懿如"
+    ],
+    "classroom": [
+        "環境學院A124",
+        "環境學院A124",
+        "環境學院A124"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "4"
+        },
+        {
+            "day": "一",
+            "period": "5"
+        },
+        {
+            "day": "一",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107234745",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107234745",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "自然資源與環境學系::DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL STUDIES"
+        }
+    ]
+}

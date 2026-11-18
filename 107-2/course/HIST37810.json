@@ -1,0 +1,37 @@
+{
+    "course_id": "HIST37810",
+    "sql_id": "107230390",
+    "course_name": "東亞電影史",
+    "english_course_name": "East Asian Film History",
+    "credits": "3/3",
+    "teacher": [
+        "許育銘"
+    ],
+    "classroom": [
+        "人社三館B130",
+        "人社三館B130",
+        "人社三館B130"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "8"
+        },
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107230390",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107230390",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "歷史學系::DEPARTMENT OF HISTORY"
+        }
+    ]
+}

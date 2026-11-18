@@ -1,0 +1,34 @@
+{
+    "course_id": "BM__21700",
+    "sql_id": "107236334",
+    "course_name": "專題討論：企業專題講座",
+    "english_course_name": "Seminar in Business Management Pratice",
+    "credits": "1/1",
+    "teacher": [
+        "陳雯虹",
+        "祝道松",
+        "溫日華"
+    ],
+    "classroom": [
+        "管理學院D118",
+        "管理學院D118"
+    ],
+    "class_time": [
+        {
+            "day": "五",
+            "period": "9"
+        },
+        {
+            "day": "五",
+            "period": "10"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=107236334",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=107236334",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "企業管理學系::DEPARTMENT OF BUSINESS ADMINISTRATION"
+        }
+    ]
+}
