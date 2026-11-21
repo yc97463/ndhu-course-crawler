@@ -1,0 +1,37 @@
+{
+    "course_id": "DKM_52700",
+    "sql_id": "104115573",
+    "course_name": "資訊檢索",
+    "english_course_name": "Information Retrieval",
+    "credits": "3/3",
+    "teacher": [
+        "劉英和"
+    ],
+    "classroom": [
+        "管理學院C210",
+        "管理學院C210",
+        "管理學院C210"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "4"
+        },
+        {
+            "day": "二",
+            "period": "5"
+        },
+        {
+            "day": "二",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104115573",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104115573",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "資訊管理碩士學位學程::MASTER OF INFORMATION MANAGEMENT PROGRAM"
+        }
+    ]
+}

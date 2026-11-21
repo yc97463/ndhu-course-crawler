@@ -1,0 +1,27 @@
+{
+    "course_id": "IB__4030AC",
+    "sql_id": "104113558",
+    "course_name": "國際企業專題(三)AC",
+    "english_course_name": "Project for Department of International Business（Ⅲ）",
+    "credits": "1/1",
+    "teacher": [
+        "張巧真"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104113558",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104113558",
+    "departments": [
+        {
+            "college": "管理學院::COLLEGE OF MANAGEMENT",
+            "department": "國際企業學系::DEPARTMENT OF INTERNATIONAL BUSINESS"
+        }
+    ]
+}

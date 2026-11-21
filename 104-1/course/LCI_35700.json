@@ -1,0 +1,37 @@
+{
+    "course_id": "LCI_35700",
+    "sql_id": "104186234",
+    "course_name": "原住民電影",
+    "english_course_name": "Indigenous Cinema",
+    "credits": "3/3",
+    "teacher": [
+        "楊鈞凱"
+    ],
+    "classroom": [
+        "原民院A239",
+        "原民院A239",
+        "原民院A239"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104186234",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104186234",
+    "departments": [
+        {
+            "college": "原住民民族學院::COLLEGE OF INDIGENOUS STUDIES",
+            "department": "民族語言與傳播學系::DEPARTMENT OF INDIGENOUS LANGUAGES AND COMMUNICATION"
+        }
+    ]
+}

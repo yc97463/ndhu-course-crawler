@@ -1,0 +1,37 @@
+{
+    "course_id": "CP__20200",
+    "sql_id": "104187631",
+    "course_name": "神經心理學",
+    "english_course_name": "Neuropsychology",
+    "credits": "3/3",
+    "teacher": [
+        "蔣世光"
+    ],
+    "classroom": [
+        "人社二館D105",
+        "人社二館D105",
+        "人社二館D105"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104187631",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104187631",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "諮商與臨床心理學系::DEPARTMENT OF COUNSELING AND CLINICAL PSYCHOLOGY"
+        }
+    ]
+}

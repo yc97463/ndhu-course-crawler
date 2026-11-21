@@ -1,0 +1,32 @@
+{
+    "course_id": "VAE_5200AG",
+    "sql_id": "104178687",
+    "course_name": "專題研究(三)AG",
+    "english_course_name": "Independent Study (III)",
+    "credits": "2/2",
+    "teacher": [
+        "陳怡方"
+    ],
+    "classroom": [
+        "研究室",
+        "研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "7"
+        },
+        {
+            "day": "二",
+            "period": "8"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=104178687",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=104178687",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "藝術創意產業學系::DEPARTMENT OF ARTS AND CREATIVE INDUSTRIES"
+        }
+    ]
+}
