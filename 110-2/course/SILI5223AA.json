@@ -1,0 +1,37 @@
+{
+    "course_id": "SILI5223AA",
+    "sql_id": "110290466",
+    "course_name": "民間文學與作家文學AA",
+    "english_course_name": "Folk Literature and Writers",
+    "credits": "3/3",
+    "teacher": [
+        "劉秀美"
+    ],
+    "classroom": [
+        "人社一館B305",
+        "人社一館B305",
+        "人社一館B305"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110290466",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110290466",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "華文文學系::DEPARTMENT OF SINOPHONE LITERATURES"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "CLL_4096AB",
+    "sql_id": "110223362",
+    "course_name": "專題製作(二)AB",
+    "english_course_name": "Special Topics（II）",
+    "credits": "1/1",
+    "teacher": [
+        "彭衍綸"
+    ],
+    "classroom": [
+        "人社一館A206"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "3"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110223362",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110223362",
+    "departments": [
+        {
+            "college": "人文社會科學學院::COLLEGE OF HUMANITIES AND SOCIAL SCIENCES",
+            "department": "中國語文學系::DEPARTMENT OF CHINESE LANGUAGE AND LITERATURE"
+        }
+    ]
+}

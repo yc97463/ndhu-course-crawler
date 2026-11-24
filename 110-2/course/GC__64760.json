@@ -1,0 +1,38 @@
+{
+    "course_id": "GC__64760",
+    "sql_id": "110240000",
+    "course_name": "歷史、遊戲設計與APP應用",
+    "english_course_name": "History, Game Design, and APP",
+    "credits": "3/3",
+    "teacher": [
+        "潘宗億",
+        "陳旻秀"
+    ],
+    "classroom": [
+        "理工二館B305",
+        "理工二館B305",
+        "理工二館B305"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "4"
+        },
+        {
+            "day": "三",
+            "period": "5"
+        },
+        {
+            "day": "三",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110240000",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110240000",
+    "departments": [
+        {
+            "college": "通識教育中心::GENERAL EDUCATION CENTER",
+            "department": "通識教育中心學士班::BACHELOR"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_4590AA",
+    "sql_id": "110285569",
+    "course_name": "長號（主修）（8）AA",
+    "english_course_name": "Trombone（Major）（Ⅷ）",
+    "credits": "1/1",
+    "teacher": [
+        "呂彥輝"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110285569",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110285569",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}

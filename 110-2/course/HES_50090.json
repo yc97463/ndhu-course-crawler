@@ -1,0 +1,38 @@
+{
+    "course_id": "HES_50090",
+    "sql_id": "110246825",
+    "course_name": "環境正義",
+    "english_course_name": "Environmental Justice",
+    "credits": "3/3",
+    "teacher": [
+        "包?娜",
+        "謝若蘭"
+    ],
+    "classroom": [
+        "原民院A313",
+        "原民院A313",
+        "原民院A313"
+    ],
+    "class_time": [
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110246825",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110246825",
+    "departments": [
+        {
+            "college": "環境學院::COLLEGE OF ENVIRONMENTAL STUDIES",
+            "department": "人文與環境碩士學位學程::MASTER OF HUMANITY AND ENVIRONMENTAL SCIENCE PROGRAM"
+        }
+    ]
+}

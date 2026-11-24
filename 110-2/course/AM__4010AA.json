@@ -1,0 +1,37 @@
+{
+    "course_id": "AM__4010AA",
+    "sql_id": "110230314",
+    "course_name": "傅氏分析AA",
+    "english_course_name": "Fourier Analysis",
+    "credits": "3/3",
+    "teacher": [
+        "王昆湶"
+    ],
+    "classroom": [
+        "理工一館A316",
+        "理工一館A316",
+        "理工一館A316"
+    ],
+    "class_time": [
+        {
+            "day": "一",
+            "period": "9"
+        },
+        {
+            "day": "一",
+            "period": "10"
+        },
+        {
+            "day": "一",
+            "period": "11"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110230314",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110230314",
+    "departments": [
+        {
+            "college": "理工學院::COLLEGE OF SCIENCE AND ENGINEERING",
+            "department": "應用數學系::DEPARTMENT OF APPLIED MATHEMATICS"
+        }
+    ]
+}

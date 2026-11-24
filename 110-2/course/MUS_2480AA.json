@@ -1,0 +1,27 @@
+{
+    "course_id": "MUS_2480AA",
+    "sql_id": "110210426",
+    "course_name": "長號（主修）（4）AA",
+    "english_course_name": "Trombone（Major）（Ⅳ）",
+    "credits": "1/1",
+    "teacher": [
+        "呂彥輝"
+    ],
+    "classroom": [
+        "教師研究室"
+    ],
+    "class_time": [
+        {
+            "day": "二",
+            "period": "1"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=110210426",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=110210426",
+    "departments": [
+        {
+            "college": "藝術學院::COLLEGE OF THE ARTS",
+            "department": "音樂學系::DEPARTMENT OF MUSIC"
+        }
+    ]
+}
