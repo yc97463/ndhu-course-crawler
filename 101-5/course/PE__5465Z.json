@@ -1,0 +1,67 @@
+{
+    "course_id": "PE__5465Z",
+    "sql_id": "101511643",
+    "course_name": "體適能專題研究",
+    "english_course_name": "Studies in Physical Fitness",
+    "credits": "2/2",
+    "teacher": [
+        "楊昌斌"
+    ],
+    "classroom": [
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1",
+        "教C431-1"
+    ],
+    "class_time": [
+        {
+            "day": "三",
+            "period": "8"
+        },
+        {
+            "day": "三",
+            "period": "9"
+        },
+        {
+            "day": "三",
+            "period": "10"
+        },
+        {
+            "day": "三",
+            "period": "11"
+        },
+        {
+            "day": "四",
+            "period": "3"
+        },
+        {
+            "day": "四",
+            "period": "4"
+        },
+        {
+            "day": "四",
+            "period": "5"
+        },
+        {
+            "day": "四",
+            "period": "6"
+        },
+        {
+            "day": "四",
+            "period": "7"
+        }
+    ],
+    "syllabus_link": "https://sys.ndhu.edu.tw/AA/CLASS/SOutLine/OutLineForm.aspx?rid=101511643",
+    "teaching_plan_link": "https://sys.ndhu.edu.tw/AA/CLASS/TeacherSubj/prt_tplan.aspx?no=101511643",
+    "departments": [
+        {
+            "college": "花師教育學院::HUA-SHIH COLLEGE OF EDUCATION",
+            "department": "體育與運動科學系::DEPARTMENT OF PHYSICAL EDUCATION AND KINESIOLOGY"
+        }
+    ]
+}
